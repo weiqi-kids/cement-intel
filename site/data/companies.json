@@ -7,7 +7,7 @@
       "position": "upstream",
       "role": "骨料",
       "x": 0.05,
-      "y": 0.34
+      "y": 0.04
     },
     {
       "id": "martin_marietta",
@@ -15,8 +15,8 @@
       "short_name": "Martin Marietta",
       "position": "upstream",
       "role": "骨料",
-      "x": 0.114,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.04
     },
     {
       "id": "eagle_materials",
@@ -24,8 +24,8 @@
       "short_name": "Eagle Materials",
       "position": "upstream",
       "role": "水泥+石膏",
-      "x": 0.179,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.17
     },
     {
       "id": "thyssenkrupp",
@@ -34,7 +34,7 @@
       "position": "upstream",
       "role": "設備",
       "x": 0.5,
-      "y": 0.04
+      "y": 0.3
     },
     {
       "id": "holcim",
@@ -42,8 +42,8 @@
       "short_name": "Holcim",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.243,
-      "y": 0.34
+      "x": 0.05,
+      "y": 0.5
     },
     {
       "id": "crh",
@@ -51,8 +51,8 @@
       "short_name": "CRH plc",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.307,
-      "y": 0.34
+      "x": 0.14,
+      "y": 0.5
     },
     {
       "id": "cemex",
@@ -60,8 +60,8 @@
       "short_name": "CEMEX",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.371,
-      "y": 0.34
+      "x": 0.23,
+      "y": 0.5
     },
     {
       "id": "heidelberg",
@@ -69,8 +69,8 @@
       "short_name": "海德堡材料",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.436,
-      "y": 0.34
+      "x": 0.32,
+      "y": 0.5
     },
     {
       "id": "taiwan_cement",
@@ -78,8 +78,8 @@
       "short_name": "台泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.5,
-      "y": 0.34
+      "x": 0.41,
+      "y": 0.5
     },
     {
       "id": "asia_cement",
@@ -87,8 +87,8 @@
       "short_name": "亞泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.564,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.5
     },
     {
       "id": "anhui_conch",
@@ -96,8 +96,8 @@
       "short_name": "海螺水泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.629,
-      "y": 0.34
+      "x": 0.59,
+      "y": 0.5
     },
     {
       "id": "ultratech",
@@ -105,8 +105,8 @@
       "short_name": "UltraTech",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.693,
-      "y": 0.34
+      "x": 0.68,
+      "y": 0.5
     },
     {
       "id": "taiheiyo",
@@ -114,8 +114,8 @@
       "short_name": "太平洋水泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.757,
-      "y": 0.34
+      "x": 0.77,
+      "y": 0.5
     },
     {
       "id": "siam_cement",
@@ -123,8 +123,8 @@
       "short_name": "Siam Cement",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.821,
-      "y": 0.34
+      "x": 0.86,
+      "y": 0.5
     },
     {
       "id": "cnbm",
@@ -132,8 +132,8 @@
       "short_name": "中國建材",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.886,
-      "y": 0.34
+      "x": 0.95,
+      "y": 0.5
     },
     {
       "id": "asia_cement_china",
@@ -141,8 +141,8 @@
       "short_name": "亞泥中國",
       "position": "downstream",
       "role": "水泥銷售",
-      "x": 0.95,
-      "y": 0.34
+      "x": 0.5,
+      "y": 0.83
     }
   ],
   "links": [
