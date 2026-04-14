@@ -1,92 +1,92 @@
 {
   "vulcan": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 123
   },
   "martin_marietta": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 123
   },
   "eagle_materials": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 123
   },
   "thyssenkrupp": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 63
+    "count": 122
   },
   "holcim": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 63
+    "count": 121
   },
   "crh": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 123
   },
   "cemex": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 123
   },
   "heidelberg": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 63
+    "count": 122
   },
   "taiwan_cement": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 55
+    "count": 116
   },
   "asia_cement": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 55
+    "count": 116
   },
   "anhui_conch": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 58
+    "count": 120
   },
   "ultratech": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-13",
-    "count": 59
+    "count": 120
   },
   "taiheiyo": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 120
   },
   "siam_cement": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-10",
-    "count": 61
+    "count": 119
   },
   "cnbm": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 59
+    "count": 119
   },
   "asia_cement_china": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 59
+    "count": 119
   },
   "etf_igf": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 123
   },
   "etf_pkb": {
-    "earliest": "2026-01-14",
-    "latest": "2026-04-13",
-    "count": 61
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 123
   }
 }

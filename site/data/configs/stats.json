@@ -1,0 +1,96 @@
+{
+  "company_count": 16,
+  "topic_count": 10,
+  "alias_count": 125,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "vulcan",
+      "short_name": "Vulcan Materials",
+      "tier": ""
+    },
+    {
+      "id": "martin_marietta",
+      "short_name": "Martin Marietta",
+      "tier": ""
+    },
+    {
+      "id": "eagle_materials",
+      "short_name": "Eagle Materials",
+      "tier": ""
+    },
+    {
+      "id": "thyssenkrupp",
+      "short_name": "thyssenkrupp",
+      "tier": ""
+    },
+    {
+      "id": "holcim",
+      "short_name": "Holcim",
+      "tier": ""
+    },
+    {
+      "id": "crh",
+      "short_name": "CRH plc",
+      "tier": ""
+    },
+    {
+      "id": "cemex",
+      "short_name": "CEMEX",
+      "tier": ""
+    },
+    {
+      "id": "heidelberg",
+      "short_name": "Heidelberg Materials",
+      "tier": ""
+    },
+    {
+      "id": "taiwan_cement",
+      "short_name": "Taiwan Cement",
+      "tier": ""
+    },
+    {
+      "id": "asia_cement",
+      "short_name": "Asia Cement",
+      "tier": ""
+    },
+    {
+      "id": "anhui_conch",
+      "short_name": "Anhui Conch",
+      "tier": ""
+    },
+    {
+      "id": "ultratech",
+      "short_name": "UltraTech",
+      "tier": ""
+    },
+    {
+      "id": "taiheiyo",
+      "short_name": "Taiheiyo Cement",
+      "tier": ""
+    },
+    {
+      "id": "siam_cement",
+      "short_name": "Siam Cement",
+      "tier": ""
+    },
+    {
+      "id": "cnbm",
+      "short_name": "CNBM",
+      "tier": ""
+    },
+    {
+      "id": "asia_cement_china",
+      "short_name": "Asia Cement China",
+      "tier": ""
+    }
+  ]
+}

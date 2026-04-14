@@ -1,0 +1,62 @@
+[
+  {
+    "id": "unknown-2026-04-12-005",
+    "date": "2026-04-12",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
+    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-001",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "positive",
+    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
+    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-22-002",
+    "date": "2026-03-22",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
+    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-18-003",
+    "date": "2026-03-18",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
+    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-02-004",
+    "date": "2026-02-02",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "negative",
+    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
+    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
+    "sources": []
+  }
+]
