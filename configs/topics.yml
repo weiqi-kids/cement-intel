@@ -1,0 +1,171 @@
+# 水泥供應鏈 - 主題清單
+
+topics:
+  cement_pricing:
+    display: 水泥價格
+    keywords:
+    - cement price
+    - 水泥價格
+    - 水泥報價
+    - cement pricing
+    - clinker price
+    - 熟料價格
+    - concrete price
+    - 混凝土價格
+    - cement contract price
+    - cement spot price
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - 調漲
+      - price hike
+      - price increase
+      negative:
+      - 下跌
+      - 跌價
+      - 降價
+      - price cut
+      - price decline
+  infrastructure_spending:
+    display: 基建支出
+    keywords:
+    - infrastructure
+    - 基礎建設
+    - 基建
+    - infrastructure spending
+    - 基建投資
+    - public works
+    - 公共工程
+    - government spending
+    - 政府支出
+    - highway
+    - 公路
+    - bridge
+    - 橋梁
+    - rail
+    - 鐵路
+    - infrastructure bill
+    - 基建法案
+  carbon_emissions:
+    display: 碳排放
+    keywords:
+    - carbon
+    - 碳排
+    - CO2
+    - emission
+    - 排放
+    - carbon capture
+    - 碳捕捉
+    - carbon neutral
+    - 碳中和
+    - green cement
+    - 綠色水泥
+    - decarbonization
+    - 脫碳
+    - carbon tax
+    - 碳稅
+    - CCUS
+    - CCS
+    - net zero
+    - 淨零
+  capacity_consolidation:
+    display: 產能整合
+    keywords:
+    - consolidation
+    - 整合
+    - merger
+    - 併購
+    - acquisition
+    - 收購
+    - M&A
+    - capacity reduction
+    - 減產
+    - capacity shutdown
+    - 關停
+    - 淘汰產能
+    - overcapacity
+    - 產能過剩
+    - capacity swap
+    - 產能置換
+  raw_material_energy_cost:
+    display: 原料能源成本
+    keywords:
+    - coal price
+    - 煤炭價格
+    - energy cost
+    - 能源成本
+    - electricity
+    - 電力
+    - fuel cost
+    - 燃料成本
+    - limestone
+    - 石灰石
+    - clinker
+    - 熟料
+    - raw material
+    - 原材料
+    - gypsum
+    - 石膏
+    - slag
+    - 礦渣
+    - fly ash
+    - 飛灰
+  capacity:
+    display: 產能
+    keywords:
+    - 產能
+    - capacity
+    - 擴產
+    - expansion
+    - 產能利用率
+    - utilization
+    - production line
+    - 產線
+    - new kiln
+    - 新窯
+    - cement plant
+    - 水泥廠
+  earnings:
+    display: 財報
+    keywords:
+    - 財報
+    - earnings
+    - quarterly results
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+    - 營收
+    - revenue
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin
+  guidance:
+    display: 展望
+    keywords:
+    - 展望
+    - guidance
+    - outlook
+    - forecast
+    - 預測
+    - 下季預估
+  capex:
+    display: 資本支出
+    keywords:
+    - capex
+    - capital expenditure
+    - 資本支出
+    - 投資
+    - 建廠
+    - 設備投資
+  inventory:
+    display: 庫存
+    keywords:
+    - 庫存
+    - inventory
+    - stock
+    - 去化
+    - destocking
+    - 庫存調整

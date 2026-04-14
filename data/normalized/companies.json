@@ -1,0 +1,283 @@
+{
+  "companies": [
+    {
+      "id": "vulcan",
+      "name": "Vulcan Materials",
+      "short_name": "Vulcan Materials",
+      "position": "upstream",
+      "role": "骨料",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "martin_marietta",
+      "name": "Martin Marietta",
+      "short_name": "Martin Marietta",
+      "position": "upstream",
+      "role": "骨料",
+      "x": 0.114,
+      "y": 0.34
+    },
+    {
+      "id": "eagle_materials",
+      "name": "Eagle Materials",
+      "short_name": "Eagle Materials",
+      "position": "upstream",
+      "role": "水泥+石膏",
+      "x": 0.179,
+      "y": 0.34
+    },
+    {
+      "id": "thyssenkrupp",
+      "name": "thyssenkrupp",
+      "short_name": "蒂森克虜伯",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.5,
+      "y": 0.04
+    },
+    {
+      "id": "holcim",
+      "name": "Holcim",
+      "short_name": "Holcim",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.243,
+      "y": 0.34
+    },
+    {
+      "id": "crh",
+      "name": "CRH plc",
+      "short_name": "CRH plc",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.307,
+      "y": 0.34
+    },
+    {
+      "id": "cemex",
+      "name": "CEMEX",
+      "short_name": "CEMEX",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.371,
+      "y": 0.34
+    },
+    {
+      "id": "heidelberg",
+      "name": "Heidelberg Materials",
+      "short_name": "海德堡材料",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.436,
+      "y": 0.34
+    },
+    {
+      "id": "taiwan_cement",
+      "name": "Taiwan Cement",
+      "short_name": "台泥",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "asia_cement",
+      "name": "Asia Cement",
+      "short_name": "亞泥",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.564,
+      "y": 0.34
+    },
+    {
+      "id": "anhui_conch",
+      "name": "Anhui Conch",
+      "short_name": "海螺水泥",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.629,
+      "y": 0.34
+    },
+    {
+      "id": "ultratech",
+      "name": "UltraTech",
+      "short_name": "UltraTech",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.693,
+      "y": 0.34
+    },
+    {
+      "id": "taiheiyo",
+      "name": "Taiheiyo Cement",
+      "short_name": "太平洋水泥",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.757,
+      "y": 0.34
+    },
+    {
+      "id": "siam_cement",
+      "name": "Siam Cement",
+      "short_name": "Siam Cement",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.821,
+      "y": 0.34
+    },
+    {
+      "id": "cnbm",
+      "name": "CNBM",
+      "short_name": "中國建材",
+      "position": "midstream",
+      "role": "水泥製造",
+      "x": 0.886,
+      "y": 0.34
+    },
+    {
+      "id": "asia_cement_china",
+      "name": "Asia Cement China",
+      "short_name": "亞泥中國",
+      "position": "downstream",
+      "role": "水泥銷售",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "vulcan",
+      "target": "holcim",
+      "strength": 2
+    },
+    {
+      "source": "vulcan",
+      "target": "crh",
+      "strength": 2
+    },
+    {
+      "source": "vulcan",
+      "target": "cemex",
+      "strength": 2
+    },
+    {
+      "source": "vulcan",
+      "target": "heidelberg",
+      "strength": 2
+    },
+    {
+      "source": "vulcan",
+      "target": "eagle_materials",
+      "strength": 2
+    },
+    {
+      "source": "martin_marietta",
+      "target": "holcim",
+      "strength": 2
+    },
+    {
+      "source": "martin_marietta",
+      "target": "crh",
+      "strength": 2
+    },
+    {
+      "source": "martin_marietta",
+      "target": "cemex",
+      "strength": 2
+    },
+    {
+      "source": "martin_marietta",
+      "target": "heidelberg",
+      "strength": 2
+    },
+    {
+      "source": "eagle_materials",
+      "target": "holcim",
+      "strength": 2
+    },
+    {
+      "source": "eagle_materials",
+      "target": "crh",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "holcim",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "cemex",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "heidelberg",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "taiwan_cement",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "asia_cement",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "anhui_conch",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "ultratech",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "taiheiyo",
+      "strength": 2
+    },
+    {
+      "source": "thyssenkrupp",
+      "target": "cnbm",
+      "strength": 2
+    },
+    {
+      "source": "holcim",
+      "target": "asia_cement_china",
+      "strength": 2
+    },
+    {
+      "source": "taiwan_cement",
+      "target": "asia_cement_china",
+      "strength": 2
+    },
+    {
+      "source": "asia_cement",
+      "target": "asia_cement_china",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_igf",
+      "name": "iShares Global Infrastructure ETF",
+      "ticker": "IGF",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "全球基礎建設 ETF，涵蓋水泥相關"
+    },
+    {
+      "id": "etf_pkb",
+      "name": "Invesco Dynamic Building & Construction ETF",
+      "ticker": "PKB",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "建築營造 ETF，涵蓋水泥與建材"
+    }
+  ]
+}

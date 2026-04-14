@@ -1,0 +1,19 @@
+# 水泥供應鏈 - 網站設定
+
+site:
+  title: 水泥供應鏈情報
+  subtitle: Cement Supply Chain Intelligence
+  description: 追蹤全球水泥產業供應鏈動態
+pages:
+  index: 情報總覽
+  how_it_works: 運作流程
+github:
+  cname: cement.intel.weiqi.kids
+  repo: weiqi-kids/cement-intel
+sponsor:
+  enabled: true
+  url: https://ko-fi.com/lightchang
+  text: 贊助
+feedback:
+  enabled: true
+  api_url: https://feedback-api.lightman-chang.workers.dev/submit
