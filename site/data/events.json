@@ -1,5 +1,101 @@
 [
   {
+    "id": "unknown-2026-04-14-010",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "French court convicts Lafarge executives over Syria plant payments",
+    "summary": " A Paris court has convicted former Lafarge executives over payments made to armed groups to maintain operations at its Jalabiya cement plant in northern Syr...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-011",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Oman Cement reports 1Q26 profit of OMR3.5m",
+    "summary": "  Oman Cement Co  reported a net profit after tax of OMR3.5m (US$9.1m) for the first quarter of 2026. \n The company recorded total revenues of OMR18.3m for ...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-012",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "MAECONOMY raises EUR1.5m to turn construction materials into auditable circular assets",
+    "summary": "Dutch start-up MAECONOMY has raised EUR1.5m to accelerate its market infrastructure development for the circular built environment. The company transforms co...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-015",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Iran war impacts on oil prices spiked construction stress, increased abandonments",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/YFyqYbMWrkzPI7KXxwUu03Qx9wT8YvIujMQY99vpbJ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwNjM3MTQ2LmpwZw==",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-013",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Adani to invest INR21bn in Odisha cement plant",
+    "summary": " India’s  Adani Group  has announced plans to establish a new cement manufacturing unit in Odisha, as part of a broader multi-sector investment programme in ...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-014",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "CalPortland announces temporary layoffs at Redding cement plant",
+    "summary": "   CalPortland  has announced a temporary workforce reduction at its facility north of  Redding  in the Mountaingate community, resulting in the layoff of 53...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-016",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Renovation backlog for college facilities hits new highs",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Q3NhQAqYIp_FK735Rht2ZbdfDE1IdRLU8jOo_B2VjNs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MDIxMjk2LmpwZw==",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-13-017",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Construction’s economic outlook is increasingly cloudy",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ThZR8muDiidMAObm08Lk2xCKwfCi58i52x7OFUu5ZLw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQyMjkyNjQ5LmpwZw==",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-12-005",
     "date": "2026-04-12",
     "companies": [],
@@ -12,6 +108,20 @@
     "sources": []
   },
   {
+    "id": "crh-2026-04-08-001",
+    "date": "2026-04-08",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Announcing Our 2025 Sustainability Performance Report",
+    "summary": "<p>A look at our operational excellence and progress Every day across CRH, we solve real‑world customer challenges &#8211; building stronger, more durable roads and resilient infrastructure that futur",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-03-001",
     "date": "2026-04-03",
     "companies": [],
@@ -21,6 +131,71 @@
     "impact": "positive",
     "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
     "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-04-02-002",
+    "date": "2026-04-02",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Americans Call for Better Roads & Bridges",
+    "summary": "<p>The post <a href=\"https://www.crh.com/news-and-insights/americans-call-for-better-roads-bridges/\">Americans Call for Better Roads &#038; Bridges</a> appeared first on <a href=\"https://www.crh.com\">",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-01-019",
+    "date": "2026-04-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World Ready-Mix Concrete - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkJ3SWdUTkZJTVpmMU1DdFdmN2tsSndQbXlIdEo5dXp3V1pNOHV3R1RBM2pEWUZMMlpKYTRhYm9SUnprZ2Q3a05ZX3BsNmtEX3lweTRoeVEzOVRQVWJvZlk2VnRBVU5WcTFBbnZUUF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-31-018",
+    "date": "2026-03-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What's the Link Between Meta, AI & the US Concrete Industry? - Construction Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPU29kQXplVmpDaUtnT2Vfc3hvX0FQQVlLbVM5N1o3QzJIQjB0VU13MU9CSkVQLU1ocXFILXNkd1I5X3g2ZkRVaDJ2ZF82Wm45Y0Nvd3VRTGlkYnZqTkpiY2FOcGdKQ3U0SVBJai1RMG",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-03-24-003",
+    "date": "2026-03-24",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "negative",
+    "title": "Innovating Toward Water-Resilient Communities",
+    "summary": "<p>Water is essential to life, to thriving communities and to resilient economies. Yet aging infrastructure, population growth and increasing demands are putting unprecedented pressure on how water is",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-23-020",
+    "date": "2026-03-23",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Ready-Mix Concrete Market Size, Share | Industry Outlook, 2034 - Fortune Business Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5fLTJOd2JFdEJZSWhEblRRMGx0TTVsM1I2N05laGdTQVNmSGlFbE5LT0RYT29welhBVjhmNTNHdDNWM3hxTmNaOHpyazlYWHBYWXJuMXJOc0FYd0xqMC1VOUdZbVBpN1R2MlZIRF9hc1",
     "sources": []
   },
   {
@@ -48,6 +223,128 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-03-18-021",
+    "date": "2026-03-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cocoon Secures $15M Series A to Fix A Critical Supply-Demand Gap in the Concrete Industry - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaXU5RUN2cFVicks0eGp0TklqTWdsb3ZkZVFnNU52RXNNTThkWkhKLXRNcjU5ZEc4Q2dPbVU4ZXdteHdsb0NpeGxPd1hmVlVUZExyRm9BaDg5YU5qbUlNdFA3eGtoOWVPTGVVT3Zqa2",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-03-13-004",
+    "date": "2026-03-13",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "CRH Announces Intention to Delist from the LSE and Cancel Preference Shares",
+    "summary": "<p>This document contains inside information NEW YORK – Mar. 13, 2026 – CRH (NYSE: CRH), the leading provider of building materials, today announces its intention to delist from the London Stock Excha",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-03-06-005",
+    "date": "2026-03-06",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "CRH CEO Jim Mintern speaks to Bloomberg about 2025 results",
+    "summary": "<p>Jim discussed how our teams delivered another record performance last year, along with the outlook for CRH in the year ahead. Watch the full interview below.</p>\n<p>The post <a href=\"https://www.cr",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-05-026",
+    "date": "2026-03-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Book and Claim for Cement and Concrete - RMI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBGWTBxOWVWZHFTbjU2WU5FeUpXUHpMZkMwS3gyVDhkZXBSSEY5ZnYzNDQ1dkk3WVNiWHNyRUZUVHFrVWIwNGtBcHNsVWxMUXNpU1ltLUFVRnZIYmJJX2FpSms3WVlZa2YteDhHVVczcj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-03-024",
+    "date": "2026-03-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "6 Best Cement Stocks to Buy in 2026 - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHo5WERQOTRBZlJUT3JZTEY1eGNqQzBqS1U4cDNZYmRNX3A0N19yZWk2YjNEWTJrX2pqMy11MmMzY2ZhVm02UzVWNHVjVlhzb1hqd2xTTEwxWm1JQUgyVFIxeEY3ZVJqeTZZT0Q3a2",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-02-24-006",
+    "date": "2026-02-24",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Proud to Sponsor The Great American Road Trip",
+    "summary": "<p>From highways to driveways, our work enables the journeys that shape daily life across America.</p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/proud-to-sponsor-the-great-american-ro",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-02-18-007",
+    "date": "2026-02-18",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CRH Reports Q4 and FY 2025 Results",
+    "summary": "<p>Strong Q4 and FY 2025; continued year‑over‑year growth in Net income (FY 25: +8%) and Adjusted EBITDA* (FY 25: +11%) Record financial performance backed by our Growth Algorithm and the CRH Winning ",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-02-11-008",
+    "date": "2026-02-11",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "The Real Foundation of Data Centers",
+    "summary": "<p>America is in the early stages of the largest infrastructure buildout since the Interstate Highway System. </p>\n<p>The post <a href=\"https://www.crh.com/news-and-insights/the-real-foundation-of-dat",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-02-05-009",
+    "date": "2026-02-05",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CRH Announces Date for Q4 and Full Year 2025 Results Conference Call",
+    "summary": "<p>NEW YORK – Feb. 5, 2026 – CRH (NYSE: CRH), the leading provider of building materials, will publish its fourth quarter and full year 2025 financial results after market close on Wednesday, Feb. 18,",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-02-02-004",
     "date": "2026-02-02",
     "companies": [],
@@ -57,6 +354,107 @@
     "impact": "negative",
     "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
     "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-26-023",
+    "date": "2026-01-26",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Laying the Foundation for Low-Emission Cement and Concrete - Environmental and Energy Study Institute (EESI)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGc4UmlUbHBqOHV6cWtXcHdZNnF0X0NzUGliZHM1ZTA4MkNOM09pQ1R5bTJwZGowV19lR2pSNlJ2YWdXYWpRa0dqaHkzV2xjaXV5bmE3N0w0TGhXazZJSmF0Tk45RXpPMGtJaE8yOF",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-01-21-022",
+    "date": "2026-01-21",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Concrete reimagined: how Heidelberg Materials pushes industry towards cleaner production - DB.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSVhQTG9IZlc2ZE1FNEItNmp0TDFaODV5Vjc3WjdfU2RFNFZrS05DUDJZMnFpcjVPZEhQS0JBVklWYzkzVjQ3TzFWRDJQNzZ3QkIzZ0x2bHFQa3g3MGNHVVpXdkZkdDJOMzV5UkVhTl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-19-029",
+    "date": "2025-11-19",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Will The CarbonStrong Formula Decarbonise India’s Concrete Industry? - Inc42",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUhvOHFsQmxzS3dTM0V3UnNFSkIyTG9CRHdKdXM4XzVKeFNCLXpJVkc1cnplc1V4dDR5dHpwOU1yNm4tOTFINENod2E3djRSY1VMUGVTMnFvV2hzMVF3THBseVZNNzJaOE91aG9Zam",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-18-027",
+    "date": "2025-11-18",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Global cement industry reports 25% CO2 intensity reduction - Agg-Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjlJU2dqUUN1bXJWNnltT2pDLWVfdlpsWnBzbVp6VERPRmdickFINUMzM1NFX20ySko1c21raXZqd2RmSVp0cjllUXZTMkhOdXBCdE5YYXBTSm5ORDFndHd6aGFPU1dVR1Z5dkx3RH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-17-028",
+    "date": "2025-11-17",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intensity Reduction and Calls for Urgent Government Action to Accelerate Net Zero Mission - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNOUVqUUloMmxzUERPTUk4bmo4UmM5QmhLd1dfWlZMa3pZSWJkalRXdGtNYkpnY01Dc2owN2t5WHUtTzJJeGFEUVlWU0hvSWp4ZUN3Zk5xMmpnZng0RnM2TU85ZEY2NV9BRWV6YUFaQV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-06-025",
+    "date": "2025-11-06",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "negative",
+    "title": "\"We stand behind it\": Cement industry pushes back amid concerns about cracking on Indiana roads and bridges - WRTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMG84Rnl4OHFPZTlBc01LdkFER3VNS2VxdXFpc0poNDdUVkRBeUNFa3ZlUUlvYmJiblA4YXJzdDQ5OHpQNjRvZF8zY2NZbWI1cGcxLUNHcVlVV0N0WEhpbTlmNHlMN19NYkpfeXRHbG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-09-12-031",
+    "date": "2025-09-12",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "The Opportunity for Green Cement and Concrete in Africa - RMI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBaS1U1WkxFamY5MFFfazBfWHhjZkx2MGJ4SklOalpzSEV2ZUhpRkZqSjFaS0FvYXNXNnNNR2JlNllxbUt5VnBzS0QwdS1MSkh0UHh6ZkpiQXdGSXZYVDFzSW12M0hTU3MzRktnUk1Ud0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-09-10-030",
+    "date": "2025-09-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A value-chain approach to decarbonizing cement and concrete - The World Economic Forum",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVYtUmJaQXZQNEhSUmFxajQyS0FuMWc4VGVvSHo0ZmtjYUhlcWFKd3luOGRpUGFSY0pTQWxRZjNvdG9VclJ4MjZZYmVJZXBPSVF3ZDRZLVhLdnl4YnpmNzFwWEljMEdxZndYUmJSSH",
     "sources": []
   }
 ]
