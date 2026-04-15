@@ -1,15 +1,56 @@
 {
   "date": "2026-04-15",
-  "total_events": 2,
-  "by_company": {},
+  "total_events": 15,
+  "by_company": {
+    "thyssenkrupp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "carbon_emissions": {
       "count": 1,
       "sentiment_avg": 0.0
     },
     "earnings": {
+      "count": 11,
+      "sentiment_avg": -0.09
+    },
+    "capacity": {
       "count": 1,
-      "sentiment_avg": -1.0
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "baselines_used": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:20:18.485753+00:00",
+  "updated_at": "2026-04-15T12:02:40.736803+00:00",
   "companies": {
     "vulcan": {
       "name": "Vulcan Materials",
@@ -211,7 +211,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 2939,
           "pct_held": 0.0,
-          "value": 25686
+          "value": 25551
         }
       ]
     },
@@ -358,19 +358,19 @@
           "holder": "Scopus Asset Management, LP",
           "shares": 127878,
           "pct_held": 0.07,
-          "value": 24367153
+          "value": 24284031
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 191,
           "pct_held": 0.0,
-          "value": 36395
+          "value": 36270
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 622,
           "pct_held": 0.0,
-          "value": 118522
+          "value": 118117
         }
       ]
     },
