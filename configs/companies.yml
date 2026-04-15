@@ -9,6 +9,7 @@ companies:
   role: 骨料
   description: Aggregates supplier for construction
   ir_url: https://ir.vulcanmaterials.com/
+  rss_url: https://news.google.com/rss/search?q="Vulcan+Materials"&hl=en&gl=US&ceid=US:en
   downstream:
   - holcim
   - crh
@@ -56,6 +57,7 @@ companies:
   role: 設備
   description: Cement plant equipment and engineering
   ir_url: https://www.thyssenkrupp.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="thyssenkrupp"&hl=en&gl=US&ceid=US:en
   downstream:
   - holcim
   - cemex
@@ -76,6 +78,7 @@ companies:
   role: 水泥製造
   description: 全球最大水泥製造商
   ir_url: https://www.holcim.com/investors
+  rss_url: https://news.google.com/rss/search?q="Holcim"+cement&hl=en&gl=US&ceid=US:en
   upstream:
   - vulcan
   - martin_marietta
@@ -109,6 +112,7 @@ companies:
   role: 水泥製造
   description: 墨西哥水泥龍頭
   ir_url: https://www.cemex.com/investors
+  rss_url: https://news.google.com/rss/search?q="CEMEX"+cement&hl=en&gl=US&ceid=US:en
   upstream:
   - vulcan
   - martin_marietta
@@ -125,6 +129,7 @@ companies:
   role: 水泥製造
   description: 德國水泥龍頭
   ir_url: https://www.heidelbergmaterials.com/en/investors
+  rss_url: https://news.google.com/rss/search?q="Heidelberg+Materials"&hl=en&gl=US&ceid=US:en
   upstream:
   - vulcan
   - martin_marietta
@@ -141,6 +146,7 @@ companies:
   role: 水泥製造
   description: 台灣最大水泥製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Taiwan+Cement"&hl=en&gl=US&ceid=US:en
   upstream:
   - thyssenkrupp
   downstream:
@@ -156,6 +162,7 @@ companies:
   role: 水泥製造
   description: 台灣第二大水泥製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Asia+Cement"&hl=en&gl=US&ceid=US:en
   upstream:
   - thyssenkrupp
   downstream:
@@ -171,6 +178,7 @@ companies:
   role: 水泥製造
   description: 中國最大水泥製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Anhui+Conch"&hl=en&gl=US&ceid=US:en
   upstream:
   - thyssenkrupp
   downstream: []
@@ -184,6 +192,7 @@ companies:
   role: 水泥製造
   description: 印度最大水泥製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="UltraTech"+cement&hl=en&gl=US&ceid=US:en
   upstream:
   - thyssenkrupp
   downstream: []
@@ -198,6 +207,7 @@ companies:
   role: 水泥製造
   description: 日本最大水泥製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Taiheiyo+Cement"&hl=en&gl=US&ceid=US:en
   upstream:
   - thyssenkrupp
   downstream: []
@@ -211,6 +221,7 @@ companies:
   role: 水泥製造
   description: 泰國最大水泥集團
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Siam+Cement"+cement&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
 - id: cnbm
@@ -224,6 +235,7 @@ companies:
   role: 水泥製造
   description: 中國最大建材集團
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="CNBM"+cement&hl=en&gl=US&ceid=US:en
   upstream:
   - thyssenkrupp
   downstream: []
@@ -238,6 +250,7 @@ companies:
   role: 水泥銷售
   description: 亞泥中國區子公司
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Asia+Cement+China"&hl=en&gl=US&ceid=US:en
   upstream:
   - taiwan_cement
   - asia_cement
