@@ -1,0 +1,39 @@
+# Cement industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: martin_marietta_ir
+  name: Martin Marietta Investor News
+  url: https://ir.martinmarietta.com/rss/news-releases.xml
+  description: Martin Marietta Materials investor news releases (aggregates)
+
+- id: eagle_materials_ir
+  name: Eagle Materials Investor News
+  url: https://ir.eaglematerials.com/rss/news-releases.xml
+  description: Eagle Materials investor news releases (cement and gypsum)
+
+- id: crh_news
+  name: CRH Corporate News
+  url: https://www.crh.com/feed/
+  description: CRH plc corporate news (global building materials leader)
+
+# --- Industry media feeds ---
+- id: cemnet
+  name: CemNet / International Cement Review
+  url: https://www.cemnet.com/news/rss
+  description: Daily cement industry news from International Cement Review
+
+- id: global_cement
+  name: Global Cement
+  url: https://www.globalcement.com/news?format=feed&type=rss
+  description: Cement industry news, events, and research
+
+- id: construction_dive
+  name: Construction Dive
+  url: https://www.constructiondive.com/feeds/news/
+  description: Construction industry news and trends
+
+# --- Google News topic feeds ---
+- id: google_cement_industry
+  name: Google News - Cement Industry
+  url: https://news.google.com/rss/search?q=cement+concrete+industry&hl=en-US&gl=US&ceid=US:en
+  description: Google News aggregation for cement and concrete industry
