@@ -6,8 +6,8 @@
       "short_name": "Vulcan Materials",
       "position": "upstream",
       "role": "骨料",
-      "x": 0.05,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.17
     },
     {
       "id": "martin_marietta",
@@ -15,8 +15,8 @@
       "short_name": "Martin Marietta",
       "position": "upstream",
       "role": "骨料",
-      "x": 0.95,
-      "y": 0.04
+      "x": 0.36,
+      "y": 0.17
     },
     {
       "id": "eagle_materials",
@@ -24,7 +24,7 @@
       "short_name": "Eagle Materials",
       "position": "upstream",
       "role": "水泥+石膏",
-      "x": 0.5,
+      "x": 0.64,
       "y": 0.17
     },
     {
@@ -33,8 +33,8 @@
       "short_name": "蒂森克虜伯",
       "position": "upstream",
       "role": "設備",
-      "x": 0.5,
-      "y": 0.3
+      "x": 0.92,
+      "y": 0.17
     },
     {
       "id": "holcim",
@@ -42,8 +42,8 @@
       "short_name": "Holcim",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.05,
-      "y": 0.5
+      "x": 0.08,
+      "y": 0.36
     },
     {
       "id": "crh",
@@ -51,8 +51,8 @@
       "short_name": "CRH plc",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.14,
-      "y": 0.5
+      "x": 0.248,
+      "y": 0.36
     },
     {
       "id": "cemex",
@@ -60,8 +60,8 @@
       "short_name": "CEMEX",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.23,
-      "y": 0.5
+      "x": 0.416,
+      "y": 0.36
     },
     {
       "id": "heidelberg",
@@ -69,8 +69,8 @@
       "short_name": "海德堡材料",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.32,
-      "y": 0.5
+      "x": 0.584,
+      "y": 0.36
     },
     {
       "id": "taiwan_cement",
@@ -78,8 +78,8 @@
       "short_name": "台泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.41,
-      "y": 0.5
+      "x": 0.752,
+      "y": 0.36
     },
     {
       "id": "asia_cement",
@@ -87,8 +87,8 @@
       "short_name": "亞泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.5,
-      "y": 0.5
+      "x": 0.92,
+      "y": 0.36
     },
     {
       "id": "anhui_conch",
@@ -96,8 +96,8 @@
       "short_name": "海螺水泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.59,
-      "y": 0.5
+      "x": 0.08,
+      "y": 0.64
     },
     {
       "id": "ultratech",
@@ -105,8 +105,8 @@
       "short_name": "UltraTech",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.68,
-      "y": 0.5
+      "x": 0.29,
+      "y": 0.64
     },
     {
       "id": "taiheiyo",
@@ -114,8 +114,8 @@
       "short_name": "太平洋水泥",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.77,
-      "y": 0.5
+      "x": 0.5,
+      "y": 0.64
     },
     {
       "id": "siam_cement",
@@ -123,8 +123,8 @@
       "short_name": "Siam Cement",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.86,
-      "y": 0.5
+      "x": 0.71,
+      "y": 0.64
     },
     {
       "id": "cnbm",
@@ -132,8 +132,8 @@
       "short_name": "中國建材",
       "position": "midstream",
       "role": "水泥製造",
-      "x": 0.95,
-      "y": 0.5
+      "x": 0.92,
+      "y": 0.64
     },
     {
       "id": "asia_cement_china",
@@ -264,20 +264,14 @@
   ],
   "etfs": [
     {
-      "id": "etf_igf",
+      "id": "igf",
       "name": "iShares Global Infrastructure ETF",
-      "ticker": "IGF",
-      "market": "NASDAQ",
-      "currency": "USD",
-      "description": "全球基礎建設 ETF，涵蓋水泥相關"
+      "ticker": "IGF"
     },
     {
-      "id": "etf_pkb",
+      "id": "pkb",
       "name": "Invesco Dynamic Building & Construction ETF",
-      "ticker": "PKB",
-      "market": "NYSE",
-      "currency": "USD",
-      "description": "建築營造 ETF，涵蓋水泥與建材"
+      "ticker": "PKB"
     }
   ]
 }
