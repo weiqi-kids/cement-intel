@@ -1,5 +1,266 @@
 [
   {
+    "id": "thyssenkrupp-2026-04-20-002",
+    "date": "2026-04-20",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Uhde awarded plant expansion contract by Brunei Fertilizer Industries - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdVVvcHI4RUdlSXNvdDJmRHRuU1VvWWR0QmF5d2J4MExQRzRmVjU2V3lHMFRwTTdPY2JvOExKejIxSEZuUUUxc3pBLVlRMDZKcDJnTWk1T2o0SGEwRnR6Rk12Z3FUV2RpSGt1a2dqVF",
+    "sources": []
+  },
+  {
+    "id": "holcim-2026-04-20-004",
+    "date": "2026-04-20",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): Is its North American focus strong enough to unlock new upside? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUzNpUVczenppWGVtQTlnemVzUm5hMnZJeEZuQnBNT1lKbVN0TWp2dkpZaXo5U1Vic1Z3TzBtRHFvQTN3VkU2aXNnSDlGaHFwOWJqa1NrbVQwREFJamk0Tm5VcE80WGptQ3FFWFJ1MH",
+    "sources": []
+  },
+  {
+    "id": "cemex-2026-04-20-006",
+    "date": "2026-04-20",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Cemex SAB de CV stock (MXP225611567): Why Google Discover changes matter more now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGo1dlFsQVVvR2I0YzV5U2RYVEdJcXJxaFhhd2x4anBnTGpybkRaQ0FacGZ3eUJHckd0S1FDaE1FNTNfODhkZDRhQnhJSHhhdFUybXBMVkgzOEtLTFM5U1dTaXpSZXlMSXZaVzAxUj",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-20-007",
+    "date": "2026-04-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Gains Majority Ownership of Turkey's Akcansa - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0M2aFkzQ1FHRm5JZXlIYlA1aWpSUHhqdE9LM0R2NGt4OFV3YWY5YVlsYnJRTmRaU0xwQ3BKcHlLYXhfbTZPU3NldmczNUkxNjJXMzh4YVdsNy11cjZOcnFJdl9iTFZYdVUxS3hjOE",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-20-008",
+    "date": "2026-04-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SSAB and Heidelberg Materials to develop EAF slag into a more sustainable binding agent - Cision News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkRUSV85Y2JMS2Qwck5nODFuSDlHY3pWSVFPY0F5aUlmUFZKUURsa2FQRFRIRWE2QnBJcUpUWmhPckQ2VERxMTBOZGU3WFBrNXJEN2FqSWoxM2VoLVhjZnNndE9URGtBZ0NvOVhUT0",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-20-009",
+    "date": "2026-04-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock (DE0006047004): Is its sustainability pivot strong enough to unlock new u - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3laVGJvalJKd3NTZUJBS2lIbmswa3RNSmZnN0QwSFNzOXhQZTAyUERRQklDVEZFZmhmcTFJT2FIRmZTazBPc1lZNWx5VW5JeENOendZamRCSEt4YWJUMmhjMElrWEVQU2lGSXF4S2",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-20-010",
+    "date": "2026-04-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials to Boost Stake in Turkish Cement Producer Akçansa - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0tIRUZqSW9FQlVrczNEUUNxcmpWRFR6Q1NVdHFrQjlpUV9LRFNKUXdsbWRmZlljRmtWZy0yVU5DTEo2UjJLM2hxS1VJejRKbFVxNnp6X2FET3JDak9HaGhFQS13QTg0SmN0cW5NZG",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-20-011",
+    "date": "2026-04-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Akcansa Cimento says Sabanci Holding sells 39.72% of company's shares to Heidelberg Materials - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0dqaUVFN2htNjBOUjZfblVSQ2FkUVQwYTFUczc1SFNuRUcyVXd6NTJzRlMzZE1Xa0lhXzc0eW9QRHpJb1FfVldHYVEydDJVenZPVDFjT08yWjcxY2N3UHRvejdpY2Z5WDRDWWlPRW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-012",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Portland Cement Market Expansion (2026-2033) | Infrastructure - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmN2dXRzbWsyRXk2RF9iNE0xb1Q2LW1Fak1mMGJiaWE5cnhFU01kOFBEWDRkZmJpWVpCd2ZHMkdJVVJNR1hScUVNamR5enNRZ1NIOWRSdTEzaGpwSjA4UWMtU1VmblRwell4SHVXbm",
+    "sources": []
+  },
+  {
+    "id": "taiwan_cement-2026-04-20-013",
+    "date": "2026-04-20",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "capacity",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement Corp stock (TW0001101004): Why does its global expansion now matter more for diversifi - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWWNCdG02YkxWQW55Q3pDTURGakJvRHRQd2RTY2NGZVBBQ0hHMm5Ud05BT3M1NE44UU5DcmhwUGx6YzZTeWE1QmZiR2FaMzh2R19uNk1mUEpFcnh3SHc5YzlJbTFYY0dmTS1lU0s3Sj",
+    "sources": []
+  },
+  {
+    "id": "asia_cement-2026-04-20-014",
+    "date": "2026-04-20",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement Corp stock (TW0001102002): Why does its Taiwan dominance matter more now for global inve - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajJuRGx3bnoxaHMwQldwbXo0WWJWTG4wQjJoRkRXeGp6djU5cG0wNnNXVmZ1dE43bS0yV3FyVmhCaTB4YjVrN1R5RjFKOEZVSmxncU9oMnlfOWJIOGI4cmhzWGJGbHpDb3ZqMTlVRk",
+    "sources": []
+  },
+  {
+    "id": "anhui_conch-2026-04-20-017",
+    "date": "2026-04-20",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Co Ltd stock (HK0914000021): Why does its China dominance matter more now for glo - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3pjNnRmcWJ1SGdyNXVVX2taT1FxbEJlQU5peE9ta3pwV0dzLWRnLXg4MVhhUC1NOW0ydUxkdnBOTjJScDJreFVQZm14NXgxVnJlaFF1V21QeGpvSmZBMThwbG1zLVFtbk9qSWhmen",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-020",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement achieves historic 200Mta capacity milestone in India - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQTlplRFZlc0I0WVBWanFxa0N5a0h3eDhRUFNSTHVKdXVUazNjczBuZXE5QkUyOFczenRqT19femtkRURmcnF3R0t0c29LYVdLaEpmN1Q5XzhqdzQ5aGpUc1dJcWJLczRMMHNXV0hDbn",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-021",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Over a dozen stocks, including UltraTech, Lupin, Aurobindo Pharma, EMS, Amagi Media, Zee, PC Jeweller, to remain in focus - BusinessLine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOa1FSX21mTUVnVk0tVVhhcUhmTWdOT2dZRGNWVU9qdlRDeXZnck5oNXBQMEJDQVhfeW9CeC1sdi04bjRKdjNVeUJOLVZhVml0WU5BVGJORnNmbjFCVm03R1RULXo4V3otZnlxMHZXMX",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-022",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement crosses 200 MTPA capacity, becomes largest cement maker outside China; shares in focus - Upstox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEU4NVlpYXhLdzdFbW1JcXRyZXdmZ3hCaDdOWHBqWURxN3dBSWRFN1Z1aG5CS2ZVQkstbTJfLXZxdm9BMjhvVTEyTmVHZ1NNc202ZTZMVk8xNy1sNXotMThDT3Voc0lsQ3l1RkxhTU",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-023",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech crosses 200 MTPA capacity, becomes world’s largest outside China - Construction Week India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQalZXVGFVbHBnOUE3YUVZSGpLWktrbEhJTTZSajVZSjJXcjZiNFJacjBHVzdyc3NBRFZBMEhLWUcwdzdleGFvUnBsS2szNU9LVXE0NDlBVkFoSzJzQ2dxVGpOVXFFTVhEb3ZGY3FGYW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-028",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan's demand for cement keeps falling as construction stalls - The Japan Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEd6aWJJUlpBTXA1S3NoTGRmOE9KaWZfT3p3eUdUNGpxUnAyWlFaSFd1Z0gyZHctaVdsQWNlMEZzRFhvbkZmMWx1OVBySG1nUjBlQ0ItZm92Q29aQzFlcXp4OFZGM0RucHJRZUFLeH",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-030",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement achieves historic 200Mta capacity milestone in India",
+    "summary": "   UltraTech Cement Ltd , the leading cement producer of the  Aditya Birla Group , has officially surpassed an installed manufacturing capacity of 200Mta in ...",
+    "sources": []
+  },
+  {
     "id": "thyssenkrupp-2026-04-19-002",
     "date": "2026-04-19",
     "companies": [
@@ -56,6 +317,82 @@
     "impact": "neutral",
     "title": "Asia Cement Corp stock (TW0001102002): Is Taiwan's construction rebound strong enough to drive upsid - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNaFpVQnpIcFVmSS02TGZCbzZXU013MFZvcGtiNXJxMHYwaUFSSUdUUTRDUFM2OUJQQzMzajQ1b21lVjl4Q1FZUFZHVml5Sk0xVWhnYzluNW1sZlpEd0NGOFVkLTB6czBQR3owdWd6RX",
+    "sources": []
+  },
+  {
+    "id": "thyssenkrupp-2026-04-19-003",
+    "date": "2026-04-19",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Path to Profitability: A Tightrope Walk Between Tariffs and Restructuring - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnZhQklJeDEtSGMyb2hBOFczS1FudVF6R0pFYThwMXVfaUVhYUFxVm5fVE41X3F5M1NjMkl4RGJ1OUpFSkVZb1U4NVdLZlR1eTJjbjlVV0VaVHNPRkF2ck4yY3EwRDNDNVpPazF2cG",
+    "sources": []
+  },
+  {
+    "id": "holcim-2026-04-19-005",
+    "date": "2026-04-19",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): Why does its North American focus matter more now for U.S. investor - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSVkxU2ZHWE1BUWJQbGdhNTlRMXNvTlp2TWxPdGRUc3NQaGVDeldtQ3NVRV9DYV9IZ3RudUlkMGwxUE9fTkpEY1hKQU11bW8tdHlnVHR6c2JYX1d0cS1ha0NLb0dQdHI2THZtZjBwcj",
+    "sources": []
+  },
+  {
+    "id": "taiwan_cement-2026-04-19-015",
+    "date": "2026-04-19",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "capacity",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement Corp stock (TW0001101004): Is its global expansion push strong enough to unlock new up - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNW5OYVlZdnM2LXVMd0VXU2VvajRYTGpLNnA0NlY1M2EwVU1PTTVKU2Q2eUFKU2RQdElZQ3J6dktSLVJWV2RPRnR4U2xvdmdYbU9JWUk4LUxnd3l3bWladFpMTDU1d0Nhb0QxTUpIMH",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-19-025",
+    "date": "2026-04-19",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement Ltd stock (INE469A01017): Why does its dominant position in India's cement market m - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGxnQ1gyaHhUWEZ4ZlJJQ29uUmVfTnlfZnowbktYbm9NSXNDYTRVV2ZKUkREWF93OFhmUHQ0NjgyR0hfWGdUcmx6Vm9wckRuejYxamplSGlyQ3cyaXZ0bWY3OVlBUXVHY0tZeVM3eE",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-19-026",
+    "date": "2026-04-19",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Ltd stock (INE469A01017): Is its capacity expansion push strong enough to unlock ne - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdE1sZDFnbGJlaGltdl9MWHNlakhoQmo3bzltUmtGSFVQYjlra1RTNWFTNE1SVzZUazJZTFUyMDJ5blFrZ0hobWtDY3lzMmw3YWVURXljcjV4Sy1RMW8yM2Q2TGNCd1FJY180clNCWH",
     "sources": []
   },
   {
@@ -214,6 +551,21 @@
     "impact": "neutral",
     "title": "UltraTech Cement raises total cement production capacity in India to 200.1 MTPA - Business Standard",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT1RpbFlHYURybVFoZFQxVGg0S2R6WDB5RzA0c1h0SDlnV1lWZ2ctTXRGLV80NFJFMDFqNy1kMi10bkZjaVdvdWxGbFdkNUxMZ0g0OW1BaUR3c0JFaGRWZHQxWnYxSTVSSXBTekkzcG",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-18-024",
+    "date": "2026-04-18",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Ltd Technical Momentum Shifts Signal Bullish Outlook - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGZtc0ZTVGxWN2V3VTh0dWI3Nks5UXhzQWwxZGpKVGNQd2s3QlBrNW42UFQycWx1N2FNQ1U5YW9HVDBQM1ZjaV9sdDZGRUdtTGdCTlplQ0ZPRFBqT0RjS3VIdDcySExwaHV2Y1RtMW",
     "sources": []
   },
   {
@@ -538,6 +890,19 @@
     "impact": "neutral",
     "title": "UltraTech hits 200 MTPA capacity, tops global cement makers outside China - Business Today",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVDJKdVRQekhwOUxMTDhzTk9POEdhalNiUXppQlU0U0NaM2xvNkcyRFJMUmJLejFHRFVHMDN2Y05Lal9qdkFza0IwMkpucC1aWUhvY2g4Q2lvYTB0UnU2b0VRT29qLWtGZFlpeDM4Y1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-027",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "ULTRACEMCO Outlook for the Week (April 20, 2026 – April 24, 2026) - Equitypandit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1pMEhzZHljcEJoQW5zTkdIYWgxalNVZHUxdjZXWnBlU2R2UFJOOEsyQ2F3UV9Mc0lyLWltakV6eW5LWXB6V2tEN3pzV3RITkZTSUdTMnVwcmF3dzJBUFdiTzQzVkE4VVhpVDlhQ2RR?o",
     "sources": []
   },
   {
@@ -2564,6 +2929,20 @@
     "sources": []
   },
   {
+    "id": "taiheiyo-2026-03-18-029",
+    "date": "2026-03-18",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiheiyo Cement : Increase in Initial Salary for New Graduates - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWdWRHB5LWNOa3lBdFJwRExMUHhRWk05aVJsdmdBRi1OTGRoaktheC0xcDE4eEYta3NQSGNpMDhPRzQ3NzE0ZHNxeW1MRHQ4YjZ1bnd3a1pVTkt3RnZUOS11WGFVRXNOTm5RY2ZnN1",
+    "sources": []
+  },
+  {
     "id": "asia_cement-2026-03-17-093",
     "date": "2026-03-17",
     "companies": [
@@ -3340,6 +3719,22 @@
     "sources": []
   },
   {
+    "id": "martin_marietta-2026-02-02-001",
+    "date": "2026-02-02",
+    "companies": [
+      "martin_marietta",
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights Vulcan Materials and Martin Marietta Materials - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2F5TzJfODlrUHRUb0F3VEM1eEpudENOUUJIOGNOZ1FpdlVUdzJOd2VKTG82S2xSaFdYTFVPVlV5bnF2Zlhydzc1R1gzNjRMdTg3aVQ1Y3NKbVBLZGpfSURvTTF0dlZHWURWeFJ3ej",
+    "sources": []
+  },
+  {
     "id": "cemex-2026-01-30-050",
     "date": "2026-01-30",
     "companies": [
@@ -3577,6 +3972,23 @@
     "impact": "positive",
     "title": "First Graphene reports record production of graphene‑enhanced cement - Graphene-Info",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVhySjNPWkVxSkNvRldPQ3Z0dXVKM0tfVkdYdkRhNklkZk14Z1ZEQUhFOEZsY09QRFEwRVRKRFIxVHdwZUJaakotdzFmZ1ZjNjMtWFlTYmlzZ0RBRmZEcHg2dGpMMWkweGRDVlJDaH",
+    "sources": []
+  },
+  {
+    "id": "anhui_conch-2025-12-05-018",
+    "date": "2025-12-05",
+    "companies": [
+      "anhui_conch",
+      "holcim",
+      "ultratech",
+      "cemex"
+    ],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Fly Ash Global Market Intelligence 2025-2032, Featuring China National Building Material Co., Anhui Conch Cement Co., UltraTech Cement, LafargeHolcim, Cemex and More - ResearchAndMarkets.com - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxPSEUzeXNPdGR1ZDNwRzBhYmNzQmxWRWVHUmlUUzRzeFQxNWhla21xbVUxZlVnc2hYYjVYanl2dnBod18xTTdtalV3TjJtbExUUmpSNnJjaUlJVlFybmtQM2N0SGlzNU81cFZFMTMtZV",
     "sources": []
   },
   {
@@ -3894,6 +4306,20 @@
     "sources": []
   },
   {
+    "id": "anhui_conch-2025-08-27-019",
+    "date": "2025-08-27",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement lifts profits despite revenue dip in 2Q25 - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0xFZHY4Qmp0UmhTbXpFUVJmNnBaWHJ6ZnFFeE9JZW1scXFWTHA2d2RSSHVpNklDSVNhQ1FEYlFlRjBnMlhZNjRtcEEwd1BKQ2NNMWppT3p2Z3NXV1R1MjFhVmxCVUVweG5MQmJnd3",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-08-20-077",
     "date": "2025-08-20",
     "companies": [],
@@ -3918,6 +4344,18 @@
     "impact": "neutral",
     "title": "Cemex Balcones Cement Plant Advances Biodiversity and Inclusive Community Programs in Texas - Cemex",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHBmQ2ZKcU1EVU82WkJLeDVYZlVpVGlJM2NjLUxQa19TR1VWemFVVERKZk5wSjlaWGFoRWd4M1hxZ0tLbEViZVhsU080cEZ1aThIb2FqRDB6aXAtX3BKMnkyekFJdkZRZkNKd21ON0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-08-15-031",
+    "date": "2025-08-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Solid or soupy? A look at the global concrete industry - Construction Briefing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTdndEFjUy1PbEdYZVpoeUVQQUxxcFdPSzlKN3MtU05vU042aDBId0tQbU9rb1h1bUk4MFhnWFJyLUVkRjBIVHlvSnNvMUpwOHllQ2tITkx5bXhSWDU4WjZFblliNlpmOTVWWFQ0V0",
     "sources": []
   },
   {

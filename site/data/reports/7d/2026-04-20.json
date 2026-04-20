@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-20",
+  "date_range": {
+    "start": "2026-04-14",
+    "end": "2026-04-20"
+  },
+  "generated_at": "2026-04-20T09:59:54.629922Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-14-011",
+      "date": "2026-04-14",
+      "title": "Oman Cement reports 1Q26 profit of OMR3.5m",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "carbon_emissions": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 39,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.1
+    },
+    "capacity": {
+      "this_week": 10,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "inventory": {
+      "this_week": 20,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.05
+    },
+    "infrastructure_spending": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "raw_material_energy_cost": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "thyssenkrupp": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "holcim": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "heidelberg": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "asia_cement": {
+      "event_count": 5,
+      "sentiment_avg": -0.35,
+      "rank": 5
+    },
+    "anhui_conch": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ultratech": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "taiwan_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cemex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 51,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-15",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 18,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-14 ~ 2026-04-20）共 51 則事件，重點為「Oman Cement reports 1Q26 profit of OMR3.5m」。亞泥情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "亞泥",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Holcim",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

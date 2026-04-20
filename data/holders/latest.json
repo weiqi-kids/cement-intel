@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T08:55:04.618456+00:00",
+  "updated_at": "2026-04-20T09:59:54.231683+00:00",
   "companies": {
     "vulcan": {
       "name": "Vulcan Materials",
@@ -211,7 +211,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 2939,
           "pct_held": 0.0,
-          "value": 27226
+          "value": 26151
         }
       ]
     },
@@ -358,19 +358,19 @@
           "holder": "Scopus Asset Management, LP",
           "shares": 127878,
           "pct_held": 0.07,
-          "value": 25070482
+          "value": 24558970
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 622,
           "pct_held": 0.0,
-          "value": 121943
+          "value": 119455
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 292,
           "pct_held": 0.0,
-          "value": 57246
+          "value": 56078
         }
       ]
     },
@@ -383,61 +383,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 95034758,
           "pct_held": 1.26,
-          "value": 2385372462
+          "value": 2356861925
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Emerging Markets Stock Index Fd",
           "shares": 84916717,
           "pct_held": 1.12,
-          "value": 2131409629
+          "value": 2105934516
         },
         {
           "holder": "iShares, Inc.-iShares Core MSCI Emerging Markets ETF",
           "shares": 62797182,
           "pct_held": 0.83,
-          "value": 1576209292
+          "value": 1557370065
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Taiwan ETF",
           "shares": 41669645,
           "pct_held": 0.55,
-          "value": 1045908105
+          "value": 1033407164
         },
         {
           "holder": "Dimensional Emerging Markets Value Fund",
           "shares": 18560110,
           "pct_held": 0.25,
-          "value": 465858768
+          "value": 460290713
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
           "shares": 14251055,
           "pct_held": 0.19,
-          "value": 357701485
+          "value": 353426153
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Emerging Markets ex China ETF",
           "shares": 14595671,
           "pct_held": 0.19,
-          "value": 366351347
+          "value": 361972629
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Emerging Markets ETF",
           "shares": 14087748,
           "pct_held": 0.19,
-          "value": 353602480
+          "value": 349376139
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
           "shares": 13769726,
           "pct_held": 0.18,
-          "value": 345620127
+          "value": 341489194
         },
         {
           "holder": "Fidelity Salem Street Trust-Fidelity Series Global ex U.S. Index Fund",
           "shares": 12265302,
           "pct_held": 0.16,
-          "value": 307859084
+          "value": 304179480
         }
       ]
     },
@@ -450,61 +450,61 @@
           "holder": "SCHWAB STRATEGIC TRUST-Schwab Fundamental Emerging Markets Equity ETF",
           "shares": 56180648,
           "pct_held": 1.51,
-          "value": 302813685
+          "value": 288206730
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 51666002,
           "pct_held": 1.39,
-          "value": 278479743
+          "value": 265046596
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Emerging Markets Stock Index Fd",
           "shares": 48474512,
           "pct_held": 1.3,
-          "value": 261277613
+          "value": 248674252
         },
         {
           "holder": "iShares, Inc.-iShares Core MSCI Emerging Markets ETF",
           "shares": 42018850,
           "pct_held": 1.13,
-          "value": 226481595
+          "value": 215556705
         },
         {
           "holder": "American Century ETF Trust-Avantis Emerging Markets Equity ETF",
           "shares": 22364665,
           "pct_held": 0.6,
-          "value": 120545541
+          "value": 114730734
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
           "shares": 17948616,
           "pct_held": 0.48,
-          "value": 96743037
+          "value": 92076402
         },
         {
           "holder": "PIMCO Equity Series-PIMCO RAE Emerging Markets Fund",
           "shares": 17608000,
           "pct_held": 0.47,
-          "value": 94907117
+          "value": 90329042
         },
         {
           "holder": "Fidelity Salem Street TRT-Fidelity SAI Emerging Markets Value Index Fd",
           "shares": 16097200,
           "pct_held": 0.43,
-          "value": 86763905
+          "value": 82578637
         },
         {
           "holder": "iShares, Inc.-iShares Emerging Markets Dividend ETF",
           "shares": 10676000,
           "pct_held": 0.29,
-          "value": 57543638
+          "value": 54767881
         },
         {
           "holder": "iShares Trust-iShares MSCI China ETF",
           "shares": 10165522,
           "pct_held": 0.27,
-          "value": 54792162
+          "value": 52149129
         }
       ]
     },
@@ -517,61 +517,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 6091227,
           "pct_held": 0.39,
-          "value": 12791576
+          "value": 13096138
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 4191294,
           "pct_held": 0.27,
-          "value": 8801717
+          "value": 9011282
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Emerging Markets Core Eqy. 2 PORT.",
           "shares": 3848000,
           "pct_held": 0.25,
-          "value": 8080799
+          "value": 8273200
         },
         {
           "holder": "Dimensional Emerging Markets Value Fund",
           "shares": 2364500,
           "pct_held": 0.15,
-          "value": 4965449
+          "value": 5083675
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 1589000,
           "pct_held": 0.1,
-          "value": 3336899
+          "value": 3416350
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Emerging Markets Small Cap Series",
           "shares": 1316500,
           "pct_held": 0.08,
-          "value": 2764649
+          "value": 2830475
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Small-Cap Equity ETF",
           "shares": 907285,
           "pct_held": 0.06,
-          "value": 1905298
+          "value": 1950662
         },
         {
           "holder": "ADVISORS' INNER CIRCLE FUND-Acadian Emerging Markets Portfolio",
           "shares": 877142,
           "pct_held": 0.06,
-          "value": 1841998
+          "value": 1885855
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
           "shares": 504000,
           "pct_held": 0.03,
-          "value": 1058399
+          "value": 1083600
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 295500,
           "pct_held": 0.02,
-          "value": 620549
+          "value": 635325
         }
       ]
     }
