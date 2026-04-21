@@ -1,5 +1,157 @@
 [
   {
+    "id": "vulcan-2026-04-21-002",
+    "date": "2026-04-21",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock (US9291601097): Is infrastructure demand strong enough to drive sustained gai - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSERuQU4xeVJGX1RWSHl5alVtVlVwYWZFUXM5aUptR2lDcHhETUZjcW5tcXJFd2FZdXNTZnlJQWx3SUFaeGR1NWc2MWloUUxrN3pzM0VlY25MTTMtZFkteUZvWUlDNU0zWTdocG13Rl",
+    "sources": []
+  },
+  {
+    "id": "holcim-2026-04-21-011",
+    "date": "2026-04-21",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): Why does its building materials dominance matter more now for U.S. - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdE9YRjBtNk9sUkh2NVQtSUVfOTNHcFFWUUJTM0dfUmtEbmwzN1VQTFNZeDUyc2ZoLUYxX0lHUFRvcXJQRm5QS2pKeEhOcTBFb3NkNGM3WWdhcjB5MDc1cFdXUzlSX3d6Y0dHTWo2SE",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-21-016",
+    "date": "2026-04-21",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SSAB and Heidelberg Materials to develop EAF slag as low-carbon cement binder - SteelOrbis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcTBhYURwNjlTX3dZN2E0aXFiY2ZpNnRBSTZaMTcyeHhaZWhPRlBaZUVldk1fNktjRVYzSVFpVGhOWkRnWWs5LXhVVlhPYUNhTlFmVHZXTzRIQjVONGQ3VG1lY0p3dF9mbFZfUnBlTm",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-21-017",
+    "date": "2026-04-21",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials uses Class 08e electric shunter - Railvolution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQNFhsYmtFSU5OcDZKUW5uN3cxUjI3UzhQNlc1V2ZsaFJIN1VxclVuT0tEVTltTlY5NGZndGlLRWVXZExWc3hlVUM4cXhlTzhDeEMxdy11RERvTGxjU01iTzV0RUFPSUF4RE9KT0Vtbj",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-21-025",
+    "date": "2026-04-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement crosses 200 million tonnes of capacity, becomes the world's largest cement company outside China - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOVlVvX3cteGV4R0RSVHRhclY5LTc5bmo1UnU2ZTBYRDZ0c1J4Vm52aDk4b29MSGw1OTNXaWlqU3FSdGdGQXZFRFBUOU8zVXJDb3pIUmx6eUhGNFpvT3FLSmhuOXRlRGdwYXJBVlQ1Rj",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-21-028",
+    "date": "2026-04-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Hits 200MT Capacity as Costs Bite Margins - Whalesbook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYy1BRmdFTTF3RXRDTTd6dTBTcE1yVmJJTHkxWTBRaUJEQjhKNWhvbnFWa01OamhIQldvV3UwOUZSWkVRQkxDcGdHbXBmRElCLV94amttREx6V2FjcVJlNGVhTFMxb2JSVFlNVm1EeU",
+    "sources": []
+  },
+  {
+    "id": "crh-2026-04-21-029",
+    "date": "2026-04-21",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "CRH completes London delisting, focuses on NYSE listing",
+    "summary": "  CRH  has completed the delisting of its shares from the London Stock Exchange (LSE), finalising its transition to a sole listing on the New York Stock Exch...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-030",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "negative",
+    "title": "VICEM targets AI-led safety and emissions reduction in cement operations",
+    "summary": "  Vietnam Cement Corporation (VICEM)  is advancing the use of artificial intelligence (AI) and digital technologies to improve occupational safety and health...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-031",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Indonesia reports lower cement emissions as decarbonisation roadmap advances",
+    "summary": " Indonesia’s Ministry of Industry has reported declining emissions in the country’s cement sector, as it advances plans for a formal decarbonisation roadmap ...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-032",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Pakistan clears US$700m investment for seven new cement plants",
+    "summary": " Pakistan has approved plans for seven new cement plants representing an estimated investment of US$700m, following the removal of regulatory bottlenecks by ...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-033",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Serbia's Beton Plus to issue RSD10bn bond to fund acquisitions and restructuring",
+    "summary": "Beton Plus of Serbia will issue a RSD10bn (US$100.4m) five-year bond to fund strategic acquisitions and, as part of a consolidation process, restructure the ...",
+    "sources": []
+  },
+  {
     "id": "thyssenkrupp-2026-04-20-002",
     "date": "2026-04-20",
     "companies": [
@@ -258,6 +410,221 @@
     "impact": "positive",
     "title": "UltraTech Cement achieves historic 200Mta capacity milestone in India",
     "summary": "   UltraTech Cement Ltd , the leading cement producer of the  Aditya Birla Group , has officially surpassed an installed manufacturing capacity of 200Mta in ...",
+    "sources": []
+  },
+  {
+    "id": "vulcan-2026-04-20-001",
+    "date": "2026-04-20",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Vulcan Materials Co. stock outperforms competitors on strong trading day - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZEsyd0xKNWlVNkUyTUN0ZHpZYnFLeUZBZENrUjYtdkE1Y1JlOUU2QVkxS2RwQk1laGZvMFFLSDgzSldDcG1zdjVFczhfZWpjSzdaS1ljM1NVTE43d1laYy1sd0x2cHFXRkg5QUNXYj",
+    "sources": []
+  },
+  {
+    "id": "vulcan-2026-04-20-004",
+    "date": "2026-04-20",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co stock (US9291601097): Why Google Discover changes matter more now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd0xGZ3ZBalZUd05vaVJMUW4zVlUyV2tsNjJncmVQY3RZOC1TLUxjMlByTmw3d1ZKdXhMU1V5ZVg3dUI5V21yX3hOY3ZhRDFnYnJTN1lNdGM2c1NYYS1qdmdDY1NJRlRFMkxFZE5tUH",
+    "sources": []
+  },
+  {
+    "id": "thyssenkrupp-2026-04-20-005",
+    "date": "2026-04-20",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackBerry, thyssenkrupp to Provide Core Software for Canada’s Future Patrol Submarines - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjFqVXlWLXJPaG9JZGpEUkVlTGhOSHI3VWZIY2JhZFh6WDNXU2FvUExTRVBSbWhSS1VNZ2cwSlp0Zlo0SXJVZDhMbzlGamtmb1JlVnd3VDk2dnRyYmxpc09pY1gtMXhsbkFVRzl6Q2",
+    "sources": []
+  },
+  {
+    "id": "thyssenkrupp-2026-04-20-006",
+    "date": "2026-04-20",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Uhde awarded plant expansion contract by Brunei Fertilizer Industries - Hydrocarbon Processing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTZmQ2tpc21weGVwZERna0QwYi1MdUM1Q1NkN1kydTg3OTE1ckJKMFhuVFNrR0VwRllocVZ2ckZXVUtEbDZzMGpnV0RWdHVwS1lDX1p1UVV3ZWgwWEw4ajBCbHZZdkQ5bW91Q2pQQW",
+    "sources": []
+  },
+  {
+    "id": "thyssenkrupp-2026-04-20-007",
+    "date": "2026-04-20",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Stock Hinges on a Late-April Deadline and a May Report - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0RBeHpORHJKR3pzMWl4OTRZZ3RlUHdGaTlNQ2RIRmlJZ1phMjNBWUtIU3VYcEJEd1ZoMzUwT2VJTV9IOU8xd3RsUDY1dVRIdVFZRGxiR2JLWXA4U21obEcxZ3UxV2JQdy15cm1jQm",
+    "sources": []
+  },
+  {
+    "id": "holcim-2026-04-20-010",
+    "date": "2026-04-20",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): Is its North American building materials pivot strong enough for U. - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3loREUycmlHZzJqXzJrUkN6VHZpa0J6aXI2d3lRVVBuY1I5UDBHYVpNOC1Qb0hVNG9feXdSUVBELWg3d0dhc2Y5a244dEQ4SDl1XzlTU1ZVOEhNSTh5ZnpibG5QbjZ1MTI0eUVQaz",
+    "sources": []
+  },
+  {
+    "id": "holcim-2026-04-20-014",
+    "date": "2026-04-20",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): Why its North American building materials push matters more now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVZqTzVjSzhSdDlTTVp2czNuLVE0VWw2OEhqMXp0bVE2bkkwZFVaOW9xT2VVcy1LNVd6T1ZKSlA3bnBDVzVHSHRVNldYTVprTEE0ZXpoSUo2Q3JzN3l1WHlhaGt0REpyZDlUdHg5ZD",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-20-020",
+    "date": "2026-04-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "SSAB and Heidelberg Materials to develop EAF slag into a more sustainable binding agent - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSGYtbUNQdHpMUzhZcFJKcGRWRUJmZ0g4OVBmY2tvdUNneG5jR0RrUDdvMlUyVlpodEtVNEhoQktDa1BWOU85QjdCU0plTlhoQmJYOVRSV3AxZl9qd2hBaHhKSGpxRkYyRkw0cHpFQW",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-20-021",
+    "date": "2026-04-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "SSAB and Heidelberg Materials collaborate to develop EAF slag for cement - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWWlyZnpVMWp1RzhWZkRUOE5nZEM0aDFUeEhWejdCX3VkMVl0RkZfU3J3UHZEcTlJQjJ2dkduaHUxSzBnUVl3NEVoSGNGc0dmZXB5eERLVXIxdFBXYmRmbnhtS1BLZHVMZmNRUTVpZE",
+    "sources": []
+  },
+  {
+    "id": "anhui_conch-2026-04-20-023",
+    "date": "2026-04-20",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Co Ltd stock (HK0914000021): Why China infrastructure demand matters more now for - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPcUNYT083cDg5ZkRjOXJMbUZiWlZWSUhpa2FPcXE5LUZLb0pLXzk1TkxCQmNTS19DSVpXT0xBc1FROEFHWWtCdEdERnJ1bGZZU3lpaW1jTVc1R0ZKNFNJYnhPcHRmTHBBRzAtVVpzN2",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-024",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement rallies Monday, outperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHNKNU92V3BYWXJnR2hDVTJ0bFdCdHR0azRKVGZmUFRHY3VINnRfQ205ZEZlcG5Tc0tRcFhvZUNIWjBQNUxvMGNPWU00dUp6eTVrc0dBaXMzRzZqNDVUOXN5VWtXSTRQVTBZM3hPbE",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-026",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement reaches 200Mt/yr of cement capacity with three new grinding units - facilitiesmanagement-now.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU2RXQ2lhNi1XQkJhZGVmX19lekxHTHdGclZYc3pCdEZaZWExSGVhRVlNMi1qbmFadXh6a2FRSlBTUXNkR21jSWFRNS1SYjJtdF9xSHB1bGl4WXh1Z01uNlNDVHhSa3RqNW9Pa194M0",
+    "sources": []
+  },
+  {
+    "id": "ultratech-2026-04-20-027",
+    "date": "2026-04-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement: World’s 3rd largest player hits record capacity—Time to add? - financialexpress.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbXNSenhRcUJ2N1hLTi1NVnNPaW1vTmlFYlM4MGFEY3F5VlU5bmtKdXowa3owc0xyV3RwaGt0MHN6alVIQm5ScURmSkZ1ZUZCaEVWTUJvQUZfc3gyX2tLU09NQ0tzNVJfSTVRMkZqOE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-034",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What to know about Trump’s tariff refund process",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/6DxHTpEKhBZ4A2ZQuNleURM_4vAeumL7KrrzGF504XU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4MDc3MzQ2X094YWFU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-035",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Bulley & Andrews acquires interiors contractor ICG",
+    "summary": "<p>The acquisition comes as both Chicago-based firms remain confident in the direction of the interiors market.</p>",
     "sources": []
   },
   {
@@ -566,6 +933,21 @@
     "impact": "neutral",
     "title": "UltraTech Cement Ltd Technical Momentum Shifts Signal Bullish Outlook - Markets Mojo",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGZtc0ZTVGxWN2V3VTh0dWI3Nks5UXhzQWwxZGpKVGNQd2s3QlBrNW42UFQycWx1N2FNQ1U5YW9HVDBQM1ZjaV9sdDZGRUdtTGdCTlplQ0ZPRFBqT0RjS3VIdDcySExwaHV2Y1RtMW",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-18-019",
+    "date": "2026-04-18",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG (MEX:HEIN) Stock Forecast, Price Targets and Analysts Predictions - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6TWRqLWRGdk8xUHc0Vy1rZ2t6ajFjeXVjUllNUDRvT1pCZ2c4UDlBMU1LYlpIeGN3eG1NWUxFODJnbUFDaGJZdUJxWWNsajJqUnJuOWVVeTlYSzBRWUE?oc=5\" target=\"_blank\">",
     "sources": []
   },
   {
@@ -903,6 +1285,20 @@
     "impact": "neutral",
     "title": "ULTRACEMCO Outlook for the Week (April 20, 2026 – April 24, 2026) - Equitypandit",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1pMEhzZHljcEJoQW5zTkdIYWgxalNVZHUxdjZXWnBlU2R2UFJOOEsyQ2F3UV9Mc0lyLWltakV6eW5LWXB6V2tEN3pzV3RITkZTSUdTMnVwcmF3dzJBUFdiTzQzVkE4VVhpVDlhQ2RR?o",
+    "sources": []
+  },
+  {
+    "id": "heidelberg-2026-04-17-018",
+    "date": "2026-04-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxPRlRIVnJ4YjlkNXdZcjJIWDU0YXgzRUp1VnZtVHJjdmwyQUxHX2pDVXA0THFSTlctQTlfaXdSUlJFbk40WElUMHBCWTFDaGp3a2pWOWZKeVRLU0NWaExsM2k4RThPQnJSX3V2Q3A5VG",
     "sources": []
   },
   {
@@ -2822,6 +3218,20 @@
     "sources": []
   },
   {
+    "id": "anhui_conch-2026-03-24-022",
+    "date": "2026-03-24",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Anhui Conch Cement Company: Net profit increased 5.12% to RMB8.46 billion despite a 9.33% revenue decline - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOTVMzZ3I5enlTQi00dGdScU5NOHYyNnR5V1J3NTBDd29fdUt2aDJ0QzhTYV90QVh5S2pnc3psZVRscVF6T1R4WXpQRjVqd0p2ZHlZX2F6VXYwSVJXOGhyRU8zLUdWRFNKeVpWd0gtMW",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-23-020",
     "date": "2026-03-23",
     "companies": [],
@@ -3877,6 +4287,21 @@
     "sources": []
   },
   {
+    "id": "holcim-2026-01-22-013",
+    "date": "2026-01-22",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim CEO expects to make around 15 acquisitions in 2026 - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjJzY1FDN1drV0lBZ1QwZlg0MkZZb3ZwTjkxQ2JwM2c2dUlqS2ZMQUVheVUxRWRBRmQxM082VjJ5bnd4ZjVoaTNRX0R1Z00xMk42TWpmX3ZqOFdtZ014N2g1R2pXZ1plcTJRbjU5Z2",
+    "sources": []
+  },
+  {
     "id": "heidelberg-2026-01-21-022",
     "date": "2026-01-21",
     "companies": [
@@ -3972,6 +4397,21 @@
     "impact": "positive",
     "title": "First Graphene reports record production of graphene‑enhanced cement - Graphene-Info",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVhySjNPWkVxSkNvRldPQ3Z0dXVKM0tfVkdYdkRhNklkZk14Z1ZEQUhFOEZsY09QRFEwRVRKRFIxVHdwZUJaakotdzFmZ1ZjNjMtWFlTYmlzZ0RBRmZEcHg2dGpMMWkweGRDVlJDaH",
+    "sources": []
+  },
+  {
+    "id": "holcim-2025-12-12-009",
+    "date": "2025-12-12",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim, 44.01 Launch Project to Capture and Mineralize CO2 From Cement Production - ESG Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVBGZENFRjhQWExBMjd2SnljV2ZZSEw2VDNqelFfNG83d0JydHB3UENRQzA5UUtDcmpTVGlPdUdxQ2xadW5NNVctQnduTlhVVWlGQXY5T2I5TjE0R0FkQlVqNFpXQ1BJZDVpcnltSW",
     "sources": []
   },
   {
@@ -4159,6 +4599,21 @@
     "sources": []
   },
   {
+    "id": "holcim-2025-11-06-012",
+    "date": "2025-11-06",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CARBON HUB CPT01 - Holcim",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0zNENjUExydlltdmJodkNqOEVmUmFYRVdUZXBUR2VXUVhGTVN2S2FuaUxrejh0N0l6TzlFMGk4T0Q4c3NPRlY4cVlIeklJQnc0T0UtNVFHNDFkRjI2YUlwMGRjSUtMUGxraTVTbUtrRS",
+    "sources": []
+  },
+  {
     "id": "anhui_conch-2025-10-31-101",
     "date": "2025-10-31",
     "companies": [
@@ -4226,6 +4681,20 @@
     "impact": "neutral",
     "title": "Palliser Capital Publishes Value Enhancement Plan for Taiheiyo Cement - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2tmTTdUbDh2ajdvVjllcWFzODlKQ3o5dkQ3dENQUm5WR09QMzd3VkdTOUZmYVlqUk9xZjNCb0xfbl9GT3c2OFBSNHM5cUY5d0hqcnNoNVJ2WWI0eU1xa09uX1V2dDJqV0xoTHhXOH",
+    "sources": []
+  },
+  {
+    "id": "holcim-2025-10-20-008",
+    "date": "2025-10-20",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Just Dropped $2.2 Billion--And It's Not on Cement - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9WV3lEN1lxNW5HVUFzemdyUHVIMS1kbmRUcHdxRlRINnpqRlQ3MXlQMUExeW9CeDgweUwzcjRvN3N5ejA1ZmgyY0FhcFFOOU8ySXVEVU9CTHhaWVNieFAtSXp0TUptQWFacjVnSHNlZl",
     "sources": []
   },
   {
@@ -4441,6 +4910,21 @@
     "impact": "neutral",
     "title": "Cemex participates in building a massive basin to cleanse the Seine River in Paris - Cemex",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGRZQ1VzYS1jelJ0Q1k5ME1FUDJmS0s1aDZiaXI3VGRGZnhoYkFxc0o1cUZKVG1LeV9MV0J3alo1REFhZEpTdDV4NnJMZHhMTS1LTF90ZWR5RGp2ajZPdFVWTVRMRmEyNDAzMjJFcH",
+    "sources": []
+  },
+  {
+    "id": "holcim-2025-07-02-015",
+    "date": "2025-07-02",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "The power of biochar: Our breakthrough carbon sink tech explained - Holcim",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1EZDF1M25PX3FPZ2Rvd2xTRlhtN18wb2FqYUh0ZG1KdmRXcFpnbGlwN2lhalJYYkpMbl94RUNiaU1GY2djT09fQ3lpMWZzWXFjaVZkMnRtU1lTMDIzakYwY3l2RjEtUnUxRFh5dThHNi",
     "sources": []
   },
   {
