@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-22",
+  "total_events": 10,
+  "by_company": {
+    "heidelberg": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.36
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
