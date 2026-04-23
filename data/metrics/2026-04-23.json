@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-23",
+  "total_events": 6,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "ultratech": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
