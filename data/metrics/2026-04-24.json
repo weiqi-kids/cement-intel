@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-24",
+  "total_events": 6,
+  "by_company": {
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cemex": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
