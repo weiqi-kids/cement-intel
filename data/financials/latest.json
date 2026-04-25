@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:46:19.908794Z",
+  "updated_at": "2026-04-25T08:53:29.850989Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -49,14 +49,14 @@
       "name": "CEMEX",
       "ticker": "CX",
       "currency": "USD",
-      "ar": 1960041000,
-      "ar_prev": 1918649000,
-      "ar_qoq": "+2%",
-      "inventory": 1559293000,
-      "inv_prev": 1619668000,
-      "inv_qoq": "-4%",
+      "ar": 1948965000,
+      "ar_prev": 1770000000,
+      "ar_qoq": "+10%",
+      "inventory": 1510371000,
+      "inv_prev": 1527000000,
+      "inv_qoq": "-1%",
       "alert": false,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "cnbm",
@@ -109,8 +109,8 @@
       "ar_prev": 2627700000,
       "ar_qoq": "-14%",
       "inventory": 2750800000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
+      "inv_prev": 2741400000,
+      "inv_qoq": "+0%",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -120,11 +120,11 @@
       "ticker": "HOLN.SW",
       "currency": "CHF",
       "ar": 1714000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 2151000000,
+      "ar_qoq": "-20%",
       "inventory": 1716000000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
+      "inv_prev": 1729000000,
+      "inv_qoq": "-1%",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
