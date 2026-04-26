@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:02:32.436434Z",
+  "generated_at": "2026-04-26T14:11:23.795078Z",
   "top_events": [
     {
       "rank": 1,
@@ -71,12 +71,36 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYmNoNG5WVDVENkVrTU9MNzB3c3puMERRak0wdjFYZDdmV0VQandkSDQtMjVZTmRVX3ZRWjdTbkxLclRkbWJwcmppWUw3ZzZzaUNydVBjSUpSaWpYRDltM3BBa0EzOVpfZEFMR3M1VTJQODB5TUlaODIteHNjSm1mY0MwSGdrUW1IanBLNWZ3Ynd6alhRMW05RnpaYTBheUw5TXJfamlqU1dFazNMU0laN01SYlctOF91WWJRZmFPRmxKWlRYckRtMmRPZVJ0M1FVZ2xXRXFBcHZJWWVxNUZkdW5mTGJ5MVQ1NEVVdkEyY0x1cFI0WWk3cFBBOUZERUYzRVNrbTNpY0dIWnVZM0NB0gGUAkFVX3lxTE44NGJYQlRTeUg5cWhqbkRKV3E2QUlMTnRpWDhMaWUtWnNPSHhMTUJmNGFmak41bmY0cEV5dlFZS0VybEQwY0Zkc05IR0NWRllSZWtGNDJQb05NSkZZbVlHTFEzdU9UVE53NmRKY1ppZGs3YUJ5elB4SFM0TzJ2QVlkcXphUUZJaW1PUWNBalZFTGxYOXg3ZUFMdWlTR1J5NHJ2VE9pWVc4ZExrR1V5c3BYd05qbXFMWW1oUEE4MGZUQ0Y3Q0phSGhCUWJZR2wtTmgzWXdtN2NZek1SclRaWHAzWmNpYzJSZWdHclRUQWI5RXZ3cmhDZS1NazFpeGZ0b1JtYzlXMkkxc1RDVWN0dHBBRWlFeg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-04-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Q4 results: Coal India, Ultratech Cement, Adani Total Gas, others set to release earnings on April 27; check list - Upstox",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSllTRmJwMUdDTnJQRGY5R0tBaFNmbzR1dXdqVE9QZ0pSd1dMbjZncUM3aVpqYTFia09qbkU4ejdRczJnOEZDa3l0QzAxb2FPNjRlamJIVlJhWWJraVRwM0hSV0RVWnFSMUVqWFRaTm84TGdTaENwWDJpQklKdVZDeEh2MDYzS1U0QUQ4R2o5eTcwQUZQTGN2S1hHZXJrLU9pRHRGWlNyekRJZGk5Z09aTi1aekdGbVZSSV93Q1VueHFiZmU3NjR3YWNSSTNyOERMYkw1bE81NXoxT0ZpbHJYMUdyUVI0MmFwOTU1azdTNEhvVVd2X2dvLWw2MVVudw?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 3,
+      "today": 4,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -88,34 +112,34 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 3,
+    "total_events": 4,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 3,
+      "neutral": 4,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "ultratech",
-        "count": 2
+        "count": 3
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 3
+        "count": 4
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 296,
-    "dup_title": 186,
-    "too_old": 81,
-    "gate1_blocked": 13,
-    "gate2_blocked": 8,
-    "passed": 8,
-    "pass_rate": "7.3%",
-    "gate2_block_rate": "7.3%",
+    "total_raw": 632,
+    "dup_title": 392,
+    "too_old": 176,
+    "gate1_blocked": 27,
+    "gate2_blocked": 19,
+    "passed": 18,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "7.9%",
     "gate2_samples": [
       "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
       "Agile Robots Acquires Europe and North American Assets of thyssenkrupp Automation Engineering - Auto",
@@ -126,7 +150,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 3 則事件，焦點為UltraTech相關動態：「UltraTech Cement: Volume Up, But Rising Costs Squeeze Pro...」。主要關注主題為財報，市場情緒中性。",
+    "summary": "今日共 4 則事件，焦點為UltraTech相關動態：「UltraTech Cement: Volume Up, But Rising Costs Squeeze Pro...」。主要關注主題為財報，市場情緒中性。",
     "signals": [
       {
         "text": "UltraTech Cement: Volume Up, But Rising Costs Squeeze Profit Margins - Whales...（財報）",

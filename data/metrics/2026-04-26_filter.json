@@ -1,11 +1,11 @@
 {
-  "total_raw": 296,
-  "dup_title": 186,
+  "total_raw": 632,
+  "dup_title": 392,
   "no_date": 0,
-  "too_old": 81,
-  "gate1_fail": 13,
-  "gate2_fail": 8,
-  "passed": 8,
+  "too_old": 176,
+  "gate1_fail": 27,
+  "gate2_fail": 19,
+  "passed": 18,
   "gate2_samples": [
     "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
     "Agile Robots Acquires Europe and North American Assets of thyssenkrupp Automation Engineering - Auto",
