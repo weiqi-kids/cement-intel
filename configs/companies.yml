@@ -16,6 +16,7 @@ companies:
   - cemex
   - heidelberg
   - eagle_materials
+  fetch_mode: http
 - id: martin_marietta
   name: Martin Marietta
   aliases: []
@@ -32,6 +33,7 @@ companies:
   - crh
   - cemex
   - heidelberg
+  fetch_mode: http
 - id: eagle_materials
   name: Eagle Materials
   aliases: []
@@ -46,6 +48,7 @@ companies:
   downstream:
   - holcim
   - crh
+  fetch_mode: http
 - id: thyssenkrupp
   name: thyssenkrupp
   aliases:
@@ -68,6 +71,7 @@ companies:
   - ultratech
   - taiheiyo
   - cnbm
+  fetch_mode: http
 - id: holcim
   name: Holcim
   aliases: []
@@ -86,6 +90,7 @@ companies:
   - thyssenkrupp
   downstream:
   - asia_cement_china
+  fetch_mode: http
 - id: crh
   name: CRH plc
   aliases: []
@@ -102,6 +107,8 @@ companies:
   - martin_marietta
   - eagle_materials
   downstream: []
+  ir_rss_url: https://www.crh.com/feed/
+  fetch_mode: rss
 - id: cemex
   name: CEMEX
   aliases: []
@@ -118,6 +125,7 @@ companies:
   - martin_marietta
   - thyssenkrupp
   downstream: []
+  fetch_mode: http
 - id: heidelberg
   name: Heidelberg Materials
   aliases:
@@ -135,6 +143,7 @@ companies:
   - martin_marietta
   - thyssenkrupp
   downstream: []
+  fetch_mode: http
 - id: taiwan_cement
   name: Taiwan Cement
   aliases:
@@ -151,6 +160,7 @@ companies:
   - thyssenkrupp
   downstream:
   - asia_cement_china
+  fetch_mode: http
 - id: asia_cement
   name: Asia Cement
   aliases:
@@ -167,6 +177,7 @@ companies:
   - thyssenkrupp
   downstream:
   - asia_cement_china
+  fetch_mode: http
 - id: anhui_conch
   name: Anhui Conch
   aliases:
@@ -182,6 +193,7 @@ companies:
   upstream:
   - thyssenkrupp
   downstream: []
+  fetch_mode: http
 - id: ultratech
   name: UltraTech
   aliases: []
@@ -196,6 +208,7 @@ companies:
   upstream:
   - thyssenkrupp
   downstream: []
+  fetch_mode: http
 - id: taiheiyo
   name: Taiheiyo Cement
   aliases:
@@ -211,6 +224,7 @@ companies:
   upstream:
   - thyssenkrupp
   downstream: []
+  fetch_mode: http
 - id: siam_cement
   name: Siam Cement
   aliases: []
@@ -224,6 +238,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Siam+Cement"+cement&hl=en&gl=US&ceid=US:en
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: cnbm
   name: CNBM
   aliases:
@@ -239,6 +254,7 @@ companies:
   upstream:
   - thyssenkrupp
   downstream: []
+  fetch_mode: http
 - id: asia_cement_china
   name: Asia Cement China
   aliases:
@@ -256,6 +272,7 @@ companies:
   - asia_cement
   - holcim
   downstream: []
+  fetch_mode: http
 etfs:
 - id: igf
   name: iShares Global Infrastructure ETF
