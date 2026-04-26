@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T08:53:29.850989Z",
+  "updated_at": "2026-04-26T03:21:30.671276Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -109,8 +109,8 @@
       "ar_prev": 2627700000,
       "ar_qoq": "-14%",
       "inventory": 2750800000,
-      "inv_prev": 2741400000,
-      "inv_qoq": "+0%",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -120,11 +120,11 @@
       "ticker": "HOLN.SW",
       "currency": "CHF",
       "ar": 1714000000,
-      "ar_prev": 2151000000,
-      "ar_qoq": "-20%",
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "inventory": 1716000000,
-      "inv_prev": 1729000000,
-      "inv_qoq": "-1%",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
