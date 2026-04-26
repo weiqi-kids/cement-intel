@@ -1,16 +1,16 @@
 {
   "total_raw": 296,
-  "dup_title": 206,
+  "dup_title": 186,
   "no_date": 0,
-  "too_old": 68,
-  "gate1_fail": 14,
+  "too_old": 81,
+  "gate1_fail": 13,
   "gate2_fail": 8,
-  "passed": 0,
+  "passed": 8,
   "gate2_samples": [
     "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
     "Agile Robots Acquires Europe and North American Assets of thyssenkrupp Automation Engineering - Auto",
     "Holcim maintains targets despite Middle East conflict - Reuters",
     "Cemex reports record first quarter EBITDA - megaproject.com",
-    "Heidelberg Materials Gains Majority Control of Akcansa for Market Growth - News and Statistics - Ind"
+    "Heidelberg Materials to acquire full control of Turkish cementmaker Akcansa - Türkiye Today"
   ]
 }

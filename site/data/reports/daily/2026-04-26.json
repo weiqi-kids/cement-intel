@@ -1,30 +1,140 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:21:33.694669Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T09:02:32.436434Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ultratech-2026-04-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement: Volume Up, But Rising Costs Squeeze Profit Margins - Whalesbook",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVDEzNlF3SjVaM3pHdDlsQk1PZkZuQ3A5Tnh1RUlNR3dab01rZXh1UzBsM3BSaUFtZlNVUnlVNllET0ViRnJFeWNTMzMzLUp2eF9WTWF5WmQ1Mm5HNFM5b0UxMXo0YkpfWGh2cUp3MWwxeEZPZ2p6LURGemNYVGN6NDhBbU5yQ2tsZVJMeUM3aFd0VWwtbVliOHRSUHVKT2tTMzJmemVYdTN5VXo3OGgtV1RrbVljWTVWSVpLbU00dTNOVFlIVGRHTzVaNHVnVjBzVkJRTGtPTlVLN3BCdkZUdDNTa0h1NUphanRUcQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-04-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Q4 Preview: Profit Seen 14% Higher As Volumes Offset Flat Pricing - NDTV Profit",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcFktc0x0c3lSZHZETDFxa2x1Q3cweDJETjFYQjUzaFdBMnVJR1lqdmVmb1dmcnhfanYxR04tS1JMSWZMU1F3aVFzNEF6X1k4eFFsNmJtUk4wYkhoX25LYmM5LVB3aTNrb29iVVJGN1o4UXVVVWlqX0ZMaWUyM29JOXhJZUxDQUJVd3R3b3BMRmFON1FMMGw0UmFBMGEzVnNCX0QyQ2hfV3FIZTRQWTNNUVNSNDN1T19WTnBITnFNWWtCZ9IBygFBVV95cUxQbGxJLXBMZkZjNVIxWlhqaWRvZHZfc0hFRG1EQ2pnVUxPRzNnSU9mUGJmc0I1U3lqXy03Tm9CbU82T0VoYlZCazhrdVlUamlURkFheUpqbmJXZ1V3bEs0YUZtWmxFTkhYRFlRSjl0R3lLdGlpa2Y1Qm9YLWpTM2VjTmNMc0xaMXM3c3g4MUxEbDFfRzBWVzBKbzBFcTBiLXBuV2ozZGJWVkphQUZIRHVtdjVjaXV2azBremFVT0poOFBJajJIZjE2Wm93?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Q4 results 2026: Maruti Suzuki, Vedanta, Adani Ent, HUL among companies to declare earnings next week; full list here - Mint",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYmNoNG5WVDVENkVrTU9MNzB3c3puMERRak0wdjFYZDdmV0VQandkSDQtMjVZTmRVX3ZRWjdTbkxLclRkbWJwcmppWUw3ZzZzaUNydVBjSUpSaWpYRDltM3BBa0EzOVpfZEFMR3M1VTJQODB5TUlaODIteHNjSm1mY0MwSGdrUW1IanBLNWZ3Ynd6alhRMW05RnpaYTBheUw5TXJfamlqU1dFazNMU0laN01SYlctOF91WWJRZmFPRmxKWlRYckRtMmRPZVJ0M1FVZ2xXRXFBcHZJWWVxNUZkdW5mTGJ5MVQ1NEVVdkEyY0x1cFI0WWk3cFBBOUZERUYzRVNrbTNpY0dIWnVZM0NB0gGUAkFVX3lxTE44NGJYQlRTeUg5cWhqbkRKV3E2QUlMTnRpWDhMaWUtWnNPSHhMTUJmNGFmak41bmY0cEV5dlFZS0VybEQwY0Zkc05IR0NWRllSZWtGNDJQb05NSkZZbVlHTFEzdU9UVE53NmRKY1ppZGs3YUJ5elB4SFM0TzJ2QVlkcXphUUZJaW1PUWNBalZFTGxYOXg3ZUFMdWlTR1J5NHJ2VE9pWVc4ZExrR1V5c3BYd05qbXFMWW1oUEE4MGZUQ0Y3Q0phSGhCUWJZR2wtTmgzWXdtN2NZek1SclRaWHAzWmNpYzJSZWdHclRUQWI5RXZ3cmhDZS1NazFpeGZ0b1JtYzlXMkkxc1RDVWN0dHBBRWlFeg?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 3,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 3,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 296,
+    "dup_title": 186,
+    "too_old": 81,
+    "gate1_blocked": 13,
+    "gate2_blocked": 8,
+    "passed": 8,
+    "pass_rate": "7.3%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
+      "Agile Robots Acquires Europe and North American Assets of thyssenkrupp Automation Engineering - Auto",
+      "Holcim maintains targets despite Middle East conflict - Reuters",
+      "Cemex reports record first quarter EBITDA - megaproject.com",
+      "Heidelberg Materials to acquire full control of Turkish cementmaker Akcansa - Türkiye Today"
+    ],
+    "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-26 無水泥產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 3 則事件，焦點為UltraTech相關動態：「UltraTech Cement: Volume Up, But Rising Costs Squeeze Pro...」。主要關注主題為財報，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "UltraTech Cement: Volume Up, But Rising Costs Squeeze Profit Margins - Whales...（財報）",
+        "level": "yellow"
       },
       {
-        "text": "建議持續監控後續發展動態。",
-        "level": "green"
+        "text": "UltraTech Cement Q4 Preview: Profit Seen 14% Higher As Volumes Offset Flat Pr...（財報）",
+        "level": "yellow"
       }
     ]
   },
