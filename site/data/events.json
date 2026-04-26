@@ -324,6 +324,24 @@
     "sources": []
   },
   {
+    "id": "siam_cement-2026-04-24-021",
+    "date": "2026-04-24",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siam Cement set to close Vietnam plant next month - Bangkok Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSUd1b1Zpby1SVWdRVVRTVnNOeU05T09pSnZaSUlLNE5SLVIyZjZsTUtOVmpKTm5wekppc0hDX0xuSkh1blhTU1lOSmNJUjRoM1lra1VaOEJldzRzOUJUbjFhaVcwWnpBWVo4MmpGS0",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSUd1b1Zpby1SVWdRVVRTVnNOeU05T09pSnZaSUlLNE5SLVIyZjZsTUtOVmpKTm5wekppc0hDX0xuSkh1blhTU1lOSmNJUjRoM1lra1VaOEJldzRzOUJUbjFhaVcwWnpBWVo4MmpGS05oS1QzUk01aUdEcG52U2NCQ0ZsUmQtVWNVeGg4VDY4ZmZpcVVlVmRTVy14N2Q0NlNyOEptcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-04-23-001",
     "date": "2026-04-23",
     "companies": [
@@ -590,6 +608,64 @@
     ]
   },
   {
+    "id": "heidelberg-2026-04-23-020",
+    "date": "2026-04-23",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials doubles stake in Turkish cement producer, gains majority control - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN1NHZGVjXzlmTUtpTmVqdWZ5R2tWcUE0SFBpaWs1UHhfNm5CTWdfVEZFRkw3VmV6M0JJeGlRM3RVU2VZVkFCSGtod0VNS2lZRFRYRnMtcEczel85Nzk1V2NzY0pEZmZWeW5idmtpc3",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN1NHZGVjXzlmTUtpTmVqdWZ5R2tWcUE0SFBpaWs1UHhfNm5CTWdfVEZFRkw3VmV6M0JJeGlRM3RVU2VZVkFCSGtod0VNS2lZRFRYRnMtcEczel85Nzk1V2NzY0pEZmZWeW5idmtpc3hMMmQ3ZFA4T3EyMGtkODVRWHRhQnljV2prRENreFhzMHFDaThWX29QOWF2NFhsTnpXSFdwMVFZbEQzRzE2amVxYk41S3RxbjNLOFMxUTZDbHA3cTlQUnpNRi12QjF1UHlub2p5YW96ODRWOHA2eTh5Ymh2RWQ4dklXODhyZE5EUjc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-04-23-021",
+    "date": "2026-04-23",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Sets Final 2025 Dividend and Details Tax Treatment for H Shareholders - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTmdGSGRkOXFVRU8yd3YzSzlueE1CaEJzeUtHM1BZZ0Y4RjdxeGhlZzhuY244Qm9rTzFjd2lVekdKU0xHUWVKd2MxaEtsbmVOdDkzaE9TdWdfdHNpM09SUFZfbUJYZ0RZeWtTN0syRD",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTmdGSGRkOXFVRU8yd3YzSzlueE1CaEJzeUtHM1BZZ0Y4RjdxeGhlZzhuY244Qm9rTzFjd2lVekdKU0xHUWVKd2MxaEtsbmVOdDkzaE9TdWdfdHNpM09SUFZfbUJYZ0RZeWtTN0syRDlFNHNOUTdYckNHSEpzRkxwWTlvWGRFdGtpWjlOZ1FfVVdmZFBjT0NaZG9VUXRGbzZnc2hyRTZrUUozWmxyRFlyQzVZR0ptVElsOUlGNmV3QjAxZkJhX0NNMmkxREp6cUZsUlRBOTlSNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-04-23-022",
+    "date": "2026-04-23",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Files Initial Large Corporate Disclosure with SEBI - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVElwb1JGczhrb1JGaHdvMXhTaXcxSW54bnVPeWo4WGlGNXBsaUF0eGpDdmMySFFXQmg0T3lERE15cExWUmdrMVA0WTA5M2VKcXYtNEZqUDZfZm1La0FUbF81YmZuajg1YmRPRnpoUU",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVElwb1JGczhrb1JGaHdvMXhTaXcxSW54bnVPeWo4WGlGNXBsaUF0eGpDdmMySFFXQmg0T3lERE15cExWUmdrMVA0WTA5M2VKcXYtNEZqUDZfZm1La0FUbF81YmZuajg1YmRPRnpoUUlYMzZ4U3o4ek1kVE5IekJGOUlHZlZfRlRsQjdxSWNzeXlaN0dXVUxmVlM4b2c3eGo0MjhpWTNNcllzS1FWcll2TnhFWm1IWGZZRzlyQ2EyV19NUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "heidelberg-2026-04-22-007",
     "date": "2026-04-22",
     "companies": [
@@ -801,6 +877,24 @@
     "title": "Heidelberg Materials unveils 'Battery Bill' at Whatley quarry - World Cement",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVVxTFlyUnpFLV9UbFFDWFFhdjBSWDB0X1pnYXdRQlREUGpxdGJPeVNZSllsalQ3cWEyTlpyQmUxWUxIejFydHpvX2kxYmRPWWZmNTctZGdqX2hMWF9vMU1JdEtHNTRMbDJwR0oyLT",
     "sources": []
+  },
+  {
+    "id": "holcim-2026-04-22-020",
+    "date": "2026-04-22",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "What happens inside a NextGen Holcim plant? - Holcim",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFBoQWRDUjRWTEtsTkRyMWdZSGVTUDd6TlU0ZEM0d0swS2hyYUtWOFg4aFcweENVdXNVcHlGMUNFYkF0dlAzM0NIdEFVYlFwaGE2T3QtS2JIM3pXQUc2XzRnbHBzZzd3ZXFwaG9Gcl",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFBoQWRDUjRWTEtsTkRyMWdZSGVTUDd6TlU0ZEM0d0swS2hyYUtWOFg4aFcweENVdXNVcHlGMUNFYkF0dlAzM0NIdEFVYlFwaGE2T3QtS2JIM3pXQUc2XzRnbHBzZzd3ZXFwaG9GclR5VWZ3OHZOTURvVG84VWVkQUVkS1hyNDIyWUxmbFVpYw?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "vulcan-2026-04-21-002",
@@ -1588,6 +1682,43 @@
     "title": "Anhui Conch Cement (AHCHY) to Release Earnings on Monday - MarketBeat",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlJxN20taDNqT1o1djFuVHh2U0pzYVpfLWEyNFRZS1I4U3RTbFZHRTZ2cW0wYWNyTlpjU2tJRXp3SFpiTGNvTC1iSmZ1cWpudnlQTWpKNGtIenZ3SzQwQ2g4QmVZNzBSeGh5d3l1Uk",
     "sources": []
+  },
+  {
+    "id": "crh-2026-04-20-039",
+    "date": "2026-04-20",
+    "companies": [
+      "crh"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CRH Completes LSE Delisting",
+    "summary": "<p>NEW YORK – Apr. 20, 2026 – Further to the announcement made on March 13, 2026, CRH (NYSE: CRH) today confirms that the listings of its ordinary shares and its 7% preference shares on the official l",
+    "sources": [
+      {
+        "name": "crh",
+        "url": "https://www.crh.com/media/press-releases/2026/crh-completes-lse-delisting/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnbm-2026-04-20-040",
+    "date": "2026-04-20",
+    "companies": [
+      "cnbm",
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement Crosses 200 MTPA with 3 New Plants; Can It Compete with China’s CNBM? - Trade Brains",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUNFSXdxYV9MZHhlbi0xSWZUT0JaeVlrbmxBQzNjbl9Hb0Q0Y1QzdE5scFpacVpTRXdkOEtxS1dIVWUtUDF4OFJyWHF5U2hMdk5fQWIzNG5uTGg5N01xVy1NOENERHoweGw2azRWdV",
+    "sources": [
+      {
+        "name": "cnbm",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUNFSXdxYV9MZHhlbi0xSWZUT0JaeVlrbmxBQzNjbl9Hb0Q0Y1QzdE5scFpacVpTRXdkOEtxS1dIVWUtUDF4OFJyWHF5U2hMdk5fQWIzNG5uTGg5N01xVy1NOENERHoweGw2azRWdVJIVmV1b0FsS1hTN0RNMThXNGxmTUJ4ck1yZENYQWowbHhOc3lfU3lwVTBJeXBBbEtpUjRIZ2pmUWExNDQ?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "thyssenkrupp-2026-04-19-002",
