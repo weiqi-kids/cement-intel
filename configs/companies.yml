@@ -33,7 +33,8 @@ companies:
   - crh
   - cemex
   - heidelberg
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://ir.martinmarietta.com/rss/news-releases.xml
 - id: eagle_materials
   name: Eagle Materials
   aliases: []
@@ -48,7 +49,8 @@ companies:
   downstream:
   - holcim
   - crh
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://ir.eaglematerials.com/rss/news-releases.xml
 - id: thyssenkrupp
   name: thyssenkrupp
   aliases:
