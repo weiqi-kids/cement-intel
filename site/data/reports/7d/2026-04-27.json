@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T01:42:31.663460Z",
+  "generated_at": "2026-04-27T03:38:19.660336Z",
   "highlights": [
     {
       "rank": 1,
@@ -30,9 +30,9 @@
       "sentiment_this_week": 0.13
     },
     "inventory": {
-      "this_week": 8,
+      "this_week": 9,
       "last_week": 20,
-      "week_over_week_change": "-60%",
+      "week_over_week_change": "-55%",
       "sentiment_this_week": 0.0
     },
     "carbon_emissions": {
@@ -83,7 +83,7 @@
       "rank": 2
     },
     "ultratech": {
-      "event_count": 8,
+      "event_count": 9,
       "sentiment_avg": 0.0,
       "rank": 1
     },
@@ -111,51 +111,51 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 40,
-        "last": 51,
-        "change_pct": -21.6
+        "this": 109,
+        "last": 152,
+        "change_pct": -28.3
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 11,
+      "event_count": 24,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-22",
-      "event_count": 10,
+      "event_count": 22,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 6,
+      "event_count": 26,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 6,
+      "event_count": 25,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-25",
-      "event_count": 2,
-      "sentiment_avg": 0
-    },
-    {
-      "date": "2026-04-26",
       "event_count": 4,
       "sentiment_avg": 0
     },
     {
+      "date": "2026-04-26",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
       "date": "2026-04-27",
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 40 則事件，重點為「Asia Cement China: Q1 2026 posted a net loss am...」。Vulcan Materials、CEMEX表現正面，整體氣氛穩健。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 109 則事件，重點為「Asia Cement China: Q1 2026 posted a net loss am...」。Vulcan Materials、CEMEX表現正面，整體氣氛穩健。",
     "watchlist": [
       {
         "company": "Holcim",
@@ -167,7 +167,7 @@
       },
       {
         "company": "UltraTech",
-        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
   },

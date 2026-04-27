@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:42:31.595239Z",
+  "generated_at": "2026-04-27T03:38:19.597110Z",
   "top_events": [
     {
       "rank": 1,
@@ -26,6 +26,28 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkwzMW56QlZCNncwMHozTURJcTBYNjNWRTB5OUp2ZDBmVi00V3pZd1plRFpnUVh1eUhUVW1nZlRLUzU1Yl9oM0RpWEhjQTRuczlWZ193aXdEYmdCcVJxYW42ejRlcmRJSEQ4c25XQjh6OG1YQl9HSlREN195VzlRTWRMTElQX2FWdEUxdW83YmtPeGRHMnVrUjhFUW55aENlSDUtX1N4TzlxR1VlZ0pkU1RaVmEydU3SAb8BQVVfeXFMUGNTY0tlUDMtYnBBbkZ2dlp5MDFBY1FYUzhDZGRuX1JyTkREWDFFRGhKbXA5bm5rcGUxMnFzNVNwX3dzZjViWGZWbnVqX2Y4WU9KbURqZlN2MTJ2UURFbGctMDg4Y3JGa1IydHJDd3ZHY0VkNGNEdzg5LUpKeGdGaWFUQzNwYTVTQW1GaGFuZTMtYkw2c0VlU3Y2QU51a0NkTkd4RGJldEFuSFlfeTFlQk91TVVSNGxHX0lGRkdjSVU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ultratech Cement among 5 F&O stocks with a sharp rise in futures open interest - The Economic Times",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRjJodUhrejl4a1NzcHphZUs1M3JRNUczdWdZU2VmbFEzaXlad3V6MVZCYVE3ckE0em1hX1JxOXNUV2FqdHJLcFpwWmFYWWlBeUJNeU9kcXpzTGNNaG5hWVdQSzR3clZPZXRERnVKSXptTmlxb2hIR2x6VHdOM2J5ZTAwaTF2ZEZnSFE0bDQwZDN0c2szN3ZGYzctbG9hUmdrZ2hYTXg5UDA3ektBTkk3Y3UxTjhYMzZfZ3g3dnZ6M2U4U1pVbG90WXJuM0VxVHpPcXpaWVFKbFBWdHFySUtkTEN0VFE5bU9kTWdESXdLNGpXcFROdExBYnNiZ1JnMTRpY1E?oc=5"
     }
   ],
   "anomalies": [],
@@ -41,7 +63,7 @@
       "sentiment_7d_avg": null
     },
     "inventory": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -53,38 +75,38 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 2,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 2,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "ultratech",
-        "count": 1
+        "count": 2
       }
     ],
     "top_topics": [
       {
-        "id": "earnings",
-        "count": 1
+        "id": "inventory",
+        "count": 2
       },
       {
-        "id": "inventory",
+        "id": "earnings",
         "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 334,
-    "dup_title": 210,
-    "too_old": 96,
-    "gate1_blocked": 14,
-    "gate2_blocked": 10,
-    "passed": 4,
-    "pass_rate": "3.2%",
-    "gate2_block_rate": "8.1%",
+    "total_raw": 668,
+    "dup_title": 418,
+    "too_old": 191,
+    "gate1_blocked": 30,
+    "gate2_blocked": 22,
+    "passed": 7,
+    "pass_rate": "2.8%",
+    "gate2_block_rate": "8.8%",
     "gate2_samples": [
       "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
       "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
@@ -95,14 +117,18 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為UltraTech相關動態：「Stocks To Watch Today: RIL, IndusInd Bank, Coal India, Ul...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "summary": "今日共 2 則事件，焦點為UltraTech相關動態：「Stocks To Watch Today: RIL, IndusInd Bank, Coal India, Ul...」。主要關注主題為庫存、財報，市場情緒中性。",
     "signals": [
       {
         "text": "Stocks To Watch Today: RIL, IndusInd Bank, Coal India, UltraTech Cement & Mor...（財報、庫存）",
         "level": "yellow"
       },
       {
-        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "text": "Ultratech Cement among 5 F&O stocks with a sharp rise in futures open interes...（庫存）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]

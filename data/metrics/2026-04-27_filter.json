@@ -1,11 +1,11 @@
 {
-  "total_raw": 334,
-  "dup_title": 210,
+  "total_raw": 668,
+  "dup_title": 418,
   "no_date": 0,
-  "too_old": 96,
-  "gate1_fail": 14,
-  "gate2_fail": 10,
-  "passed": 4,
+  "too_old": 191,
+  "gate1_fail": 30,
+  "gate2_fail": 22,
+  "passed": 7,
   "gate2_samples": [
     "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
     "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
