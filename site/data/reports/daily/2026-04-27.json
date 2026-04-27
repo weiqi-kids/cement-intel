@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:38:19.597110Z",
+  "generated_at": "2026-04-27T10:15:41.262525Z",
   "top_events": [
     {
       "rank": 1,
@@ -29,10 +29,82 @@
     },
     {
       "rank": 2,
-      "event_id": "ultratech-2026-04-27-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Ultratech Cement among 5 F&O stocks with a sharp rise in futures open interest - The Economic Times",
+      "event_id": "unknown-2026-04-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU steelmakers set for rebound as Iran war hurts more exposed Asian peers - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzZoQ2pJY3FHd3dLVWhWbDVrUUw2Y2xNTWwtdmpTdGw2ODUyUl9UTXN5UzB6VUdLNXViWTJoUGNHMkxaWEN4RmtRaGRWRlV5RUdmOGhfT3A0S2xpRHViNzZFc182ZThkS0RTVzlpU1AwbmdfSUxlU3RTem1ybE5XdE5wQUd5d3dQa051TnBHVUo0d1RzY0pEb293QXBocVpkS2VtUHFyN0ZxVlBVQ1hZRw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-04-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Tradi - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk9CNHJDTVM5NVZ5QVFEdWxWWDZnR2FSSGl6bEhwZGJjYko0YjVTaGo5UGlVclppOElJSkNKMUZPRDVTZElLd3dsUlM3cWF2OXZyZExXTEhJZjFJVlVpbmZJQ1lEZ1VSX0JRN2dPd0NvMGFsNDhKQ280cnpaWm53eUhFakFSSWF4b1ozV1ZGR0ltNHktWkFTYmFUVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "anhui_conch-2026-04-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anhui Conch Material Technology Sets 2025 AGM and Dividend Eligibility Timetable - TipRanks",
+      "companies": [
+        "anhui_conch"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWFNSFFwQ2R6SFVVRUdieVYzOExnY3dzVkxab3pacC1oSXhKb01rZGMtdUFVak5wLUphRTAzeW9uUk16QVMyN1NWU1FUOHlNVWlmSS1qSmR0RS1iY3FpUE96NnNzdjE2NFZ4bUFTVjNiLTJoRk9FaTdxMUVIcHRyT3MtNkpLbktWY3hzYWo4eVljY2ZGME16R1FRTE5wa0Q1UnU1TWdKc0Y2ME9VeHJuWUNydkJwemdiMXhzRHphVkpEZjZVVi1MRVR1a1M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-04-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's UltraTech Cement beats profit view on improved demand - Reuters",
       "companies": [
         "ultratech"
       ],
@@ -41,19 +113,29 @@
         "suppliers": []
       },
       "topics": [
-        "inventory"
+        "earnings"
       ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "positive",
+        "score": 0.5
       },
-      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRjJodUhrejl4a1NzcHphZUs1M3JRNUczdWdZU2VmbFEzaXlad3V6MVZCYVE3ckE0em1hX1JxOXNUV2FqdHJLcFpwWmFYWWlBeUJNeU9kcXpzTGNNaG5hWVdQSzR3clZPZXRERnVKSXptTmlxb2hIR2x6VHdOM2J5ZTAwaTF2ZEZnSFE0bDQwZDN0c2szN3ZGYzctbG9hUmdrZ2hYTXg5UDA3ektBTkk3Y3UxTjhYMzZfZ3g3dnZ6M2U4U1pVbG90WXJuM0VxVHpPcXpaWVFKbFBWdHFySUtkTEN0VFE5bU9kTWdESXdLNGpXcFROdExBYnNiZ1JnMTRpY1E?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVJBNXozN09qbFc0T3NpRl85UmMyWXhJNDE0TF9kdWJveDlJZmJBaVJ6S1o2MnFrdHpXXzJMVGdBN3BaWHZ6SEkxSzVWbVdGcEhwdmxEYUlZYlQ5enNSTl9lQW90SFRiQUl1dmUzbzJNb08tZTdKQnh6aTQ3NFdtRFRrNW82ZTgyTnVWNVc0ZWN3ZGJvTXBKR1YzS20xLV9Xd1UyM3lkWnU?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 1,
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -62,8 +144,18 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "inventory": {
+    "raw_material_energy_cost": {
       "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -75,38 +167,62 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 25,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 2,
+      "positive": 4,
+      "neutral": 21,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "ultratech",
+        "count": 15
+      },
+      {
+        "id": "thyssenkrupp",
         "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
       }
     ],
     "top_topics": [
       {
-        "id": "inventory",
-        "count": 2
+        "id": "earnings",
+        "count": 18
       },
       {
-        "id": "earnings",
-        "count": 1
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 668,
-    "dup_title": 418,
-    "too_old": 191,
-    "gate1_blocked": 30,
-    "gate2_blocked": 22,
-    "passed": 7,
-    "pass_rate": "2.8%",
-    "gate2_block_rate": "8.8%",
+    "total_raw": 1004,
+    "dup_title": 616,
+    "too_old": 281,
+    "gate1_blocked": 43,
+    "gate2_blocked": 33,
+    "passed": 31,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "8.5%",
     "gate2_samples": [
       "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
       "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
@@ -117,18 +233,18 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 2 則事件，焦點為UltraTech相關動態：「Stocks To Watch Today: RIL, IndusInd Bank, Coal India, Ul...」。主要關注主題為庫存、財報，市場情緒中性。",
+    "summary": "今日共 25 則事件，焦點為UltraTech、蒂森克虜伯、海德堡材料相關動態：「Stocks To Watch Today: RIL, IndusInd Bank, Coal India, Ul...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Stocks To Watch Today: RIL, IndusInd Bank, Coal India, UltraTech Cement & Mor...（財報、庫存）",
         "level": "yellow"
       },
       {
-        "text": "Ultratech Cement among 5 F&O stocks with a sharp rise in futures open interes...（庫存）",
-        "level": "green"
+        "text": "EU steelmakers set for rebound as Iran war hurts more exposed Asian peers - R...（財報）",
+        "level": "yellow"
       },
       {
-        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]
