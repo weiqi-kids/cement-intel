@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:42:31.595239Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ultratech-2026-04-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stocks To Watch Today: RIL, IndusInd Bank, Coal India, UltraTech Cement & More - NDTV Profit",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkwzMW56QlZCNncwMHozTURJcTBYNjNWRTB5OUp2ZDBmVi00V3pZd1plRFpnUVh1eUhUVW1nZlRLUzU1Yl9oM0RpWEhjQTRuczlWZ193aXdEYmdCcVJxYW42ejRlcmRJSEQ4c25XQjh6OG1YQl9HSlREN195VzlRTWRMTElQX2FWdEUxdW83YmtPeGRHMnVrUjhFUW55aENlSDUtX1N4TzlxR1VlZ0pkU1RaVmEydU3SAb8BQVVfeXFMUGNTY0tlUDMtYnBBbkZ2dlp5MDFBY1FYUzhDZGRuX1JyTkREWDFFRGhKbXA5bm5rcGUxMnFzNVNwX3dzZjViWGZWbnVqX2Y4WU9KbURqZlN2MTJ2UURFbGctMDg4Y3JGa1IydHJDd3ZHY0VkNGNEdzg5LUpKeGdGaWFUQzNwYTVTQW1GaGFuZTMtYkw2c0VlU3Y2QU51a0NkTkd4RGJldEFuSFlfeTFlQk91TVVSNGxHX0lGRkdjSVU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 210,
+    "too_old": 96,
+    "gate1_blocked": 14,
+    "gate2_blocked": 10,
+    "passed": 4,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
+      "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
+      "Iran and the USD 100 Mark – Total Oil Madness Drives ITM Power, Zefiro Methane, thyssenkrupp nucera,",
+      "Holcim maintains targets despite Middle East conflict - Reuters",
+      "Cemex reports record first quarter EBITDA - megaproject.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為UltraTech相關動態：「Stocks To Watch Today: RIL, IndusInd Bank, Coal India, Ul...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stocks To Watch Today: RIL, IndusInd Bank, Coal India, UltraTech Cement & Mor...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
