@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-28",
+  "total_events": 18,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cemex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 10,
+      "sentiment_avg": 0.33
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.16
+    },
+    "capacity": {
+      "count": 4,
+      "sentiment_avg": 0.88
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

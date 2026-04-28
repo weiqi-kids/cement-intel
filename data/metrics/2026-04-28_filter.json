@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 13,
+  "gate2_fail": 18,
+  "passed": 41,
+  "gate2_samples": [
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
+    "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $323, Maintains Outperform Ratin",
+    "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
+    "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+    "Thyssenkrupp’s Clock Is Ticking: A Canadian Submarine Prize, an Elevator Payday, and Steel’s Ble - A"
+  ]
+}

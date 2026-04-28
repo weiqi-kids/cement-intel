@@ -1,0 +1,274 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:14:58.858536Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ultratech-2026-04-28-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "UltraTech Cement achieves record FY25-26 performance and surpasses 200Mta capacity - cemnet.com",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUpiWmFRSU5HTmpDV0lPNUVjdFo2ODdJSHRVUDU2X2c4Mm5fdEN2VFdaZDBDMmtGV3J5cF9zT0p6Vnh6ZnJOSVlEZjRUMFpNTEprQ2VUeG5UT2NzNmpSbmZ3R2I2ZHNpODBORVh0ekN1MWs4S1RVTlk4MGZicU5DQW92WkpfU3JBOXpGbE85NlJNRnVnNkJkZERQb2sxNXJCRVRhY3pOdzlGVUdHOTR2aENlWkNnYVZVdmt0SEkxa09Wb1VqUUpN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-04-28-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "UltraTech Cement Ltd (BOM:532538) Q4 2026 Earnings Call Highlights: Record Growth and Strategic ... By GuruFocus - Investing.com Canada",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFRDSFhSV3pkOW5RbWQzOUNIZEZla1lfdVY0U0p2N01TZUJGTDR3cXdmQk5kQXRBQmpDR054LXlpQ1R4OUhqVDVoMUx5S1BnR1pqSXlDM1lCWm9QTUc4RHBDem5JQXBPTWVBa1Njem9FdlVOcUtHaUItakRKTFNadUpZbjNSOV82bzZoZkhtZHh2WGNNX3dZNkNBejc3Tmk4a19hS0NidGx1bFF5QVZCWmNKMDh1b3VzLXdCbktoenF4cmhmWXRzLXgxd0N4TTJIVFg1dldCanhUczQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-04-28-010",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Ultratech Cement: Record Dividend, 200 MTPA Capacity Boost Amid Cost Rise - Whalesbook",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZjlSZ1JxSTFGNk1kV0JWQUNNTFlxakZpTkV0cXMyZGdnQ0hTZVFsb0gwVXEwZzVZc09HLVJZdHVPblVtM2ZmV1c1WGd5aWNldzZxLXY5TmhLWDJjTmZieXNPQnBjcEZjZWFxeDg4MVBISENlZjhvWHR3emFpN21CS0lEQWhaQlVFVktUa3JNMlZESTNva1E0N1RjNXJMQTZyOXd0ZXRwengzeG5ZdEhGZml2UXVkRGswa2twbHBOaTh1T2U2a0tfV1NUbE9WTU1yTURMMzUwbFBJbTBmcGp1SGRqVzhDdHZhNHlYbVJXMjN4OE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-04-28-014",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "UltraTech Cement achieves record FY25-26 performance and surpasses 200Mta capacity",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181246/ultratech-cement-achieves-record-fy25-26-performance-and-surpasses-200mta-capacity.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "cemex-2026-04-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex UK divest Wick flooring operation to Treanor Pujol - Agg-Net",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmxVQmZnRzJOaEhWWWRvS3BBZ1pmM2FkdVNHVGo5ZUt2Q19mYWVfQ185aE53bFMzQjlKdEk2Z2hLYjNNWjZKZ2QzNW9IV21VdTN5UXhIcmpGRjJrNDMwRFlleHRnMmtKc0pCb2lSRzJ0dElaNTJReElCMkg5QWVoRk9oRTNfQTdXdHFKMlJn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.88,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 10
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 174,
+    "too_old": 91,
+    "gate1_blocked": 13,
+    "gate2_blocked": 18,
+    "passed": 41,
+    "pass_rate": "25.2%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
+      "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $323, Maintains Outperform Ratin",
+      "From $11 to $20 Per Ton: What Vulcan Materials Investor Day Revealed for 2026 - TIKR.com",
+      "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+      "Thyssenkrupp’s Clock Is Ticking: A Canadian Submarine Prize, an Elevator Payday, and Steel’s Ble - A"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為UltraTech、蒂森克虜伯、Vulcan Materials相關動態：「UltraTech Cement achieves record FY25-26 performance and ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UltraTech Cement achieves record FY25-26 performance and surpasses 200Mta cap...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "UltraTech Cement Ltd (BOM:532538) Q4 2026 Earnings Call Highlights: Record Gr...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

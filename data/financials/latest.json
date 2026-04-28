@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T10:15:37.973946Z",
+  "updated_at": "2026-04-28T10:14:55.646170Z",
   "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
   "companies": [
     {
@@ -49,9 +49,9 @@
       "name": "CEMEX",
       "ticker": "CX",
       "currency": "USD",
-      "ar": 1948965000,
-      "ar_prev": 1770000000,
-      "ar_qoq": "+10%",
+      "ar": null,
+      "ar_prev": 189000000,
+      "ar_qoq": "N/A",
       "inventory": 1510371000,
       "inv_prev": 1527000000,
       "inv_qoq": "-1%",
@@ -147,9 +147,9 @@
       "name": "Siam Cement",
       "ticker": "SCC.BK",
       "currency": "THB",
-      "ar": 48229000000,
-      "ar_prev": 52067000000,
-      "ar_qoq": "-7%",
+      "ar": 2188372000,
+      "ar_prev": 2408730000,
+      "ar_qoq": "-9%",
       "inventory": 67110547000,
       "inv_prev": 69176626000,
       "inv_qoq": "-3%",
