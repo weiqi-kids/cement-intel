@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 10,
+  "gate2_fail": 14,
+  "passed": 30,
+  "gate2_samples": [
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
+    "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $323, Maintains Outperform Ratin",
+    "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+    "Thyssenkrupp’s Quiet Period Masks a Storm of Strategic Decisions - AD HOC NEWS",
+    "Switzerland: Holcim’s lighthouse for sustainable building innovation - Holcim"
+  ]
+}

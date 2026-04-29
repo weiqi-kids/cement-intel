@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-29",
+  "date_range": {
+    "start": "2026-04-23",
+    "end": "2026-04-29"
+  },
+  "generated_at": "2026-04-29T10:06:43.720353Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "asia_cement_china-2026-04-24-010",
+      "date": "2026-04-24",
+      "title": "Asia Cement China: Q1 2026 posted a net loss amid weak demand and price volatility, with H2 improvement expected - TradingView",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 56,
+      "last_week": 39,
+      "week_over_week_change": "+44%",
+      "sentiment_this_week": 0.14
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 17,
+      "week_over_week_change": "-47%",
+      "sentiment_this_week": 0.0
+    },
+    "carbon_emissions": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.12
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "raw_material_energy_cost": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.25
+    },
+    "capacity": {
+      "this_week": 8,
+      "last_week": 14,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.44
+    }
+  },
+  "company_7d_summary": {
+    "vulcan": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "ultratech": {
+      "event_count": 31,
+      "sentiment_avg": 0.15,
+      "rank": 1
+    },
+    "anhui_conch": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "cemex": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "holcim": {
+      "event_count": 5,
+      "sentiment_avg": 0.4,
+      "rank": 3
+    },
+    "thyssenkrupp": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "heidelberg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "siam_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 157,
+        "last": 160,
+        "change_pct": -1.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-23",
+      "event_count": 28,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 25,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 46,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 32,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 14,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-23 ~ 2026-04-29）共 157 則事件，重點為「Asia Cement China: Q1 2026 posted a net loss am...」。Holcim、Vulcan Materials表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "UltraTech",
+        "reason": "本週出現 31 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Holcim",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

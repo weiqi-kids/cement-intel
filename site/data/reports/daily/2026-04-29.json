@@ -1,0 +1,248 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:06:43.649076Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-04-29-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SaltX and Holcim achieve breakthrough in electrified cement production - marketscreener.com",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUl9CVG0wcGZicEZXaUE1YTRHUVBQMVJ5Mnd3OS1mR2pyNEhfNHRTQVZ5RnBKS1U1eW55Vl9kYVNxa2dubDdodlY4cVZCNGxhUTcxX1lBQWMtVlNLNXhzMTV5Sk9ub3dseTRBVmpVN25jSUF6TDBSaFpyLWdQRmRCdVhtRlVpM2ZaZHhWTjFUY3dLT1VnQzF4bkQ2SXd2ZUJKT1hrM0ExNmtLMTF6QnB3M0wzZjU1d3dUWGNzVUROeXI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-29-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cement exports from Bangladesh are booming",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.cemnet.com/News/story/181255/cement-exports-from-bangladesh-are-booming.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Finland’s Kone to buy German rival TK Elevator in blockbuster $34.4 billion deal - CNBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZT3RxM1BlRWNQYk5IdUZQYTlRdGNTMEIxeHNtVG5PblFUb3pNa2d5aXA4X0Ywd1FQZUplOEU4YW5xNmR1MGxCdzNEQmhmdk84aWNweFBocTFKRmZUaXhTa0hTN1d0bi01aGY2YW5zb2NUVEt3WFJrS3h4WEtzeG_SAYQBQVVfeXFMTVhGRTF2Y3dYTFhVQjFxSFlITVZIcFVmaVdzS01qeU50VU9FMF83cktuTzlmQTFyYVFlZnZWMXNYQ2s2NkMxNERDOERlOVRYdVFMTkZJeklrbTc4ZE11SWNIMEp0RjNJQkt2VjNjcVhuZVd1TTlNSWJWcUZlZHk3dG5FWWRf?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-04-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp shares surge as former elevator unit sold to Kone - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDBrRmwybnhsd0g5NzlKUmJUMTdoeGdnQ1BTSVZIYlFZS2RoTDUxY3d5dXpnU0JaY0EwS1hvMy1mTjBNYTYyVlczU2diTzMzRmlDb2xYek9TQnRySmt3Y3lnbDdtall0ZEFBSGJxMGxaZHdxX0VuODRzeDQwMmdZUjBpZVBOZWpMal9RczVRdE93SDdQRGk2ZjY2dF9sSXFBZkFCRWJWNktZeFJxX05HUExvcUZLQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-04-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Finnish company Kone Corporation has invested 29.4 billion euros to acquire ThyssenKrupp Elevator, set to become the world's largest elevator manufacturer. - 富途牛牛",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdENON0RrOVdaSUFiOVdRRGpjNHFmdnluUmFtWlhSdVczSEVPLVJ0RERKNk41eWhkSW1rVDVkNWtFdXhna2d1clVneTk2RXVqNk93Q2hXSnAwUXR3NGdMeWRQM2stdkVleFA3THpyVWZjSjFwN2FBOFNsVy1UMC1zb3BwWVp5ZERGRlJsMjFJcWxDOUJoOUxOeGFjZ1FpQllHTXpSVXhkSEQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.27,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "siam_cement",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 182,
+    "too_old": 100,
+    "gate1_blocked": 10,
+    "gate2_blocked": 14,
+    "passed": 30,
+    "pass_rate": "19.5%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Its Strong Multi‑Year Run? - simplywall.st",
+      "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $323, Maintains Outperform Ratin",
+      "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+      "Thyssenkrupp’s Quiet Period Masks a Storm of Strategic Decisions - AD HOC NEWS",
+      "Switzerland: Holcim’s lighthouse for sustainable building innovation - Holcim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為蒂森克虜伯、Holcim、Siam Cement相關動態：「SaltX and Holcim achieve breakthrough in electrified ceme...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SaltX and Holcim achieve breakthrough in electrified cement production - mark...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Cement exports from Bangladesh are booming（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

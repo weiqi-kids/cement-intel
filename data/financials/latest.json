@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T10:14:55.646170Z",
-  "quarter": "2025-03-31, 2025-06-30, 2025-09-30",
+  "updated_at": "2026-04-29T10:06:39.787890Z",
+  "quarter": "2025-06-30, 2025-09-30, 2025-12-31",
   "companies": [
     {
       "id": "anhui_conch",
@@ -203,14 +203,14 @@
       "name": "UltraTech",
       "ticker": "ULTRACEMCO.NS",
       "currency": "INR",
-      "ar": 58902500000,
-      "ar_prev": 43631200000,
-      "ar_qoq": "+35%",
-      "inventory": 95629800000,
-      "inv_prev": 90282800000,
-      "inv_qoq": "+6%",
-      "alert": true,
-      "quarter_date": "2025-03-31"
+      "ar": 60287500000,
+      "ar_prev": 58902500000,
+      "ar_qoq": "+2%",
+      "inventory": 96942800000,
+      "inv_prev": 95629800000,
+      "inv_qoq": "+1%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "vulcan",
