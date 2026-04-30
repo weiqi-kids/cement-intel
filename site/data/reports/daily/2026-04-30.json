@@ -1,0 +1,303 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:07:51.968192Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-30-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "VMC Q1 2026 Deep Dive: Data Center Demand and Public Infrastructure Drive Outperformance - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVXJJd3dTYXU2a1ZJWEw2aEE4WXVFcC1CUzVQS0V1UVFKX2JYTHpwRWVQT3RNOExZWk1VNnh4bVpIU3dXdWJaeHF3aTFGX2tJbGxXYlpTSF8wZUxxUkc1dWxlYW1HTlkxV213QTlXamdFWEF1cUE0ZkNWMURrRUVIYTFkb0ZubmZZNmxWT3h4elRDQXF5cFJIYTFCT05wa25DRldKM1F0REVLVUUtOXVkQ0JXdVN2RUFxSmRVOGpOS3Z4RjgxVE54Yk5ZZnZSV3pUZGw4V3l4TFRSVzNJaTluM2dR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-04-30-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SaltX and Holcim achieve breakthrough in electrified cement production - cemnet.com",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWJQeXQ2NGRhTktoOU5oOHVWaF84WUxVdEhHa3pSdlpHMmV1ODJTajBnbHg1U0JHMVdpYmg4ZmZURTltMnZzcnVSUWl3WTh3bktkMlZpb3NnUUFaVzNiN0FMc0Q1YmRidXBxWHRSc25Lb0szSVAyQWk2bmt2S1NDTTJ4X1hfbFFMY1JGVmpzWGNWZ2ZCVkRmaWpXbVk5ZGktaTJxYmxieUdlQ05hWE9DNXZqeF84aU0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-04-30-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Pronto Announces Expansion of Autonomous Haulage Operations Across Two New Heidelberg Materials Sites in 2026 - Business Wire",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYmF4RzNRZTgwaUJmNWZRNUpnNk1fd2xOQ1oxbHRRa1VGeHZsTEl6TWYwT3JRSXg4clc0S2x2Qk50eE0ydUhmam5saVlDYmRxR3gyV0d4Sy1ST04tS09sZ3AtZDVreGVhR2lLT3lpR0hPVTg0cjd4QUpRUVRqdEV1dzlWdmtLTzdEenR5SzFRaU96Q3FqeXV1ak5YeXpzU212bHVJYlpqTWY1WEs5YjFOdmNLS25xa1NKOHkxREpJeTB6djBlenc3UjE1NlpRZUYwUkdwY1ktQ2syTzgzbVF0SUEwNTFxcl9KUmdyeEZrNDljNWtfUE5nd2ZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crh-2026-04-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CRH Reports First Quarter 2026 Results",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan-2026-04-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials reports year-on-year boost in earnings - Construction & Demolition Recycling",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWNXaFhlUEdfelRzZ2d1Mk94SVVnZXh2MHBkU3VDNjVRMkMzek80c0V1Nkdqbk8zbUFXTEFlU184NHdWZXh6X2pVeXdRYW9lYklFYWxWREdBSjhmLV9XYnEtMVY3ZUx3T1pkeFRvcGNIOUREY1VPbk9SYk1DVmZjQ2dLS3h4M0k1MFR0c3JOYTBPU2hXeVFtOWZhTTU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 5
+      },
+      {
+        "id": "vulcan",
+        "count": 4
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "ultratech",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 171,
+    "too_old": 85,
+    "gate1_blocked": 7,
+    "gate2_blocked": 12,
+    "passed": 59,
+    "pass_rate": "36.2%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+      "Thyssenkrupp Could Cash In Big If Kone Buys TK Elevator - Finimize",
+      "Thyssenkrupp’s Elevator Windfall: A €3.27 Billion Payout That Could Reshape the Conglomerate - AD HO",
+      "THYSSENKRUPP : JP Morgan is Neutral - marketscreener.com",
+      "Switzerland: Holcim’s lighthouse for sustainable building innovation - Holcim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為海德堡材料、Vulcan Materials、蒂森克虜伯相關動態：「VMC Q1 2026 Deep Dive: Data Center Demand and Public Infr...」。主要關注主題為財報、展望、碳排放，市場情緒中性。",
+    "signals": [
+      {
+        "text": "VMC Q1 2026 Deep Dive: Data Center Demand and Public Infrastructure Drive Out...（基建支出、財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "SaltX and Holcim achieve breakthrough in electrified cement production - cemn...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

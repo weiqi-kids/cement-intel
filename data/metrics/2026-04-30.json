@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-30",
+  "total_events": 24,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "vulcan": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "thyssenkrupp": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 2,
+      "sentiment_avg": 1.0
+    },
+    "heidelberg": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "ultratech": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "siam_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "capacity_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 15,
+      "sentiment_avg": 0.0
+    },
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "carbon_emissions": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
