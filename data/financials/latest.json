@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T09:47:16.963196Z",
-  "quarter": "2025-06-30, 2025-09-30, 2025-12-31",
+  "updated_at": "2026-05-02T09:07:23.278574Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "anhui_conch",
@@ -35,14 +35,14 @@
       "name": "亞泥中國",
       "ticker": "0743.HK",
       "currency": "HKD",
-      "ar": 262970000,
-      "ar_prev": 298334000,
-      "ar_qoq": "-12%",
-      "inventory": 537098000,
-      "inv_prev": 532364000,
-      "inv_qoq": "+1%",
-      "alert": false,
-      "quarter_date": "2025-06-30"
+      "ar": 330616000,
+      "ar_prev": 262970000,
+      "ar_qoq": "+26%",
+      "inventory": 550638000,
+      "inv_prev": 537098000,
+      "inv_qoq": "+3%",
+      "alert": true,
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "cemex",
@@ -109,8 +109,8 @@
       "ar_prev": 2627700000,
       "ar_qoq": "-14%",
       "inventory": 2750800000,
-      "inv_prev": 2741400000,
-      "inv_qoq": "+0%",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -120,11 +120,11 @@
       "ticker": "HOLN.SW",
       "currency": "CHF",
       "ar": 1714000000,
-      "ar_prev": 2151000000,
-      "ar_qoq": "-20%",
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "inventory": 1716000000,
-      "inv_prev": 1729000000,
-      "inv_qoq": "-1%",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -133,14 +133,14 @@
       "name": "Martin Marietta",
       "ticker": "MLM",
       "currency": "USD",
-      "ar": 715000000,
-      "ar_prev": 984000000,
-      "ar_qoq": "-27%",
-      "inventory": 1078000000,
-      "inv_prev": 1034000000,
-      "inv_qoq": "+4%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 780000000,
+      "ar_prev": 715000000,
+      "ar_qoq": "+9%",
+      "inventory": 1213000000,
+      "inv_prev": 1078000000,
+      "inv_qoq": "+13%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "siam_cement",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 10,
+  "gate2_fail": 13,
+  "passed": 27,
+  "gate2_samples": [
+    "VULCAN REPORTS FIRST QUARTER 2026 RESULTS - PR Newswire",
+    "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+    "ThyssenKrupp (OTCMKTS:TYEKF) Trading 14.3% Higher - Still a Buy? - MarketBeat",
+    "Thyssenkrupp Could Cash In Big If Kone Buys TK Elevator - Finimize",
+    "Switzerland: Holcim’s lighthouse for sustainable building innovation - Holcim"
+  ]
+}
