@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 11,
+  "gate2_fail": 15,
+  "passed": 14,
+  "gate2_samples": [
+    "VULCAN REPORTS FIRST QUARTER 2026 RESULTS - PR Newswire",
+    "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+    "Thyssenkrupp, Jindal pause talks on potential sale of steel unit - Yahoo Finance",
+    "Thyssenkrupp Could Cash In Big If Kone Buys TK Elevator - Finimize",
+    "Net sales of ThyssenKrupp Group 2003-2025 - Statista"
+  ]
+}
