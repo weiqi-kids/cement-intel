@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-24",
+  "total_events": 9,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "anhui_conch": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": -0.12
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

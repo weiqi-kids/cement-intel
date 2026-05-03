@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-08",
+  "total_events": 7,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "asia_cement": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

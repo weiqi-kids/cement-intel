@@ -1,0 +1,92 @@
+{
+  "date": "2025-11-19",
+  "date_range": {
+    "start": "2025-11-13",
+    "end": "2025-11-19"
+  },
+  "generated_at": "2026-05-03T02:36:48.451822Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-11-17-028",
+      "date": "2025-11-17",
+      "title": "Intensity Reduction and Calls for Urgent Government Action to Accelerate Net Zero Mission - Business Wire",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "carbon_emissions": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "siam_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 10,
+        "last": 4,
+        "change_pct": 150.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-17",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-19",
+      "event_count": 5,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-12",
+  "total_events": 5,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cemex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,101 @@
+{
+  "date": "2025-12-05",
+  "date_range": {
+    "start": "2025-11-29",
+    "end": "2025-12-05"
+  },
+  "generated_at": "2026-05-03T02:36:49.313045Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "anhui_conch-2025-12-05-018",
+      "date": "2025-12-05",
+      "title": "Fly Ash Global Market Intelligence 2025-2032, Featuring China National Building Material Co., Anhui Conch Cement Co., UltraTech Cement, LafargeHolcim, Cemex and More - ResearchAndMarkets.com - Business Wire",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "raw_material_energy_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "anhui_conch": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "holcim": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "ultratech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "cemex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 1,
+        "change_pct": 100.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-05",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

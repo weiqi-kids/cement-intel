@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-06",
+  "total_events": 4,
+  "by_company": {
+    "heidelberg": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "taiwan_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "taiheiyo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

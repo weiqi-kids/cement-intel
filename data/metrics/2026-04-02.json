@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-02",
+  "total_events": 3,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2025-07-23",
+  "date_range": {
+    "start": "2025-07-17",
+    "end": "2025-07-23"
+  },
+  "generated_at": "2026-05-03T02:36:41.742939Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cemex-2025-07-23-058",
+      "date": "2025-07-23",
+      "title": "Colombia Cement Market Forecast and Company Analysis Report 2025-2034, with Cemex, Holcim, Grupo Argos, Kolcem, Cementos Y Calizas De La Paz, Alion, and Ultracem - Yahoo Finance",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cement_pricing": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "taiwan_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "ultratech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "cemex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "holcim": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-07-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

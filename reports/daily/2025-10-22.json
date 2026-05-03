@@ -1,0 +1,92 @@
+{
+  "date": "2025-10-22",
+  "generated_at": "2026-05-03T02:36:46.163517Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "martin_marietta-2025-10-22-022",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Saudi Arabia Ready Mix Concrete Industry Report 2025, Competitive Analysis of Holcim, CEMEX, CRH, Buzzi Unicem, Arabian Cement Co, Sika, UltraTech, Martin Marietta Materials, Colas, Taiheiyo Cement - ResearchAndMarkets.com - FinancialContent",
+      "companies": [
+        "martin_marietta",
+        "ultratech",
+        "cemex",
+        "crh",
+        "taiheiyo",
+        "holcim"
+      ],
+      "related": {
+        "customers": [
+          "cemex",
+          "crh",
+          "holcim"
+        ],
+        "suppliers": [
+          "martin_marietta"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "martin_marietta",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "taiheiyo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  }
+}

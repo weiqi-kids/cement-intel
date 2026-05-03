@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-18",
+  "total_events": 1,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "by_topic": {
+    "capacity_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

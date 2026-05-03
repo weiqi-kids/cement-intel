@@ -1,0 +1,127 @@
+{
+  "date": "2026-01-30",
+  "date_range": {
+    "start": "2026-01-24",
+    "end": "2026-01-30"
+  },
+  "generated_at": "2026-05-03T02:36:52.571991Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ultratech-2026-01-26-121",
+      "date": "2026-01-26",
+      "title": "UltraTech Cement Earnings Call Highlights Expansion Momentum - TipRanks",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "carbon_emissions": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 10,
+      "last_week": 4,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "ultratech": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    },
+    "taiheiyo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "holcim": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "asia_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "taiwan_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "siam_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cemex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "heidelberg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 11,
+        "last": 4,
+        "change_pct": 175.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-26",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-27",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-28",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-29",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-30",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

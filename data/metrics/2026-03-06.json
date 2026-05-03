@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-06",
+  "total_events": 3,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

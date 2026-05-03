@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-16",
+  "date_range": {
+    "start": "2026-03-10",
+    "end": "2026-03-16"
+  },
+  "generated_at": "2026-05-03T02:36:59.138275Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cemex-2026-03-11-048",
+      "date": "2026-03-11",
+      "title": "Cemex to shed some Colombia assets in $555 million deals; buyers include Holcim - Reuters",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": -0.05
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "siam_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "asia_cement": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 1
+    },
+    "cemex": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "holcim": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ultratech": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "vulcan": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "heidelberg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "crh": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 13,
+        "last": 9,
+        "change_pct": 44.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-10",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-11",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-12",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

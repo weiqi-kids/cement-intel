@@ -1,0 +1,80 @@
+{
+  "date": "2023-05-19",
+  "date_range": {
+    "start": "2023-05-13",
+    "end": "2023-05-19"
+  },
+  "generated_at": "2026-05-03T02:36:37.844707Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cnbm-2023-05-19-024",
+      "date": "2023-05-19",
+      "title": "CNBM and GCCA discuss decarbonisation and environmental protection - cemnet.com",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "carbon_emissions": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "cnbm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2023-05-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-05-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-05-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-05-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-05-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-05-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-05-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

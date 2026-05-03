@@ -1,0 +1,33 @@
+{
+  "date": "2026-02-02",
+  "total_events": 2,
+  "by_company": {
+    "martin_marietta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
