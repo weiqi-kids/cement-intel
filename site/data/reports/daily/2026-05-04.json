@@ -1,0 +1,258 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:15:24.536874Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-04-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Lucky Cement boosts solar power capacity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181283/lucky-cement-boosts-solar-power-capacity.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-04-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saint-Gobain 1Q sales slip 2%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181272/saint-gobain-1q-sales-slip-2-.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 High-Flying Stocks Strengthening Their Competitive Positions - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWk9wTG1yV0g0MFNtc0pNbFhMQ2RZOFJFOUMyRTdDWjNES2RBTmxOaUo2Qk05cG9ZdnZPc2F4SGgwZWxlQ2xnY3NSRFR5c0piNUhQV3FGb1plSEdhZkNWVmszMFJycGxldDJad0pBd3BqSUlTUDMyellPcnFjTHhRd3VzS3hSTzJuc0tJUXMwR251eEZSbk9R?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-05-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp, India’s Jindal Pause Talks for Steel Stake Deal - WSJ",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHpDQ2tCdGNIN0hkTVRrQUl3d0s0VlVWWUYtRnpIZDVYOVY1U05LWmRUZUhKaHpHNmlFNHNtVzNDSGpsbVRyOWxscHJJcFM5U1FKeW1Rbml5MUluOGlzZEJDOVRjZG92aWRMQXpnZFV3aFBUaXc3R0N6QXd2MnJqQVZGWEtzcC00V2JOeDZkbXRub2NmX3B4dHpKWTF3VHpTeTJSSzN3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-05-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp, Jindal put steel stake talks on ice as conditions shift - Seeking Alpha",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHRXN3A5SDJUMC1pa003N1pkaXFaLVpBSWtoVjFiZ2EtLWFuX3FYUWZWbnV4TUFiTzlSaFVRakwyUTI5dUJUZVVVakVrejd2U3ZWSXFkaFRNQ09mN3NQSnotNkpwWkxpWTYxZmp6ajRKeUlwRzFMRlUzSWh0eENlQ1BnTG5CcldjbUwxMnZvMmE1RzhadjNNXzg5MkU0WUw5dmxURGF2OUI4QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "siam_cement",
+        "count": 2
+      },
+      {
+        "id": "cnbm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 204,
+    "too_old": 92,
+    "gate1_blocked": 12,
+    "gate2_blocked": 15,
+    "passed": 13,
+    "pass_rate": "9.8%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+      "Germany's thyssenkrupp pauses talks with India’s Jindal on potential sale of steel unit - marketscre",
+      "BUY or SELL? thyssenkrupp nucera, Nordex, and Pure One Under the Microscope - news.financial",
+      "Thyssenkrupp, Jindal pause talks on potential sale of steel unit - Yahoo Finance",
+      "Thyssenkrupp Could Cash In Big If Kone Buys TK Elevator - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為蒂森克虜伯、Siam Cement、中國建材相關動態：「Lucky Cement boosts solar power capacity」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lucky Cement boosts solar power capacity（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Saint-Gobain 1Q sales slip 2%（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

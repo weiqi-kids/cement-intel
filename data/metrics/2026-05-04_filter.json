@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 13,
+  "gate2_samples": [
+    "Martin Marietta Appoints Christopher W. Samborski Chief Operating Officer",
+    "Germany's thyssenkrupp pauses talks with India’s Jindal on potential sale of steel unit - marketscre",
+    "BUY or SELL? thyssenkrupp nucera, Nordex, and Pure One Under the Microscope - news.financial",
+    "Thyssenkrupp, Jindal pause talks on potential sale of steel unit - Yahoo Finance",
+    "Thyssenkrupp Could Cash In Big If Kone Buys TK Elevator - Finimize"
+  ]
+}
