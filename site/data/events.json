@@ -1,5 +1,138 @@
 [
   {
+    "id": "thyssenkrupp-2026-05-05-001",
+    "date": "2026-05-05",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp’s €3.27 Billion Elevator Payday and a Broken Steel Deal: Two Sides of a Conglomerat - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUFYRERuMTdxOEFsZGJBWHhHc0NqTFhpcU16enZsbEpiX0p3VFU3S3JCOUduemxBUGpwS2NxWFNHeG43Wkd2R2o0Q1lCRXYzMWF0NGdLMS1IZG95N0ctMnBoTW14cnBOVHh2U2s2QW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUFYRERuMTdxOEFsZGJBWHhHc0NqTFhpcU16enZsbEpiX0p3VFU3S3JCOUduemxBUGpwS2NxWFNHeG43Wkd2R2o0Q1lCRXYzMWF0NGdLMS1IZG95N0ctMnBoTW14cnBOVHh2U2s2QWtEdTVwQlJuN3BMenF4UlMzN0FaenlaZE5WTUx6NVdkZFdwblhXSGNSYVNtLVVLdGJqektuYkQ1RkFIQTlHNnpiU2VlT1FMUGpTUU5adUwycW4wVVhM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-002",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's TCC plots European listing as green revenues overtake home market - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkc2SEJhOGh3ek93d3J6bllQQW1raUNWMVBqRXNuLUtUWTVjbmxIV3FSOTk1dmVNTENqLWZkT0RUNTQ0SUNVUEFvZ1p4RmdEU0dHSEtLQUluU1RXdVp6VGl1TUNsSHN3NXRKZEt6OT",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkc2SEJhOGh3ek93d3J6bllQQW1raUNWMVBqRXNuLUtUWTVjbmxIV3FSOTk1dmVNTENqLWZkT0RUNTQ0SUNVUEFvZ1p4RmdEU0dHSEtLQUluU1RXdVp6VGl1TUNsSHN3NXRKZEt6OTJ4bHBjdUh6cDJkWWpmZGptbklxZlQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-05-003",
+    "date": "2026-05-05",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Ultratech Cement And Other Cement Stocks Under Pressure as Polypropylene Price Soars 70% - Trade Brains",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFhQRjlvRm1NVXlsd0UtRXVZWVBnN2ZKT3hKdjNJNXJfNjNqS0VxM1RaY1llemo5M3F6aE82YTh6Zk95eWZyVnFWOG1xcjgyQ3EzYzB1eG1VT201U0Rtei1ZZF85ZWhmb1NZNFppTV",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFhQRjlvRm1NVXlsd0UtRXVZWVBnN2ZKT3hKdjNJNXJfNjNqS0VxM1RaY1llemo5M3F6aE82YTh6Zk95eWZyVnFWOG1xcjgyQ3EzYzB1eG1VT201U0Rtei1ZZF85ZWhmb1NZNFppTV90YnpvSGpDRHpBUVBJUjNpam5VYmtiSVB5Xy1uZ0hVWEQxeHhSM1BjVHp0Q3I5cVlDUzZZR2hWTFRjd3c3aFVtNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-004",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "TITAN completes acquisition of Keystone Cement in the US",
+    "summary": "  TITAN Group  has completed the acquisition of  Keystone Cement  in Pennsylvania, USA, marking the final step in a series of strategic transactions announce...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181289/titan-completes-acquisition-of-keystone-cement-in-the-us.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-005",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caribbean Cement posts strong 1Q26 results",
+    "summary": "  Caribbean Cement Co Ltd  reported a sharp increase in1Q26 earnings, supported by higher production following capacity upgrades and stronger demand linked t...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181287/caribbean-cement-posts-strong-1q26-results.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-006",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Nepal mandates tighter emissions standards for cement industry",
+    "summary": " The Government of Nepal has introduced stricter environmental standards for furnace-based industries, including cement plants and brick kilns, with existing...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181284/nepal-mandates-tighter-emissions-standards-for-cement-industry.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-007",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Knauf and BSR enter gypsum recycling joint venture",
+    "summary": "Knauf and Bodensanierung Recycling GmbH (BSR) of Ingolstadt have founded a new joint venture, Bayerische Gipsrecycling GmbH (BGR). \n",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181273/knauf-and-bsr-enter-gypsum-recycling-joint-venture.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-04-001",
     "date": "2026-05-04",
     "companies": [],
@@ -211,6 +344,202 @@
     ]
   },
   {
+    "id": "vulcan-2026-05-04-012",
+    "date": "2026-05-04",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Armstrong World and Vulcan Materials Shares Are Falling, What You Need To Know - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVNnMWh5NWt2eDJLeEt4OTRESDYyMmd2Mk10cGtPWEVybkxxRHVlMTdKUk44akp0Q3NhS1EtcTg2enowZHhjQm1za1FoVy1hWVFkWUsyc0NEa3pZNDJOZ2d3UWZtQVB0UExUQ1ZWaG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVNnMWh5NWt2eDJLeEt4OTRESDYyMmd2Mk10cGtPWEVybkxxRHVlMTdKUk44akp0Q3NhS1EtcTg2enowZHhjQm1za1FoVy1hWVFkWUsyc0NEa3pZNDJOZ2d3UWZtQVB0UExUQ1ZWaGQwckd4ZENxcDJPQk14WUJITkFDUGxyb0hDM0VtOGY0M0lJdWlkYVZkNTZlTUFvRVdObGdFaWVGS21ya3pIUkR1dFU3TzZwTkJKdHJlenRZQ1g4LTV1MmFJRWZMUjJscmlTdWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-04-013",
+    "date": "2026-05-04",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co. stock underperforms Monday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc1VIcjFMbGtET3VsUUhJVUdTWmlNQ0RBN1Zac0lxa2NZZTMwcEtHSjJOa0tTWDBaLUZHSEdtdjBIWEdBdDB1VHpfWXhpNlkyYXd2R01CNmZCUjJ4bHM1TFlQSEVwS0V1aVhYTGU1Yk",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc1VIcjFMbGtET3VsUUhJVUdTWmlNQ0RBN1Zac0lxa2NZZTMwcEtHSjJOa0tTWDBaLUZHSEdtdjBIWEdBdDB1VHpfWXhpNlkyYXd2R01CNmZCUjJ4bHM1TFlQSEVwS0V1aVhYTGU1YkM3LVBOcWUzdVpKTnFMYzVYMkExVWg2WG9LbFFYbFJoTHUzZUhzTEgzY29rb0w1NGRnV0Ezam5hYlRmV210a25wNFhDQmFLSGxDb2swS1JadjZnbm83OTNIVU9PV196emEzTlJWamFJQmJJY0x2UzVKUEJtR2toVGtP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-04-014",
+    "date": "2026-05-04",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials reports higher revenue on strong construction demand - Prop News Time",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjZCMkZPOW5EdXg2ODg4SDY4Tm1NdV9vY0VLSnRTNVV6X1BNdGd2eDd0N0JmeEY0Smp0ZENMNDE4eXB3ekVOdWhlRF9BOWNqSXpiU3BrOElKNWVIdjFvblRNX0Q4T3MyMWNIdE1GMX",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjZCMkZPOW5EdXg2ODg4SDY4Tm1NdV9vY0VLSnRTNVV6X1BNdGd2eDd0N0JmeEY0Smp0ZENMNDE4eXB3ekVOdWhlRF9BOWNqSXpiU3BrOElKNWVIdjFvblRNX0Q4T3MyMWNIdE1GMXZFbzJtMGZBOVh2UjJvbGRaMG1jNS1LelhYOTVob2I1R1p4ZDZKVUxZcFotdmpnS21PLVg4UlF6ZnA5cFlpUElENHEwa2dGbDZHR3U0dGhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-04-015",
+    "date": "2026-05-04",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp and Jindal have called off talks regarding the sale of the steel division - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZm1xOV9IWGJFTjJ4NjhWU0drSXJ6MXZBM1hUUUhIRUlrTkpQLU5kT3BMQW95NDNsVkNPRDBJRkdUNFVZUExPaF9IWFlrQ3pVVk02bTFRQW1DZmhrUjUxUGR4U3YwTGVlY3hpWTluQ1",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZm1xOV9IWGJFTjJ4NjhWU0drSXJ6MXZBM1hUUUhIRUlrTkpQLU5kT3BMQW95NDNsVkNPRDBJRkdUNFVZUExPaF9IWFlrQ3pVVk02bTFRQW1DZmhrUjUxUGR4U3YwTGVlY3hpWTluQ1FsYVJDa2xGWVJHaU9tZDJlYVd6TFh2ZE5qOGE0WnBaSnhUbTRGT0ZjV2pBSXVhX0NubHA1WGdlblNrZmZIU2RmaVVhVmrSAboBQVVfeXFMUFhOTmJ6b09UX2cyaEh0OEd6NVZqdVRKVW8xLWIyVUhYR1pLdWdHUHhPZ0dlLTlEby1JRU96REc0TER4M2FqTVg5dGR3Q2xUQ0YyT3hhcVh6OEctdW5TWUNYSExNNDloVllOS045Y2RvUUZ2STM3SWVULVd4RERGbFhXVDE3NTFMQmZSdnVKUjFTX2UxSmd6QjdGUHlqZ0s3aFpQRFFXQmV5QlRJOGMyTlBiY3RzUjFlMWtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-04-016",
+    "date": "2026-05-04",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ThyssenKrupp, Jindal pause talks on stake in TK Steel - MLex",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHAzRGEzeXppMEtEM3VITTNJUjlMT0wyRVRveDNWODc0QU5yMU00THNzdkFMUWtDQXZrUHJ2U3RBZWdMV1I4V0IwWnJOWU1ROU9zVGdhZWVobEtPOTN3cnJLS0ZuNGU0NmJEMUswZD",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHAzRGEzeXppMEtEM3VITTNJUjlMT0wyRVRveDNWODc0QU5yMU00THNzdkFMUWtDQXZrUHJ2U3RBZWdMV1I4V0IwWnJOWU1ROU9zVGdhZWVobEtPOTN3cnJLS0ZuNGU0NmJEMUswZDUzWV9URGEtUTNPSVVhOUNCUjhZcFpOQkVtd0E0UVFScmxlTFJiU3pZYzd5WdIBWkFVX3lxTE4wb3NvcXlxWlI2bWZmcGt2UDhkaGV5SjFaNmRqRDh5Y1RKU1ozNXVWQjRqZ25qMXl1RGJLaDJKb2l3aTZKcnRpeE1RT3pFUTg4Zk1STWV1VzU3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-04-017",
+    "date": "2026-05-04",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp shares swing to gains despite collapse of steel unit sale - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk9KY2k3TXpldEl1c19jeHNIMFJuUWd6dU5hQzd3OUhhVnNxYVhQVmhLMjVrWTlZSEZiTGpLeWZiZGdWTzRCbmV0bUNhS0lrUjd3RUpaVjlVNGM4cktiemc5TEVSLWVXV041bHNkTV",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWk9KY2k3TXpldEl1c19jeHNIMFJuUWd6dU5hQzd3OUhhVnNxYVhQVmhLMjVrWTlZSEZiTGpLeWZiZGdWTzRCbmV0bUNhS0lrUjd3RUpaVjlVNGM4cktiemc5TEVSLWVXV041bHNkTVl2dF9xM0Zkazh2TUpJTmRYdHQ0VHBWdWdacUNpWGg0MkY1WXRrS19Ocmc3cTVKdzdha3JRVWNOelZ2ejZfVW9HVTRldVdCQVVXT1N0bFhoaFY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-04-018",
+    "date": "2026-05-04",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SaltX and Holcim produce kiln-free cement clinker - Inspenet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBpOFg0MzM1QTNWVmcxQmU3dkpEbENfQ2wyVFhUekJERjUwa0NxT3BXVEd3OV9LNGY4Z2RrY1lLTkkwZkwxVlV3SGNpWkZqVGp0M1Zkd09GWWdyMDJhQVZqU01ST05wQ2REV3h6Z1dNWX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpOFg0MzM1QTNWVmcxQmU3dkpEbENfQ2wyVFhUekJERjUwa0NxT3BXVEd3OV9LNGY4Z2RrY1lLTkkwZkwxVlV3SGNpWkZqVGp0M1Zkd09GWWdyMDJhQVZqU01ST05wQ2REV3h6Z1dNWXoyWDVOeXkwOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-04-019",
+    "date": "2026-05-04",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement rises Monday, outperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1lSWHlSZHhiSGd1Z3NkdFZBdUowQnA4Ykhrd1B5YlIyNmx0Q1lMSU85a25STnl3SEV3d3ROTDhwVGJtWnRCVFJ3TFhPNXFQVHQxUktSMWJqZTIyQnhlM2I1T3BxZS1Wby1RUHM5Mn",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1lSWHlSZHhiSGd1Z3NkdFZBdUowQnA4Ykhrd1B5YlIyNmx0Q1lMSU85a25STnl3SEV3d3ROTDhwVGJtWnRCVFJ3TFhPNXFQVHQxUktSMWJqZTIyQnhlM2I1T3BxZS1Wby1RUHM5MnNVRzdlYS1xOEV5eEhCdHNtejktVW9vTzdId1JILVh4eFExeXI1T1Q0MGFYYXRGdlppVy1jTkNkZWJiQjlvU2RZbm5wdDVqRk5XTzF5a2dFeXJJay1jRXJFTWR2OVFpLUhMbnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-05-04-020",
+    "date": "2026-05-04",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement Public Company Limited 2026 Q1 - Results - Earnings Call Presentation - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdTF0cnJKQzVSc3ZCOTAxQXNXdHBqaXJwZEE2OWxfckxOMUZsWF95ZWw4Ukp3djdCWTk4Q0NGQ0phV2YzRVczdWxoZmxoV0c4OUp2a096ajVfWDBQcHJDS21ubnVMVkRNYlgtaVF3bn",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdTF0cnJKQzVSc3ZCOTAxQXNXdHBqaXJwZEE2OWxfckxOMUZsWF95ZWw4Ukp3djdCWTk4Q0NGQ0phV2YzRVczdWxoZmxoV0c4OUp2a096ajVfWDBQcHJDS21ubnVMVkRNYlgtaVF3bnFnYWtueUlkV3Q1NUVnNm9Ub1V2SGItQWxWalVIRnZIanRoRG1XMG5ybzBTb2NpbzhSOXlFLVByQzFGZUI5WERzaW1HYXltMVlTU2xiLTJJTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-021",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Major contractors are ‘All In Together’ for Construction Safety Week",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jLOuPzbyeguFG1g0zvBjNjhDk0GWhMXXR2HKDbNUrLw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTUyNTE3NTQ4XzEuanBn",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-safety-week-2026-all-together-major-contractors/818959/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -346,6 +675,46 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcERHdVJaMTVBUS1fZFJSLUd2UFdfR0M5V0VJWGNJblYzQ3R6bFo3NFkyMzR6bU9iaWpMZURjbWJESGtPQ1RadTNJWDNsdVZiVEVVa1hIZFVlaHNjYUZaQ1FBMnV2TU5mNmdHUjhwMVk5emlJR2hmUE5XNkdjZ2lkWW5XUFc1RF9QUHhBVWJ6bzhvY2pNcnVnOFRXbFBpYUZseHNfMndHRGlwVVVl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-03-008",
+    "date": "2026-05-03",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (NYSE:VMC) beats expectations in strong Q1 CY2026 - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnZzd0oxUi14NUNNV3BCMEhsenRHT3ZERVpDbXBDY3dfQ2REcE5HU2IwbUlqZ1l5LWxkMl80TFF5bTdZeF85X1JoMExyLV9wVDFveHhTZG5NVm91V2dQWXpaZGgxUHlXMDRmUUYwb1",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnZzd0oxUi14NUNNV3BCMEhsenRHT3ZERVpDbXBDY3dfQ2REcE5HU2IwbUlqZ1l5LWxkMl80TFF5bTdZeF85X1JoMExyLV9wVDFveHhTZG5NVm91V2dQWXpaZGgxUHlXMDRmUUYwb1JUU1k5bERmeFVvc0JkQjhCd09iUWIybkFRczZSbllWb3VVc3FjY0tBaEVpSlJBZHhXZk1XSXJvVmRtNi1maHZSeUdTOXpORHRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-03-009",
+    "date": "2026-05-03",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "UltraTech Cement Q4 FY26: Stellar Quarter Masks Valuation Concerns - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHFuU1pVd1BGblpZVWl2Xzd2T0YyZktvOTZLa25ScTRiaXpNVlJ3VGY3bWk0ZVNRdzl0REd5SFJRNW01REhpVFFRYzd4SHo3bnptd3FNdUhlRDNuWi1HTHl3dk5ybFgtb2h3RmF4LW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHFuU1pVd1BGblpZVWl2Xzd2T0YyZktvOTZLa25ScTRiaXpNVlJ3VGY3bWk0ZVNRdzl0REd5SFJRNW01REhpVFFRYzd4SHo3bnptd3FNdUhlRDNuWi1HTHl3dk5ybFgtb2h3RmF4LWszSmV0Qm5GN1hmekhZUUdKcDFxZWlRbHZvOXZlRzFhcUxfOFkyS2NiRGVRdHhKNjd0R2dXQUxjSTBPZmRHdnIwRFVLREpmcE1SNUxETlNQUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1052,6 +1421,24 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWUJWWTNHN19sMzlrc21kak9GRERtNlVXNGlZVmxqcVJ4UjVKVDJKbkdURkdTcmYya3FKY3U1MEJXU1J0V2lpbmtkcGt2Tm1KZlREZEFXSmxKZXNqZEExcTdQNlZ1WUg2QkdJbnVmd3ZDUkFrcG5BWkRRSlltMEJ1MUQ2LU5HcGlmSFR1ZUJyekpVNFhaTGxPU2NnYXhQRWNmT05FVVBJVURsMnJMb3B4T0FLQ055enVGR2lMN0tEcHotZ1ZJUWZmSlZIbmF3YWVVdnMtdnlHREhYUTIyang0ZEt6c3ZPb2ZtLVNqeTJfUTVGNHZCTTA0czk5YVVJMWhUcndjd0xIU3BEb2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-029",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TK Elevator sale shows private equity’s elevator pitch still works - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjV6ZC1paW9paXotb2NLZDFycVdJQUNPd01UbTdaaDVfcjlEVzlzQTJJNXJpWGdRQ09WUHpaanR2UUJGY3dIUHU5RC1NTWdYei1aMG1tNnZkenR2cm16NFpoS3loblRvRTJxbl9tSU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNjV6ZC1paW9paXotb2NLZDFycVdJQUNPd01UbTdaaDVfcjlEVzlzQTJJNXJpWGdRQ09WUHpaanR2UUJGY3dIUHU5RC1NTWdYei1aMG1tNnZkenR2cm16NFpoS3loblRvRTJxbl9tSUF1UElGYko4S2Vod1hTWThHQ2JTUGg?oc=5",
         "type": "rss"
       }
     ]
@@ -1888,6 +2275,27 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEpRX3VicVh1V0J6UGlsczFTTTZiaV9RdjRwd0VpUDVvUlRYMGM5azJjdjdnR0xfcEZiUUxuaE8wRm1XVVNtcEF4ZXRNaUNNNTdPY2ZERE9KVnpXUW1FS2dwY1JTY3QwVVlnTGJBU3FVaE5jbFB4aXhCcmdlakU0Z21RZnFlQ1JwSzQzUE1GVnVwZ1Z4ZWFQNVlqZk42NWNIeXhUdVdCOVRUREtwbW1ONER5Rno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-04-30-044",
+    "date": "2026-04-30",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) TTM Margin Expansion Tests Bullish Profitability Narratives - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxONk9nU1JBek5ud1hheE43UXdkYzZiOWw1RlEwOUZIZWhmMnhodktWMkMzX1JEZUJDNDRNX1IyMWUzNGpURTFQcWdFM2ZhUkJDQm9yUHVYR3duU2E3YWZaXzl0YVNoQ2hDX0ZNUVVCY1",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONk9nU1JBek5ud1hheE43UXdkYzZiOWw1RlEwOUZIZWhmMnhodktWMkMzX1JEZUJDNDRNX1IyMWUzNGpURTFQcWdFM2ZhUkJDQm9yUHVYR3duU2E3YWZaXzl0YVNoQ2hDX0ZNUVVCY1Q2aGkzdGNnMEQ5Q0ZuUzc2TGdSTUhGdzVXY0U1SVZtaGowYUlaMlpHeV9USnR4NUFMOExxa1lfV2trVm1DblBhUEEtd0p3TGloLXdSQmJaMzBTeThtMmtvY2FhLUk?oc=5",
         "type": "rss"
       }
     ]

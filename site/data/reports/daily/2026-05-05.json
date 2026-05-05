@@ -1,0 +1,264 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:04:32.340666Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-05-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Caribbean Cement posts strong 1Q26 results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181287/caribbean-cement-posts-strong-1q26-results.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-05-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp’s €3.27 Billion Elevator Payday and a Broken Steel Deal: Two Sides of a Conglomerat - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUFYRERuMTdxOEFsZGJBWHhHc0NqTFhpcU16enZsbEpiX0p3VFU3S3JCOUduemxBUGpwS2NxWFNHeG43Wkd2R2o0Q1lCRXYzMWF0NGdLMS1IZG95N0ctMnBoTW14cnBOVHh2U2s2QWtEdTVwQlJuN3BMenF4UlMzN0FaenlaZE5WTUx6NVdkZFdwblhXSGNSYVNtLVVLdGJqektuYkQ1RkFIQTlHNnpiU2VlT1FMUGpTUU5adUwycW4wVVhM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's TCC plots European listing as green revenues overtake home market - digitimes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkc2SEJhOGh3ek93d3J6bllQQW1raUNWMVBqRXNuLUtUWTVjbmxIV3FSOTk1dmVNTENqLWZkT0RUNTQ0SUNVUEFvZ1p4RmdEU0dHSEtLQUluU1RXdVp6VGl1TUNsSHN3NXRKZEt6OTJ4bHBjdUh6cDJkWWpmZGptbklxZlQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-05-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ultratech Cement And Other Cement Stocks Under Pressure as Polypropylene Price Soars 70% - Trade Brains",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFhQRjlvRm1NVXlsd0UtRXVZWVBnN2ZKT3hKdjNJNXJfNjNqS0VxM1RaY1llemo5M3F6aE82YTh6Zk95eWZyVnFWOG1xcjgyQ3EzYzB1eG1VT201U0Rtei1ZZF85ZWhmb1NZNFppTV90YnpvSGpDRHpBUVBJUjNpam5VYmtiSVB5Xy1uZ0hVWEQxeHhSM1BjVHp0Q3I5cVlDUzZZR2hWTFRjd3c3aFVtNQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-05-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Nepal mandates tighter emissions standards for cement industry",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181284/nepal-mandates-tighter-emissions-standards-for-cement-industry.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 187,
+    "too_old": 100,
+    "gate1_blocked": 13,
+    "gate2_blocked": 14,
+    "passed": 21,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Vulcan Materials Looks Pricier, But Cash Flow Is Catching Up - Finimize",
+      "thyssenkrupp AG and Jindal Steel International suspend share talks - EUROMETAL",
+      "【SMM Steel】Thyssenkrupp has suspended negotiations with India's Jindal - Shanghai Metals Market",
+      "Thyssenkrupp, Jindal pause talks on potential sale of steel unit - Yahoo Finance",
+      "Thyssenkrupp Could Cash In Big If Kone Buys TK Elevator - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為蒂森克虜伯、UltraTech相關動態：「Caribbean Cement posts strong 1Q26 results」。主要關注主題為財報、產能、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Caribbean Cement posts strong 1Q26 results（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp’s €3.27 Billion Elevator Payday and a Broken Steel Deal: Two Sid...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
