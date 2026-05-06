@@ -1,20 +1,40 @@
 {
   "date": "2026-05-06",
-  "total_events": 6,
+  "total_events": 20,
   "by_company": {
     "heidelberg": {
-      "count": 6,
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 3,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
+      "count": 14,
+      "sentiment_avg": 0.07
+    },
+    "raw_material_energy_cost": {
       "count": 5,
       "sentiment_avg": 0.0
     },
-    "raw_material_energy_cost": {
-      "count": 2,
+    "inventory": {
+      "count": 1,
       "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 3,
+      "sentiment_avg": 0.17
     }
   },
   "baselines_used": {

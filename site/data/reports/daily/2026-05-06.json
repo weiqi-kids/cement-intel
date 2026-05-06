@@ -1,9 +1,35 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:03:49.757846Z",
+  "generated_at": "2026-05-06T10:18:19.765276Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "heidelberg-2026-05-06-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Heidelberg Materials commissions new kiln line at Airvault plant - cemnet.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelFVc3kzVW9mcHhzZXlMa2JCc0lkUHBNWXhuM1JjdEx2cFcyamFCQldiMGZNOW5yYjZkTk1iY3U3azBoLTdEa3htQTVrZXJTdGlXbmlxdlpVN2RncUZwSWJHWS1jWXB1TXdQZ2xhREtzYklqT2ZwamR1TFYxeG1fcXV0YWwxU3Z2bmM1Q3JOa3BrWHpHZzRzT3p6X3hoTks3ajd4UjV4ME54b0FOZUVj?oc=5"
+    },
+    {
+      "rank": 2,
       "event_id": "heidelberg-2026-05-06-001",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -27,7 +53,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdHhKdEtoM1QtbWNBQkYxRkxvOThrSlQtSkpraEg3MFBpVDZ0MkNpSVRxdzdQcS1pU3NFZ0RLZy1rTHE2d21jT1pKd0dnOTNwOVllUElCSmdDbFpWM0JvNHlyNWtCQ0lxdHNUZGg3N005bmJYbFVIN2lJQTZyeFZLamlmWFdrMUg1eUc2dDNFMUxTYUVkQUc0WTBWYTNQdGgtUVduWA?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "event_id": "heidelberg-2026-05-06-002",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -51,7 +77,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGszV0g0OGpPTi1QQXotR2hnYk9fWkZId1RiRWV5ejc2UnVSM2tCMDFxWjBQczE4b05iVThwa1ZMNENReklsdm1UZ21RakRjM0UwX3N5d004Ml9aYU5VSmtZMW1sTXBSWFVIM19pczBVUWc5YnR4QmFZdmsxcmhtZTVPM0h6SHlRNzYwTlVmSEZuUVpDNzByVnNPb1hmdDlmMG9rN1ZNNFEzRmpYU2hOUnhfMXY5RjR1c3NRVmp3?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "event_id": "heidelberg-2026-05-06-004",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -75,7 +101,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYVJHbC16V0xjYWVhUXJxWm5vcVdzV1d2bDROckVkNUJwTFpNUlZVSmdDOF9GX2tjbjJwXzcyLXRyY21WNUVFbjBfZF9FUF9oNDNjam1ZMGNmZnZ1VTl0VDU4QkhzckttYVVqVU5JdGp2TjZNRFl0SFRtWnhoYjdmMUhsbkp5U3NrTV84Z2pBWk4yT2lFRnFwRS1RM1hrcTJvRE1ubkwzM3ItZ2w2V1g4dk1Ed0M?oc=5"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "event_id": "heidelberg-2026-05-06-005",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -97,36 +123,21 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTdlcmx4a0JNTnBiWm5RNUM2dk0xTGt2UW83SHg1UVY2SmtmbjhheFRNZ3V1ZFRZQU1qLWJ4b2pZLTVRb3ZFS2FOSndYN3Z2d3dZTVNFSHR6aTNrUnZfUEdaNEZ3VTdHc3NLaVFhOFQyUUFWWnBiZFFZWjVCcy1VcUhvZnRSRk9ZTFJySGNaOWtjSlBPbmc3RXpnLVdpTDU5Qnlj?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "heidelberg-2026-05-06-006",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "Heidelberg Materials expects rising energy costs due to escalation in Middle East - marketscreener.com",
-      "companies": [
-        "heidelberg"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "raw_material_energy_cost",
-        "earnings"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0Q4c1hjTWdEUU8tNnhwU2U0emhjM3JsQThZMURQQ1dTUUQ0cmx4VUt5QV82bG9rLWxTVTFTUFhOOXF3MnpXV016bGljWERsNG9vQ0EzNDE4SDRWZG9pak8zSmNmeF9UcmdBRUdqZjc5Mk5tVzhSWkc1WW1CT1lJbUpRM0p6UDY2TGdkU3hWVFhkNHR2M3l6YXloemowMXVTaHVJOW1HUkdvbzZHMGlHTDlNY09ST1N1WnBQcjRWSml4TFpOOW5GR2FrUy12Umc?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
       "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -136,8 +147,8 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "raw_material_energy_cost": {
-      "today": 2,
+    "inventory": {
+      "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -145,42 +156,82 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 6,
+    "total_events": 20,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 6,
+      "positive": 3,
+      "neutral": 17,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "heidelberg",
-        "count": 6
+        "count": 10
+      },
+      {
+        "id": "holcim",
+        "count": 3
+      },
+      {
+        "id": "vulcan",
+        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 5
+        "count": 14
       },
       {
         "id": "raw_material_energy_cost",
-        "count": 2
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 337,
-    "dup_title": 189,
-    "too_old": 105,
-    "gate1_blocked": 14,
-    "gate2_blocked": 9,
-    "passed": 20,
-    "pass_rate": "13.5%",
-    "gate2_block_rate": "6.1%",
+    "total_raw": 673,
+    "dup_title": 388,
+    "too_old": 200,
+    "gate1_blocked": 29,
+    "gate2_blocked": 18,
+    "passed": 38,
+    "pass_rate": "13.3%",
+    "gate2_block_rate": "6.3%",
     "gate2_samples": [
       "Research Alert: CFRA Maintains Sell Opinion On Shares Of Vulcan Materials Company - Moomoo",
       "thyssenkrupp AG and Jindal Steel International suspend share talks - EUROMETAL",
@@ -191,18 +242,18 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 6 則事件，焦點為海德堡材料相關動態：「Heidelberg Materials Earnings Drop, Hurt by Harsh Winter ...」。主要關注主題為財報、原料能源成本，市場情緒中性。",
+    "summary": "今日共 20 則事件，焦點為海德堡材料、Holcim、Vulcan Materials相關動態：「Heidelberg Materials commissions new kiln line at Airvaul...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
+      {
+        "text": "Heidelberg Materials commissions new kiln line at Airvault plant - cemnet.com（產能、財報）",
+        "level": "red"
+      },
       {
         "text": "Heidelberg Materials Earnings Drop, Hurt by Harsh Winter - WSJ（財報）",
         "level": "yellow"
       },
       {
-        "text": "Heidelberg Materials sees signs of recovery following earnings slump - market...（財報）",
-        "level": "yellow"
-      },
-      {
-        "text": "原料能源成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "text": "原料能源成本話題出現 5 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]

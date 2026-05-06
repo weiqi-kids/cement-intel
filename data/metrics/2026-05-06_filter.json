@@ -1,11 +1,11 @@
 {
-  "total_raw": 337,
-  "dup_title": 189,
+  "total_raw": 673,
+  "dup_title": 388,
   "no_date": 0,
-  "too_old": 105,
-  "gate1_fail": 14,
-  "gate2_fail": 9,
-  "passed": 20,
+  "too_old": 200,
+  "gate1_fail": 29,
+  "gate2_fail": 18,
+  "passed": 38,
   "gate2_samples": [
     "Research Alert: CFRA Maintains Sell Opinion On Shares Of Vulcan Materials Company - Moomoo",
     "thyssenkrupp AG and Jindal Steel International suspend share talks - EUROMETAL",
