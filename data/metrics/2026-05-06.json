@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-06",
+  "total_events": 6,
+  "by_company": {
+    "heidelberg": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

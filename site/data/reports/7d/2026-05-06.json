@@ -1,0 +1,180 @@
+{
+  "date": "2026-05-06",
+  "date_range": {
+    "start": "2026-04-30",
+    "end": "2026-05-06"
+  },
+  "generated_at": "2026-05-06T06:03:49.815490Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "heidelberg-2026-05-01-019",
+      "date": "2026-05-01",
+      "title": "Cement Industry Weekly Brief: Heidelberg, Amrize, Cemex, ABB & alcemy AI Collaboration - IndexBox",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity_consolidation": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "earnings": {
+      "this_week": 48,
+      "last_week": 56,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": -0.01
+    },
+    "infrastructure_spending": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "inventory": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": -0.12
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    },
+    "capacity": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.1
+    },
+    "raw_material_energy_cost": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.14
+    },
+    "carbon_emissions": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "crh": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "vulcan": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 4
+    },
+    "thyssenkrupp": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "holcim": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "heidelberg": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "ultratech": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "siam_cement": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "cemex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "cnbm": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 137,
+        "last": 202,
+        "change_pct": -32.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-30",
+      "event_count": 44,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 22,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 6,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 137 則事件，重點為「Cement Industry Weekly Brief: Heidelberg, Amriz...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Vulcan Materials",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Holcim",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
