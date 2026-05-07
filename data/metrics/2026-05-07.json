@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-07",
+  "total_events": 13,
+  "by_company": {
+    "holcim": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    }
+  },
+  "by_topic": {
+    "carbon_emissions": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": -0.06
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
