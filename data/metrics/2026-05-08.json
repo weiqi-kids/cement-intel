@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-08",
+  "total_events": 8,
+  "by_company": {
+    "thyssenkrupp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "martin_marietta": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

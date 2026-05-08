@@ -1,0 +1,265 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:21:33.519961Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "heidelberg-2026-05-08-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Heidelberg Materials Autonomous Heavy Mobile Equipment Expansion 2026 - News and Statistics - IndexBox",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFNpelpNeWtCTVJ1Tk5LMVcyU2RxNlNEb1NNZTFqaW9ES2JaNDU3NlVscGo1czNFYTlmeVhsN0ppZ0hBWkhYU09yRk5YcnM0VnZHQkRqOC1SVXF5VFpfY2JDTlUwRjlnaTUzZGVRZlJRVEZfcm9ndkxRN2dkYjBjSGtvV0k4alZnbS02Q2dIN0ItelFzdzE0bnlJcjZZaG1tSE5URmlYdFB1V0hrcHpYTA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-08-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cementir reports 7% fall in revenue in 1Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181304/cementir-reports-7-fall-in-revenue-in-1q26.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-05-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Clock Is Ticking in Europe: How Group Eleven, Volkswagen, and thyssenkrupp Are Positioning for the Transition - news.financial",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM2JITjQ0VzNoNnFWY2hyLW4xN2hadGpsbXlHTVllMndsb3ZNeVdLZU9MYnVrWW5qQmF3ZTZXWnFYckxLV0FlQ2FjMFpHR19vdTJSUVBsd1cweHU5M2gzTGpUaG5JSElqYkRGdFVscFRnWG5FQllzei1pcUk5cHdPTFR6ajBsSXg0TWFvdEpBemZkUk85VG0zOTFaUWQ4ZTlqOEloRnEtVlZzTmswYlNoVFVjN1pFaWZDd09qNnVKeFhNOGhlRjY1RUZZMzZoYWRybDg0LUJaQW53Z3hj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "anhui_conch-2026-05-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anhui Conch Material Technology Revamps Company Secretary Roles, Maintains Listing Rules Waiver - TipRanks",
+      "companies": [
+        "anhui_conch"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWHh4RWlXZXBaTFNfU0Y2ekt3Vm1EUkc0ZGlpSnVWRzExUDJDU2k3bHlqSlhkZHJITDdFVFNXUHNVLWZyQUNSa0VXcGl0d1JEQ0VSWXZUcUUxVlQ5X3BELTM5dFNtLWIyR2lfLVFPRVFHYU9FeUc4MnBxcHRObWJVQlFHZFQxc0hxNURtUzNSUnlNRGc0VUVyalJxbG8zdy1KWE1NX0dwakJuOFhiY2pDX01fUlpFSEhGSFllU0ZINndCM01SbGR1bHNvUXRuUU56RFFzSlVrR1EyMmQ3T1Mw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "martin_marietta-2026-05-08-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Martin Marietta sees 17% revenue growth in 1Q26",
+      "companies": [
+        "martin_marietta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181276/martin-marietta-sees-17-revenue-growth-in-1q26.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      },
+      {
+        "id": "martin_marietta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 203,
+    "too_old": 93,
+    "gate1_blocked": 15,
+    "gate2_blocked": 6,
+    "passed": 19,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "Thyssenkrupp Drops Jindal Sale Plan, Pins Hopes on Green Steel and a Shrinking Workforce - AD HOC NE",
+      "Great American Road Trip",
+      "Taiwan Cement marks 80th anniversary - Taiwan News",
+      "UltraTech Cement climbs Wednesday, underperforms market - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為蒂森克虜伯、海德堡材料、海螺水泥相關動態：「Heidelberg Materials Autonomous Heavy Mobile Equipment Ex...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Heidelberg Materials Autonomous Heavy Mobile Equipment Expansion 2026 - News ...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Cementir reports 7% fall in revenue in 1Q26（財報）",
+        "level": "red"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

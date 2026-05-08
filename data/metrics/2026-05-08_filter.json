@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 15,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "Thyssenkrupp Drops Jindal Sale Plan, Pins Hopes on Green Steel and a Shrinking Workforce - AD HOC NE",
+    "Great American Road Trip",
+    "Taiwan Cement marks 80th anniversary - Taiwan News",
+    "UltraTech Cement climbs Wednesday, underperforms market - MarketWatch"
+  ]
+}
