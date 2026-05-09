@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 10,
+  "gate2_fail": 15,
+  "passed": 19,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance S",
+    "ThyssenKrupp (OTCMKTS:TYEKF) Shares Gap Up - Time to Buy? - MarketBeat",
+    "Great American Road Trip",
+    "HEIDELBERG MATERIALS : Jefferies reaffirms its Buy rating - marketscreener.com"
+  ]
+}

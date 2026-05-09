@@ -1,5 +1,26 @@
 [
   {
+    "id": "holcim-2026-05-09-001",
+    "date": "2026-05-09",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Holcim Ltd stock (CH0012214059): Cement giant eyes growth amid resilient construction demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdU5wVjdsM1kyS2p6VkZJSHhtSGhxblBTRGpXOURFNFNwTkV5MVY0ajZpX3NPTExDOHJGRHpxQ2lGZFQ2VWNuZGxrdU5IYVJoWlNWczZRUTd6UERybTJIMGQtTWhOLVVrbGVXb000Zn",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdU5wVjdsM1kyS2p6VkZJSHhtSGhxblBTRGpXOURFNFNwTkV5MVY0ajZpX3NPTExDOHJGRHpxQ2lGZFQ2VWNuZGxrdU5IYVJoWlNWczZRUTd6UERybTJIMGQtTWhOLVVrbGVXb000ZnZvN0FYZGktT041SE9oZjlQNWlQS0VzQmtyXzdtNVRJRDhVel82eWtIMXZiUmRSYXA3YkhEdHM2anZJSzFUSnNLQmJaSXlQYy1HU3ExZ1RPYkNid2loejBZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-05-08-001",
     "date": "2026-05-08",
     "companies": [
@@ -148,6 +169,317 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181276/martin-marietta-sees-17-revenue-growth-in-1q26.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-08-009",
+    "date": "2026-05-08",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "$0.52 a share: Vulcan sets June 5 dividend payout for shareholders - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONEJEaVE3M004V0ZERjk4bmdFYV91MV9zc2ttNjh4ZVJpNHAzVl9Kc21BZFRRVkF6YndBVENXVlB5WG1EVzVicVlPUTFNT0RSYlpmNFdBekhPWGxScGlvTXlUZlFoSThveTZxVHhJb0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEJEaVE3M004V0ZERjk4bmdFYV91MV9zc2ttNjh4ZVJpNHAzVl9Kc21BZFRRVkF6YndBVENXVlB5WG1EVzVicVlPUTFNT0RSYlpmNFdBekhPWGxScGlvTXlUZlFoSThveTZxVHhJb010c2Q2WUdZWTh6eW85LTZCTGtQWVNwdW52eG1vdGZ2WTFGUnFiX1p4WGg5a0xtSDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-08-010",
+    "date": "2026-05-08",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "VULCAN DECLARES QUARTERLY DIVIDEND ON COMMON STOCK - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2F3dFhaUmhYN3ZheWZyNUh0cGxzZE5RVnRrYlJ6QnF1emNiWjNoSF9ST1pmZlVnRDJ5OU8tZmRFZWtoWkRIUUpIRzN2eW5pOFU0Q3VfTDVXQlRsNnV1bGMxYXhoMU5aaVQ4N3ZSRF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM2F3dFhaUmhYN3ZheWZyNUh0cGxzZE5RVnRrYlJ6QnF1emNiWjNoSF9ST1pmZlVnRDJ5OU8tZmRFZWtoWkRIUUpIRzN2eW5pOFU0Q3VfTDVXQlRsNnV1bGMxYXhoMU5aaVQ4N3ZSRFdaakRLZ1F6WXVrVHcxVXJkb3BvNjJsZDdKcklBSTZKYjdWU2sxWnRVbENOdkpRcDROWUhpVGxNaHExdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-08-011",
+    "date": "2026-05-08",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Vulcan Materials Keeps Quarterly Dividend at $0.52 per Share, Payable June 5 to Holders of Record May 22 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXR6ckg2aFdSVTJHV3l4V2VSVnl0cUh5SnREZXVMdUFFZ0NFNS1XUWJMN2JINVBCbW9pTDU3NTlBcDlZTlhUMkRUbWYzclR0TWdoN2ZvdktIQUtQUDJMUzNFdWRXTThXUUxHUS1oNE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXR6ckg2aFdSVTJHV3l4V2VSVnl0cUh5SnREZXVMdUFFZ0NFNS1XUWJMN2JINVBCbW9pTDU3NTlBcDlZTlhUMkRUbWYzclR0TWdoN2ZvdktIQUtQUDJMUzNFdWRXTThXUUxHUS1oNEd1a3NzdDg5RXR0ZEtsY0RNN1JwaXI3b1JQOG1VM1dlUzZFcjNoY1B3YXBqaVNPdlN6SUp2a3JYU3lIbHl0MjRXWG93RC03dU5obFJINWpWSzg2Ml8tUTFweWt4RGlSaUNFVjNsMWJRLWRHWEdpZjRSNlJGaEtzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-08-012",
+    "date": "2026-05-08",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vulcan Materials declares $0.52 quarterly dividend By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQLV9HU0dKNlZLVGtFb3R1WWljR09xOE1IaWdDcnJJdi1OWDVfMFRlZHhUMUg4dk1tNG1fNzhla0p5WUxyeXdub2xiMVBvc2k5Z2NMX0h3SE0zOVdUNVdHUm5yZ0hCUFFVOUxXaXp5Z3",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLV9HU0dKNlZLVGtFb3R1WWljR09xOE1IaWdDcnJJdi1OWDVfMFRlZHhUMUg4dk1tNG1fNzhla0p5WUxyeXdub2xiMVBvc2k5Z2NMX0h3SE0zOVdUNVdHUm5yZ0hCUFFVOUxXaXp5Z3hMallmMzZRM2hqaVB3TFk5b2xtOGhoNXB3YWE4NUFkOURJWVZWS0NEXzU3dkIxTFlaRXJlSXlWNmJlMkk3OFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-08-013",
+    "date": "2026-05-08",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EQS-Adhoc: thyssenkrupp nucera AG & Co. KGaA: Preliminary Figures for Q2/6M 2025/26; Order Intake Above Expectations and Previous Year ; Sales and Earnings below Market Expectations - sharewise.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNdkdCaEFtTzc2SjB5Njl2RGJDZU1nRjlYaXRWQUgySVczeW4xT2ZweFk4WW1mb21hY3ExYU9QOHlYV2Ewc0ZrODY3Q2x5cll5ZTZBU0NNcmpWUnlVOTROanlaS3UxeVpFMWNKZDZFY2",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdkdCaEFtTzc2SjB5Njl2RGJDZU1nRjlYaXRWQUgySVczeW4xT2ZweFk4WW1mb21hY3ExYU9QOHlYV2Ewc0ZrODY3Q2x5cll5ZTZBU0NNcmpWUnlVOTROanlaS3UxeVpFMWNKZDZFY25Hd1Y1amFCbmJTQUhZNms4TDhLLW1KZ3F3QWQxTTVSSnZkQ2o3M3FwUGNRZEFKUGZsTWg5eVVBNHNSZVUyYjBiMkdMcGluLTU0ZEFPY1dnR29MSFNmemMzeVI5NVJyTm53Y1IxQjY5Wmg3eE5DZjZaZzdXLTFabWtsVEtzYkdEN2tSTlJTQm8xVmVGemljWnFVWGtiREJ1ekVrMVNWMVZLNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-08-014",
+    "date": "2026-05-08",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Nucera AG & Co. KGaA expects Q2 2025/26 group sales of EUR 50 mln, down from EUR 216 mln - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeXQxa2RHV0JsRjNlRHpIQ29jcUtZczlXdXUyQVExQmdtUkoyNlh5SGkwT0IzNGd5aDczVU9ockJnNDIzMEtjbnBCbGx2TFItOVJtQVAxS0kxTjlzdTRxTThyOXN0Y09YMFYxMEt2Yl",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeXQxa2RHV0JsRjNlRHpIQ29jcUtZczlXdXUyQVExQmdtUkoyNlh5SGkwT0IzNGd5aDczVU9ockJnNDIzMEtjbnBCbGx2TFItOVJtQVAxS0kxTjlzdTRxTThyOXN0Y09YMFYxMEt2YlNHWk9iVUtKRXRDX0ZYWjlCUTNmSUZ4ZW5oVVpLN3BKbnh2Yzc3RFYtN0E4Sk1ncEEwNWZTNmQ3WHo1d2p2aVhjUnowMldmbGJRc0pwTEVQRUx6UnUyUTJ5bWZlTVVoYTRUYUN0ZEtkMWhYcHEzaThxZmEwRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-08-015",
+    "date": "2026-05-08",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GOLDBECK, Holcim, and Paebbl deliver carbon-storing industrial floor in a first for German construction - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcDcycTE0QmtFZFNLQmxtTmtqS3dUNnRwa0VYVHQ4SV9ONWhOWF9NWnJ2NENjbWZYLXhUSzR4Z1hsY0lpSDE2eHJKT1B1YWhfUmRHTjRCZ3h4LTdkTGI5Wl9zSVFBdmxicjU1U1Jxbj",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcDcycTE0QmtFZFNLQmxtTmtqS3dUNnRwa0VYVHQ4SV9ONWhOWF9NWnJ2NENjbWZYLXhUSzR4Z1hsY0lpSDE2eHJKT1B1YWhfUmRHTjRCZ3h4LTdkTGI5Wl9zSVFBdmxicjU1U1JxbjJiSGpKam9FNTgxTWpqLTFXUlZVRTczT1lqVUFoVms2M0x3NDZUTVdGWWViSl9jZmF0V3VmaWVLMFNJSTBNWkZzcFF5VGlkMGV4WWlqaExtWkpDLXl1Tk1FNk5mRHpPTVpleEcweXJwQnB0N0xVa25wZ1pSOW0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-08-016",
+    "date": "2026-05-08",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Holcim Ltd stock (CH0012214059): Cement giant eyes growth amid solid Q1 results and raised outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObWJkOUpQaFowMnNSNUh0RmZDVjhpNUhsbDZlTzRVSUxyblBfTExPOWlzcXJSRXdUTU1Ld0FuVmpGek1CNDcxNG5mZFprbXVBeW5GRDMwNFZVeG5IaVFjZFJtbEROTXlRUFBQQzVLb0",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWJkOUpQaFowMnNSNUh0RmZDVjhpNUhsbDZlTzRVSUxyblBfTExPOWlzcXJSRXdUTU1Ld0FuVmpGek1CNDcxNG5mZFprbXVBeW5GRDMwNFZVeG5IaVFjZFJtbEROTXlRUFBQQzVLb0JzYlF4aTQ5OGE3X2ozNjdaNU5hSEpoNDludWY2QTY5OHV3S0tLbEF4ZjZ3eFJDejNLbDAyblllZEJwZ3d1bUFiM0NycXd6UUVJZTk1YmhjSkZZcThmOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-08-017",
+    "date": "2026-05-08",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG (HDLMY) Q1 2026 Sales/ Trading Statement Call - Slideshow - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1U2SDBZeDdUNUE5OEhVWDlxX2oyTzB4Qm9KQXdQZ0pnVE9VbmR0OXlfNkp3bnBCcXBPNkhxOVF2RVFDaXBFRVNsWU1qY1RzeHVUM05OWmFsOW0walZFOXMxam44U3lxM29DVGNjS1",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1U2SDBZeDdUNUE5OEhVWDlxX2oyTzB4Qm9KQXdQZ0pnVE9VbmR0OXlfNkp3bnBCcXBPNkhxOVF2RVFDaXBFRVNsWU1qY1RzeHVUM05OWmFsOW0walZFOXMxam44U3lxM29DVGNjS1VnbVdINE9wNUJwTk9Kbm96X2NrUVhpMkZCaE5tYjhIY2w2MVcyY3dvc0d0VU42Q2g4TXNqSVVGWU1XRmNURFdTU0JNRGh1QTl5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-08-018",
+    "date": "2026-05-08",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement slides Friday, underperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlZma3ptS3BXa1NnbWdodmhWV2JhbGpRSEVvbXZXUU1XNElBZjZDSVYxMjVyeGVfaEFzaldlQUU5TFpmanVqWXpPR2RUTEctdzV3SXRpSENwbXZZUGNFVUNYenJGUlRhVG5QQVlUeG",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdlZma3ptS3BXa1NnbWdodmhWV2JhbGpRSEVvbXZXUU1XNElBZjZDSVYxMjVyeGVfaEFzaldlQUU5TFpmanVqWXpPR2RUTEctdzV3SXRpSENwbXZZUGNFVUNYenJGUlRhVG5QQVlUeGhSQ2tCenhqSW1GMmdhODhlZG9JYTJ2T3pxZzZpTE9XVVY0RzRVMW5zcDRKZlFyVEo3aURtNUdkVU9uT1JwdVJZMVA0VDZPS2JHTFlIVUw5cGJOTXZYbmVyNXJESF9rSmFMamZOdDJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-08-019",
+    "date": "2026-05-08",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement Schedules Investor Meetings at Citi and Macquarie Asia Conferences 2026 - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFRfTVkxa3pjeC1jcWI4ZDNBLWtMM0dQeGd3VW5fNDFzQjJhRVJmdEdMamVBb2FjSVRweWFzSnJvc3NQdDltZDlhSEVEMkZzVVBjREF3ZnJaQTZkUXlROTAxMG5ZYjBqdDJYbTNxb1",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFRfTVkxa3pjeC1jcWI4ZDNBLWtMM0dQeGd3VW5fNDFzQjJhRVJmdEdMamVBb2FjSVRweWFzSnJvc3NQdDltZDlhSEVEMkZzVVBjREF3ZnJaQTZkUXlROTAxMG5ZYjBqdDJYbTNxb1RqZDZIbU52OFZDWWtHOTdvQTlvamhEUUJtLTBva0JYUDNvd21INmJfVTI3TmFtM0hrSUdJYXZicmR0YmJNTnJ4emNGeDFScXBJSV9iWGx6c2NiM2RQVFF1cUxiLUxjeFJrOHpVcl9tUS16M3FVQXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-08-020",
+    "date": "2026-05-08",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement gets ₹808.78 crore tax demand for FY24; to file appeal - A2Z Taxcorp LLP",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzVjTDRYRHlCSjVfYWpzbUUzbGtfTDIyYjFTNUNQX3JuX1FhbDh0YnRrNTd3M1dQai10MjItbmdiaFJQdkF3TGJZTmtzY0JHM2pnenUxS01rT2NqdzJ1SEpGSkxmTzJoYXhRV2xzQz",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzVjTDRYRHlCSjVfYWpzbUUzbGtfTDIyYjFTNUNQX3JuX1FhbDh0YnRrNTd3M1dQai10MjItbmdiaFJQdkF3TGJZTmtzY0JHM2pnenUxS01rT2NqdzJ1SEpGSkxmTzJoYXhRV2xzQzVHd0s0LUVfRTNjNTBOVElsY2ExN0k4YTEzQjNuc3hiQzNSeV9MLUFHRzQtNExYSVU2Ukotbg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-021",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cementir Holding reports sales and earnings fall in first quarter of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/cementir-truck-1500.jpg\" /></p><p><strong>Italy</strong>: Cementir Holding has released its 2026 first-quarter financial results, reporting sales ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20746-cementir-holding-reports-sales-and-earnings-fall-in-first-quarter-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-022",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Novada Cement selects ABB for Tampa plant systems",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/ABB-1500.jpg\" /></p><p><strong>US</strong>: Novada Cement, part of Medcem Group, has selected ABB to deliver full plant electrification, automatio",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20744-novada-cement-selects-abb-for-tampa-plant-systems",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-023",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fluor posts drop in Q1 awards, revenue",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/a5UyyfiMN_Z6Wjy1GmMXApkgmD28bJAftJyp9cb7MHQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTI1NzkzMjQyLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/fluor-posts-drop-q1-awards-revenue/819751/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-024",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "WSP’s growth fueled by power generation, AI in Q1",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DPPYk0HAT8FggdmW8B5xVCo7JSPAPTG56TrpVoQbYX4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY3OTg4MjY3LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/wsp-earnings-q1-power-ai-data-center/819671/",
         "type": "rss"
       }
     ]
@@ -559,6 +891,26 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20741-titan-group-reports-sales-and-earnings-growth-in-first-quarter-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-07-022",
+    "date": "2026-05-07",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "positive",
+    "title": "Holcim (SWX:HOLN) Valuation Check After Fossil Free Cement Breakthrough With Fully Electrified Clinker Production - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1FuYnVMQWVaZ3BtenEwNDd2RWJONVZiZ3hTOHBhZm5Bc3VHd2dYZGVmc1lYYVJwVXN4RV8wNFNrUTQxUHRHWHNfX0lnaEthVkh3RTgwSXlQNmIwZ3RSaHFROGstUFp2WUtYNHptOF",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd1FuYnVMQWVaZ3BtenEwNDd2RWJONVZiZ3hTOHBhZm5Bc3VHd2dYZGVmc1lYYVJwVXN4RV8wNFNrUTQxUHRHWHNfX0lnaEthVkh3RTgwSXlQNmIwZ3RSaHFROGstUFp2WUtYNHptOFVWdHhOUFZRdjlsVVZYbVJKemIwMjVfai16dmRWNk5IMXNQMlRCQzJCdTFsRFZ4LWpkTmVuM2poendCdHJqVDNncHJBR0lobHZucmdSMUVXTzFwZk13QWNQQXh30gHPAUFVX3lxTE5rVU5mOUhxNm04eUJhTlZKNTZ3eTZPTDl3MlhEMm5vYThyT01QR0xqbERvcVVwbFZHQk01UHN2ZmkybVdJNlB3S1VKVzVBeTMtN1Bsb3dQdS1OMWdUTEF2Z0RMVEF5LVhGaHExdnVNYjFCXzdXcDFfZkxnSFRlcGt5Nl9XSUs3WjdwMDktaHJxbm9rdGxJNTlPTWZJXzVZWkRUUGJIMWdXVTlnRUpzaFEtWnNsSzMzeVR6aTJqQl9acDd5NWZSTjRMeHpnWkoySQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1752,6 +2104,27 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLThaYWVDTDlod3VfcjhlU3FKTWRfVTRKZmJJR0t4dnJtNGdsc2NUQ1owX0p6TDA0XzhPTTF2UFkzaVlHOWhPb2pHTFM4OTMyQVI2eDJLZnFQRGlZamNBMXYzeFhBbHNQT1llS3NHUWpKWGh5LXpWSVFfX2lzZ2VrY2xOZ1M0b19mYzl1ZVlWY3J1eS02LTNr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-05-022",
+    "date": "2026-05-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SaltX and Holcim run new fully electrified clinker process - chemengonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0RiejdpeTlqdUNFbzRjSjM1djFBeDhCZEUwZjNrbWx5NUFJVzBHYUtLMnIzODFrcktSOURLRkF3OXlnU0VXZ3ZHUUZMbFliZDBwUWNVRTdhOW1uQ255NjFGVXFrbldPSVdsOGM1bU",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0RiejdpeTlqdUNFbzRjSjM1djFBeDhCZEUwZjNrbWx5NUFJVzBHYUtLMnIzODFrcktSOURLRkF3OXlnU0VXZ3ZHUUZMbFliZDBwUWNVRTdhOW1uQ255NjFGVXFrbldPSVdsOGM1bUlxd1I2WHE3QThaR3ZUb0RHZFV2M1A1Wm1TZjFBSlRDMU9GVHFOUU9YYktqcVdGaEFpV1ZOcnlRUTJKalBvQ0FoZndhQkFxTUt4RWlkQld1OF9YMlBtMlRhLQ?oc=5",
         "type": "rss"
       }
     ]

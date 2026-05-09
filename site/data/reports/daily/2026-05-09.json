@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:20:55.757591Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-05-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim Ltd stock (CH0012214059): Cement giant eyes growth amid resilient construction demand - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdU5wVjdsM1kyS2p6VkZJSHhtSGhxblBTRGpXOURFNFNwTkV5MVY0ajZpX3NPTExDOHJGRHpxQ2lGZFQ2VWNuZGxrdU5IYVJoWlNWczZRUTd6UERybTJIMGQtTWhOLVVrbGVXb000ZnZvN0FYZGktT041SE9oZjlQNWlQS0VzQmtyXzdtNVRJRDhVel82eWtIMXZiUmRSYXA3YkhEdHM2anZJSzFUSnNLQmJaSXlQYy1HU3ExZ1RPYkNid2loejBZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 196,
+    "too_old": 95,
+    "gate1_blocked": 10,
+    "gate2_blocked": 15,
+    "passed": 19,
+    "pass_rate": "13.7%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance S",
+      "ThyssenKrupp (OTCMKTS:TYEKF) Shares Gap Up - Time to Buy? - MarketBeat",
+      "Great American Road Trip",
+      "HEIDELBERG MATERIALS : Jefferies reaffirms its Buy rating - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Holcim相關動態：「Holcim Ltd stock (CH0012214059): Cement giant eyes growth...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Holcim Ltd stock (CH0012214059): Cement giant eyes growth amid resilient cons...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
