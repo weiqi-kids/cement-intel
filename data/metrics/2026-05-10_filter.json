@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 10,
+  "gate2_fail": 17,
+  "passed": 9,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+    "ThyssenKrupp (OTCMKTS:TYEKF) Shares Gap Up - Time to Buy? - MarketBeat",
+    "Thyssenkrupp, Jindal suspend takeover talks - EUROMETAL",
+    "Great American Road Trip"
+  ]
+}

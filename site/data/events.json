@@ -1,5 +1,25 @@
 [
   {
+    "id": "holcim-2026-05-10-001",
+    "date": "2026-05-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim (Argentina) S.A. stock (ARJMIN032223): Cement and construction materials focus in Argentina - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWFaNWp5MTU5VmJOTlB6SmFIWlBqMkxwRlRJRXFvZXlGanlVY0t5MlJxNkpKQTg2cFJkTklqYTZJOTNha1FWRDZmWDdIVWZFRGZUM2NFRFhvNEc5cmliUHN1dnZaNDlJMElmVHQyeX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWFaNWp5MTU5VmJOTlB6SmFIWlBqMkxwRlRJRXFvZXlGanlVY0t5MlJxNkpKQTg2cFJkTklqYTZJOTNha1FWRDZmWDdIVWZFRGZUM2NFRFhvNEc5cmliUHN1dnZaNDlJMElmVHQyeXJPWUFvVlpKbklDVWVqVG1aS0RnbHdkSElNUUZneldZMjRhUDNHRHE4dTdIWk9YRzlSVEJWcmdSdGsxMnBjSGtXN2lXSnJYb0FhQkRxVHVJSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "holcim-2026-05-09-001",
     "date": "2026-05-09",
     "companies": [
@@ -16,6 +36,129 @@
       {
         "name": "holcim",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdU5wVjdsM1kyS2p6VkZJSHhtSGhxblBTRGpXOURFNFNwTkV5MVY0ajZpX3NPTExDOHJGRHpxQ2lGZFQ2VWNuZGxrdU5IYVJoWlNWczZRUTd6UERybTJIMGQtTWhOLVVrbGVXb000ZnZvN0FYZGktT041SE9oZjlQNWlQS0VzQmtyXzdtNVRJRDhVel82eWtIMXZiUmRSYXA3YkhEdHM2anZJSzFUSnNLQmJaSXlQYy1HU3ExZ1RPYkNid2loejBZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-09-002",
+    "date": "2026-05-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Vulcan Materials stock (US9291601097): Infrastructure materials leader with solid growth and high va - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0lNWmVRMXdtSFlTbk5DdVk4RlBXVDJHUS1kX2V6dTQ5Z2U5cExtT3FNTW8xZUd2TFhEZDhaSDA5WUFPQlZoVWVld2g3QjVVZVRGX3ZJb0J3LWhjQk5Oc2s0bjRSY3NhdVJmVG00R2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0lNWmVRMXdtSFlTbk5DdVk4RlBXVDJHUS1kX2V6dTQ5Z2U5cExtT3FNTW8xZUd2TFhEZDhaSDA5WUFPQlZoVWVld2g3QjVVZVRGX3ZJb0J3LWhjQk5Oc2s0bjRSY3NhdVJmVG00R2RXM3pRS2R3VUxaRXotTEhVREp5OXA3aTI0VGtBUzBSZVdOaWlZc05wbjdiZE55X0NoQ3RYRlNkakdfTEExZS1HZnR3eTZpWXVUbHR2NEtHQjhLTDR4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-09-003",
+    "date": "2026-05-09",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp AG stock (DE0007500001): Shares gap up on industrial momentum and restructuring progres - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVTlZc1lLT3Bwbnl5X0ptQzhTWGxYc2xGeXlMdVJLUFJFZ0k1bVIwRUJuTjA3dHQ3UWdYZjA1ZV9FMDdSZDQzREJPVmI1T3FIUjNOQUpCV0IzcFJzbHhjeGtOOFdfVVV2dW9ydTUydW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVTlZc1lLT3Bwbnl5X0ptQzhTWGxYc2xGeXlMdVJLUFJFZ0k1bVIwRUJuTjA3dHQ3UWdYZjA1ZV9FMDdSZDQzREJPVmI1T3FIUjNOQUpCV0IzcFJzbHhjeGtOOFdfVVV2dW9ydTUydWxERjRVTmZydm92a2ZQZi1aUDhZMGZYNU5aNWpPR2pyLVc5ZTlsR3h3Uk9rWGJnN2VEUXBvWUFLbGQwVFhXQ2VkRmtRSWVjLURRWExvZU9FN3E1ZEp4M3Zla3VB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-09-004",
+    "date": "2026-05-09",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Holcim Ltd stock (CH0012214059): Cement giant eyes growth amid resilient demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmdVbjZWTHBVNjJ2cDE2ZG5mTlBTZHhlY2lGUm9pak8tdGZ2UFNJMXo2WFZOenRKMDhVU2VuMWJnLWhCYmhrVlY5dUJmNG95cjFhaFdwVDh4aEpxRExCbEJoVHVmamllQTY3Vkk3UX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmdVbjZWTHBVNjJ2cDE2ZG5mTlBTZHhlY2lGUm9pak8tdGZ2UFNJMXo2WFZOenRKMDhVU2VuMWJnLWhCYmhrVlY5dUJmNG95cjFhaFdwVDh4aEpxRExCbEJoVHVmamllQTY3Vkk3UXFfeE52Z1FRdjg2M2N6ZDhoczZ1YXV2Mll6aFdBaC1mb3F4VmE4Tko2RVZOWTJFeDcyVzFWYzFfbWxzSWVBcUc5NHBiMjlpX213R0lCZ2dYRW1WV2tOUXhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-09-005",
+    "date": "2026-05-09",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement Schedules Investor Meeting at Citi's 2026 Pan-Asia Conference - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFRfTVkxa3pjeC1jcWI4ZDNBLWtMM0dQeGd3VW5fNDFzQjJhRVJmdEdMamVBb2FjSVRweWFzSnJvc3NQdDltZDlhSEVEMkZzVVBjREF3ZnJaQTZkUXlROTAxMG5ZYjBqdDJYbTNxb1",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFRfTVkxa3pjeC1jcWI4ZDNBLWtMM0dQeGd3VW5fNDFzQjJhRVJmdEdMamVBb2FjSVRweWFzSnJvc3NQdDltZDlhSEVEMkZzVVBjREF3ZnJaQTZkUXlROTAxMG5ZYjBqdDJYbTNxb1RqZDZIbU52OFZDWWtHOTdvQTlvamhEUUJtLTBva0JYUDNvd21INmJfVTI3TmFtM0hrSUdJYXZicmR0YmJNTnJ4emNGeDFScXBJSV9iWGx6c2NiM2RQVFF1cUxiLUxjeFJrOHpVcl9tUS16M3FVQXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-05-09-006",
+    "date": "2026-05-09",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corp stock (JP3459600007): Valuation gap widens as shares trade below multiples-base - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX042alBELThYQ1ZGWmZrcFNSWGY4NzRTWk1tdi1pZFV1WVJsUUthMmQxS3NIVGt2Tlk3VVZpVHFkcTFTSE0wSFItRnplT0pDS1ZodG9TU21UZEw1eFpxb3JvV0dfR09fcmtKNUcxSl",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX042alBELThYQ1ZGWmZrcFNSWGY4NzRTWk1tdi1pZFV1WVJsUUthMmQxS3NIVGt2Tlk3VVZpVHFkcTFTSE0wSFItRnplT0pDS1ZodG9TU21UZEw1eFpxb3JvV0dfR09fcmtKNUcxSldCNWVxQmg4bUVHTEk4MElKdGF5dG0tbTRFS0w3bTVBTzM0dkFRcGo3aUxOeTBqZl9jaDRiS0ZVMnlJWFFJWUF4bktrWDVKR2Y5SnRLVTkxZzI0UDJvZmlFSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-05-09-007",
+    "date": "2026-05-09",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement PCL stock (TH0016010009): Asia’s diversified materials giant in focus for US inves - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0Nocm5YNXRKYmxEWG5yNWhaQzJYeGFiVlg5ZDF5VkpCUkhWb0Q1dkhmZEFZU0tmVjR6XzZRMXY3TVNwYjlZTllfTW4wcDJKT21ZQnpyZ2RfelRLSVNGZHJWazl0aEFVcHMweUVMOE",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0Nocm5YNXRKYmxEWG5yNWhaQzJYeGFiVlg5ZDF5VkpCUkhWb0Q1dkhmZEFZU0tmVjR6XzZRMXY3TVNwYjlZTllfTW4wcDJKT21ZQnpyZ2RfelRLSVNGZHJWazl0aEFVcHMweUVMOEJWcDJqazYzRmE0Qlg1dkdIQURvWlNvb01kWEhmNklaVW5EY0RsTndOcVNRNWFXdVp6bFRMa25XNDdHREUxTjA1a0lLSW5rNUlYQ2Z5aEh1cVBZcFNN?oc=5",
         "type": "rss"
       }
     ]
@@ -480,6 +623,24 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/wsp-earnings-q1-power-ai-data-center/819671/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-08-025",
+    "date": "2026-05-08",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "thyssenkrupp Steel appoints Georgios Giovanakis to the Management Board as CSO - SteelRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFVPU1NfZ1VJV296cDdySUNOUWFmTGZiXzVUOTl2elN0R3BYbDQ5UW9reUt3LVJxNUJ4ZTFMdW1nRnFiSVY5VW05UnY5Nmd2SE5QVkZjcmJBa2RLX25TTlpoN01Lcm83d3lwMW9yZW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFVPU1NfZ1VJV296cDdySUNOUWFmTGZiXzVUOTl2elN0R3BYbDQ5UW9reUt3LVJxNUJ4ZTFMdW1nRnFiSVY5VW05UnY5Nmd2SE5QVkZjcmJBa2RLX25TTlpoN01Lcm83d3lwMW9yZW5nQXAyNTNjNl9GMFktZDVBOW9KdnF5amRjSjBLWG5TRVVWcERnODhJTjFEVlgwZ2E4WmdkWGU4c25XMFV4Vnc?oc=5",
         "type": "rss"
       }
     ]
@@ -1703,6 +1864,28 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZG13WkRWTnhNbnQtN2p5bHFMLUlRWUpvalpudUhMQ21nT0VXb1FwbXhZN1l5dWxVQW9kLTFwWXBrZi13Skg0NVk1NVM5TzkzQlpoVGhNN3ZUemQ3blBfMDJRRDVwOW53MjQzcDBzMm9KT1ZCLXo5cldTVmhYamxiMUg1RXpGT3M5YWFJSzJMbFQ1XzZtV3QzTDZhUS1aV1JMY2hmWTJCRklMeEtYNzJsRUs4NXVXYXRYT1FvdmxpSUlOZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnbm-2026-05-06-041",
+    "date": "2026-05-06",
+    "companies": [
+      "cnbm",
+      "heidelberg",
+      "cemex"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "MENA Cement Market Outlook Trends and Growth Analysis Report 2025-2034 Featuring CEMEX, Dangote Cement, InterCement, HeidelbergCement, and CNBM International - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGJjZVJBcnYyZk9xMGx3UXdKd1ZoMlpNTGVQUVVfekxkT3BObkFJRVFvcnFaLTVVRzRTNFVOOHRIcXNkbWx6ODJSQzkwZkYxZjNvdnplU1VZa3pMcTVaN0wybksydmpEbUhyeXJxV0",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGJjZVJBcnYyZk9xMGx3UXdKd1ZoMlpNTGVQUVVfekxkT3BObkFJRVFvcnFaLTVVRzRTNFVOOHRIcXNkbWx6ODJSQzkwZkYxZjNvdnplU1VZa3pMcTVaN0wybksydmpEbUhyeXJxV013VkxKamRPbkNCTGZIVXFNbDI2dlU3Z19wM25NbXJxTVdzTEx1VVMxMHVHazNESFJxODRoX3pB?oc=5",
         "type": "rss"
       }
     ]

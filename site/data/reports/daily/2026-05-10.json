@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:30:00.134684Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Holcim (Argentina) S.A. stock (ARJMIN032223): Cement and construction materials focus in Argentina - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWFaNWp5MTU5VmJOTlB6SmFIWlBqMkxwRlRJRXFvZXlGanlVY0t5MlJxNkpKQTg2cFJkTklqYTZJOTNha1FWRDZmWDdIVWZFRGZUM2NFRFhvNEc5cmliUHN1dnZaNDlJMElmVHQyeXJPWUFvVlpKbklDVWVqVG1aS0RnbHdkSElNUUZneldZMjRhUDNHRHE4dTdIWk9YRzlSVEJWcmdSdGsxMnBjSGtXN2lXSnJYb0FhQkRxVHVJSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 199,
+    "too_old": 100,
+    "gate1_blocked": 10,
+    "gate2_blocked": 17,
+    "passed": 9,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+      "ThyssenKrupp (OTCMKTS:TYEKF) Shares Gap Up - Time to Buy? - MarketBeat",
+      "Thyssenkrupp, Jindal suspend takeover talks - EUROMETAL",
+      "Great American Road Trip"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Holcim相關動態：「Holcim (Argentina) S.A. stock (ARJMIN032223): Cement and ...」。主要關注主題為庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Holcim (Argentina) S.A. stock (ARJMIN032223): Cement and construction materia...（庫存）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
