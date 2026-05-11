@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 12,
+  "gate2_fail": 17,
+  "passed": 30,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+    "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters",
+    "Thyssenkrupp’s Union Is Pushing Back On A Key Spinoff Plan - Finimize"
+  ]
+}

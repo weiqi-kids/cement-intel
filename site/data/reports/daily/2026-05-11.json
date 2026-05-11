@@ -1,0 +1,258 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T11:19:20.330228Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-05-11-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp Nucera to book wider operating loss in Q2 2025/26 - Renewables Now",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUc4TExrTTZWMVRkcF9nTjZkRDBhX1RPVjB0R3lSTjJtcVkzbmgyYUlhblptMEtscU4zcWJ5MWROdGFaZHA0TFhzR3ZmT3g3aFFwMzcxaU8tX0oxcUFrU0FsVFREQ3BmeU1aNWIyUGtVX3p0NTE4WHlFS2pObEVyNUJ2Y2xJaFJEN2IwNzhBSVhyZWpCd1JYNTdOeDNzcnlLaHlZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-11-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Hume Cement Industries posts record net profit growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.cemnet.com/News/story/181316/hume-cement-industries-posts-record-net-profit-growth.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-05-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Reports Strong Q1 Earnings and Declares D - GuruFocus",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMjZiVEVkalZOZjA4RllNaE9fMnkwYWR4WW1ucnFVUEl0ZUZXWGwyX3cwck50SnhkVzk0LXlpRzZQMHJFSWcxXzgxelAtaFM4X3o4TmV5MFI2WnZ0cG1ySlpUazZkb05YMm1oUnJ4c0h5MEhGX1J1VU5jRjM2R001S3RCeElBb1NmTHp6U0x4TmxYdzh0ZE96dUtRQ054endFdkR0ZF9Oc0xDOXJu?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Resideo Earnings: What To Look For From REZI - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNLemNiTUo5cVc2VFQ5SXp4V1Uzc2dRbFdUcHBfVFF1NFBicHBVby1JQ1QzYzFvVHFUTFV4b2g3QUEzWm43UU5aNnRjMl9vSG5Zdzg3UWdpUHJLMW9nMUtGc0RnZmpXR2Z1ZXZSdXlfcE1Mc2ZlTzBlWk9JSzR1WUNJTThHeVVYWHRFZXRQNGFCamRfbXJVcklCRnBOaU9qTnAyNnFZTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-05-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Nucera reports huge boost in electrolyser orders on back of 300MW green hydrogen project - Hydrogen Insight",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0JNXzIyVU9mSE5sS3FrNndCNWZqbjlLXzc4NnN3NjNIM1I0cVZieXZ1LXpwQkVDbDYwNHlYaGdnZ0p4Q1FudFJpcXZBYlBMaXl0RXlRVG9RQ0x0cm1xMWF5X2E2WVcyejZKVk1JYi1sbnJzMFdHLTdQLWEtQks3TV9Lb3paNlZ4YS1SWUpyRGRNYTdwRTdwaVMwd2hsNUlFV3BXTy01V2NDR0JtQWFib29jOXRMb2ZQUGpSc0VqRGtrWWNGRENCVGxCanRhRlhNbEY3ZktFNDVQTEFHYkhsZTNyd3RDZGptQnRkVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 6
+      },
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 177,
+    "too_old": 100,
+    "gate1_blocked": 12,
+    "gate2_blocked": 17,
+    "passed": 30,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+      "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters",
+      "Thyssenkrupp’s Union Is Pushing Back On A Key Spinoff Plan - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為蒂森克虜伯、海德堡材料、Vulcan Materials相關動態：「Thyssenkrupp Nucera to book wider operating loss in Q2 20...」。主要關注主題為財報、產能、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp Nucera to book wider operating loss in Q2 2025/26 - Renewables Now（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hume Cement Industries posts record net profit growth（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
