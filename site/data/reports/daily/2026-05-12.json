@@ -1,0 +1,290 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:34:18.435203Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-05-12-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp Nucera halts hiring in high-cost countries as Q2 loss widens - Reuters",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnVVRWEyUVZ2MENRb3RPR0tmOExBQjBiMzc0NU8zUUx4NWFrS2lBbDFXdmNkTngtdDNpX01kQklpODlHUC14YUZHcUVqZWxSaHdlQndsaHB4Z3JvcEdOeVE1cDZvZWQwbFI1OE1wc3pNcXRELU1pQW9tRE1qNm1GWmpGdjhGM2hNRXRfSmxRZlZlYjh1R3BzcGxoLVo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-05-12-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp Nucera Tightens Costs After Hydrogen Loss Deepens - Finimize",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajY4T3hJYWZtZzdTMWlsWUJMUW9IWmwwYVdIY0wyU0NIakdGLWw5MzhaS203dnF5RUpGZURmU0ZwN3ctelFCRkx3bjVLemdBeGduQzJlak9fck5sSjhKR1ZsNV9XbVB1V2Nnck1PQzE0SE9odS01NS1LLVdaUVNLcWoxQnRZTEQ1Q0pJRU5TZEFUQUxYQkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "taiheiyo-2026-05-12-025",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiheiyo Cement: Profit fell on overseas losses, but FY2027 targets recovery and higher dividends - TradingView",
+      "companies": [
+        "taiheiyo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYm9SOVdqT003b2lkWmR0anpaU09DSmJRX3d3SUZjaG85bDRtZGFFcElBTmhxcDhUdFVMWjJCU1dGM3FrMERBQnN5RWs4STRDUEFJZkdTNGxPRUVoZTNSdEthRUlVN3ZDek9TLU5BTERSdFh3bmVmMXI3YzVSNmpjdUQyaklXVENIVlFJQm1zWGpRckRQbnplY211clU3R2tRQzZXbmxFa2hBc1hJbjIyWkM2V1RLVnllMUgxQ21weElWZ3c3a2FmUEFHZERsOHF3SlNCeUlFUUo4NElzYURZWDlKUTBMU2U4c3h0NlphOWZqSG9vR3o0TEZOS1dKYk5raXRnZExGay14dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-12-034",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Birla Corp reports higher FY25 profit as cement capacity expands",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181322/birla-corp-reports-higher-fy25-profit-as-cement-capacity-expands.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-12-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Kuwait Portland Cement reports sharp decline in 1Q26 profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181321/kuwait-portland-cement-reports-sharp-decline-in-1q26-profit.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.18,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 7
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 16
+      },
+      {
+        "id": "taiheiyo",
+        "count": 8
+      },
+      {
+        "id": "ultratech",
+        "count": 3
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "taiwan_cement",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 25
+      },
+      {
+        "id": "guidance",
+        "count": 11
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 170,
+    "too_old": 88,
+    "gate1_blocked": 8,
+    "gate2_blocked": 17,
+    "passed": 53,
+    "pass_rate": "31.9%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+      "Thyssenkrupp Nucera’s second-quarter net loss widens By Reuters - Investing.com",
+      "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters",
+      "ECOPlanet rockets Morocco’s tallest tower to LEED Gold certification - Holcim"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為蒂森克虜伯、太平洋水泥、UltraTech相關動態：「Thyssenkrupp Nucera halts hiring in high-cost countries a...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp Nucera halts hiring in high-cost countries as Q2 loss widens - R...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp Nucera Tightens Costs After Hydrogen Loss Deepens - Finimize（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

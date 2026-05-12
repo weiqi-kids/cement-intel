@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 8,
+  "gate2_fail": 17,
+  "passed": 53,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+    "Thyssenkrupp Nucera’s second-quarter net loss widens By Reuters - Investing.com",
+    "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters",
+    "ECOPlanet rockets Morocco’s tallest tower to LEED Gold certification - Holcim"
+  ]
+}
