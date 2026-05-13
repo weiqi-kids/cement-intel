@@ -1,0 +1,291 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:29:19.670490Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-05-13-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Thyssenkrupp (XTRA:TKA) EPS Loss In Q2 2026 Tests Bullish Profitability Narrative - simplywall.st",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX3RQRWdMS3ZCNkxNRnQzNVVoT2ttdWNfUkYxaTFWZGs2dFlUdk92by11TElyUVJ0dHRUdUtxWFl5amxteEp0elB1VERzdTR6NldjT2JQYmFkZmlvRlFTamF3UWtDeHJ6S0hWdm9FRXBOZkNCdXpqRDZZY29qRmRaSjQxMFlCYjhsQnhJODZLZzhYR2p4dEFTQXhMLUFyZ0hEdU1kVlUtdE9xVTJuaFl3S1VsMWlPTzhIUEo1c2NHVEJid2FyRGdtUC1lQVh0dXFT0gHWAUFVX3lxTE5jeUtsSHJualEwUGkyNFJ1SUhWd1FwS04xU1RscWkzY0I0cExOcFB6dDZ0dWtmTktJZnFGdWhzaGgzNUs2V0QtVzZPQ1lrWFBrWXFGUjlCcU9kalVqS3JkcUloMWlBUDFRN3Joc3FfR0pHRWhYVDl3LWRqYS02cW1iQWthVjJIQ0NlMlZPT0EzVEd6M3Zva2RoZ25OMFdBVDByVDBzSFluOTdfXzZybVduS05rdVVWNFh5U2hmdGVpZmNUbHEtT2J6YlI0dEpvN2pEb2JUcEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-05-13-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Heidelberg Materials AGM: Record 2025 Results Fuel Dividend Hike, Buybacks - Yahoo Finance",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlZvSVNPR0ZfWnQ4cUpjQlp3LWRRQlFlRjZhX2ZlU3hMMWZRM2EzdzBrUmI2QnBNSU1fbXZWRlppMkNHbUJYbFhWaGJtRWd1cUVqT2EtdW0xWHp2VEljSVV6cmxLazc5S0VLOXU3dmJfaF9wZDVydzByc3lBVlZoZnhlOTBnMEtZQ0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-13-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "India Cement Giants' ₹50K Cr Capex Race Risks Profitability - Whalesbook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMW1uMWZteldJQW1HYVdNQTV4engwaURDRnBQa0h0WjN0UkhrVzJhZjh6VDRCSEFoYjQyXzliNEJwbFFYNEV2MElrbTZGb2xsT0pKU2pkaHNjT2lZUUpsLUdkdTZ3ZkE0WnBzaG96Q2xOdGFkSlpFR1U2dzNaZW9YLWhPVUxDWUcwaXVOd204RzdvUkdhRTJ1Z3VOM3FyMjYtUElBZ2FFdDg5Q3dDUW15ZHlxNEZDdDgyRTI5ZmlDc3hjUnpLcXp2eEQxWmdSbUFPYjhuNWpJeGNtNE1Gd0FmeHRNZWtuX2tSZ2F3RUg1aXA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-05-13-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "LafargeHolcim Bangladesh maintains leading margins amid 1Q26 economic hardships",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181331/lafargeholcim-bangladesh-maintains-leading-margins-amid-1q26-economic-hardships.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-13-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sumitomo Osaka Cement reports higher FY25 earnings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181332/sumitomo-osaka-cement-reports-higher-fy25-earnings.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "taiheiyo",
+        "count": 5
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 170,
+    "too_old": 89,
+    "gate1_blocked": 10,
+    "gate2_blocked": 16,
+    "passed": 43,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Great American Road Trip",
+      "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+      "Thyssenkrupp raises valuation of steel division after Jindal discussions end - Marine News Magazine",
+      "Thyssenkrupp has raised the valuation of its steel division by 25% - GMK Center"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為太平洋水泥、蒂森克虜伯、海德堡材料相關動態：「Thyssenkrupp (XTRA:TKA) EPS Loss In Q2 2026 Tests Bullish...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp (XTRA:TKA) EPS Loss In Q2 2026 Tests Bullish Profitability Narra...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Heidelberg Materials AGM: Record 2025 Results Fuel Dividend Hike, Buybacks - ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

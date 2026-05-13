@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 89,
+  "gate1_fail": 10,
+  "gate2_fail": 16,
+  "passed": 43,
+  "gate2_samples": [
+    "Great American Road Trip",
+    "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+    "Thyssenkrupp raises valuation of steel division after Jindal discussions end - Marine News Magazine",
+    "Thyssenkrupp has raised the valuation of its steel division by 25% - GMK Center"
+  ]
+}
