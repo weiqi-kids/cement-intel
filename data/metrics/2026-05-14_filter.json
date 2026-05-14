@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 10,
+  "gate2_fail": 17,
+  "passed": 35,
+  "gate2_samples": [
+    "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+    "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+    "Thyssenkrupp gains ground as Citigroup identifies catalysts - marketscreener.com",
+    "Thyssenkrupp raises valuation of steel division after Jindal discussions end - Marine News Magazine",
+    "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters"
+  ]
+}

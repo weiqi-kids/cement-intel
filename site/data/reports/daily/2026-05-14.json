@@ -1,0 +1,269 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:16:19.927722Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-05-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG (TKAMY) Q2 2026 Earnings Call Highlights: Resilience Amid Market Challenges - GuruFocus",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNS1NqZTJwSENBMFBSX3NkZTVoTF93RXZCVzUweDVkLXU2RGJ3dmJsZTJFWWtkSU9UNHpCcWFQVlFWNldpemRwOGdJRjIzemtNNHk3cEF0THhsbll6Vkt4TlhrNkhHdDB5R1hLQ0lGMF9xQmpzSF9pU1ZnWXU4MzZyQkhXQUZVVDFMNkZJRThYN2VSTTRwQ24ySFlKVVlsNm5TU182bDQxS3JUVXI2X2ZHb3BPTXRHUU5HQzZ4bEw4VmpObWdPTDJyRmgxRFF3c2VSbHFiRWJLcmFEVmRFNjNJaDZUUmk1RFRJOHBPMWY5anBOSGs2WlNpRWZ5c2EzTEgyd2dSUUlJSzJxNzVjVVhNaUFfdTNGenFTVUpPX3ZOZnhpTUFlbkd1WldMbUFtaXM1Vm9qZWh3TXVxa1NRMzJYS2hKWGJyMndReFhzelRIdmVpRkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "asia_cement-2026-05-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement 1Q Net Profit NT$1.79B Vs NT$1.79B - Moomoo",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUxGQ2VXdjFZaFoyRlhQWmFua3Z5dUgwaUgyXzRvbkpxRDBGUVFqTjdHVGNpZkZFWE1Rdm5oaHhkcjlwSDVVWDl6b0E1WGZvSnR1SzNDRnE1eXRzT1UyWmdtbC0tbHktTk1ESk9HeGVvOEllZjBpV0hwWW94Y1ZtanRnaG85S2tyY0NidlpTbzlDUExDR0xOeHJRRjBwNWVNM2RMcWUtMmZkWTJtSXE3Y0xZbmtUdzFW?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "asia_cement-2026-05-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement reports 38% rise in Q1 net profit - cemnet.com",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjhKc2s2bFkxaVRPTlNFMGItUlFCZ1NwRlpkejlFX0FfNjlFNFIwSW1ib1V2aHdNNHltTWswZzViRVA1SXRqOHFXd2Iwb2VyZnV6dFZHZ2c0Nk4zUE41MGI5aHhuMVNuSlF5RG9CMEpDVVFiV09FVWR4eTd5LWNjdFdkcHJIWjBqV3lnRjZ2cDJYZV8w?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "anhui_conch-2026-05-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anhui Conch Cement stock (HK0914000021): China's cement giant navigates industry challenges - AD HOC NEWS",
+      "companies": [
+        "anhui_conch"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUV1MlE0S1hHclM2dnl0NkdxRVYzcHZEZmFaSGdhZWZtdkRZQkcta0ZYYS1BcHdoUHg5Z3FON1hrYkVNTHp5T213WFJYRkhYLWZEMGp0Vnc0bTdsbXl2VTIzRnh0RFZGSGNtSXpjVU54c2VwV1VVNXZ2SnZPQ3R4bkhETTV0d1RmZV9UT1ZacE80VVFSYXZqYVVHNV9CTXQwb1hOYUsxZURtQldlOGZwNmx0ejVTZVZtVEtOcFNCSHZRTzJSQ1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-05-14-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement sets July 15 deadline for IEPF claims - scanx.trade",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPa0ZWRHJHVG1iUWFIQlVUdFNfOVlSY1NwbE51ZXBaWElLekVPQzhUbWNJaFRKdVNRU3RvckxvUjVwcXd6TzJ0SGszOTZ1UDUtc1NOY0E0SnlBam9HUGNJcjlhdGtuZE15R19nbWtyMGNLNlNFbDhXcjczRkpiWk15RVFWWE9LZnFudUFfS3RtMlZ5OUkySV9ZaXhxQkp2elZWSXQwRjhkQ2xxZ3hHNWZGV3JJbS1IVDhVMURNOE9tTE1faTRwQ3FnTVlfRU1qY1RtZFJ0TXNVTVJ1SkNDVFh6dEdMY1hlbU10TDhaVExOQkoyQUNPNnNwTTVidkhQRTBNbTdCaUln?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "asia_cement",
+        "count": 5
+      },
+      {
+        "id": "ultratech",
+        "count": 4
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      },
+      {
+        "id": "taiheiyo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 188,
+    "too_old": 87,
+    "gate1_blocked": 10,
+    "gate2_blocked": 17,
+    "passed": 35,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+      "Is It Too Late To Consider Vulcan Materials (VMC) After Recent Valuation Concerns? - Yahoo Finance",
+      "Thyssenkrupp gains ground as Citigroup identifies catalysts - marketscreener.com",
+      "Thyssenkrupp raises valuation of steel division after Jindal discussions end - Marine News Magazine",
+      "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為亞泥、UltraTech、蒂森克虜伯相關動態：「thyssenkrupp AG (TKAMY) Q2 2026 Earnings Call Highlights:...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "thyssenkrupp AG (TKAMY) Q2 2026 Earnings Call Highlights: Resilience Amid Mar...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Asia Cement 1Q Net Profit NT$1.79B Vs NT$1.79B - Moomoo（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,369 @@
+{
+  "companies": [
+    {
+      "id": "vulcan",
+      "name": "Vulcan Materials",
+      "aliases": [],
+      "ticker": "VMC",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "骨料",
+      "description": "Aggregates supplier for construction",
+      "ir_url": "https://ir.vulcanmaterials.com/",
+      "rss_url": "https://news.google.com/rss/search?q=\"Vulcan+Materials\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "holcim",
+        "crh",
+        "cemex",
+        "heidelberg",
+        "eagle_materials"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "martin_marietta",
+      "name": "Martin Marietta",
+      "aliases": [],
+      "ticker": "MLM",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "骨料",
+      "description": "Aggregates and heavy building materials",
+      "ir_url": "https://ir.martinmarietta.com/",
+      "rss_url": "https://ir.martinmarietta.com/rss/news-releases.xml",
+      "downstream": [
+        "holcim",
+        "crh",
+        "cemex",
+        "heidelberg"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://ir.martinmarietta.com/rss/news-releases.xml"
+    },
+    {
+      "id": "eagle_materials",
+      "name": "Eagle Materials",
+      "aliases": [],
+      "ticker": "EXP",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "水泥+石膏",
+      "description": "Cement and gypsum wallboard manufacturer",
+      "ir_url": "https://ir.eaglematerials.com/",
+      "rss_url": "https://ir.eaglematerials.com/rss/news-releases.xml",
+      "downstream": [
+        "holcim",
+        "crh"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://ir.eaglematerials.com/rss/news-releases.xml"
+    },
+    {
+      "id": "thyssenkrupp",
+      "name": "thyssenkrupp",
+      "aliases": [
+        "蒂森克虜伯"
+      ],
+      "ticker": "TKA.DE",
+      "market": "XETRA",
+      "currency": "EUR",
+      "position": "upstream",
+      "role": "設備",
+      "description": "Cement plant equipment and engineering",
+      "ir_url": "https://www.thyssenkrupp.com/en/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"thyssenkrupp\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "holcim",
+        "cemex",
+        "heidelberg",
+        "taiwan_cement",
+        "asia_cement",
+        "anhui_conch",
+        "ultratech",
+        "taiheiyo",
+        "cnbm"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "holcim",
+      "name": "Holcim",
+      "aliases": [],
+      "ticker": "HOLN.SW",
+      "market": "SIX",
+      "currency": "CHF",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "全球最大水泥製造商",
+      "ir_url": "https://www.holcim.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Holcim\"+cement&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vulcan",
+        "martin_marietta",
+        "eagle_materials",
+        "thyssenkrupp"
+      ],
+      "downstream": [
+        "asia_cement_china"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "crh",
+      "name": "CRH plc",
+      "aliases": [],
+      "ticker": "CRH",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "全球領先建材集團",
+      "ir_url": "https://www.crh.com/investors",
+      "rss_url": "https://www.crh.com/feed/",
+      "upstream": [
+        "vulcan",
+        "martin_marietta",
+        "eagle_materials"
+      ],
+      "downstream": [],
+      "ir_rss_url": "https://www.crh.com/feed/",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "cemex",
+      "name": "CEMEX",
+      "aliases": [],
+      "ticker": "CX",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "墨西哥水泥龍頭",
+      "ir_url": "https://www.cemex.com/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"CEMEX\"+cement&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vulcan",
+        "martin_marietta",
+        "thyssenkrupp"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "heidelberg",
+      "name": "Heidelberg Materials",
+      "aliases": [
+        "海德堡材料"
+      ],
+      "ticker": "HEI.DE",
+      "market": "XETRA",
+      "currency": "EUR",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "德國水泥龍頭",
+      "ir_url": "https://www.heidelbergmaterials.com/en/investors",
+      "rss_url": "https://news.google.com/rss/search?q=\"Heidelberg+Materials\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "vulcan",
+        "martin_marietta",
+        "thyssenkrupp"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "taiwan_cement",
+      "name": "Taiwan Cement",
+      "aliases": [
+        "台泥"
+      ],
+      "ticker": "1101.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "台灣最大水泥製造商",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Taiwan+Cement\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "thyssenkrupp"
+      ],
+      "downstream": [
+        "asia_cement_china"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "asia_cement",
+      "name": "Asia Cement",
+      "aliases": [
+        "亞泥"
+      ],
+      "ticker": "1102.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "台灣第二大水泥製造商",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Asia+Cement\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "thyssenkrupp"
+      ],
+      "downstream": [
+        "asia_cement_china"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "anhui_conch",
+      "name": "Anhui Conch",
+      "aliases": [
+        "海螺水泥"
+      ],
+      "ticker": "600585.SS",
+      "market": "SSE",
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "中國最大水泥製造商",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Anhui+Conch\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "thyssenkrupp"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "ultratech",
+      "name": "UltraTech",
+      "aliases": [],
+      "ticker": "ULTRACEMCO.NS",
+      "market": "NSE",
+      "currency": "INR",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "印度最大水泥製造商",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"UltraTech\"+cement&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "thyssenkrupp"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "taiheiyo",
+      "name": "Taiheiyo Cement",
+      "aliases": [
+        "太平洋水泥"
+      ],
+      "ticker": "5233.T",
+      "market": "TSE",
+      "currency": "JPY",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "日本最大水泥製造商",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Taiheiyo+Cement\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "thyssenkrupp"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "siam_cement",
+      "name": "Siam Cement",
+      "aliases": [],
+      "ticker": "SCC.BK",
+      "market": "SET",
+      "currency": "THB",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "泰國最大水泥集團",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Siam+Cement\"+cement&hl=en&gl=US&ceid=US:en",
+      "upstream": [],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "cnbm",
+      "name": "CNBM",
+      "aliases": [
+        "中國建材"
+      ],
+      "ticker": "3323.HK",
+      "market": "HKEX",
+      "currency": "HKD",
+      "position": "midstream",
+      "role": "水泥製造",
+      "description": "中國最大建材集團",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"CNBM\"+cement&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "thyssenkrupp"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "asia_cement_china",
+      "name": "Asia Cement China",
+      "aliases": [
+        "亞泥中國"
+      ],
+      "ticker": "0743.HK",
+      "market": "HKEX",
+      "currency": "HKD",
+      "position": "downstream",
+      "role": "水泥銷售",
+      "description": "亞泥中國區子公司",
+      "ir_url": null,
+      "rss_url": "https://news.google.com/rss/search?q=\"Asia+Cement+China\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "taiwan_cement",
+        "asia_cement",
+        "holcim"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [
+    {
+      "id": "igf",
+      "name": "iShares Global Infrastructure ETF",
+      "ticker": "IGF",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "全球基礎建設 ETF，涵蓋水泥相關"
+    },
+    {
+      "id": "pkb",
+      "name": "Invesco Dynamic Building & Construction ETF",
+      "ticker": "PKB",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "建築營造 ETF，涵蓋水泥與建材"
+    }
+  ],
+  "supply_chain_positions": {
+    "upstream": [
+      "骨料",
+      "設備",
+      "水泥+石膏"
+    ],
+    "midstream": [
+      "水泥製造"
+    ],
+    "downstream": [
+      "水泥銷售"
+    ]
+  }
+}
