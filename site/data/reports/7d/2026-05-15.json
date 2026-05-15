@@ -1,0 +1,185 @@
+{
+  "date": "2026-05-15",
+  "date_range": {
+    "start": "2026-05-09",
+    "end": "2026-05-15"
+  },
+  "generated_at": "2026-05-15T10:24:42.645638Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "thyssenkrupp-2026-05-11-003",
+      "date": "2026-05-11",
+      "title": "Thyssenkrupp Nucera to book wider operating loss in Q2 2025/26 - Renewables Now",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 70,
+      "last_week": 48,
+      "week_over_week_change": "+46%",
+      "sentiment_this_week": -0.07
+    },
+    "inventory": {
+      "this_week": 16,
+      "last_week": 7,
+      "week_over_week_change": "+129%",
+      "sentiment_this_week": 0.12
+    },
+    "raw_material_energy_cost": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": -0.12
+    },
+    "capacity": {
+      "this_week": 11,
+      "last_week": 8,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": 0.09
+    },
+    "carbon_emissions": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.07
+    },
+    "guidance": {
+      "this_week": 13,
+      "last_week": 2,
+      "week_over_week_change": "+550%",
+      "sentiment_this_week": -0.08
+    },
+    "capacity_consolidation": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "holcim": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 6
+    },
+    "vulcan": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "thyssenkrupp": {
+      "event_count": 30,
+      "sentiment_avg": -0.19,
+      "rank": 1
+    },
+    "heidelberg": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "taiwan_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "anhui_conch": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ultratech": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "taiheiyo": {
+      "event_count": 14,
+      "sentiment_avg": -0.07,
+      "rank": 2
+    },
+    "siam_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "asia_cement": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 188,
+        "last": 160,
+        "change_pct": 17.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-09",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 71,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 31,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 28,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 11,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-09 ~ 2026-05-15）共 188 則事件，重點為「Thyssenkrupp Nucera to book wider operating los...」。Vulcan Materials、台泥表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Holcim",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 30 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "海德堡材料",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
