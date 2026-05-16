@@ -1,0 +1,185 @@
+{
+  "date": "2026-05-16",
+  "date_range": {
+    "start": "2026-05-10",
+    "end": "2026-05-16"
+  },
+  "generated_at": "2026-05-16T09:31:25.483726Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "thyssenkrupp-2026-05-11-003",
+      "date": "2026-05-11",
+      "title": "Thyssenkrupp Nucera to book wider operating loss in Q2 2025/26 - Renewables Now",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 20,
+      "last_week": 7,
+      "week_over_week_change": "+186%",
+      "sentiment_this_week": 0.1
+    },
+    "earnings": {
+      "this_week": 74,
+      "last_week": 45,
+      "week_over_week_change": "+64%",
+      "sentiment_this_week": -0.07
+    },
+    "raw_material_energy_cost": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": -0.1
+    },
+    "capacity": {
+      "this_week": 12,
+      "last_week": 8,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.12
+    },
+    "carbon_emissions": {
+      "this_week": 8,
+      "last_week": 8,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.06
+    },
+    "guidance": {
+      "this_week": 14,
+      "last_week": 2,
+      "week_over_week_change": "+600%",
+      "sentiment_this_week": -0.07
+    },
+    "capacity_consolidation": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "holcim": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 8
+    },
+    "vulcan": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 9
+    },
+    "thyssenkrupp": {
+      "event_count": 30,
+      "sentiment_avg": -0.19,
+      "rank": 1
+    },
+    "heidelberg": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 4
+    },
+    "taiwan_cement": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "anhui_conch": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ultratech": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "taiheiyo": {
+      "event_count": 14,
+      "sentiment_avg": -0.07,
+      "rank": 2
+    },
+    "siam_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "asia_cement": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 205,
+        "last": 158,
+        "change_pct": 29.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-10",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 73,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 32,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 28,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 25,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 7,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-10 ~ 2026-05-16）共 205 則事件，重點為「Thyssenkrupp Nucera to book wider operating los...」。Holcim情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Holcim",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 30 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "海德堡材料",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

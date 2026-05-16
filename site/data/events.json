@@ -1,5 +1,148 @@
 [
   {
+    "id": "unknown-2026-05-16-001",
+    "date": "2026-05-16",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "⚡ Cement has been produced entirely with electricity – significant potential to cut CO2 emissions - warpnews.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFpQbi1sVEdOcW83SzFlOU1LODJaR0FONUY1aW9BWGdXWUFLeElIWDVlLUxxbW84QjJNX01FS2o2aHIwYWp5SWZpWWUtU0xzTzdpNjc3Z01SRzBBOFpiWXRtcHZJNTVYMEE2eWlZcG",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFpQbi1sVEdOcW83SzFlOU1LODJaR0FONUY1aW9BWGdXWUFLeElIWDVlLUxxbW84QjJNX01FS2o2aHIwYWp5SWZpWWUtU0xzTzdpNjc3Z01SRzBBOFpiWXRtcHZJNTVYMEE2eWlZcGNhcmNVWFlWQ2JWbnRXRWVQTldUTjRkY2xFWGxhanhyYXJmSXU4b0dsUUFJQTh5NVdkSHo1RjJIeHVaNE9SZGx5dExKNXctNllZVlBBYmhPZUZDQWtiSjc0VkR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-05-16-002",
+    "date": "2026-05-16",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement Corp stock (TW0001101004): Q1 2026 results highlight Taiwan demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFI4SU94aVJlSHhGTEdXLVhSc2FlSmNlWkdIUlJ1Skt3QUNhOXFwSmZGbTI5aUR1dWt2SDZiRzVSMTdfQllJZkkydnphMGR6ZzB4UVlKNVp0M1prZU45YmZSd3A4YXZJZWlzT0czMm",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaFI4SU94aVJlSHhGTEdXLVhSc2FlSmNlWkdIUlJ1Skt3QUNhOXFwSmZGbTI5aUR1dWt2SDZiRzVSMTdfQllJZkkydnphMGR6ZzB4UVlKNVp0M1prZU45YmZSd3A4YXZJZWlzT0czMm9TQndmeUFkdVhzdzFyRFRpdmtkOEhZSGhtbkhyaTNxRTY0ZS1PZFhsck5pZFFBcDRpTEJrWmtKd2pMM1Rpem8zMnZ2aGkyMGctd2VyOGo2cUNUTV9FaVF6bA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-05-16-003",
+    "date": "2026-05-16",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement Corp stock (TW0001101004): earnings, green transition and regional demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVJDV3hFTFp4aWcyb1N4d2c4YmRJcVdleUs4MzlBNExrMEIyYUNHdlZCM01TYkowNWJrYUNFYnR2T3d6MS1uSmx0NHpDUVZXdmxyY2xkYTZWZC1SV25RakUzQTEwQmpiX2FvemxXX3",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVJDV3hFTFp4aWcyb1N4d2c4YmRJcVdleUs4MzlBNExrMEIyYUNHdlZCM01TYkowNWJrYUNFYnR2T3d6MS1uSmx0NHpDUVZXdmxyY2xkYTZWZC1SV25RakUzQTEwQmpiX2FvemxXX3JBTjlvcXByQ2s1X1pyVHN2WXBtOTZjUmxGTFJlNTJ3THBlTnJoTm15Zl91TTNnWEhRd1pzbkpjUGprMzBGeEE5cFF1LWVOWnB5clBHbVVPa1g2ZHVo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-16-004",
+    "date": "2026-05-16",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement Ltd stock (INE481G01011): earnings growth and expansion plans draw attention - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2ZRa3M0a2JVUEJnbGtlTlZ2MU05YTVROVdVQlJOWEQzTzZ0cDh4TTNieW9sRHVpRk5YNVVmaE9NM2cyLVFrbWFfdDJWWDlialZWNjVMcG91U3BNT0tSSnNCYWNCeXNIUFotLU9YMn",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2ZRa3M0a2JVUEJnbGtlTlZ2MU05YTVROVdVQlJOWEQzTzZ0cDh4TTNieW9sRHVpRk5YNVVmaE9NM2cyLVFrbWFfdDJWWDlialZWNjVMcG91U3BNT0tSSnNCYWNCeXNIUFotLU9YMng2alVHelFBbDdlNGNmLWdaQmZVc0Rvc0VCQUtNYXQ1TXloSHFmWXpteFlzYzFWeThwOF95Vml0T09QNHJ5TUk2cU1qTU5wRmlPTldjZGVBbkNTOEYwU1lF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-16-005",
+    "date": "2026-05-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India Cements Receives RBI Compounding Order for FEMA Violation; Compounding Amount Set at Rs.18,250/- - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcTZma2V0SmdOX2lYanZtb3ZaY2lldldqM0NMZF9SNkpua2RTdGR5bC1Fd3pPLWkwQ0xCdlJDbHVISENMNUUwNXRRaEVzaGJtcnpRVU44VTJGU2cyVDZVVXNISzRUa0ZkMzJ4T1NMUW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcTZma2V0SmdOX2lYanZtb3ZaY2lldldqM0NMZF9SNkpua2RTdGR5bC1Fd3pPLWkwQ0xCdlJDbHVISENMNUUwNXRRaEVzaGJtcnpRVU44VTJGU2cyVDZVVXNISzRUa0ZkMzJ4T1NMUWh6d2NqXzZ5VVdRNWRyelgzSWRsNkxsbXFqNEcwUmZuZmlDYVpVNUs2UHZHWURIbWJ1a1lHQzNOMmQ2NDVSLWN1RFRzVjFXLXJCR1RoOUdsbkxXZk5GWndUWHZJelJVMXZ3SXBlYjBtSUxObWZIOVlNQ3Z2UFgyQk54ZkF3Xw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-16-006",
+    "date": "2026-05-16",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Ltd stock (INE481G01011): recent results and outlook for US-focused investors - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWDNENkdJVGVmSHphSkdyRkRqLTktR3h0c1haLXNXU0piS0tMZENoMXVhUGVNejVwOUlFSjhwaW9yLUZLNmxTOG4xeXU2SzFJV0tZOXBjTHpOcEpaU04wUGFGNEp4MUpKaWlLdVpodX",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWDNENkdJVGVmSHphSkdyRkRqLTktR3h0c1haLXNXU0piS0tMZENoMXVhUGVNejVwOUlFSjhwaW9yLUZLNmxTOG4xeXU2SzFJV0tZOXBjTHpOcEpaU04wUGFGNEp4MUpKaWlLdVpodXllNnVuOFB2SkhzM0hTdER4cjE3R2NUQTF1RXpPYVByVFFadTVfeU9iRDZGLXBKRDlIcE1JRFYxNldfa1lXZzBhS3R2ZXN3M1prcVZ1OVI4TDVrRHhjSENqaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-05-16-007",
+    "date": "2026-05-16",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement stock (TH0016010009): Thailand market update after analyst coverage - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEVRM0ozNnRkVXhCU2V1U2E0X0hMTEdMVmFhNjNTSEUzanR5RUgzUVJyNXRpbExFSFZPeTJKOVRGNXFYQTJjR1liMEJrNnJqLVdHcldRcnhscnpvY2RfWUR6b29zdm5hN2czVlkyUG",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEVRM0ozNnRkVXhCU2V1U2E0X0hMTEdMVmFhNjNTSEUzanR5RUgzUVJyNXRpbExFSFZPeTJKOVRGNXFYQTJjR1liMEJrNnJqLVdHcldRcnhscnpvY2RfWUR6b29zdm5hN2czVlkyUGlRZGxOaEdMZnZlamZCal9NV2FUOGc4RTBHUTNxUWRqTy14ZFF3MzNrdFdQRUJ1MHJDakxKVWlBNmlMb01iZzQzdDZCdHNHc1RCUGlzbHZ5ZkZVZThPY184UF9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-05-15-001",
     "date": "2026-05-15",
     "companies": [
@@ -210,6 +353,284 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181334/vulcan-material-posts-28-growth-in-1q-net-earnings.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-15-012",
+    "date": "2026-05-15",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock (US9291601097): steady construction demand meets fresh earnings impulse - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzB4MUZyQ2p0ZGpwa0ZZeDJzSkdBN1REWVpjdG5CbXFtV3VDR0JmNm0yNk1ia1FEYlZLVzFmOGdzaWxCbmllYWc3dVZyLU9RenFJSHdnMUtmX1Z0dzFnSDRsMXRrbG9IY0s1WmJhTV",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzB4MUZyQ2p0ZGpwa0ZZeDJzSkdBN1REWVpjdG5CbXFtV3VDR0JmNm0yNk1ia1FEYlZLVzFmOGdzaWxCbmllYWc3dVZyLU9RenFJSHdnMUtmX1Z0dzFnSDRsMXRrbG9IY0s1WmJhTVpxWmotcUZ2S29NbnVHQW1jTGtoRDJLMVExcVJGNVhpbkFPZThVOEF3YXh4Nk8xd3l6VW5kTnFOMXZJbjRGWGxVY2NwZ3BYTVlKTTExRTFkdF85Y1pHeGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-15-013",
+    "date": "2026-05-15",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Plant in Terre Haute Closing by March 31, 2027 - WTHI-TV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0lIOHlkcVhVclIzSjNGcWFDYzdjcTZETWNkeTFYa2RKLURKUEdkVXR1aUpmSTV5bG13SnljNGhvaEV3OGFrN0d6ckFYZ3NpblhIN1pxRWd6cVFPb1pjRHl6VlpkWnlWNXFIN2dYMl",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc0lIOHlkcVhVclIzSjNGcWFDYzdjcTZETWNkeTFYa2RKLURKUEdkVXR1aUpmSTV5bG13SnljNGhvaEV3OGFrN0d6ckFYZ3NpblhIN1pxRWd6cVFPb1pjRHl6VlpkWnlWNXFIN2dYMl9MaUNLUVhLby1QLU02aVFQTjEyMlRaMXU2YmNHNlV0RUlGT0V6LUV3VEFhX1ZDZDFiSHlYTEU4SUVRYmswcFl2REZ4OWZwcjZfWkVfMGJnSE1vaXBhaDl4WUI1ZEVjd3J6ZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-15-014",
+    "date": "2026-05-15",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Plant to close by March 2027 - MyWabashValley.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEhQX3NuNS1MTDRqVW43V3MwdkdTcjVIQVotZm9DNXoyN1JZSzRxM0FDWWExZ1kzX0xmREIxM0FzbTRrM1JmNHl6VlJFU1JmNGZ3NUtnR3pVdzV6TjVWWjMtcWl2RXdGSERhbUd6ZH",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEhQX3NuNS1MTDRqVW43V3MwdkdTcjVIQVotZm9DNXoyN1JZSzRxM0FDWWExZ1kzX0xmREIxM0FzbTRrM1JmNHl6VlJFU1JmNGZ3NUtnR3pVdzV6TjVWWjMtcWl2RXdGSERhbUd6ZHNPX0xQNmlfMXJUWDJVdmtVS191RzdxXzNJWlljTVhmaXZOVGfSAZgBQVVfeXFMT010cTBsbUlhVGpxUVhhS0pocnE5SmQ1UGUtVEx4emdtSHJ0MTZkWi1yeEV4LXhwWnJIbkQ3akxKU2VMa3ZqYlZNUmJaRVVsNV83SVZIMk1uX3NMcWwtQmJmT2UxcFpaM3NkT1BwZS1QR1E0aENzYUZJaFFXZWR2NG92RHdSVUxxQ1J2OFROQWdQb3V0WExnTTY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-15-015",
+    "date": "2026-05-15",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp Presta to close Terre Haute plant - Terre Haute Tribune-Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMldNdlVnazhpaUZNUUprXzJOVGJTeHNIMFF2RXV1MDhJRGhUWGtOd3NnR2hxcFhFNWg0Q2pWUEJIZGFpT3Zxb2UyZFBvUzhjS3R1TC0xbFo5ZTJMbTN4WDRCMDItSXJJOWhWZmQ4Z1",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMldNdlVnazhpaUZNUUprXzJOVGJTeHNIMFF2RXV1MDhJRGhUWGtOd3NnR2hxcFhFNWg0Q2pWUEJIZGFpT3Zxb2UyZFBvUzhjS3R1TC0xbFo5ZTJMbTN4WDRCMDItSXJJOWhWZmQ4Z1Nsd2UyMVRNVGF2NE9naXM3VWFabF81QjcyM0IzRWN0bG92SG1zaHFwc2VqV2xGek5rVlZtS3gxNDZ4SlhIT1FBdGtldUEya2VhbEl3Z25ZNGlRcm45V1NBY05CLWEwelBoNURn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-15-016",
+    "date": "2026-05-15",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Plant to close by March 2027 - 102.7 WBOW",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5BNU00bDh3ZHBkdHpGZ3JSSG4xRy1sR3pITnQxWEtPNmEzSDVwS09fbTl6VmVpdmctVHVCTE45U2wtZ3FOZjRKekdZNDlrbkRnUmhlMkFxQWRiUjlVUEFWR2NsLWZRUjVLTjNnVng0NF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BNU00bDh3ZHBkdHpGZ3JSSG4xRy1sR3pITnQxWEtPNmEzSDVwS09fbTl6VmVpdmctVHVCTE45U2wtZ3FOZjRKekdZNDlrbkRnUmhlMkFxQWRiUjlVUEFWR2NsLWZRUjVLTjNnVng0NFV5aXF0Z01nd0ZLYWw5TnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-15-017",
+    "date": "2026-05-15",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): earnings momentum and share buyback keep cement giant in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmVjUFhZcDlpX055eGRBOTBuTTNETGVpMXE5RXJHR0RXWjBpX3pKZlU0ajFya1FDZGlyZl9fZU0wVFBDV29odENKXzhQXzFGUVdGQTlUMU5CZVl1SHZzWDdXWjNscW9LMGdYMVphNU",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUmVjUFhZcDlpX055eGRBOTBuTTNETGVpMXE5RXJHR0RXWjBpX3pKZlU0ajFya1FDZGlyZl9fZU0wVFBDV29odENKXzhQXzFGUVdGQTlUMU5CZVl1SHZzWDdXWjNscW9LMGdYMVphNU9HSi1nRVdKdWpzNi1SLXJCWnJXQ1RMa3p4NHdCZlpad3Z0ZjMwN3VoVWN4b2JLbWtWZXdXbm0xeFdsS29lMTRDd2pyUHlKUXNMYndFRzFCUlZkdWlVSllDbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-15-018",
+    "date": "2026-05-15",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim (Argentina) S.A. stock (ARJMIN032223): Cement maker extends US-linked footprint - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEZLYWhaa2NFUENJWXA5LTMxZ2Nncl9lLWhqOW5ORXo4SFlvRVlsUExLWlZzMmVMalN2a0VMbTVTZDdoejc0TTdYdlJkUjA5UERmSWdPWE1Gd3pMNEtlXzdNSjdtLTh3RThKNWpCeX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEZLYWhaa2NFUENJWXA5LTMxZ2Nncl9lLWhqOW5ORXo4SFlvRVlsUExLWlZzMmVMalN2a0VMbTVTZDdoejc0TTdYdlJkUjA5UERmSWdPWE1Gd3pMNEtlXzdNSjdtLTh3RThKNWpCeXcyNHNJOGNVM1ItRXRrSTVDZWN3NE8waC1kWUJrSmJxWEtBaWlqcXM4MTBGa1FSeEo0eUkyWEhHeG10Y3lPTUFRdnpuSmcwdmNhNnBj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-15-019",
+    "date": "2026-05-15",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): earnings momentum and portfolio shift draw fresh attention - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFh6QXF6M3RXNnJxemRPS2xHODJWT0w2MklHVGhfNzQtZ1dZc2M4QTlzZmZheWQyUzNXLTVuUDJhV3VWQmNWNGpDY1lOcWJPV2RpY3RQYmJXemU5Zkp6X1BzNGczNnlkR3U4c1hQM0",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFh6QXF6M3RXNnJxemRPS2xHODJWT0w2MklHVGhfNzQtZ1dZc2M4QTlzZmZheWQyUzNXLTVuUDJhV3VWQmNWNGpDY1lOcWJPV2RpY3RQYmJXemU5Zkp6X1BzNGczNnlkR3U4c1hQM0FiU3dLb1UtYkdFTEtjNzR6dWxSQ2FVcHFhSU5mOUdDT0NIQXU2WjdBeFhVYTctY2VWemJkVjNTRTBKRGhpcXd2UkhwdlZ3UDRKaXg4Ym5IcWpQekot?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-15-020",
+    "date": "2026-05-15",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock (DE0006047004): earnings, dividend and decarbonization strategy in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkhzRjU5dHFTcUF5S1NDd0xhemlNcUd2N1I3NmNLNThoa05nbFF0MHhuQlF6RThfdF9IR2lUblJCc1ZMZ3ZkQktDUkhtMjhLQUV5ZXoycVNDMXZ4dlpOaWhTZGlTSEpmODQ3WjdNTG",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTkhzRjU5dHFTcUF5S1NDd0xhemlNcUd2N1I3NmNLNThoa05nbFF0MHhuQlF6RThfdF9IR2lUblJCc1ZMZ3ZkQktDUkhtMjhLQUV5ZXoycVNDMXZ4dlpOaWhTZGlTSEpmODQ3WjdNTGFxaFVHcGhjT21aOVp3Z3FpcEZfeF8xTDMtM3FlSlBUTlduc0lrSEI0T01zYUJJMnFlWWp6Qm5oOHk2d2x0YU9abEpzX01TMG1FNnNYbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-05-15-021",
+    "date": "2026-05-15",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement (China) Holdings stock (HK0743000215): latest earnings and sector trends for US investor - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS181UEY3MHA0cHBGVHE4WEFGcXozV1lCSVp6dDc3ZDVYQlpPLUtjTXVxdDF3UVc5ZHJkb3ZZWTJYdXp2YzR2Ym1SUElSRm5PM0JTdEdtRk94RWlkUUFCWlU4VWszZ2lleGNmOHhadF",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS181UEY3MHA0cHBGVHE4WEFGcXozV1lCSVp6dDc3ZDVYQlpPLUtjTXVxdDF3UVc5ZHJkb3ZZWTJYdXp2YzR2Ym1SUElSRm5PM0JTdEdtRk94RWlkUUFCWlU4VWszZ2lleGNmOHhadFNkZWNvQTNjUlptQmpxNHpSdWZSRU9taDVCTEdnSjUwZ1NmNUFBd1BpamdiVnBFb0tfYWhZTnppMXdnd1k4c290MlBmMW5GbWhmdEVMbkdVQXMyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-05-15-022",
+    "date": "2026-05-15",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Material Technology Says Maoming Conch Buys Land Use Right In Maoming For Rmb45.2 Million - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNSHR0dGs3cHQtWEhRMjVCMlF0bmVZdHFfcUlCajdzei1HMEpXazhzbkpvSG4yelYyZnpYTlEtcHZkU0RydXhMbFpNc1RsQW5ZMkdjMzdxTVR5STNvV18xNXdjZ1c5LVJrQXo2Zl9rXy",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSHR0dGs3cHQtWEhRMjVCMlF0bmVZdHFfcUlCajdzei1HMEpXazhzbkpvSG4yelYyZnpYTlEtcHZkU0RydXhMbFpNc1RsQW5ZMkdjMzdxTVR5STNvV18xNXdjZ1c5LVJrQXo2Zl9rXy1iVWYxZGRJOERIR0VSSW1EVGZ4TTBQdXM1X19xZGdDN1pDX2pGZVVzMDhUcjlpZm5FRDhHQVJMZkxzMXVIckpXLW1jSFBLSHdTa2ppXzVIMkZ0NVJLRk94NHFYUzk2VDFXMFM3NHVNYzI1NDdLdGcwN09Ob3ZhN3NNTTF5QU1TY240OThyckQ3ZkV0RlJ3a0ZP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-023",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "positive",
+    "title": "Major increase in cement moved by rail after reforms",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/india-freight-train.jpg\" /></p><p><strong>India:</strong> In a major success for railway reforms, Indian Railways has recorded a 170% cement movem",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20771-major-increase-in-cement-moved-by-rail-after-reforms",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crh-2026-05-15-024",
+    "date": "2026-05-15",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Eco Material Technologies opens new pilot plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/EcoMaterialTechnologies-MTRF-Facility-1500.jpg\" /></p><p><strong>US:</strong> Eco Material Technologies, a CRH company, officially opened its new ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20770-eco-material-technologies-opens-new-pilot-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-025",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "US annual electricity consumption to grow 55% by 2050: NEMA",
+    "summary": "<p>The group representing electrical equipment manufacturers expects data center energy consumption to grow 300% over the&nbsp;next 10 years.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/us-annual-electricity-consumption-data-centers-nema/820350/",
         "type": "rss"
       }
     ]
@@ -1358,6 +1779,26 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/iran-war-inflation-crimps-profits-plans-investment-hiring-nabe/820099/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-13-032",
+    "date": "2026-05-13",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG (HDLMY) Shareholder/Analyst Call - Slideshow (OTCMKTS:HDLMY) 2026-05-13 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGFyT3Y0c21sTTdYNjFPR1dRTkFRNmdVVnEzam1rRXAtZkRfUk5OM2Y1NHFWb0Y0bnd1X2tEazhGWTRDZFlENVlIcUdMZUZxQ1JIOWdZdlptSl9vMTZYQXlOM3Z5dDhjQTBmSmlBSG",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGFyT3Y0c21sTTdYNjFPR1dRTkFRNmdVVnEzam1rRXAtZkRfUk5OM2Y1NHFWb0Y0bnd1X2tEazhGWTRDZFlENVlIcUdMZUZxQ1JIOWdZdlptSl9vMTZYQXlOM3Z5dDhjQTBmSmlBSG43SnpVNTBfMnlfZVVKUHVEaVNsbHp3Vk1lanlVY0V1dm1iTFppVlh2dlZ4NmloM3dDTmhKSmZPT2U?oc=5",
         "type": "rss"
       }
     ]
@@ -2782,6 +3223,46 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGRRR3FESGtzbXlPYTd1T2VaQTIxSWc0cHViVG95YVRQN0VFOTBOa216SmRXVjVzeXZpRTAtaWlkV2FEOG1oRW5uU2tFQXhVZFh6ekhnMDJIR2VPWUF3MXdLN2xjc3NYYmhEOTZfdlZwb1hGVHFvbTVYTmdpVDlTeEhMQ1ZIWU03UVdQaHpuaERRLUxQOFZTNGhWaDB6VGNtM2V4WVE0VlVYQUtMaVZaelZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-12-072",
+    "date": "2026-05-12",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Director George Willis of Vulcan Materials (VMC) granted 617 RSUs in equity award - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUk3SFVvREp3WHZFc1ZoNjZQZlM3RnNleFdvcFg5ZExaWndqOUczMkZSSjlpQTUtX1pHUjRqZTVvY2pPWmZUY2JSdVRVUnF3U2IxSjRBd3pTSG5FQUdvdEJpdm1zeU1US0lNUnpxMk",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUk3SFVvREp3WHZFc1ZoNjZQZlM3RnNleFdvcFg5ZExaWndqOUczMkZSSjlpQTUtX1pHUjRqZTVvY2pPWmZUY2JSdVRVUnF3U2IxSjRBd3pTSG5FQUdvdEJpdm1zeU1US0lNUnpxMklWYWIyUkItYW1BRGlZdTk4NERvNk1YekxpSmotMjVvaGNwb0RGZW55T3M1MElfd29vRXZJTWFWc2R0anI1R293aTl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-12-073",
+    "date": "2026-05-12",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) director receives 617 RSUs under 2025 incentive plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmpsX3ZsOWlGU3plWWNTU2p2RlppWmVmYnpwdXlIT3pqRFNpYkJ5UDB3dUd4T0RMWDdvQmY0X3VxUDg5THh4eVVONVd1YjdIUk1GLW1XV0hHa3F6TFM5NXdZRzN3YjltSE9CdXhYNU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmpsX3ZsOWlGU3plWWNTU2p2RlppWmVmYnpwdXlIT3pqRFNpYkJ5UDB3dUd4T0RMWDdvQmY0X3VxUDg5THh4eVVONVd1YjdIUk1GLW1XV0hHa3F6TFM5NXdZRzN3YjltSE9CdXhYNUFvZE43VHpLM2wzYWdvUVBseEVETEU2S2xMT25MRU4wc2E2YUcydFR2d282Vlg5NmtXbGxSTTRObnJuMlJTM3AtM0JB?oc=5",
         "type": "rss"
       }
     ]
