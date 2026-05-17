@@ -1,5 +1,25 @@
 [
   {
+    "id": "heidelberg-2026-05-17-001",
+    "date": "2026-05-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Heidelberg Materials (XTRA:HEI) Valuation Check After Recent Share Price Weakness - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmtTTmREN1dTUlM0UHRwZVREVF9UanQ3MmF1T3Z4RHUybXFXZ0lQcXFXMnRfV1pscExBQXdHSmpjQko3X2U2UWNUdWt6Tk85bmxOdjlBdDJXanFIczM0M2FMMFVQelZqbWNKZmxHQl",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmtTTmREN1dTUlM0UHRwZVREVF9UanQ3MmF1T3Z4RHUybXFXZ0lQcXFXMnRfV1pscExBQXdHSmpjQko3X2U2UWNUdWt6Tk85bmxOdjlBdDJXanFIczM0M2FMMFVQelZqbWNKZmxHQlBNN2xtVnZhOUdEZFdtT1VFSGZ5WXFzOXgtU19sYUVBRElRZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-16-001",
     "date": "2026-05-16",
     "companies": [],
@@ -138,6 +158,71 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEVRM0ozNnRkVXhCU2V1U2E0X0hMTEdMVmFhNjNTSEUzanR5RUgzUVJyNXRpbExFSFZPeTJKOVRGNXFYQTJjR1liMEJrNnJqLVdHcldRcnhscnpvY2RfWUR6b29zdm5hN2czVlkyUGlRZGxOaEdMZnZlamZCal9NV2FUOGc4RTBHUTNxUWRqTy14ZFF3MzNrdFdQRUJ1MHJDakxKVWlBNmlMb01iZzQzdDZCdHNHc1RCUGlzbHZ5ZkZVZThPY184UF9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-16-008",
+    "date": "2026-05-16",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): earnings momentum and decarbonization strategy in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTREWURiUFpDblJ3Y2l3ME1nX2VVV25MTVdrTHlCWi05SWtoaTg1dWJSMGd4ai1PT1VqRFRibXFVampKUFR6aTRfdDRYaE52Zm53cmY5eGNFYlMzeldad0NETFl6UXV3ZWUxZXduUX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTREWURiUFpDblJ3Y2l3ME1nX2VVV25MTVdrTHlCWi05SWtoaTg1dWJSMGd4ai1PT1VqRFRibXFVampKUFR6aTRfdDRYaE52Zm53cmY5eGNFYlMzeldad0NETFl6UXV3ZWUxZXduUXpIWXRuU01qNm9aaVF5UjUxaTA5eTVSQUN4a2FJWVppUkY1bGdTSS1KSjZtNlFubGg4U0YzeExfNFBNWUpUTE1sWEVtd0QzQXU0Njh1S2NURG1qd2Jj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-05-16-009",
+    "date": "2026-05-16",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement Corp stock (TW0001102002): recent earnings and Taiwan infrastructure demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQeG5XWHdlNXE4VHJOXzZIS19PSlRtZ3ROSjNOVXEwMktPVDBLQzhHajNJWnhsSS1MR3JkcFFMcDhxeDZ0RVN0UzlEUS1HU21RSE5BdklTQ2Q0OVpPYjdhQVpXTTltWmlaZVhITWYyc1",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeG5XWHdlNXE4VHJOXzZIS19PSlRtZ3ROSjNOVXEwMktPVDBLQzhHajNJWnhsSS1MR3JkcFFMcDhxeDZ0RVN0UzlEUS1HU21RSE5BdklTQ2Q0OVpPYjdhQVpXTTltWmlaZVhITWYyc1FLWllTNUVrbWUya2ZCTjVkeXhHbS1US005RGhwWG4wQklxVW1kQ20tdGdaU0J3cjBwMXdNRy00WlRVcS1kVDVzOEU0MmV0ZVJxNU9FNzN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-05-16-010",
+    "date": "2026-05-16",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement PCL stock (TH0016010009): Dividend update and mixed Q1 figures draw investor focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkdaOUItS3FfU01HMzlnMG1Tc053Y1BzT2RYV0UydjJ5cUhsUnQyUDdpX0lXS2Fpc196TzN5eEt1SzZXbUx4d3NHaGItZkxEUXhmZ2txY3Z6UXdZT1NMMXNmYUItYjBGU1QyV2hxcT",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkdaOUItS3FfU01HMzlnMG1Tc053Y1BzT2RYV0UydjJ5cUhsUnQyUDdpX0lXS2Fpc196TzN5eEt1SzZXbUx4d3NHaGItZkxEUXhmZ2txY3Z6UXdZT1NMMXNmYUItYjBGU1QyV2hxcTZDSzVDLWp5bllzVUpyMWliZ2h1b0NUc0V5c0R0TXBqaHRwbG9tZWZWcnZvMmhnVzVpTXlOS3BwSTBqQ19raFpnZlJ2UDVNUWQwVU5oZXNlR2xaS1Jm?oc=5",
         "type": "rss"
       }
     ]
@@ -1181,6 +1266,67 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/ai-backlog-high-biggest-contractors/820285/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-14-029",
+    "date": "2026-05-14",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYjhQNkRJZWljSTZ4R3lZOXNpMFVKQ3h3NE1ZM09LclNNdWp1djl6RUJlRGg0em5CWGRQNUlJam0tN0QtNUp3TkdMOXZsNl9FUFMyS0lrT1Fab2UxaHR5RGRwdEFrVkhTX1pkX3NUYm",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYjhQNkRJZWljSTZ4R3lZOXNpMFVKQ3h3NE1ZM09LclNNdWp1djl6RUJlRGg0em5CWGRQNUlJam0tN0QtNUp3TkdMOXZsNl9FUFMyS0lrT1Fab2UxaHR5RGRwdEFrVkhTX1pkX3NUYmJUV2hxc2ZKb0R5cGRqdUk0eDJ2OHdicWlEaFQteUEzMmREdkJDUjV4WjVpM0xwX0tmNDUzVEhkc0ZDRXJOTTFVUi13RFpBUS1aMlFjTzlpc2c1NV9zTUgwNXhtMmU4dXpSWlQta3BPenU1d9IB2gFBVV95cUxPYjhQNkRJZWljSTZ4R3lZOXNpMFVKQ3h3NE1ZM09LclNNdWp1djl6RUJlRGg0em5CWGRQNUlJam0tN0QtNUp3TkdMOXZsNl9FUFMyS0lrT1Fab2UxaHR5RGRwdEFrVkhTX1pkX3NUYmJUV2hxc2ZKb0R5cGRqdUk0eDJ2OHdicWlEaFQteUEzMmREdkJDUjV4WjVpM0xwX0tmNDUzVEhkc0ZDRXJOTTFVUi13RFpBUS1aMlFjTzlpc2c1NV9zTUgwNXhtMmU4dXpSWlQta3BPenU1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-14-030",
+    "date": "2026-05-14",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "5 Insightful Analyst Questions From Vulcan Materials’s Q1 Earnings Call - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFRLM0hSajA5MHVaMHU2akhxS2VtUE1uX3pJLU9RTGt6ekZuT1Fic3hiNWdMU3pZVktUZVY5X21iSUk0emFxdDRBNDRTaGI3ZFBsUmFPZk00R2w0N205YzVuYlFfRzMybmdaemtZNV",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFRLM0hSajA5MHVaMHU2akhxS2VtUE1uX3pJLU9RTGt6ekZuT1Fic3hiNWdMU3pZVktUZVY5X21iSUk0emFxdDRBNDRTaGI3ZFBsUmFPZk00R2w0N205YzVuYlFfRzMybmdaemtZNVlFMzAyM3JZdlhyalNKNTBCLVMtVmRsN3o5RHVORkVra3lfNnMtd05PV3RxWk5tWUZIUFFTZ3pXbTYyRDNNRjZUa3BUeXVWT3lmbU9rVjgzZGVxcU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-14-031",
+    "date": "2026-05-14",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Ltd stock (INE481G01011): Rating upgraded to Hold amid strong FY26 results - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWV2UWtVQ04xTlMxMGdmemRPNjRoUjlBZzhGb1lPa1E2RjExaFZwNzU3Q1NWSllKNjFJa0h4bk9TX2RoT25ZRS1ZTWh2UHdBSkdCT3o2cjhRU0xodDI0LXBLaGs0b2NZcEhOM3RlSG",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWV2UWtVQ04xTlMxMGdmemRPNjRoUjlBZzhGb1lPa1E2RjExaFZwNzU3Q1NWSllKNjFJa0h4bk9TX2RoT25ZRS1ZTWh2UHdBSkdCT3o2cjhRU0xodDI0LXBLaGs0b2NZcEhOM3RlSGhHVm1PTndjanZCVHdzX2JCUzlES2NpRERoTktaUmtTWDZDWWVxZlhwRmw3aHVjVVpQV2hDMWc3MDc1WWduNVpGOV9UZXJRMkFzd1RJZ21IWTBjektrYnc?oc=5",
         "type": "rss"
       }
     ]
@@ -3263,6 +3409,26 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmpsX3ZsOWlGU3plWWNTU2p2RlppWmVmYnpwdXlIT3pqRFNpYkJ5UDB3dUd4T0RMWDdvQmY0X3VxUDg5THh4eVVONVd1YjdIUk1GLW1XV0hHa3F6TFM5NXdZRzN3YjltSE9CdXhYNUFvZE43VHpLM2wzYWdvUVBseEVETEU2S2xMT25MRU4wc2E2YUcydFR2d282Vlg5NmtXbGxSTTRObnJuMlJTM3AtM0JB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-12-074",
+    "date": "2026-05-12",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (VMC) Announces Leadership Change and S - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxNamVfcTYxNDlNR3RtTkhyV1pHVmRWTm5CVTVoVlZlZmpIbVYwc0MtYmo4Nmkwc3RLQ21QdmlBMjBOYjY2ZFI4VXlsdzlwUEtHelFsNEIxSzZqeW9waERIVGdDSUUwSkFjYmVaMEVleH",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNamVfcTYxNDlNR3RtTkhyV1pHVmRWTm5CVTVoVlZlZmpIbVYwc0MtYmo4Nmkwc3RLQ21QdmlBMjBOYjY2ZFI4VXlsdzlwUEtHelFsNEIxSzZqeW9waERIVGdDSUUwSkFjYmVaMEVleHB2V0xKYmcyM1QyUkRjN3d2YmlaWlkyY3RDOFRwdEpVNGp2RFFrSU0xZmIyRTlMQmhtMDFXa3F5LVNFSUhtc1lDc3l1em1jdk90X194QVpfNnlXWndCd29admV1d3g4X2stQlFmZVJrdXhrVjJWbHlMWXpnT2ViMFRmYUoydFZYU09XQ2FZOVJMdHlSeTA2MEp2WVc3dFRCdnVUbnZIbmJiYXlxTnRiU1lCWDBUQ1hjN2U1N052X0Z2aTNSYUE4c1JWdkJfUHg3Y01hR1RVbE1ZQ3A1aE1RYi1tVXlVd3Vmby1xTGlSY1hONlh0cTFpZzRDTTNZc3dVaEpUUQ?oc=5",
         "type": "rss"
       }
     ]

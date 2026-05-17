@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 82,
+  "gate1_fail": 9,
+  "gate2_fail": 15,
+  "passed": 8,
+  "gate2_samples": [
+    "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya",
+    "A Look At Vulcan Materials (VMC) Valuation After Robust First Quarter 2026 Results - simplywall.st",
+    "A Look At Thyssenkrupp (XTRA:TKA) Valuation After Strong Recent Share Price Momentum - Yahoo Finance",
+    "Thyssenkrupp lifts steel division valuation after Jindal talks end - Yahoo Finance",
+    "IG Metall union criticises Thyssenkrupp plan to spin off MX unit - Reuters"
+  ]
+}
