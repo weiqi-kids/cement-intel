@@ -4,7 +4,7 @@
     "start": "2015-11-25",
     "end": "2015-12-01"
   },
-  "generated_at": "2026-05-03T02:36:35.200014Z",
+  "generated_at": "2026-05-18T13:30:25.162134Z",
   "highlights": [
     {
       "rank": 1,
@@ -38,37 +38,37 @@
     {
       "date": "2015-11-25",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2015-11-26",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2015-11-27",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2015-11-28",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2015-11-29",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2015-11-30",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2015-12-01",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     }
   ]
 }
