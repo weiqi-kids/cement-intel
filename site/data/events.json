@@ -1,5 +1,465 @@
 [
   {
+    "id": "vulcan-2026-05-18-001",
+    "date": "2026-05-18",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company $VMC Shares Acquired by Atria Investments Inc - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXBEcFcycWJwUTgwLU5ZSmVJQjN4d0ZveHlNeWlualBTWUlFUmVMZ2tnX0R6SjJRWl85ZFFaQTBwN2pOX1FkekxkYjB1bWxUU0VjSm5pT3JBZWF3cnF1blVsNWFUUDR0SFc4UlRBcl",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXBEcFcycWJwUTgwLU5ZSmVJQjN4d0ZveHlNeWlualBTWUlFUmVMZ2tnX0R6SjJRWl85ZFFaQTBwN2pOX1FkekxkYjB1bWxUU0VjSm5pT3JBZWF3cnF1blVsNWFUUDR0SFc4UlRBclNlZjZIblZiMHVYN3RxT2xuMEl6REQ5YTVkOFVzUTFIVW43ZTFUak5FdlFpR2JBbFBieTBKcEdvaklFR1BIT1VzX2Z2b2lSYUZLREFyM1RDekdaYUt6Vzg2cjZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-002",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Building Materials Stocks Q1 Teardown: UFP Industries (NASDAQ:UFPI) Vs The Rest - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkRrUnJiQU1UY01MRG1UZzBvZUZWQmNhSUNVX3ZrYjFCcHdQdUlXWUpUcVVsTUxiRWFnbjdqQjlLUDFOMkxtTWVJYjFVN19feFliRjFCUVZBV28zbXpmcVBMZWFVcjFHZmhZMFVfMU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkRrUnJiQU1UY01MRG1UZzBvZUZWQmNhSUNVX3ZrYjFCcHdQdUlXWUpUcVVsTUxiRWFnbjdqQjlLUDFOMkxtTWVJYjFVN19feFliRjFCUVZBV28zbXpmcVBMZWFVcjFHZmhZMFVfMUF2ZEg3a0hjaWZpM25oNnpyS211ZF9VSG5QOTBYMkRwNzY2VnR0YXdZRGcwbmZKQ1lScDFhZExSWjQtQjdzdE54eW5NUGhqaHNDY0NiMU44M0NpelF1RzdES2FBaUZoVGlrTVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-18-003",
+    "date": "2026-05-18",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock (US9291601097): earnings, infrastructure tailwinds and what investors should - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ19DeDRXaVdzN2pwc2NnNEdkeFdfTkJVd3NERExnUjViM1NmZkJqNkNoZW9lQnZrSXkyN2M1UDRTVWFIZUxKamJUVFBnMTgyQk9XQkZCQ0JlQ19CYjBkU1JzSVR2LWR1TThCZjlJNk",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ19DeDRXaVdzN2pwc2NnNEdkeFdfTkJVd3NERExnUjViM1NmZkJqNkNoZW9lQnZrSXkyN2M1UDRTVWFIZUxKamJUVFBnMTgyQk9XQkZCQ0JlQ19CYjBkU1JzSVR2LWR1TThCZjlJNk5jMTBvRDZ5dlhUTnJjeVRVLUVaQWhNaHJtRGdwUGstWGxBM2ZNNE9FM2cwaVFUS2YyY2t3dk9JN25xVU8xNTBSNm4waFN6cGFoRThGX1VnU0Y4UzFaYnlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-004",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp to Close U.S. Plant as Part of Automotive Restructuring - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnM5c1FES25xWkJvLTI0UWFJMnh6NWltNUh1dDI1V3R4YnZIaFpwaXJxZlhFdXdfQlZUaWtGOFNoV3JxSVpCVDNFaW4ySlhmYVJpd1B3R2ZUWnZfZ1V2ZlJJaDV3X09PV3Z3T1p0LS",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnM5c1FES25xWkJvLTI0UWFJMnh6NWltNUh1dDI1V3R4YnZIaFpwaXJxZlhFdXdfQlZUaWtGOFNoV3JxSVpCVDNFaW4ySlhmYVJpd1B3R2ZUWnZfZ1V2ZlJJaDV3X09PV3Z3T1p0LS1ELTNxSmtDMGZ4YXo0NVpPbHd5aGdyRFhQR0pKbFNCTVF2cXBhZS1uQ0FmZEZ1d1Y4a2d0SzZ3UzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-005",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp to close Terre Haute manufacturing plant in 2027 - Inside INdiana Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmxfQ2M0Z1Zla0Qycnd2V0dYdl91Q2dBT2FMbDU5dzRLWEk2c19CWUFuTzJOcmwydHR4WVdNa1hVWjhpUjc5Qkplek5oenpFTnBuMWtWdnFwUExMUlZQYTEzNV9QV1lfUXlkQ0JqVT",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmxfQ2M0Z1Zla0Qycnd2V0dYdl91Q2dBT2FMbDU5dzRLWEk2c19CWUFuTzJOcmwydHR4WVdNa1hVWjhpUjc5Qkplek5oenpFTnBuMWtWdnFwUExMUlZQYTEzNV9QV1lfUXlkQ0JqVTZqU0JoM1NSbWluUkhEWHBSbkNFdXdJVTdNR0lveXE5S1MzOHg5MV84cGdhRlQ1dldudFJNdWJoLU5xRWxv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-006",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp to close US plant as part of automotive restructuring - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTzZkUkhPX1BXLWNmRGd3MHIyOHBWd2NYT3FsWTZrVk5JSDlTN2NxS3pxVWc1X18yNEhTcWZjUDFmbURNamVNVDZYeXRGeEZqRVRlb2xVR2d1R1Rrc2d5VGNqZzdkbHpPNzRkTmprWH",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTzZkUkhPX1BXLWNmRGd3MHIyOHBWd2NYT3FsWTZrVk5JSDlTN2NxS3pxVWc1X18yNEhTcWZjUDFmbURNamVNVDZYeXRGeEZqRVRlb2xVR2d1R1Rrc2d5VGNqZzdkbHpPNzRkTmprWHduV2FtbktRUnR2a1JpSFJsOWxGNlduNldPSDhIMjhpZTc0LUlGakw5ZTl5MkJQaWRoS2lWY0tCWWtnLTlLVndtNW1IbWZXWWh5WF9yeVRuR1l2REZkaW9UemFpd1VSMzdrZFZRMlAtSzk0NlNUUjZv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-007",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Calvion targets CO2-reducing solutions - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzZlYlhidHJ4RmpLekozTWRtUVMySU5pUDBlM21NN2l1anJ1QXFYbU5HakQ0aWVFWWp4c2FObjdXa3JlN0VVd0ZoSDdLVFo4d3NMUlZaNmhZbmxjeDhJdklGZ1NUUi14ODMtakh4WD",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzZlYlhidHJ4RmpLekozTWRtUVMySU5pUDBlM21NN2l1anJ1QXFYbU5HakQ0aWVFWWp4c2FObjdXa3JlN0VVd0ZoSDdLVFo4d3NMUlZaNmhZbmxjeDhJdklGZ1NUUi14ODMtakh4WDlyN2V0TWFzMWxkZ1Btdkc2c0cxcnZiaGlaWmlIcV9TSW9KZldHU2tXd2QtcWZCRUxi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-008",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Shutters Indiana Auto Plant, Consolidates Chassis Production in Ohio - StockInvest.us",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHdlNWZQWU9SRU1MZldBRmF5UWYwZ1dQQlFGR0w5Yk9IUU1BVllMTURDN0JQNko1eGt2MUJJc19pbC1jbUxKX1VCamIzdmEzVFpyLU5XUkdXcGNuX0RRSHhQa1ZRcG1SY1h4bl96WU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHdlNWZQWU9SRU1MZldBRmF5UWYwZ1dQQlFGR0w5Yk9IUU1BVllMTURDN0JQNko1eGt2MUJJc19pbC1jbUxKX1VCamIzdmEzVFpyLU5XUkdXcGNuX0RRSHhQa1ZRcG1SY1h4bl96WUctSVVsMml3VG5fR3p1aXRNUG5oZlc3RzFITk1XVV9lZWZxUVFHd3ROOXdfS052bnR2Zm9TSUtmS2taX1I3cVAw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-009",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp to Close Indiana Automotive Site by March 2025 - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUThkYVR2WWtkbFJDNXE1MWRJblRiLUdrdl9jUWNWREFqRjBtQWVFVHVuLWU4RV9hVUp5cUE5bmQ0UWRJNzVmWm9hSHBWdU51NWUtZ2pkQWZZVVItMk9ZY01HWnVBY1JHZTZ3S1BzR0",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUThkYVR2WWtkbFJDNXE1MWRJblRiLUdrdl9jUWNWREFqRjBtQWVFVHVuLWU4RV9hVUp5cUE5bmQ0UWRJNzVmWm9hSHBWdU51NWUtZ2pkQWZZVVItMk9ZY01HWnVBY1JHZTZ3S1BzR0hBUUZiRDBDWk1ZVkRma3llU1VMWUZxVU9OMGlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-010",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp maintains plans to spin-off Materials Services - EUROMETAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbm0tUGMxZDRhd0FBR1hpY3VqcGk4MmZ4c0xua3VUNDhQVjNfZ0FYM2FBRGVUbmN6bWZHY1NYTnIyVF9uX2VtUVN0NEFpSmlwOXpzOS0waUc5YXY2V3JLWGRnbWpRQWV0Nk1CQ2l0dz",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbm0tUGMxZDRhd0FBR1hpY3VqcGk4MmZ4c0xua3VUNDhQVjNfZ0FYM2FBRGVUbmN6bWZHY1NYTnIyVF9uX2VtUVN0NEFpSmlwOXpzOS0waUc5YXY2V3JLWGRnbWpRQWV0Nk1CQ2l0dzJVSW5PSHBpRzNicEJrQWFJZlhnVEQxNGhiN0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-011",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp to shutter US plant amid automotive division overhaul - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2lTSTRIS05oMlZLa2JESlRoNDlEQUZGbm4wZ28zYWFERTZTWTJzX0wzMU1kM1VtT2dOeWhPSzZ0SFBPQWR1XzVPVHpfTl9malZEalFiWmhYM2pCTmF6cWhMZU9yYlVkMHVvTEtwMj",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2lTSTRIS05oMlZLa2JESlRoNDlEQUZGbm4wZ28zYWFERTZTWTJzX0wzMU1kM1VtT2dOeWhPSzZ0SFBPQWR1XzVPVHpfTl9malZEalFiWmhYM2pCTmF6cWhMZU9yYlVkMHVvTEtwMjVMVFlfTFBldV9WR3UwQndMWUpyOVRUUXRPOEpCTEhKQVhybE0yQS04M01OSTlGLXFYc2pOVjdvQVVnZmtNbmRiQjBPYktleW5FTnhr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-18-012",
+    "date": "2026-05-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Presta North America, LLC's production site in Terre Haute, Indiana, is expected to close by March 31, 2027 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcjh5SjdPZDJFZGhFamUyZTV2WXRoMTZsWmFVeFZLZFgtWm5kSFJsSE5CY002M1FhdGFzaTdsSDFfeFRneFR4RzlwakFnQ2JDemU2RlNlbmRmNzlETzdhTHNDQlFTOS1SenFfOHlIUj",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcjh5SjdPZDJFZGhFamUyZTV2WXRoMTZsWmFVeFZLZFgtWm5kSFJsSE5CY002M1FhdGFzaTdsSDFfeFRneFR4RzlwakFnQ2JDemU2RlNlbmRmNzlETzdhTHNDQlFTOS1SenFfOHlIUjNKeENXcmZYYk9TYkNfNHFkcjlNU3VZMV9wVUNyZUtSLWFiVE5meVpjXzc5eWxYSVV4OXVESWZlWTIzTlhma0JEVVhVSUROWkEyWHlXUWpmVktFMVV1UnFReGxhN1Q5WTBkVmRfUEpmV2NuZTh5S3AwVjVTME4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-18-013",
+    "date": "2026-05-18",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Blueprint for breakthroughs: how collaboration is redefining construction - Holcim",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VQN1dMNXdUYlR2VG83SW1TTXNIYmVBNEtuc1E1Tklsd0dsdlpScDQyM1pHWlNrT2V3WXVCdWJwWExHWkpFVDkySEZWOTFPWHhGdGtGNE01bHYtMmQ1R042WVVMVlFUb1dKYmVfNT",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VQN1dMNXdUYlR2VG83SW1TTXNIYmVBNEtuc1E1Tklsd0dsdlpScDQyM1pHWlNrT2V3WXVCdWJwWExHWkpFVDkySEZWOTFPWHhGdGtGNE01bHYtMmQ1R042WVVMVlFUb1dKYmVfNTdWbEdHMDlULVE0SzFkeWVkYkd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-18-014",
+    "date": "2026-05-18",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Holcim breaches good faith in redundancy dispute with Kiwi seafarers - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGJtQWs0b2JGTllIOVFmZXRvN2dKaG5QNXVlYzZBUHpOX3JHQmNNZWh4QmI0cy1zNnVKSjVYRDFiVUk2Ty1sLVhkeGlyWXlvbGxwOEdNOFNYUnNPY29XY3QwTVo0cnJBcDRNYzlpMn",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGJtQWs0b2JGTllIOVFmZXRvN2dKaG5QNXVlYzZBUHpOX3JHQmNNZWh4QmI0cy1zNnVKSjVYRDFiVUk2Ty1sLVhkeGlyWXlvbGxwOEdNOFNYUnNPY29XY3QwTVo0cnJBcDRNYzlpMnNadEdXUm85QVhVeDZsbE1BX0ZsTVVHY3ExVHVDR1hBOXZDRkFuZnpmSVJwc0tfc094QkNGM0ZUQXF5YllLbzVRR1AwTkQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-18-015",
+    "date": "2026-05-18",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock (CH0012214059): Amrize spin-off reshapes the building materials story - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0xLSmxhV1U1c1RxUmE1eDVMeTlTTUZWTlVKTzF1ZnU0N2lQVTdvcDdNLUdHX2tVR1phRG5IaV9Sc3VpUkJvZnZ2dXZ6clhCUHMtZDk0TjhENWR0MWtTdUo1YW5kdWpEa21iaHdQZX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0xLSmxhV1U1c1RxUmE1eDVMeTlTTUZWTlVKTzF1ZnU0N2lQVTdvcDdNLUdHX2tVR1phRG5IaV9Sc3VpUkJvZnZ2dXZ6clhCUHMtZDk0TjhENWR0MWtTdUo1YW5kdWpEa21iaHdQZXRmRlBmTkxCU0lSbjJwaHZRR0dieDl6Vnh0ZTl4bDlybXNSN2M2MFVUNXZjSmhaSzNYX3ZkQ0VOU3FCZ0oxUVRVTE52UDJLVmVHSEl5SWVHaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-05-18-016",
+    "date": "2026-05-18",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Cemex S.A.B. de C.V. stock (MXP225611567): Q1 2026 earnings and US infrastructure exposure in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWpna1hqYjZPalM1TkpuYWpId08xTVNtUGNBNktOOW9Tci1lMm45cFUxcFhDMVRDNEJSdEtROFMtejJuV0JmRVZzb1dCYVZVbFVoWXVaSTFkby03aTJPWkFDZHB3b1JrU3Vnb3dBZE",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWpna1hqYjZPalM1TkpuYWpId08xTVNtUGNBNktOOW9Tci1lMm45cFUxcFhDMVRDNEJSdEtROFMtejJuV0JmRVZzb1dCYVZVbFVoWXVaSTFkby03aTJPWkFDZHB3b1JrU3Vnb3dBZEhIcC1MU25KdW9OYXloOGMwTUdPbDRrTUZHcEV0WGxXWFZNNDcxdFhUbU44aWpuWjFVakZaYXZ3dWd2empMTi1yNEk5VnJoSnFMUzFJSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-18-017",
+    "date": "2026-05-18",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock (DE0006047004): earnings momentum and US exposure in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWliYmJCWUVqWjY2dk5jMGFHcXEwX0hnUExrT2dubHphNjBJY2RtN0lGVUF0c2NLNFJNemd6UzBvMlEyb2FOMU9QQkpmMVpja2xNUGtvSldCRW1COW9PVUMzVHlLdTB4bm45NzVoQk",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWliYmJCWUVqWjY2dk5jMGFHcXEwX0hnUExrT2dubHphNjBJY2RtN0lGVUF0c2NLNFJNemd6UzBvMlEyb2FOMU9QQkpmMVpja2xNUGtvSldCRW1COW9PVUMzVHlLdTB4bm45NzVoQkRwWmFmRGZfanRGSUppdGhfVXRLSl9sUkJqZlJBd3I1OVplUUNqSjM3WENtRV9QLTJESEpOQzJqYThOUVcyTlc3ZlBGeUw2bjM3dV8tVUdvSTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-18-018",
+    "date": "2026-05-18",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement Ltd Technical Momentum Shifts Amid Bearish Signals - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1VXdFJVX2NMN1RxNlNral8tc08wS1VuTTBoaUU5LVd4OUE5eDhkQUg1SUJ5WmhpX19qc0V0MW9BcGxRdVJQbW5hVy1FUktzZzVSUmFWS0ZsVVhPcHZ6WHhuSGUzdHJKaU95OThRVX",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1VXdFJVX2NMN1RxNlNral8tc08wS1VuTTBoaUU5LVd4OUE5eDhkQUg1SUJ5WmhpX19qc0V0MW9BcGxRdVJQbW5hVy1FUktzZzVSUmFWS0ZsVVhPcHZ6WHhuSGUzdHJKaU95OThRVXVrOUZHVkROTHExbjdSLU5ZT2xCRVZDVDNuZHBHNzBsVmxCSEFqSnE1M3dvd0E2N1ZPTlZYdVhWc1ZHUDNfTktMZ254QUVkTjFsSk5VZkUzdk9kOXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-019",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Kaspi plant begins US$70m expansion to boost Georgia Cement production",
+    "summary": "   Hunnewell Cement  has officially broken ground on a US$70m expansion project at the  Kaspi cement plant  to help reduce Georgia's reliance on imported mat...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181353/kaspi-plant-begins-us-70m-expansion-to-boost-georgia-cement-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-020",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "negative",
+    "title": "Manufacturing Circle raises concerns over cement dumping in AfriSam acquisition",
+    "summary": "  The Manufacturing Circle has mirrored industry worries that the acquisition of  AfriSam  could lead to the exploitation of cheap cement imports at the expe...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181355/manufacturing-circle-raises-concerns-over-cement-dumping-in-afrisam-acquisition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-021",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Uganda launching US$300m cement plant to boost industry",
+    "summary": "  Uganda is taking a decisive step toward strengthening its industrial base with the commissioning of a US$300m cement and clinker plant by President Yoweri ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181356/uganda-launching-us-300m-cement-plant-to-boost-industry.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-022",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Kaspi cement plant upgrade begins",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Georgia-Flag-1500.jpg\" /></p><p>Georgia: A US$70m expansion of the Kaspi cement plant has begun, according to parent company Hunnewell Cement. The",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20775-kaspi-cement-plant-upgrade-begins",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-023",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Claims that West China’s purchase of AfriSam will disadvantage South African producers",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/South-Africa-Table-Mountian-1500.jpg\" /></p><p><strong>South Africa:</strong> The potential creation of regional production and distribution opera",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20774-claims-that-west-china-s-purchase-of-afrisam-will-disadvantage-south-african-producers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-024",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Sibcem production plummets in first three months",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Russian-Rubles-1500.jpg\" /></p><p><strong>Russia:</strong> JSC Sibirsky Cement Holding Company (Sibcem), has reported that it produced 0.52Mt of c",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20773-sibcem-production-plummets-in-first-three-months",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "heidelberg-2026-05-17-001",
     "date": "2026-05-17",
     "companies": [
@@ -15,6 +475,66 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmtTTmREN1dTUlM0UHRwZVREVF9UanQ3MmF1T3Z4RHUybXFXZ0lQcXFXMnRfV1pscExBQXdHSmpjQko3X2U2UWNUdWt6Tk85bmxOdjlBdDJXanFIczM0M2FMMFVQelZqbWNKZmxHQlBNN2xtVnZhOUdEZFdtT1VFSGZ5WXFzOXgtU19sYUVBRElRZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-17-002",
+    "date": "2026-05-17",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (NYSE:VMC) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0VRb1g1Z0ljTWVEaURKODRGUm5HMzZTZlJSdndyd1loRnJPeldVRlBsWXhqS2YyU0hDcTdsUXFvWGpZSGVueV81OWtUbGZVRmduMlBCOE5BVjg4bkZPMDhNeXRuQlBac2NZQjB6ZG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0VRb1g1Z0ljTWVEaURKODRGUm5HMzZTZlJSdndyd1loRnJPeldVRlBsWXhqS2YyU0hDcTdsUXFvWGpZSGVueV81OWtUbGZVRmduMlBCOE5BVjg4bkZPMDhNeXRuQlBac2NZQjB6ZGd0X2hDMm8xZE82LTdRejdwOG5iOC1XckppeURxVXZLZHQ5QmpPNW54cHdMdjlIaWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-17-003",
+    "date": "2026-05-17",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (NYSE:VMC) Looks Interesting, And It's About To Pay A Dividend - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXE3R3huTzUwQkdxeVp0YmdnYVBTQmV3VmVFSTdUZnNORndVMlREeklCLUtiNEdSSkJrYjdzYlVGU0RCMHktaEQ5WndZVVluRHhMLWtpMmp6NW5WUVp4Tk9pSlRfQ0RQZWdzM2JUU0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXE3R3huTzUwQkdxeVp0YmdnYVBTQmV3VmVFSTdUZnNORndVMlREeklCLUtiNEdSSkJrYjdzYlVGU0RCMHktaEQ5WndZVVluRHhMLWtpMmp6NW5WUVp4Tk9pSlRfQ0RQZWdzM2JUU0RGRnE3eGRfbXNSSEc5QXg5MTNQRGFCNGRNZml1WWJJN2V3Y2RnRnZzMUVaT1pNS2UwXzJmYUY4SnpxYXpqMUh2SmdUanhEeWQyZHBxQUc0dlhiRzY3cVUzTkZFVlE5d0E10gHWAUFVX3lxTE1yeThBc2ZxVVhQVE4teEdnZUdLdE9WQWQ3YS0teVBOTTVoWFYwb3hFbF9PV3VWRDBwY3czOGkyU2tFTnJMY1pseS1lSVU5SzVBdHhVSnUzLU1IbENrUjRBd0w2LVJleXM0VTFDVFBtNlhxOUNHaHY0bGZMdTBmWW9EbDNyZUlpVWg1MzFaRmZKZ3VXNXFsbTY3VFZwMXBpbzJ3ZFhEUEtJeVo2QkVyaXRGNUhSWUlDNHRJZnZGbDZVWDF5YTR5bEhTYnJnMWtLWVptclRRcVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-17-004",
+    "date": "2026-05-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Heidelberg Materials (XTRA:HEI) Valuation Check After Recent Share Price Weakness - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjZlaWIzVEpjZW1pWU5rZUxfV0F5SldYQ2RHRE9XYm52UmtFSUFnR3FwZW1xWS1zRmFkTURsVUtucE0xdEVxYXJMMHhMWFRSV2VoZzJoLUpRSkxRMncyMkRlSnQ4TWVYTnV1Vzc4Rn",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjZlaWIzVEpjZW1pWU5rZUxfV0F5SldYQ2RHRE9XYm52UmtFSUFnR3FwZW1xWS1zRmFkTURsVUtucE0xdEVxYXJMMHhMWFRSV2VoZzJoLUpRSkxRMncyMkRlSnQ4TWVYTnV1Vzc4RnFKUkNIN2RsOTl5ZWlEbUdHYzRjdTJRbVdESVRrdXc0OS16aEdVbWZ2bEp0S0VJUDFUNTJGZ0JsZw?oc=5",
         "type": "rss"
       }
     ]
@@ -716,6 +1236,26 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/us-annual-electricity-consumption-data-centers-nema/820350/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-15-026",
+    "date": "2026-05-15",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement falls Friday, underperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEhzcGpoTkpOZ0wxOEM0OUlrODY2NmxiYTd4UUtDV0dPX0V3RUFKM3U5R3BwdTlqYnV0ek5kTlQ2X2Y5Yy1oSkk3THd6S0JxaHZWcFN1djZ5NTh6Rng1TjI4MUJITUxET2hIbmNhYW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZEhzcGpoTkpOZ0wxOEM0OUlrODY2NmxiYTd4UUtDV0dPX0V3RUFKM3U5R3BwdTlqYnV0ek5kTlQ2X2Y5Yy1oSkk3THd6S0JxaHZWcFN1djZ5NTh6Rng1TjI4MUJITUxET2hIbmNhYWZQTlNGRS14dnp4eGhrSkFzWFlGbGFRbkZpeEN5d3VQcE9EU05iRXAzRGFrMVVrS1JUZlY1M081MGIxXzNwbGloeQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1945,6 +2485,26 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGFyT3Y0c21sTTdYNjFPR1dRTkFRNmdVVnEzam1rRXAtZkRfUk5OM2Y1NHFWb0Y0bnd1X2tEazhGWTRDZFlENVlIcUdMZUZxQ1JIOWdZdlptSl9vMTZYQXlOM3Z5dDhjQTBmSmlBSG43SnpVNTBfMnlfZVVKUHVEaVNsbHp3Vk1lanlVY0V1dm1iTFppVlh2dlZ4NmloM3dDTmhKSmZPT2U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-13-033",
+    "date": "2026-05-13",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Heidelberg Materials AGM: Record 2025 Results Fuel Dividend Hike, Buybacks - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQM2NjM3dkWXl5dkdnbi1TQkNsekpJNkt6TE5GaVA3SlJVNDJkS2toZ0JGNjl2OTdwTE8yRUZxVWoxeDlWWmc5S0wwei1UOEItTk85WjJvNWpnOWc0T1VEeE5WQVlBSFVnTU9pZUdtc0",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM2NjM3dkWXl5dkdnbi1TQkNsekpJNkt6TE5GaVA3SlJVNDJkS2toZ0JGNjl2OTdwTE8yRUZxVWoxeDlWWmc5S0wwei1UOEItTk85WjJvNWpnOWc0T1VEeE5WQVlBSFVnTU9pZUdtc0lnNWxsNWlfU042eUdXLUxvUENMTUQ2WGxRNk12SWYwQmdjTFZSVVRKTFVRa21QQUhySWJXR2RzdmxUYjhuQUxNM0Q2aEN6Zllyd1QzWDlsMTdMVHhR?oc=5",
         "type": "rss"
       }
     ]
@@ -3429,6 +3989,26 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNamVfcTYxNDlNR3RtTkhyV1pHVmRWTm5CVTVoVlZlZmpIbVYwc0MtYmo4Nmkwc3RLQ21QdmlBMjBOYjY2ZFI4VXlsdzlwUEtHelFsNEIxSzZqeW9waERIVGdDSUUwSkFjYmVaMEVleHB2V0xKYmcyM1QyUkRjN3d2YmlaWlkyY3RDOFRwdEpVNGp2RFFrSU0xZmIyRTlMQmhtMDFXa3F5LVNFSUhtc1lDc3l1em1jdk90X194QVpfNnlXWndCd29admV1d3g4X2stQlFmZVJrdXhrVjJWbHlMWXpnT2ViMFRmYUoydFZYU09XQ2FZOVJMdHlSeTA2MEp2WVc3dFRCdnVUbnZIbmJiYXlxTnRiU1lCWDBUQ1hjN2U1N052X0Z2aTNSYUE4c1JWdkJfUHg3Y01hR1RVbE1ZQ3A1aE1RYi1tVXlVd3Vmby1xTGlSY1hONlh0cTFpZzRDTTNZc3dVaEpUUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-12-075",
+    "date": "2026-05-12",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) director receives 617 RSU equity grant under 2025 plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmFXSmNTSjRGdUIzRmJzSVVydmI0RHl6NUtZMWF4UFRvbm9fZHlRelBiLUZyamFfTjdDb2k3MUNGZmFSS3FVOVhCWFhPRzhlRkgyOC1jRHVEdXJmRTI5OHBuRHNpelhpNHo0TUFJcU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmFXSmNTSjRGdUIzRmJzSVVydmI0RHl6NUtZMWF4UFRvbm9fZHlRelBiLUZyamFfTjdDb2k3MUNGZmFSS3FVOVhCWFhPRzhlRkgyOC1jRHVEdXJmRTI5OHBuRHNpelhpNHo0TUFJcUtNSlpMLTFRSWx6TFhrM1BsOXpNcEZFSG94cWVsSDJKN1d5dW5MSmZPcVgyRDFVWWJzcURPUEdvdjRZWDBXaHhiQmxB?oc=5",
         "type": "rss"
       }
     ]

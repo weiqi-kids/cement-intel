@@ -1,0 +1,290 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:45:37.128629Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-05-18-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Blueprint for breakthroughs: how collaboration is redefining construction - Holcim",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VQN1dMNXdUYlR2VG83SW1TTXNIYmVBNEtuc1E1Tklsd0dsdlpScDQyM1pHWlNrT2V3WXVCdWJwWExHWkpFVDkySEZWOTFPWHhGdGtGNE01bHYtMmQ1R042WVVMVlFUb1dKYmVfNTdWbEdHMDlULVE0SzFkeWVkYkd3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Building Materials Stocks Q1 Teardown: UFP Industries (NASDAQ:UFPI) Vs The Rest - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkRrUnJiQU1UY01MRG1UZzBvZUZWQmNhSUNVX3ZrYjFCcHdQdUlXWUpUcVVsTUxiRWFnbjdqQjlLUDFOMkxtTWVJYjFVN19feFliRjFCUVZBV28zbXpmcVBMZWFVcjFHZmhZMFVfMUF2ZEg3a0hjaWZpM25oNnpyS211ZF9VSG5QOTBYMkRwNzY2VnR0YXdZRGcwbmZKQ1lScDFhZExSWjQtQjdzdE54eW5NUGhqaHNDY0NiMU44M0NpelF1RzdES2FBaUZoVGlrTVE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-05-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock (US9291601097): earnings, infrastructure tailwinds and what investors should - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ19DeDRXaVdzN2pwc2NnNEdkeFdfTkJVd3NERExnUjViM1NmZkJqNkNoZW9lQnZrSXkyN2M1UDRTVWFIZUxKamJUVFBnMTgyQk9XQkZCQ0JlQ19CYjBkU1JzSVR2LWR1TThCZjlJNk5jMTBvRDZ5dlhUTnJjeVRVLUVaQWhNaHJtRGdwUGstWGxBM2ZNNE9FM2cwaVFUS2YyY2t3dk9JN25xVU8xNTBSNm4waFN6cGFoRThGX1VnU0Y4UzFaYnlv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-05-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp to close Terre Haute manufacturing plant in 2027 - Inside INdiana Business",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmxfQ2M0Z1Zla0Qycnd2V0dYdl91Q2dBT2FMbDU5dzRLWEk2c19CWUFuTzJOcmwydHR4WVdNa1hVWjhpUjc5Qkplek5oenpFTnBuMWtWdnFwUExMUlZQYTEzNV9QV1lfUXlkQ0JqVTZqU0JoM1NSbWluUkhEWHBSbkNFdXdJVTdNR0lveXE5S1MzOHg5MV84cGdhRlQ1dldudFJNdWJoLU5xRWxv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-05-18-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp maintains plans to spin-off Materials Services - EUROMETAL",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbm0tUGMxZDRhd0FBR1hpY3VqcGk4MmZ4c0xua3VUNDhQVjNfZ0FYM2FBRGVUbmN6bWZHY1NYTnIyVF9uX2VtUVN0NEFpSmlwOXpzOS0waUc5YXY2V3JLWGRnbWpRQWV0Nk1CQ2l0dzJVSW5PSHBpRzNicEJrQWFJZlhnVEQxNGhiN0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 9
+      },
+      {
+        "id": "holcim",
+        "count": 3
+      },
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 189,
+    "too_old": 86,
+    "gate1_blocked": 12,
+    "gate2_blocked": 19,
+    "passed": 30,
+    "pass_rate": "20.4%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya",
+      "Vulcan Materials (VMC) 10K Form and Latest SEC Filings 2026 - MarketBeat",
+      "Thyssenkrupp to Close Indiana Automotive Site - U.S. News & World Report",
+      "Thyssenkrupp to close Indiana automotive site - Reuters",
+      "A Look At Thyssenkrupp (XTRA:TKA) Valuation After Strong Recent Share Price Momentum - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為蒂森克虜伯、Holcim、Vulcan Materials相關動態：「Blueprint for breakthroughs: how collaboration is redefin...」。主要關注主題為財報、庫存、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Blueprint for breakthroughs: how collaboration is redefining construction - H...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Building Materials Stocks Q1 Teardown: UFP Industries (NASDAQ:UFPI) Vs The Re...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
