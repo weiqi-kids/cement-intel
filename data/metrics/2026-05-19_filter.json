@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 28,
+  "gate2_samples": [
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya",
+    "Local leaders speak on Thyssenkrupp closing - Yahoo",
+    "Thyssenkrupp to close Indiana automotive site - Reuters",
+    "Local leaders speak on Thyssenkrupp closing - 102.7 WBOW"
+  ]
+}

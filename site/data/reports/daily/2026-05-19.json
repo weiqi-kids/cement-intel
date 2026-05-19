@@ -1,0 +1,283 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T11:18:59.064051Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eagle_materials-2026-05-19-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Eagle Materials Announces Fourth Quarter and Fiscal Year 2026 Results",
+      "companies": [
+        "eagle_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://ir.eaglematerials.com/news-releases/news-release-details/eagle-materials-announces-fourth-quarter-and-fiscal-year-2026"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-19-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sibcem reports sharp decline in 1Q26 cement production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.cemnet.com/News/story/181367/sibcem-reports-sharp-decline-in-1q26-cement-production.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-05-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock (US9291601097): earnings outlook and infrastructure tailwinds in focus - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJOa2QwVlJfNG90RndodjZyR3czUUpZUjJRNlRFTlliMlJwLVNscW9uYWxzTFExckNyT3NLbGZxYkdrZzUwZWxSOGNkTlp6ZWd5VlRLRDkyTkxRVWRORHg0ZTNqVThtSkVMOGNSQ3hocmFaRUxfTEdEWktCbVhtMTZRRXZScndYU2wxZ1BYSTI2cHljWGdPbUo4N0Rlc2tCRDJGTWxvZUxiZ19qdk5ONUFmN2J3OEhWM3BLekcyN2lBTURyMjMwREpB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-05-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Indiana Shutdown and Defence Hopes Drive Stock into Overbought Territory - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2U0aGk2X2RKZlVwendncWdlbWdyN3RtRnFjX2tKaUxLY3F0QUNBb1N6YUFITms4TkZEZGpQN2ZvOVNodC1FRHEybnlHYjZ0WkFOMmVrZGxwTUplVF9QMV9jSnl0eWRwX3RNOU9MaFBFYXFNc0tqVkZfNWM5cWp2MjRlTHJCU1l0a2swN01vcW9SV3dveWNzQ3VHcTEtblE0Q2F6NFg3bm1EMGxDUjJfRjZTMklxTTAxR2R2RFF5RHQ5T2M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-05-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim Ltd stock (CH0012214059): cement giant in focus after latest trading moves and growth push - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMG9IMnAwdlYxYzBtUUdqc0dYLThzVXVmdEFYdVNpV0gzYnQ1UGVOOXdRT3VDeHY1R2NORlBWQ1NPb0ZoMUpVV1RraWhNUjFGb29GUTFnY3B5bEVNNGtTRExjNGw1ZFNtdXZOb2xrTThqMVdKV1RfdXFtMWJoa2x5bmVrOHBGbm4zR2RNSDNSWWVoc3JGMFNwcW1BNEgtX041U2FvMVhNS2JRT01EQnljZVhQLU1rblhCd2NtWmRyUFI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "infrastructure_spending": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "taiheiyo",
+        "count": 5
+      },
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "eagle_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 189,
+    "too_old": 91,
+    "gate1_blocked": 12,
+    "gate2_blocked": 15,
+    "passed": 28,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Vulcan Materials christens new pushboat - WorkBoat",
+      "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya",
+      "Local leaders speak on Thyssenkrupp closing - Yahoo",
+      "Thyssenkrupp to close Indiana automotive site - Reuters",
+      "Local leaders speak on Thyssenkrupp closing - 102.7 WBOW"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為太平洋水泥、海德堡材料、蒂森克虜伯相關動態：「Eagle Materials Announces Fourth Quarter and Fiscal Year ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eagle Materials Announces Fourth Quarter and Fiscal Year 2026 Results（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Sibcem reports sharp decline in 1Q26 cement production（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

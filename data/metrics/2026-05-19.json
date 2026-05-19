@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-19",
+  "total_events": 20,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "eagle_materials": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "thyssenkrupp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "heidelberg": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "taiheiyo": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "carbon_emissions": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

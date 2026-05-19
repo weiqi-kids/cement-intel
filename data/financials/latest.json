@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:45:33.289804Z",
+  "updated_at": "2026-05-19T11:18:55.874755Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -109,8 +109,8 @@
       "ar_prev": 2627700000,
       "ar_qoq": "-14%",
       "inventory": 2750800000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
+      "inv_prev": 2741400000,
+      "inv_qoq": "+0%",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -120,11 +120,11 @@
       "ticker": "HOLN.SW",
       "currency": "CHF",
       "ar": 1714000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 2151000000,
+      "ar_qoq": "-20%",
       "inventory": 1716000000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
+      "inv_prev": 1729000000,
+      "inv_qoq": "-1%",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -189,14 +189,14 @@
       "name": "蒂森克虜伯",
       "ticker": "TKA.DE",
       "currency": "EUR",
-      "ar": 3641000000,
-      "ar_prev": 3929000000,
-      "ar_qoq": "-7%",
-      "inventory": 7707000000,
-      "inv_prev": 6930000000,
-      "inv_qoq": "+11%",
+      "ar": 4362000000,
+      "ar_prev": 3641000000,
+      "ar_qoq": "+20%",
+      "inventory": 7571000000,
+      "inv_prev": 7707000000,
+      "inv_qoq": "-2%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ultratech",
