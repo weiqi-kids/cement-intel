@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 10,
+  "gate2_fail": 17,
+  "passed": 39,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Baron Asset Fund Bets on Vulcan Materials Company’s (VMC) Attractive Long-Term Growth Potential - Ya",
+    "Thyssenkrupp to close Indiana automotive site - Reuters",
+    "Thyssenkrupp Presta North America Shutting Down Terre Haute Facility by March 31, 2027 - News and St"
+  ]
+}

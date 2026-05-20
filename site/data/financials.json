@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T11:18:55.874755Z",
+  "updated_at": "2026-05-20T10:51:25.331101Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -109,8 +109,8 @@
       "ar_prev": 2627700000,
       "ar_qoq": "-14%",
       "inventory": 2750800000,
-      "inv_prev": 2741400000,
-      "inv_qoq": "+0%",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -120,11 +120,11 @@
       "ticker": "HOLN.SW",
       "currency": "CHF",
       "ar": 1714000000,
-      "ar_prev": 2151000000,
-      "ar_qoq": "-20%",
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "inventory": 1716000000,
-      "inv_prev": 1729000000,
-      "inv_qoq": "-1%",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
       "alert": false,
       "quarter_date": "2025-12-31"
     },
@@ -147,14 +147,14 @@
       "name": "Siam Cement",
       "ticker": "SCC.BK",
       "currency": "THB",
-      "ar": 2188372000,
-      "ar_prev": 2408730000,
-      "ar_qoq": "-9%",
-      "inventory": 67110547000,
-      "inv_prev": 69176626000,
-      "inv_qoq": "-3%",
+      "ar": 2303884000,
+      "ar_prev": 2188372000,
+      "ar_qoq": "+5%",
+      "inventory": 72303805000,
+      "inv_prev": 67110547000,
+      "inv_qoq": "+8%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "taiheiyo",
