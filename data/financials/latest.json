@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T10:51:25.331101Z",
+  "updated_at": "2026-05-21T00:44:12.937080Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -49,9 +49,9 @@
       "name": "CEMEX",
       "ticker": "CX",
       "currency": "USD",
-      "ar": null,
-      "ar_prev": 189000000,
-      "ar_qoq": "N/A",
+      "ar": 1948965000,
+      "ar_prev": 1770000000,
+      "ar_qoq": "+10%",
       "inventory": 1510371000,
       "inv_prev": 1527000000,
       "inv_qoq": "-1%",
@@ -91,14 +91,14 @@
       "name": "Eagle Materials",
       "ticker": "EXP",
       "currency": "USD",
-      "ar": 208511000,
-      "ar_prev": 250773000,
-      "ar_qoq": "-17%",
-      "inventory": 384879000,
-      "inv_prev": 370207000,
-      "inv_qoq": "+4%",
+      "ar": 228573000,
+      "ar_prev": 208511000,
+      "ar_qoq": "+10%",
+      "inventory": 408391000,
+      "inv_prev": 384879000,
+      "inv_qoq": "+6%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "heidelberg",
@@ -147,8 +147,8 @@
       "name": "Siam Cement",
       "ticker": "SCC.BK",
       "currency": "THB",
-      "ar": 2303884000,
-      "ar_prev": 2188372000,
+      "ar": 50510000000,
+      "ar_prev": 48229000000,
       "ar_qoq": "+5%",
       "inventory": 72303805000,
       "inv_prev": 67110547000,
