@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:24:20.889106Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "eagle_materials-2026-05-21-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Eagle Materials reports record FY2025-26 revenue as cement volumes rise",
+      "companies": [
+        "eagle_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.cemnet.com/News/story/181377/eagle-materials-reports-record-fy2025-26-revenue-as-cement-volumes-rise.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-21-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Unacem sees strong start to 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.globalcement.com/news/20792-unacem-sees-strong-start-to-2026"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Building Materials Q1 2026 Earnings Review: Top and Bottom Performers - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkNHMVRmVDlzMjJnREc0ZzRZU2hvVy1XUlJqNU4wNVBYeFN5QUVjMlBPVERvbmV3Rl9JM3VoTnlzT1RLeGZnRUlhMnZ2YUl6SFF0RTN5OVNRU0w5dzVnSk9tTDlSeG1VSk9tM19ITVpfcUVkOUZ4aHNCLWJBVy1uMkJ1MlZXNlhkYzgwdDgzZWJUd09KMjllOTdXdjRuWkFIaFhuWEJfTjl6TExf?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-05-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock (CH0012214059): US spin-off plan and earnings momentum - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1JkdFhzQzBCN3lrRUZpU3Q5WlotQk4wdndRSzI4akRhR3VxMDMxZUI2V0dKRGcyc0tDam5sZU9INkU1b3hkYlQwNjB3ektINTF2a1VXVTVua2FQTGxZbWRMdG9uN1F1NFEyREZUTk11d1NKX2pSR25zcUtWRXRKdzR4Sm92LTJMOU16V2dIVWVKVEIwNnM0S2pEeUh3alAzSVlXWTlvZm5zZFlsbG54UkpESmg3ejdZU2w3VDlXOXE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cemex-2026-05-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Boulder County reverses, allows CEMEX to keep operating kiln - The Colorado Sun",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEJZVnlodzg3am1VMkNrcmUyZmRxcngtU1AtRkk0Tjkzdnc3bXpzWVdXQWpyakZkekJ5NmlrTHhUYjh5OXpZZ2ZlUlRNREV4M29OeEQ4N2JaczZwZmpGZ1ZWeEJuQzZQdE5CUTVnWjZrd0tIUnhPbHBPLWY4MU1Yek9iZVkwMl9ULUtUQmJUc2RIT3EzZ2NtZjVIdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "siam_cement",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "eagle_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 197,
+    "too_old": 84,
+    "gate1_blocked": 10,
+    "gate2_blocked": 16,
+    "passed": 31,
+    "pass_rate": "22.0%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+      "Vulcan Materials christens new pushboat - WorkBoat",
+      "Vulcan Materials Company $VMC Shares Sold by Gamco Investors INC. ET AL - MarketBeat",
+      "Thyssenkrupp May Put A Major MX Spin-Off To A Vote - Finimize",
+      "Thyssenkrupp Presta North America Shutting Down Terre Haute Facility by March 31, 2027 - News and St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Vulcan Materials、CEMEX、Siam Cement相關動態：「Eagle Materials reports record FY2025-26 revenue as cemen...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eagle Materials reports record FY2025-26 revenue as cement volumes rise（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Unacem sees strong start to 2026（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 10,
+  "gate2_fail": 16,
+  "passed": 31,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Vulcan Materials Company $VMC Shares Sold by Gamco Investors INC. ET AL - MarketBeat",
+    "Thyssenkrupp May Put A Major MX Spin-Off To A Vote - Finimize",
+    "Thyssenkrupp Presta North America Shutting Down Terre Haute Facility by March 31, 2027 - News and St"
+  ]
+}
