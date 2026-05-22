@@ -1,0 +1,201 @@
+{
+  "date": "2026-05-22",
+  "date_range": {
+    "start": "2026-05-16",
+    "end": "2026-05-22"
+  },
+  "generated_at": "2026-05-22T10:51:57.493059Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ultratech-2026-05-16-004",
+      "date": "2026-05-16",
+      "title": "UltraTech Cement Ltd stock (INE481G01011): earnings growth and expansion plans draw attention - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "carbon_emissions": {
+      "this_week": 11,
+      "last_week": 7,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": -0.04
+    },
+    "raw_material_energy_cost": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.17
+    },
+    "earnings": {
+      "this_week": 53,
+      "last_week": 70,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.1
+    },
+    "inventory": {
+      "this_week": 28,
+      "last_week": 16,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity": {
+      "this_week": 18,
+      "last_week": 11,
+      "week_over_week_change": "+64%",
+      "sentiment_this_week": 0.22
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 13,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.0
+    },
+    "infrastructure_spending": {
+      "this_week": 10,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_consolidation": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.25
+    },
+    "cement_pricing": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "taiwan_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "ultratech": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    },
+    "siam_cement": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "heidelberg": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "vulcan": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "thyssenkrupp": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "holcim": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 5
+    },
+    "cemex": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 7
+    },
+    "eagle_materials": {
+      "event_count": 3,
+      "sentiment_avg": 0.83,
+      "rank": 9
+    },
+    "anhui_conch": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "taiheiyo": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "martin_marietta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 158,
+        "last": 217,
+        "change_pct": -27.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-16",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 32,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 33,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 36,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 26,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-16 ~ 2026-05-22）共 158 則事件，重點為「UltraTech Cement Ltd stock (INE481G01011): earn...」。Holcim、Eagle Materials表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "UltraTech",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Siam Cement",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "海德堡材料",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
