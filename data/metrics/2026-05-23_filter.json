@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 11,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Thyssenkrupp Presta North America Shutting Down Terre Haute Facility by March 31, 2027 - News and St",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Heidelberg Materials (XTRA:HEI) Valuation Check After Recent Share Price Weakness - simplywall.st"
+  ]
+}

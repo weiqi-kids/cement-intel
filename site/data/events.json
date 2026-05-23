@@ -1,5 +1,67 @@
 [
   {
+    "id": "vulcan-2026-05-23-001",
+    "date": "2026-05-23",
+    "companies": [
+      "vulcan",
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DOJ requires Taiheiyo to divest three concrete plants in $712M Vulcan Materials deal - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTURkalBxcFc5eEVTQVdhYjZ3VUtnemltTEFMWExtX1hjQnd2VGxXMXh5c2lGT1gxbWhqQVVPYklVYzFfQ2htVl9hU0JvaTVjY0RZVGo0NDhBLV8yOUQyNzBkV2R5Qk5IUkc2b29PWD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTURkalBxcFc5eEVTQVdhYjZ3VUtnemltTEFMWExtX1hjQnd2VGxXMXh5c2lGT1gxbWhqQVVPYklVYzFfQ2htVl9hU0JvaTVjY0RZVGo0NDhBLV8yOUQyNzBkV2R5Qk5IUkc2b29PWDc0eGRjd2RFTzkydVJNTWxjbUR1aFBweEFsQUxleFAyUENzUjhRNEpZR2dhVkNUV1hZbWFQUFE0OFZkTFJ2WUpKOWtaTTljX1dQRGdKZW95Nk9Hd1hMeThOV1ZOUEdfLWFwS3ZTODdJakM3b3FlWUZ4TkszYkhwa3RxTlF3ME1MMVVxNm5pbFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-23-002",
+    "date": "2026-05-23",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Ltd stock (CH0012214059): earnings momentum, US listing and construction cycle in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDg5UUM4a0o4V2p6THJ3QWdvelZSemJTR05LSl9ySmFrQnlFenR1NXdWaGtlRzFtQkRRR01jckFEeDdLV3V2OFMwUkdRS01yclh5RWVCeV9CbkxLUThGR24zOXZnU29kWWkwM2VXOV",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDg5UUM4a0o4V2p6THJ3QWdvelZSemJTR05LSl9ySmFrQnlFenR1NXdWaGtlRzFtQkRRR01jckFEeDdLV3V2OFMwUkdRS01yclh5RWVCeV9CbkxLUThGR24zOXZnU29kWWkwM2VXOVBBeDZzSnUwRTJ4SEgxbzUxZEFwb1poaEdrYkRoYmd1MGZnVlIzazNsS2xuZlZWTEVHWlB2Y1RtX1NvTkFMOFg4UE9sV1JZWDJrZWpZb29B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-05-23-003",
+    "date": "2026-05-23",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Futures Contracts for ASIA CEMENT CORP. FUTURES (Jul 2026) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkN1Q1FHWmFHU19jNXdhSk1TQlNySFp1VGYxZmVKUkRFbUJxMHFxYU0wR05BMjNXdXNKQkh0WWxFY3VPbjBUclBVOVhXTlNNVGhHY3RMWF9RbnFfNW52VnBRQlE4dWFNOXZWb0NVWG",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkN1Q1FHWmFHU19jNXdhSk1TQlNySFp1VGYxZmVKUkRFbUJxMHFxYU0wR05BMjNXdXNKQkh0WWxFY3VPbjBUclBVOVhXTlNNVGhHY3RMWF9RbnFfNW52VnBRQlE4dWFNOXZWb0NVWGprd3JIckNRelBxRWlMc1hYQThlbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-05-22-001",
     "date": "2026-05-22",
     "companies": [
@@ -285,6 +347,144 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20795-jsw-cement-expands-nagaur-grinding-capacity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-22-016",
+    "date": "2026-05-22",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim (Argentina) S.A. stock (ARJMIN032223): regional cement player in focus amid macro headwinds - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDc5MG0xaVo1eXVFRHhySGJJbGpmbGc3MGJpUE5lVlRacHhBX2taQlV4SzlKcVlBT2VRc3RGd2x3dFRMVG9Pdnd0MUI5RS1LenJfNHUweVZEVXhpVUo2U0tZRm1kVW1GWGQtNjRQdU",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDc5MG0xaVo1eXVFRHhySGJJbGpmbGc3MGJpUE5lVlRacHhBX2taQlV4SzlKcVlBT2VRc3RGd2x3dFRMVG9Pdnd0MUI5RS1LenJfNHUweVZEVXhpVUo2U0tZRm1kVW1GWGQtNjRQdUZQX2F4eVFyTjFnNmVJZFpZdlNrOFhGbkNmUEFUUWt3d1ZKRk5uV3BGSjRlLVBvU3JDV3UzdTIzRnFtblNEQXdsSEJ0WjF2b2NxcXgwLUNRWDBvdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-05-22-017",
+    "date": "2026-05-22",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Cemex S.A.B. de C.V. stock (MXP225611567): earnings trends and construction demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUVDM3d3TUdYNkdRM3l4OXVQUS1ybjhwcE5yZXNzc2dhR0RFSkZ5VkJraDBJNl9wbnVsb2NLRmtVVlg4U1ZKOE1LcWpNVTg3dTdLWVNGeTdXV1A5eUFTMzdzS1dBbVM1dXUtczVWdG",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUVDM3d3TUdYNkdRM3l4OXVQUS1ybjhwcE5yZXNzc2dhR0RFSkZ5VkJraDBJNl9wbnVsb2NLRmtVVlg4U1ZKOE1LcWpNVTg3dTdLWVNGeTdXV1A5eUFTMzdzS1dBbVM1dXUtczVWdG5uTWVTU2k2QU5IWU9YZk5rLWp2MGlfbGh3S09wZzhCd19iS0FQOWJLMmotQlhDczVyZkN0Z2JhNkRackotUHp1dWlocXM2cEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-22-018",
+    "date": "2026-05-22",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials invests in AmeriTex Pipe & Products - Construction & Demolition Recycling",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQM25yVmJZQm9xd3NtRUdLakxxSjlMVmZGcXBsdHRRYk1zbHY0cVBkTnhiLTBPOHlKb3VyQWFnY0t2QTA1eWpwRHB1R19tQVpXdUQ2Q2RfY2R3WlVXTEw0SnlqVXR5VEtobGlHMUJWaX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM25yVmJZQm9xd3NtRUdLakxxSjlMVmZGcXBsdHRRYk1zbHY0cVBkTnhiLTBPOHlKb3VyQWFnY0t2QTA1eWpwRHB1R19tQVpXdUQ2Q2RfY2R3WlVXTEw0SnlqVXR5VEtobGlHMUJWaXduaHJ1RHFDZTl6MHZESDA2OEstNnp5MjVvT0VWVWVIcGxjRmVzTlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-22-019",
+    "date": "2026-05-22",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials acquires minority stake in AmeriTex - Pit & Quarry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHlPYjF6MVJDZ3NoOWx4Tk1fSjBCblVKRkVHYmVVMFZnTUp3c3VjcUJGcC1OQXYybWpJWERrZnBTTV83Qlc3ZERRVGhmalZoY2kwVVQyd0tScHFaNzJvR1FnOVRxc095WlNaanMySU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHlPYjF6MVJDZ3NoOWx4Tk1fSjBCblVKRkVHYmVVMFZnTUp3c3VjcUJGcC1OQXYybWpJWERrZnBTTV83Qlc3ZERRVGhmalZoY2kwVVQyd0tScHFaNzJvR1FnOVRxc095WlNaanMySUZGNVJPZzNZdnVPaDIxM0tGWFI3OVFHSmh4bkRpUEYwOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-22-020",
+    "date": "2026-05-22",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement climbs Friday, outperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOWGNtdEdSTGlHb0d6SnQ1dDRjbXJqWmpmWjZfTXExVXVDUHlZemdWbDUyd1hxRDdjdHY1WDRUWWY4YW4yellLellOZXBBQVZ0S1NhTlV4am9LcmM5UkVpc3IxaHFzY0xzVk00cW02dW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWGNtdEdSTGlHb0d6SnQ1dDRjbXJqWmpmWjZfTXExVXVDUHlZemdWbDUyd1hxRDdjdHY1WDRUWWY4YW4yellLellOZXBBQVZ0S1NhTlV4am9LcmM5UkVpc3IxaHFzY0xzVk00cW02dWVxcDdNV3RSeDNrVDJTNG5rNk5pc2pfM1ZPU2hLcXpvSDJrQnlXY19lSDVMa0VNaVpyb2QwZHVPODdoSy1LUVFnT1RBQW9OMVJNcmVBN0ZKbDRjclpPcVVEeTRsSU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-05-22-021",
+    "date": "2026-05-22",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement (THYCF) Faces Antitrust Measures in CalPortland Acquisition - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMF9aR3huXzRvdTVmS0hMMVZJeFZyVm5JSkljcDc1QlNucF9LXzVHVzBOZ3Bkby1mdXpYRmNybXBUbEQ3aFFyYkFXa3BRZ1lHV0NsRm9JdzVJYWFJVkczeDk0aDNRRkJ1bFpLVVEzWl",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMF9aR3huXzRvdTVmS0hMMVZJeFZyVm5JSkljcDc1QlNucF9LXzVHVzBOZ3Bkby1mdXpYRmNybXBUbEQ3aFFyYkFXa3BRZ1lHV0NsRm9JdzVJYWFJVkczeDk0aDNRRkJ1bFpLVVEzWlUzZzFnc09WQXFrd0lFNG81a29aUnFlSjB1RWZuY053VmMtMTdyeDR5akdQV3ZkLTVQQkJkQm5QVFA3T1FkSS1BVzNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-022",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "TCMA Marks National Milestone, Driving Thailand’s Cement Industry toward Net Zero 2050 - WRAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUhTU2FjV3c5NjI2Y1NaM0JmbWpkRGg3OHZxUzE2TkVxb285S2xubnFfZlR5emdSWWt5dk5SUEdTYzZJMURHWHBrMVpiWjNCcWp2ZHdOT2M0eVpuRjBkRld1dEdJN1ZRM05qbG9Vbj",
+    "sources": [
+      {
+        "name": "google_cement_industry",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYUhTU2FjV3c5NjI2Y1NaM0JmbWpkRGg3OHZxUzE2TkVxb285S2xubnFfZlR5emdSWWt5dk5SUEdTYzZJMURHWHBrMVpiWjNCcWp2ZHdOT2M0eVpuRjBkRld1dEdJN1ZRM05qbG9VbjFiSHJxOFQwdWZmZXd6eFBSOE5oVUMxTElPVE5JRGpjdW0zMFdiWVJSbHpNTVlYU0JUM2tkTzF5cG1mVHRpNlpMZnB2ZmZKU3BoZTR0aUFB?oc=5",
         "type": "rss"
       }
     ]
@@ -793,6 +993,26 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181360/malaysian-collaboration-to-reshape-cement-supply.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-21-027",
+    "date": "2026-05-21",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Research Report - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TeEJLRU5NdWlvMkFRYlZ4YkRwQUMxSWRjbVI1cmhhb0p5WkdfcWpiX0hhcEZmS0taV2Jrb0xOc25nSzgtN1JWY21WRXM0bFFwSkNF?oc=5\" target=\"_blank\">Vulcan Material",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TeEJLRU5NdWlvMkFRYlZ4YkRwQUMxSWRjbVI1cmhhb0p5WkdfcWpiX0hhcEZmS0taV2Jrb0xOc25nSzgtN1JWY21WRXM0bFFwSkNF?oc=5",
         "type": "rss"
       }
     ]
