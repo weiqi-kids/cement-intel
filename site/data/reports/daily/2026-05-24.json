@@ -1,0 +1,177 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:55:30.228579Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-05-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim Ltd stock (CH0012214059): earnings momentum and buyback underline transition story - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2trdzB1Q1FUTkcyaTJyTDFLYTB2VXRRRjZROGl0TjJ6c3NZV1BCR2d0T3RLc3hsNHpzY3VFck1sZ2NNOUQ0R04yaWFtWC1sSTFZZ3ZMNmtpa2Iza0NRSnhDRmhmZkR0WE4tSm1iRkFOVS0wbW5SYmhxd3pjYW91emJjMi00MlpwTl9oMERaM01aYWlXdWZabVU5eDZfenRaTDRTTDgwRzk3TElKWWVLQS01aEdLWTBidW4xSVZrd0ZSdmVCWGM0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-05-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim Ltd stock (CH0012214059): spin-off Hangzhou, solid Q1 2026 and focus on low?carbon cement - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTG5WT2dUdlJhUGo0OVFYS3ZXMnBSZUxCenFJdjF4WE5tMVhBa0gxZnU2X1hfUWc2TDFaU0RvVDRoU0ZnWHFPZUdjanpCQ2ZtZ1BnZWVabTU3WVgwYkFnVDVTR3d6bV9IM0lqV21HWXZUc0xOMy1iZm1oMXIxX2QtbFRRUHYweV9KUkxORmpnZ1pfRkpxTDVQdllJX19rVVJ1c0RZWTdhT1otYklGQXBJa1p6bEI3VmRpbDdBMmVnd2pVUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cement makers expect 7-8% growth in FY27 despite West Asia headwinds - Fortune India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUU5DNE5md1pCRGZxdFF5aEQ3ZFRBMWUxNjdoRTQxdWd5RlBEMjNKM3V5alZvSjhoeW16bEdkNGdtNTdBd0ZQXzNQRlpMLXFQRVVzODhkUVdFYXJZb050eXZpSk9kZ0x1b19lNVRIR3BDRWdCS1dnc2ptdzJXX3psSUYzMEU3dXlKRFpQcGFGU0hGQjNHbGhxdzQtTTdCdnVKOEs4c05CVmhpUnhfNkMzSWU5andYNWtPTGJIMlRxMFNQMkxqYWfSAcYBQVVfeXFMTlFOQzROZndaQkRmcXRReWhEN2RUQTFlMTY3aEU0MXVneUZQRDIzSjN1eWpWb0o4aHltemxHZDRnbTU3QXdGUF8zUEZaTC1xUEVVczg4ZFFXRWFyWW9OdHl2aUpPZGdMdW9fZTVUSEdwQ0VnQktXZ3NqbXcyV196bElGMzBFN3V5SkRaUHBhRlNIRkIzR2xocXc0LU03QnZ1SjhLOHNOQlZoaVJ4XzZDM0llOWp3WDVrT0xiSDJUcTBTUDJMamFn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 211,
+    "too_old": 91,
+    "gate1_blocked": 12,
+    "gate2_blocked": 14,
+    "passed": 9,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+      "Vulcan Materials christens new pushboat - WorkBoat",
+      "Thyssenkrupp May Put A Major MX Spin-Off To A Vote - Finimize",
+      "Thyssenkrupp to close Indiana automotive site - WTVB",
+      "Europe’s urgent water challenge – how to secure a reliable and resilient water future"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Holcim相關動態：「Holcim Ltd stock (CH0012214059): earnings momentum and bu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Holcim Ltd stock (CH0012214059): earnings momentum and buyback underline tran...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim Ltd stock (CH0012214059): spin-off Hangzhou, solid Q1 2026 and focus o...（碳排放、財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

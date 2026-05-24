@@ -1,92 +1,92 @@
 {
   "vulcan": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "martin_marietta": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "eagle_materials": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
+    "latest": "2026-05-22",
+    "count": 3109
+  },
+  "thyssenkrupp": {
+    "earliest": "2014-01-09",
+    "latest": "2026-05-22",
+    "count": 3140
+  },
+  "holcim": {
+    "earliest": "2014-01-10",
+    "latest": "2026-05-22",
+    "count": 3104
+  },
+  "crh": {
+    "earliest": "2014-01-13",
+    "latest": "2026-05-22",
+    "count": 3109
+  },
+  "cemex": {
+    "earliest": "2014-01-13",
+    "latest": "2026-05-22",
+    "count": 3109
+  },
+  "heidelberg": {
+    "earliest": "2014-01-09",
+    "latest": "2026-05-22",
+    "count": 3140
+  },
+  "taiwan_cement": {
+    "earliest": "2014-01-10",
+    "latest": "2026-05-22",
+    "count": 3008
+  },
+  "asia_cement": {
+    "earliest": "2014-01-10",
+    "latest": "2026-05-22",
+    "count": 3008
+  },
+  "anhui_conch": {
+    "earliest": "2014-01-13",
+    "latest": "2026-05-22",
+    "count": 3000
+  },
+  "ultratech": {
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
     "count": 3047
   },
-  "thyssenkrupp": {
-    "earliest": "2014-04-09",
-    "latest": "2026-05-22",
-    "count": 3076
-  },
-  "holcim": {
-    "earliest": "2014-04-10",
+  "taiheiyo": {
+    "earliest": "2014-01-14",
     "latest": "2026-05-22",
     "count": 3040
   },
-  "crh": {
-    "earliest": "2014-04-11",
-    "latest": "2026-05-22",
-    "count": 3047
-  },
-  "cemex": {
-    "earliest": "2014-04-11",
-    "latest": "2026-05-22",
-    "count": 3047
-  },
-  "heidelberg": {
-    "earliest": "2014-04-09",
-    "latest": "2026-05-22",
-    "count": 3076
-  },
-  "taiwan_cement": {
-    "earliest": "2014-04-10",
-    "latest": "2026-05-22",
-    "count": 2952
-  },
-  "asia_cement": {
-    "earliest": "2014-04-10",
-    "latest": "2026-05-22",
-    "count": 2952
-  },
-  "anhui_conch": {
-    "earliest": "2014-04-11",
-    "latest": "2026-05-22",
-    "count": 2942
-  },
-  "ultratech": {
-    "earliest": "2014-04-11",
-    "latest": "2026-05-22",
-    "count": 2986
-  },
-  "taiheiyo": {
-    "earliest": "2014-04-11",
-    "latest": "2026-05-22",
-    "count": 2979
-  },
   "siam_cement": {
-    "earliest": "2014-04-10",
+    "earliest": "2014-01-10",
     "latest": "2026-05-22",
-    "count": 2944
+    "count": 3006
   },
   "cnbm": {
-    "earliest": "2014-04-15",
+    "earliest": "2014-01-15",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3041
   },
   "asia_cement_china": {
-    "earliest": "2014-04-15",
+    "earliest": "2014-01-15",
     "latest": "2026-05-22",
-    "count": 2979
+    "count": 3041
   },
   "etf_igf": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   },
   "etf_pkb": {
-    "earliest": "2014-04-11",
+    "earliest": "2014-01-13",
     "latest": "2026-05-22",
-    "count": 3047
+    "count": 3109
   }
 }
