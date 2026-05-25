@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 14,
+  "gate2_fail": 11,
+  "passed": 16,
+  "gate2_samples": [
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future",
+    "Vulcan Materials christens new pushboat - WorkBoat",
+    "Thyssenkrupp May Put A Major MX Spin-Off To A Vote - Finimize",
+    "Thyssenkrupp to close Indiana automotive site - Reuters",
+    "Europe’s urgent water challenge – how to secure a reliable and resilient water future"
+  ]
+}
