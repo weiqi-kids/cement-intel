@@ -1,0 +1,262 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:40:00.046821Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-05-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oppenheimer initiates Vulcan Materials stock rating at Perform - Investing.com",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1UyXzRfamtXM0NfRmxMSkVKeENvRnhvSEhHbTA1NjhCNmNOeHlnM1IyMjhxMm0wWklDUUVnazJTbV94WXNvN1ZMd0tIdzQyT0x6OTdveUdJZkR3NDI5TjRUM3FfYm0tSjRZU1I5SVNNWFhmYkRkeW0wcHlEZ0RhWXEwQWltYnRQRVhrdXY1WE9uSzdDeElyblg5akFQQTFPSXk0MkxLZS1heXVBQU5xNjJOem1lZElsamFEdk1fWktfWjEzNUNmZnFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Germany pledges four submarines by 2036 in high-stakes pitch to Canada - CBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZXZqWlhqSFFWQjRMUlBzWWdsSmpWNkFuRFEzMmVsQ3BURUZxRWJGSWcxdWNROFVZTGcwNUpvRWhSQVdkOHN5NUJBb0Q0dmFERHo3cDV5d0otM29FOHZBNDBxTGdHR0c5NXlSeHk1bzh5ckNuVWs0cXNtb3I0UDA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Carbon capture - facilitiesmanagement-now.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVWtqUzRycVpMU0plSHo1V2MzTExXNnloTDhvREVvQjRnM05wMVdwcFRkMko4d3ZEOGY1YklmQU96YVFOVTVCYzdVX3NPM1lNTjZJbm1SaG9JbFgyOE9yQ2FYS2dSM2JscDJtRkJmZ014a3Fkck40Nm9QUlhTRUpzQTNuWmJJZEk2ekNVVnJsbDRlNVA0VEJyQlIxOURtb2d6YXlyM0hBLXRmekVpR3JVRXlGa0gtMmVnYUFWR0dqNDRmNmlpYzUxUHZUd2dFSHl0TUhpR1JWMTlYVUVHeGZkUk1jT19oWEJsdG5WVU1PSVFpdUE2YTk3ck9xa0VRcmw4VVVJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-05-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement appoints Vikram Bhalla as independent director for five years - scanx.trade",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSm1UYXdCTE1iQmMtbnZiM3NhdEFHMXhXRHd1OUljaXpSS3g3Skg1OWxXTnRpTFVCcDdMQ2ZHME56ZU5GQ0NrOFRHVWJsbXlscThKNFJLaHdFd2d1OUM4NW9ZT2VlSjdzYzZDZnNnc1lET2dZdWZjeldfaS1aVmhRNFg3V3dwVlhiNHVfODVZdmtqcFA2WDY0TVhReHdRbC1iYVRQZ09MRVdsb3pCUG9iVjZ3MTdlOWdHM0hLanVxdEt2NFVZUDE3RGxJQU9aYkZ3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-28-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Steppe Cement reports 2025 financial results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.globalcement.com/news/20814-steppe-cement-reports-2025-financial-results"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 178,
+    "too_old": 99,
+    "gate1_blocked": 15,
+    "gate2_blocked": 7,
+    "passed": 40,
+    "pass_rate": "24.8%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+      "Vulcan Materials (VMC) Is a Local-Scarcity Pricing Franchise, Not Just a Housing Proxy - AlphaStreet",
+      "Cemex supplies concrete for largest Costco store in Mexico - World Cement",
+      "Long term debt to total assets ratio of Asia Cement (China) Holdings Corp – OTC:AACEY - TradingView",
+      "Asia Cement (China) Holdings Corp Cash Flow – OTC:AACEY - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Vulcan Materials、UltraTech相關動態：「Oppenheimer initiates Vulcan Materials stock rating at Pe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Oppenheimer initiates Vulcan Materials stock rating at Perform - Investing.com（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Germany pledges four submarines by 2036 in high-stakes pitch to Canada - CBC（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

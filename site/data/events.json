@@ -1,5 +1,687 @@
 [
   {
+    "id": "vulcan-2026-05-28-001",
+    "date": "2026-05-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Oppenheimer initiates Vulcan Materials stock rating at Perform - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1UyXzRfamtXM0NfRmxMSkVKeENvRnhvSEhHbTA1NjhCNmNOeHlnM1IyMjhxMm0wWklDUUVnazJTbV94WXNvN1ZMd0tIdzQyT0x6OTdveUdJZkR3NDI5TjRUM3FfYm0tSjRZU1I5SV",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1UyXzRfamtXM0NfRmxMSkVKeENvRnhvSEhHbTA1NjhCNmNOeHlnM1IyMjhxMm0wWklDUUVnazJTbV94WXNvN1ZMd0tIdzQyT0x6OTdveUdJZkR3NDI5TjRUM3FfYm0tSjRZU1I5SVNNWFhmYkRkeW0wcHlEZ0RhWXEwQWltYnRQRVhrdXY1WE9uSzdDeElyblg5akFQQTFPSXk0MkxLZS1heXVBQU5xNjJOem1lZElsamFEdk1fWktfWjEzNUNmZnFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-002",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Germany pledges four submarines by 2036 in high-stakes pitch to Canada - CBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZXZqWlhqSFFWQjRMUlBzWWdsSmpWNkFuRFEzMmVsQ3BURUZxRWJGSWcxdWNROFVZTGcwNUpvRWhSQVdkOHN5NUJBb0Q0dmFERHo3cDV5d0otM29FOHZBNDBxTGdHR0c5NXlSeHk1bz",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZXZqWlhqSFFWQjRMUlBzWWdsSmpWNkFuRFEzMmVsQ3BURUZxRWJGSWcxdWNROFVZTGcwNUpvRWhSQVdkOHN5NUJBb0Q0dmFERHo3cDV5d0otM29FOHZBNDBxTGdHR0c5NXlSeHk1bzh5ckNuVWs0cXNtb3I0UDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-003",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Carbon capture - facilitiesmanagement-now.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOVWtqUzRycVpMU0plSHo1V2MzTExXNnloTDhvREVvQjRnM05wMVdwcFRkMko4d3ZEOGY1YklmQU96YVFOVTVCYzdVX3NPM1lNTjZJbm1SaG9JbFgyOE9yQ2FYS2dSM2JscDJtRkJmZ0",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVWtqUzRycVpMU0plSHo1V2MzTExXNnloTDhvREVvQjRnM05wMVdwcFRkMko4d3ZEOGY1YklmQU96YVFOVTVCYzdVX3NPM1lNTjZJbm1SaG9JbFgyOE9yQ2FYS2dSM2JscDJtRkJmZ014a3Fkck40Nm9QUlhTRUpzQTNuWmJJZEk2ekNVVnJsbDRlNVA0VEJyQlIxOURtb2d6YXlyM0hBLXRmekVpR3JVRXlGa0gtMmVnYUFWR0dqNDRmNmlpYzUxUHZUd2dFSHl0TUhpR1JWMTlYVUVHeGZkUk1jT19oWEJsdG5WVU1PSVFpdUE2YTk3ck9xa0VRcmw4VVVJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-28-004",
+    "date": "2026-05-28",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement appoints Vikram Bhalla as independent director for five years - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSm1UYXdCTE1iQmMtbnZiM3NhdEFHMXhXRHd1OUljaXpSS3g3Skg1OWxXTnRpTFVCcDdMQ2ZHME56ZU5GQ0NrOFRHVWJsbXlscThKNFJLaHdFd2d1OUM4NW9ZT2VlSjdzYzZDZnNnc1",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSm1UYXdCTE1iQmMtbnZiM3NhdEFHMXhXRHd1OUljaXpSS3g3Skg1OWxXTnRpTFVCcDdMQ2ZHME56ZU5GQ0NrOFRHVWJsbXlscThKNFJLaHdFd2d1OUM4NW9ZT2VlSjdzYzZDZnNnc1lET2dZdWZjeldfaS1aVmhRNFg3V3dwVlhiNHVfODVZdmtqcFA2WDY0TVhReHdRbC1iYVRQZ09MRVdsb3pCUG9iVjZ3MTdlOWdHM0hLanVxdEt2NFVZUDE3RGxJQU9aYkZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-005",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Çimsa signs green hydrogen agreement for Spanish cement plant",
+    "summary": " Bright Hydrogen Solutions Ltd (BrightHy) has signed a long-term agreement with Çimsa Cementos España SAU for supply and operation of a green hydrogen produc...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181417/-imsa-signs-green-hydrogen-agreement-for-spanish-cement-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-006",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "China’s Sinoma unveils advanced green tech to decarbonise global cement",
+    "summary": " At the 2026 Green and Intelligence Innovation Exchange in Chengdu, state-owned giant Sinoma International Engineering Co Ltd unveiled a suite of technologie...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181414/china-s-sinoma-unveils-advanced-green-tech-to-decarbonise-global-cement.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-007",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Saudi-listed Al Jouf Cement awards contract for electricity linkage",
+    "summary": " Saudi-listed  Al Jouf Cement Co  has awarded a SAR27.8m (US$7.41m) contract to ALTEC Ltd. The turnkey agreement covers the design, supply, and installation ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181413/saudi-listed-al-jouf-cement-awards-contract-for-electricity-linkage.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-008",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "New cement and lime project in Zambia",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/zambia-agreement-1500.jpg\" /></p><p><strong>Zambia: </strong>Zambia's state investment firm ZCCM Investments Holdings has partnered with China-bas",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20815-new-cement-and-lime-project-in-zambia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-009",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Steppe Cement reports 2025 financial results",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/results-financial-report.jpg\" /></p><p><strong>Kazakhstan: </strong>Steppe Cement has reported a rise in revenue of 20% to US$101m for the year en",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20814-steppe-cement-reports-2025-financial-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-010",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Cement producers expect slow demand in 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/philippines-flag-1500.jpg\" /></p><p><strong>Philippines:</strong> Cement manufacturers are no longer expecting demand growth in 2026, as slower go",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20812-cement-producers-expect-slow-demand-in-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-27-001",
+    "date": "2026-05-27",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co (VMC) Shares Surge 3.2% -- What GF Score of 95 Tells Investors - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNbEREN0c1RkxrYXZid0dGdzJETFQ4dlhmTF9jSklYNktHU3NlLXM5X2YyZEdnaUVOMGJPU3pLSC1YbjFrWk8tdWx3MGxPV3ZjOXd6cXJad0xBZHUwZGFDeFMyQzZ6V1g1cUsyVUxLQz",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbEREN0c1RkxrYXZid0dGdzJETFQ4dlhmTF9jSklYNktHU3NlLXM5X2YyZEdnaUVOMGJPU3pLSC1YbjFrWk8tdWx3MGxPV3ZjOXd6cXJad0xBZHUwZGFDeFMyQzZ6V1g1cUsyVUxLQzVhVzJjM0pmR0pnelRmYS1aanZTVGt4VEh6SWRQb1ZOWTNaOEpBMnFuVnY4QndEUnduSVNpczItRGxGWUxnRWREV3VnVnlXODJ3Z2dPZklQc0FZTEJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-27-002",
+    "date": "2026-05-27",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock (US9291601097): earnings, infrastructure demand and what drives the business - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmlla25EeklpMXBjLTZCX1Ywc1RVeTBqVnAxZ3AwNTA5em9NNnpDMFJ1cC1Na2ZtdF9wU3ZFVmM1SkRVMXN3WlNCWUdpTlNrUUxQcnBGX1NZODFWNTd1TTd5TEVaQ1BZTDNDTmNPVW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmlla25EeklpMXBjLTZCX1Ywc1RVeTBqVnAxZ3AwNTA5em9NNnpDMFJ1cC1Na2ZtdF9wU3ZFVmM1SkRVMXN3WlNCWUdpTlNrUUxQcnBGX1NZODFWNTd1TTd5TEVaQ1BZTDNDTmNPVWpKOWNsQjZGSjF6T1RNSk9TSjc5dDBMMHNkX3habTEtS3M5LXphMVVkWU9MRmhPYkRGczZTUzJoS3JheEdIZ0ZqMnVTRUlkS21xamdDaTE2V1dGZ2RVYU1ibA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-05-27-003",
+    "date": "2026-05-27",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Holcim stock (CH0012214059): Building on a new US growth phase - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXJzaVVCUmRVV0JibVJqYWtDY18yZ2hKdm9YdEVOd2w0akV2cXlJSUdYRUY3NWlCS0xjcDBLUDJzSnNmbzR4dFRPSmUwellteHdCdncwcDZVRThJc0Jpd2d6ZlQ4anRKamdHX29NMz",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXJzaVVCUmRVV0JibVJqYWtDY18yZ2hKdm9YdEVOd2w0akV2cXlJSUdYRUY3NWlCS0xjcDBLUDJzSnNmbzR4dFRPSmUwellteHdCdncwcDZVRThJc0Jpd2d6ZlQ4anRKamdHX29NMzRCcEN6S3ZjR1UyeVhxMF9SeWJ0Yi1rNmRJLXlUZGVTNjJYY21jdHFTa0lKc2ozYWRuendsdmppTkM3bTd6MnlFQlZPb0tPVWVXaXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-05-27-004",
+    "date": "2026-05-27",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement's Board Approves Share Buyback Plan - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORjQwdjRtTHJxeEZDWUZ2SEY5cHRqcUZMMVZ2OWRvQUNRcHRsdmZaRnk2Q214YkhocFpjZm1rbzdYMXNwSXZVS05RQnY5aGx2c0txeUdTemEtMjNwX3lOWjBKb3lDZDkyazAwMTRDV3",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjQwdjRtTHJxeEZDWUZ2SEY5cHRqcUZMMVZ2OWRvQUNRcHRsdmZaRnk2Q214YkhocFpjZm1rbzdYMXNwSXZVS05RQnY5aGx2c0txeUdTemEtMjNwX3lOWjBKb3lDZDkyazAwMTRDV3MyNWJyZU16SGI1TUM5Qm5KTjJFS0RyNlN5dTgzOVUxMDNKalhMUFJtdmpWSFY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-27-005",
+    "date": "2026-05-27",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement climbs Wednesday, outperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHItZG9aM1o2cXZuUUhLUWJ0ZUotWUpYM2NkMzl2R09UZXliSHE5WEw2aGdESC15ZDB3TkJzeFBLYUJ4TW42RHp6NzlsTzJHMjVLYmpVejN3cmltYmR3emFjQlFvSHJzX09WU0FoVl",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHItZG9aM1o2cXZuUUhLUWJ0ZUotWUpYM2NkMzl2R09UZXliSHE5WEw2aGdESC15ZDB3TkJzeFBLYUJ4TW42RHp6NzlsTzJHMjVLYmpVejN3cmltYmR3emFjQlFvSHJzX09WU0FoVlFXTDRiX1ktQW9yaTdCc2ZfWmRCT2hXQ2RlLWJ4MmpzcGlBMG5HejVZczJkbXBoVW1hQkMzb0ZiYl9oWnh2eFN0b2JOa3RWYUUtNHNjZEdvb2lLUHp5WWdIS0t5NUFRa3hh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-05-27-006",
+    "date": "2026-05-27",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siam Cement Approves Internal Business Restructuring And Changes In Executive Positions - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0RlbFUtbVZadWxsSzljTjlmZENhcENzMmRReUVGb2ZzT2lPeTRJWmRHVnZoRHFDR014aFZyWEp5ejM4cVNZUWJuZVlKZTJRekpkcllYcy1KNVdBeUhLMjFrcGxqaDV3NFcwSnEyV2",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0RlbFUtbVZadWxsSzljTjlmZENhcENzMmRReUVGb2ZzT2lPeTRJWmRHVnZoRHFDR014aFZyWEp5ejM4cVNZUWJuZVlKZTJRekpkcllYcy1KNVdBeUhLMjFrcGxqaDV3NFcwSnEyV2tMNVFXeHFoZU1WV0g4eTN1YmtjTnE1RUR6ZVNxTk9BdEVYM0owVUVSOWxiWDJMd0tXT0Z5SHYteDZDZTFGRXFKdHNuZ3ZkUENzMGVUNzJ6WDJPSllrcmxHOTQtTFNRMUJhYVlPeVJLbmpnSGgxblZRY0w5cnJRRTc0NFJoUTV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-007",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ramco reports sharp rise in quarterly profit for 4Q",
+    "summary": " Indian cement producer  Ramco  reported a sharp increase in standalone net profit for the quarter ended 31 March 2026, supported by higher revenue and impro...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181411/ramco-reports-sharp-rise-in-quarterly-profit-for-4q.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-008",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "New hydrogen facility for Çimsa’s Buñol plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/cimsa-cementos-fabrica-1500.jpg\" /></p><p><strong>Spain:</strong> Fusion Fuel Green has announced that its subsidiary Bright Hydrogen Solutions wi",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20807-new-hydrogen-facility-for-cimsa-s-bunol-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-009",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "TCMA signs agreement with local university and Canadian partners to develop carbon capture technologies",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/thailand-tcma-agreement-1500.jpg\" /></p><p><strong>Thailand:</strong> Thai Cement Manufacturers Association (TCMA) has signed a memorandum of unde",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20806-tcma-signs-agreement-with-local-university-and-canadian-partners-to-develop-carbon-capture-technologies",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-010",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Carbon Re changes name to Gigaton",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/gigaton-carbon-re-1500.jpg\" /></p><p><strong>UK:</strong> Industrial decarbonisation company Carbon Re has announced a change in its company name ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20805-carbon-re-changes-name-to-gigaton",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-011",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "negative",
+    "title": "One-third of highway contractors reported 5 or more work zone crashes last year: AGC",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/AGCeoFVCJotvreByqrozV5pnskhBqu6g7FXLXd4uP5A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEyNDE4NTkyLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/contractors-work-zone-crashes-AGC/821169/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crh-2026-05-26-001",
+    "date": "2026-05-26",
+    "companies": [
+      "crh"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "CRH Appoints Danilo Juvane as Head of Investor Relations",
+    "summary": "<p>NEW YORK – May 26, 2026 – CRH (NYSE: CRH), the leading provider of building materials, announced the appointment of Danilo Juvane as Head of Investor Relations, effective May 26, 2026. Juvane bring",
+    "sources": []
+  },
+  {
+    "id": "vulcan-2026-05-26-002",
+    "date": "2026-05-26",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFJiWHFsQmJvZXozNnBYNWl1RUdJLVZxWEhqSk8yLTZWaXpodVNBaExuaFlwMkdlUnBkUEYyR1RHZ1lCYzZxdGlBSU9LbFY2VEh3MzBvcERXaXJVUXl5dGItcHBwYmtEc3ZhT0JhQW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFJiWHFsQmJvZXozNnBYNWl1RUdJLVZxWEhqSk8yLTZWaXpodVNBaExuaFlwMkdlUnBkUEYyR1RHZ1lCYzZxdGlBSU9LbFY2VEh3MzBvcERXaXJVUXl5dGItcHBwYmtEc3ZhT0JhQW41T1gyTEs1WmNpc0R0RFN1ZTZIRWw5WUdwNHkyWEdrSlRmazlCZy01THlGT3lIclF4S1pJT1FBeG1EWkxCSFVSOW92aWpXM2JyTlRLZjJnODgxWUlTRThOQWhCa2ZOdFJxTnZ5cElMQkd3MUxHd2drUGk0WHMzbFJpMmdJcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-003",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Spotting Winners: Carlisle (NYSE:CSL) And Building Materials Stocks In Q1 - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZU91VC0wWUloNk1sdnpIN2FGa0x6OC1pZjJNc3JGQ3VXSHQxLU1EZ3EyYzMxWjVrNDlxMkJhSF9na0l1ZVNyczVFUGJ5X1FyaXVoclpMUFJicE1EUnBGUF9KT3VYeGt1UmVTS1pETD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZU91VC0wWUloNk1sdnpIN2FGa0x6OC1pZjJNc3JGQ3VXSHQxLU1EZ3EyYzMxWjVrNDlxMkJhSF9na0l1ZVNyczVFUGJ5X1FyaXVoclpMUFJicE1EUnBGUF9KT3VYeGt1UmVTS1pETDc4TTJVSTlpc2VfSkluSW44NDNtY2xPOVNpcE1hY2dRdjhyT2VOM1BfNlpsUGd5ZXNuN2Q5bl9KUnhobml1M0hRelpXVVRIQ0VFT3l2dm4yZ09DMDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-26-004",
+    "date": "2026-05-26",
+    "companies": [
+      "vulcan",
+      "taiheiyo"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ACQUISITIONS & MERGERS NEWS: Justice Department mandates divestiture in Taiheiyo-Calportland acquisition of Vulcan ready-mix concrete assets - VitalLaw.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOTm1MZ2s4M2xDNG1hbVpkR1RQQzRUNlVLZWViNGhRczFmQ25CVW5BT21DbEYwNk1qaXltVGh0MTFZQ0lEbEFQa2ZERzNNSWx4b3RDSExlUzZhbVlsa1hCVnZhZ0V5TVhqaXloT1BXSD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOTm1MZ2s4M2xDNG1hbVpkR1RQQzRUNlVLZWViNGhRczFmQ25CVW5BT21DbEYwNk1qaXltVGh0MTFZQ0lEbEFQa2ZERzNNSWx4b3RDSExlUzZhbVlsa1hCVnZhZ0V5TVhqaXloT1BXSDZpdjg2cWxYdFU1RFBnYWZzQms1aEFHM00xS1pJU1l4SVVtdEdSdGNtSFE0RnNoVHpwWmlQcWlDRGx1Z05PNXlLRzc3bFpfYW1Talp6bkkyWUVKRUFCOVFmVGR2ZEVpRDJyTUlJc2UyeTdNMnlvVElaSzA1dlJrNEZVVGFvTVdOVjBsX3JvZ19nazBuN1FwazJoejZJN0lYTDh2Q3d4b2kycXo0QWdGZDlzLXJ6VVlEV0RpSDJjTHk5Q09BbDJOZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-05-26-005",
+    "date": "2026-05-26",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Do Wall Street Analysts Like Vulcan Materials Company Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVcxZGtETjUtRnR2VzVyaFplbzhTS2Q1M29MVUt1Z3B4bkctMEp3TWU2ejhudVczQ2FLUi1MVkc4cnl4VnA5SUNpd0JPbDhJS19YeTJfaTAzYXFZWDRRZWxBTEh2NEt0ZE4yc3VlM2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVcxZGtETjUtRnR2VzVyaFplbzhTS2Q1M29MVUt1Z3B4bkctMEp3TWU2ejhudVczQ2FLUi1MVkc4cnl4VnA5SUNpd0JPbDhJS19YeTJfaTAzYXFZWDRRZWxBTEh2NEt0ZE4yc3VlM2VyeDNsYmx4LVpsaXdXMDdmRHd3ZmpLMnJJTGhldzB0Rlo1dWdvdEFRUUhwM0loVFE0YXR5aQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-26-006",
+    "date": "2026-05-26",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Automotive Technology is restructuring its U.S. production network - SteelRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQblZLeVhJdDUzR3pjc3huMUtsb0ZzR1F2azhvaEpSZnBBZUdrQ3Jzblp5di15R3k1WWMyVGkzTWsxVzFWdHhCRVF4Wm1SVHFmQjV4eFk0cEtNMlltSGQwbWZwbU9KVzZYRG9aLVIyZF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQblZLeVhJdDUzR3pjc3huMUtsb0ZzR1F2azhvaEpSZnBBZUdrQ3Jzblp5di15R3k1WWMyVGkzTWsxVzFWdHhCRVF4Wm1SVHFmQjV4eFk0cEtNMlltSGQwbWZwbU9KVzZYRG9aLVIyZFlCNUlFZHVBZjN5ZC1qWWdkaTlEd19abEhNV2w5SUdCdnlqLXZ0LUQ2WUxzNnBqN29tdW44WFVCVE05eUVfQjZXaU9TY3U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-05-26-007",
+    "date": "2026-05-26",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Long-Disputed CEMEX Lyons Kiln Cleared to Continue Operating - longmontleader.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnZIRTBieFhHcGhidlltVFlEMjBsTk4zQ09tSEhXNlB3eDF2NWJvNlhyNFVoTFIxbkc4VHY1ZGxkMF96T1NBaHppbGlnZWwwWk1DeFJnTWE0dXREcUJ3ODdjUFd5aXM2aVlGV0hSc2",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnZIRTBieFhHcGhidlltVFlEMjBsTk4zQ09tSEhXNlB3eDF2NWJvNlhyNFVoTFIxbkc4VHY1ZGxkMF96T1NBaHppbGlnZWwwWk1DeFJnTWE0dXREcUJ3ODdjUFd5aXM2aVlGV0hSc2M5a1JiRVhBbUtsblpnUmlTd3N4dmFfVFYzaGlwSFFhZ0dOaTA1cVpHYU5BVmhqZnp1d2tuQk9GQnJhWDN3UDVsTzZDU3VkejgyV29ybmVEbU13MlhhOHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-05-26-008",
+    "date": "2026-05-26",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Plans Share Buyback - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWFVa2c4cXYyZTk0SWI3OHo4Ri05NmdwVnUtNHJxMTNPeDdQNUVBWVRscngzT1VRc25MZ09jMU5rQkRxUTZNclZrSWNCVHpDWDJ6YWw5Q1BSZnRScE1vdkRQZHBrUEpDNFdUa214VX",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWFVa2c4cXYyZTk0SWI3OHo4Ri05NmdwVnUtNHJxMTNPeDdQNUVBWVRscngzT1VRc25MZ09jMU5rQkRxUTZNclZrSWNCVHpDWDJ6YWw5Q1BSZnRScE1vdkRQZHBrUEpDNFdUa214VXgxSTloSTdfeWZUNWZZSEExSWdRMUY0RklaNzR0OV8xU1RTR2tXcWJYQjVJdDJMeXUtLXJmUjJkSFdBeEVX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-05-26-009",
+    "date": "2026-05-26",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Company Limited announces an Equity Buyback for CNY 1,000 million worth of its shares. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeTNXdFVsSEw0QTBfZndPNjQ4djg0TDJkUTc5WHFKSERUWmNqLXZkNGh5QzQ1eERhakFxRXNTNmJWbU9rd3pNU3hDdDVLRmV1SjVnQTFoSmdaa1lRVnhGcy0zRmFuOFFRYkl1STVSSk",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeTNXdFVsSEw0QTBfZndPNjQ4djg0TDJkUTc5WHFKSERUWmNqLXZkNGh5QzQ1eERhakFxRXNTNmJWbU9rd3pNU3hDdDVLRmV1SjVnQTFoSmdaa1lRVnhGcy0zRmFuOFFRYkl1STVSSkVERkpjU3lCcFZabmpZWkJCX1VZSFdFN1NaRnYwMThNWFpXd3JudlVKbHJXLXFBbElYaWo3YkF1Y3RLN2JJTGxkUFdtaF9PRjRsUURnZUdhZERkS1FvVVg2ODNZSFZTMURlV2NjbHZ5cVp2blM5d1lKX25mRHptdlYy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-010",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Conch Group and West Papua agree low-carbon cement expansion plan - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW1JRFozNEdON2txQTJpVHRzTlFqOXFCcGFFWkJBci1TSzZxbzZGVm5tMUpJYU9MeTVWcERiNlFlVVQzNEtpUV9MZHpxdDFkYk1XNEF4UUJXNW1vZUVrcHE0dldrTWZYbTJZMlJWcW",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW1JRFozNEdON2txQTJpVHRzTlFqOXFCcGFFWkJBci1TSzZxbzZGVm5tMUpJYU9MeTVWcERiNlFlVVQzNEtpUV9MZHpxdDFkYk1XNEF4UUJXNW1vZUVrcHE0dldrTWZYbTJZMlJWcWRtYmk5VFBtZ05JN01HaGJlNUR0V1dSZVQ3YUNRbTFKMlM2azJYbWtCMGdNel9GOW93V09SQTZfeERhRU9valVzRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-05-26-011",
+    "date": "2026-05-26",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement plans share buyback - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmt4R0xKbUo0R3dQU2ZFT2kwMjdhanVfRFRYZWpyMkdTZEpHeFlMN19YWG5Ubzg1V1lMSEZ5VjVCTFBncEpwOVJGcDZsb180THVBNXMxblR6SUhWRGloR0tJY0lxaVdBQ3B1NGpWdG",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmt4R0xKbUo0R3dQU2ZFT2kwMjdhanVfRFRYZWpyMkdTZEpHeFlMN19YWG5Ubzg1V1lMSEZ5VjVCTFBncEpwOVJGcDZsb180THVBNXMxblR6SUhWRGloR0tJY0lxaVdBQ3B1NGpWdGpicUJEdlg4NFdldlJTWlZGUWJyYk5naV8yc3dySmoxMzJsN1lQWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-05-26-012",
+    "date": "2026-05-26",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Asia Cement (China) Sets Final 2025 Dividend and HKD Payout Terms - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHZCT2Uwbkczc2haeVM1cGttRHNDVlBzc01hTTl4Skw3M3F4OENmMy1lb3NZamo0OTRZckxjcjYzMG9LMl9IeWhpUTlZSmkxWkdxWUNxcS1BYmxSZktQdUFMNXVlUkFJTHp4bFJqMT",
+    "sources": [
+      {
+        "name": "asia_cement_china",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHZCT2Uwbkczc2haeVM1cGttRHNDVlBzc01hTTl4Skw3M3F4OENmMy1lb3NZamo0OTRZckxjcjYzMG9LMl9IeWhpUTlZSmkxWkdxWUNxcS1BYmxSZktQdUFMNXVlUkFJTHp4bFJqMTF3VGV5a0gxZ0M5UU5ralY0aWl2MVJKYVMzNGJvQVExVEx1cVRFZHBVaG1EcnI5VmtYZldLNjI1S0ROazNYUm02Y1daNEZkdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-05-26-013",
+    "date": "2026-05-26",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Asia Cement (China) Wins Full Shareholder Backing at AGM, Confirms 2025 Final Dividend - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaHBlZGhER0tNUjRWT3Fqa3U3T1pVbWJ0Zk5hVWxLWFROc0NxaGYxOEVuaTZTS2NPQldjVjBSM3NCdVg0OWlzdmpMa3MyN3NZcWgxUjhTekJUMWxTNVhMMWwzdnoyZjlCZnZaVkpoVD",
+    "sources": [
+      {
+        "name": "asia_cement_china",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaHBlZGhER0tNUjRWT3Fqa3U3T1pVbWJ0Zk5hVWxLWFROc0NxaGYxOEVuaTZTS2NPQldjVjBSM3NCdVg0OWlzdmpMa3MyN3NZcWgxUjhTekJUMWxTNVhMMWwzdnoyZjlCZnZaVkpoVDgwVmpQanFRR1R5YWNaYTFJd1JQWEFiWWp5TXNOdXNIUDgyWElYLWpBMFZyT05mVnpsZXpONk5ka2hialMxYTJwdmVBZU1CV0tRQzFIcWIwS01qZGZvRkNZRTN2WFdlWHZJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-014",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Port Authority kicks off $200M in upgrades at Newark Liberty airport",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/pDREvDoMK24nwLbXMOyhkOv6YcLV_36lB8aICEyQIw8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NDA3MjAxMTQ4MF9jYWMwNzRlN2FlX28tMi5q",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/port-authority-upgrades-newark-liberty-airport/821128/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-015",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GSA accuses Congress of hijacking its building repair fund",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jc052t6B34cjOYg3Mq4F6s1Vwd7DYBu8nMFtfH14jsQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4YW5kZXJfSGFtaWx0b25fVS5TLl9DdXN0",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/gsa-congress-hijacking-building-repair-fund/821090/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-05-25-001",
     "date": "2026-05-25",
     "companies": [
@@ -155,6 +837,67 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181386/heidelberg-materials-to-acquire-minority-interest-in-ameritex-pipe-products.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-25-009",
+    "date": "2026-05-25",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Assessing Thyssenkrupp (XTRA:TKA) Valuation After Weaker Results And Cautious Sales Outlook - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWljbnBmTXFZSVZSek12TkJYbmpvZlB1WXJMZkpjQ09nMENzaGlzZGdmR19SWFFpd3ZVRmd6Zkh4RUZfQWFhUjhVX1RFcURMclpxUVNzVVVFaW9BcmZWOVVBRWhPelVldWsyU19lbD",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWljbnBmTXFZSVZSek12TkJYbmpvZlB1WXJMZkpjQ09nMENzaGlzZGdmR19SWFFpd3ZVRmd6Zkh4RUZfQWFhUjhVX1RFcURMclpxUVNzVVVFaW9BcmZWOVVBRWhPelVldWsyU19lbDlaMzdaYWlERXZxODBqTzk1M3NSdG9aXzhVLTdrcUJ6cHJIeXVmRU5oWkMtM003Tzh2SzUzbUg4eHQ5RkhWTG93X3ZZYkVwZ042Zm13aVV2MXZjbHNqV0ZzUzBJQUQ3VGRX0gHWAUFVX3lxTFB4U1BFb19BMEJSd0p1MXh3STJrd2hHWlFYajAzdllLNTlzcWZnVDdXaG92NnBXbDJEWko2TlQ0a1ZoY1ZMOTF6YUFtbHB1NGhZdUZuUWZNNHA1MXZIWFA4UUhoVUJQdTRvczNtb2F3VjRvQzBydFJPZzdWZ0w0cDFOMFBDZWR5U3RvUnRnbnNGQW96eU5Bck1YU3BaYXNFTzBGWC16RG03N2ZBSlpiaUotNFZXZzNMbmp4bGlaajV1UnNxTGlxYThVclg1aUNjSXlWWUdFR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-25-010",
+    "date": "2026-05-25",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Reiche visit: BASF, Thyssenkrupp and Siemens to join economy minister - Table.Briefings",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3dRQlMwcHI2YVUxSTdKeGlLS3BuQXhOUGx5UVRNSml2VlR6c1JycjY0Q2RuclFWdThXRjFqazV0NWx1V0RiTzFpZXVaWkdMUUJIcDlDY3VYMlNhNTZfTS1VeVFJa3d6bDBpUEpyTF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3dRQlMwcHI2YVUxSTdKeGlLS3BuQXhOUGx5UVRNSml2VlR6c1JycjY0Q2RuclFWdThXRjFqazV0NWx1V0RiTzFpZXVaWkdMUUJIcDlDY3VYMlNhNTZfTS1VeVFJa3d6bDBpUEpyTFlrSWxBZkV6aUg5bm5XN2tWeE51M2hTaVhXRTlrY1hCZGh2WVg2eEJhaFhGbjlJMmZXMzZZcHRwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-05-25-011",
+    "date": "2026-05-25",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Company Limited authorizes a Buyback Plan. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTENhQ0VCOHNpUFBfbGE4UTNuajBZRDlEVk9iWG9qMERvdTMtY29rdkhleXA0a3dZMDVaLUlxd2NNMTBFY0JyR2U1VF9KZk9ZamhmeHNUMFZnbWhCUTR4VFhhQVZZZFJ2SVp1M3I0cl",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTENhQ0VCOHNpUFBfbGE4UTNuajBZRDlEVk9iWG9qMERvdTMtY29rdkhleXA0a3dZMDVaLUlxd2NNMTBFY0JyR2U1VF9KZk9ZamhmeHNUMFZnbWhCUTR4VFhhQVZZZFJ2SVp1M3I0clFLRzZFV3FOamt5OThuMUYxTHEzRHh3S2RiS3dEV1Q4UWs4a29MS1lsZzlSbmVLNW5sMHppNml1QW5BNGw2V0J6ZVBmSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1492,6 +2235,24 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU0xREVzN1dubGVxNDFUTWJDRWI1aS1CQVM4aUFxa1VCcVViNGI0c2ZtemFMTXpObGQ5LVJTNTdvQVduWldnQk9LbnZtVUVRY1hYbHNLZXNoQncwc2RHMERBY1A2OExBSDRYRzRDZnp1T3Z0Y0p0NElobjloRXN3MGVfaHBSYVM5RmNZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-034",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DFFN2026 Charts and Quotes - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB0RHdFdEpqQ2FtUjU1VC1INU42alFXa1dxRXVUNVBoTWZPVUZrRmJKY0lWTGY4cHFRX1lqamtfSVQ5RVRpbVJFWC1HdDdzZjdRcUh5ZWpabkoyZ1YxN0tEZ0gyY3BCMWV6M1JHMHozOT",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0RHdFdEpqQ2FtUjU1VC1INU42alFXa1dxRXVUNVBoTWZPVUZrRmJKY0lWTGY4cHFRX1lqamtfSVQ5RVRpbVJFWC1HdDdzZjdRcUh5ZWpabkoyZ1YxN0tEZ0gyY3BCMWV6M1JHMHozOThBZmtoVmJGTw?oc=5",
         "type": "rss"
       }
     ]
