@@ -1,0 +1,284 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:29:59.039062Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-05-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Vulcan Materials (VMC) Share Price Outrunning Its Cash Flow And Earnings Outlook - simplywall.st",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOci1DU2NxV1NnMHlEZUN1WW1KWmZ1UW5zRE01Z3p6cmp5UV9jZXdDU0MzTlE2cUQyS2lYUGxRVVpjU0FOS2J0Zm02ZEgzcWxVTkdyUDFUTmdNem5jVWdpYU5zNXBVR1N5VWFVV1hIc0xXZTNtM09lOVpWMEw0MHpHT2Nmd0ZUaEJ0TTFScVpEcGMwSFRySlJ5aVF2dHFDMWpHR3BWeExwUng4N3E2T1dua0dHSW5XeXZsLVJfaS10Z3FRYllTaHQ5ZzZRMTVZUdIB0wFBVV95cUxQN0p0RXg1WEJXOUtNRzBGem1TTk95WlVPVmdzUHRCbHllNXVsT25fRTNYQkFrSzdOZWFSNGZVRE41VjB4SmZGdEpjM3hONTNVT2FNYUQ4Z0xqRXoxVV9XZ0wybThmd1RqMHZ2RWNNc3poQmFELVNidy01SnZoN3prcklJeE5NZklnN3dfOVh5YVNDY1hpS1B1WExuTHVzaEFjSzhjUGRVanJzblRTNTU0STVudzVVWnAyWWN2bXN5aGlPMlZlRVZaV2RJc1UyMjQxcHdr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-05-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Vulcan Materials (VMC) Valuation After Recent Share Price Weakness - Yahoo Finance",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1NjS0xzODNURVJiNmtqQ3AzNldDbnJMams0eHlTaDJ5aFBoRWh1MkgxUjNuTTJiSmhGbkp3ek95SUpEbXpTRkJ6cTB1azlQLWNfckFDQVFSYy1JTklDRUwza29vS0VGOEZoSFhjVTN2Q0dmcU15a2pBUnNNX05zaURoZWg5d1ltMkVUWHduNzlFUUJlQS15cmwtMDhHWk5MZFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cemex-2026-05-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex wins global water stewardship award for initiative in Mexico - megaproject.com",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblZOZ2Z1cXcxYmRmQ3FTT0NvV2JhLTR6MTlTMnIyY3VNTnFzZi1PcUd3M19uRTZDVUR0dzRqRTF3WndBcmJQandNUkJjWkJHbXFuVUdBVnFocXZaSUxBUS1lX1NUX1hYTV9vd0tmRmpsc1lFZGRZdW1ZLWlaOVpiMU1sRk5MS1VUSFdVTVU3Z2dicGFsVjlaekJRM3FlVXNYazlxYg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-05-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Ltd stock (INE481G01011): Shares edge higher after board appointment announcement - AD HOC NEWS",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb3Q3dW9JVnYxQm90dk9VLXV3YnhYSUN2TUFyY182YmplbVdlUDlGTGNKWTI2VlVqY2FVZUpUSTZCWXhNVDVZMUdONDVQdk10VkNuSnRCalBRQnRNc0lueWR2SzJ1Rkt4YndOeldvQzc1czFJV1NiX1B5VUlPS0hPT1pZVEZUUEY0U3U2VHJJemJ3dkJXRE1uQzdsajByYU9nWW1Mclp5YjNXdjVRUUtMbEpub18zUThLS1NEZzR2S2NrZmFxd1RxcQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-29-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "New plants planned in Tajikistan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/20819-new-plants-planned-in-tajikistan"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 187,
+    "too_old": 100,
+    "gate1_blocked": 17,
+    "gate2_blocked": 13,
+    "passed": 21,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+      "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+      "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+      "Vulcan Materials (VMC) Is a Local-Scarcity Pricing Franchise, Not Just a Housing Proxy - AlphaStreet",
+      "VMC Initiates Coverage On Vulcan Materials by Oppenheimer - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Vulcan Materials、CEMEX、海德堡材料相關動態：「Is Vulcan Materials (VMC) Share Price Outrunning Its Cash...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Is Vulcan Materials (VMC) Share Price Outrunning Its Cash Flow And Earnings O...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "A Look At Vulcan Materials (VMC) Valuation After Recent Share Price Weakness ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
