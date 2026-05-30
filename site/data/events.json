@@ -1,5 +1,25 @@
 [
   {
+    "id": "vulcan-2026-05-30-001",
+    "date": "2026-05-30",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials has open house for new, smaller rezoning request - GreenevilleSun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMy1sQXQwVDF0THpnMUlxZy1Bckh3aXlrd2M3M1p3YnhFT0tvUHdvVVRzUmZPR1pUTVZfaGN4ZW1uSjVVX3F3M3hucHpFb2JVdlB0bUFBOE1pWFBxZktYT3ZzLV9MbXpsQVp4X1BhRk",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMy1sQXQwVDF0THpnMUlxZy1Bckh3aXlrd2M3M1p3YnhFT0tvUHdvVVRzUmZPR1pUTVZfaGN4ZW1uSjVVX3F3M3hucHpFb2JVdlB0bUFBOE1pWFBxZktYT3ZzLV9MbXpsQVp4X1BhRkQ4a2tKVnkzYU9DdndibDd0R09lMEJlVGt2LS1RdXhDNU8tcER1YzVTcEhjLUxTU3Z0RGJobHZRWHFfQjJVY1dnUjhFNGdnRkNKLVVYXzFuQ0xMM0V4MG5VSWxsbm5mVE9vWTFTUUJuMXhYTUJ5WS1TM1gycVdiRzB2ZDc0OWxjdHBJWU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-05-29-001",
     "date": "2026-05-29",
     "companies": [
@@ -207,6 +227,102 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20817-cruz-azul-forecasts-growth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-05-29-012",
+    "date": "2026-05-29",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials, Pronto Partner on Autonomous Dump Trucks - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUxZZG9YOTlVYmRJblhEem5MdThfdDFmbmtQX1JsX0pPc0JVa1lqVVIwUEUzOGI0UzVGU2dfbmhnenh3OWJpVDExWWRBWW1pMkxOR3BCM3BOMFhVYjhVd3hPRXJSVTI0Q1h0bUFyeE",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUxZZG9YOTlVYmRJblhEem5MdThfdDFmbmtQX1JsX0pPc0JVa1lqVVIwUEUzOGI0UzVGU2dfbmhnenh3OWJpVDExWWRBWW1pMkxOR3BCM3BOMFhVYjhVd3hPRXJSVTI0Q1h0bUFyeEZWV2FGYjl4U1NOalF1dGdXRmRDUHdwTTdaR0FUbnVHTGZDYXhDZGFYd1VrRUhxUjJvbkpTbVh6UmhDOV9DTmpsYUg2cGsxUVlXLWZRYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-05-29-013",
+    "date": "2026-05-29",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement slips Friday, underperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPamR5djlYeWQteDJHOVJxanFaRUh2ZkdodTdLVHNzSUpLQUx3Y1hUc3N1TzQ5ZVhBTWZsNjNCcXAyLXRGVmJOMjNYellaTlY4T1dYQ29RMUJFMDhHTEVVcEpfVUV2dEFXbzBoZjlGNV",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamR5djlYeWQteDJHOVJxanFaRUh2ZkdodTdLVHNzSUpLQUx3Y1hUc3N1TzQ5ZVhBTWZsNjNCcXAyLXRGVmJOMjNYellaTlY4T1dYQ29RMUJFMDhHTEVVcEpfVUV2dEFXbzBoZjlGNVJ2N0h0RkpJaFJSYm9lLXpRN0lrYjd1WGxNaDc5U3NBWW82eWJycDMyd0I1M3FlNGtmVXdJSmtzTVpxUW5ReTl3aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-05-29-014",
+    "date": "2026-05-29",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement PCL stock (TH0016010009): Bangkok trade stays calm as valuation takes focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0RjbmdYSzh1OExWaW4zaXRHTnBsX0FNS01LU0dTLUxCdXNKTm1xSWpnMTRqT21Ka2I1Q0d2TThvRVUzaE5JS0Fnb2w4SGo1UXVGUmc5OVVGazRkczh3TUdhdVoyY1hUZlNqcGtMTz",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0RjbmdYSzh1OExWaW4zaXRHTnBsX0FNS01LU0dTLUxCdXNKTm1xSWpnMTRqT21Ka2I1Q0d2TThvRVUzaE5JS0Fnb2w4SGo1UXVGUmc5OVVGazRkczh3TUdhdVoyY1hUZlNqcGtMTzZhd2dkT09GUmFOd0lpX3l1bjlDb0M5dFhpMkcxTHk3VTRUdXNmUmRjVFpCb3ZWWVFETWxqSHhXT3hrREZuTlNNdnFPSHo3QjMxZHMzMGxYQmNtM3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-015",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Illinois starts critical $164M I-80 bridge project",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/gur24_ALF3bc3Xnszwc6Ulj-AsoNq_IYIzqphORGJ3o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmlkZ2VfUmVuZGVyaW5nLnBkZi5qcGc=.web",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/illinois-i-80-bridge-des-plaines/821527/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-016",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Transit, Amtrak cuts advance in House appropriations bill",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/68-6E3lqUoVp8ymNJKHwhzEOL-iI36UyqICsjVz7ZIw/g:nowe:59:0/c:1772:1001/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwM",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/transportation-funding-bill-house-appropriations/821469/",
         "type": "rss"
       }
     ]
@@ -551,6 +667,47 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUxiVmZURGxBWXhMNHVZNTBlWFdHN1RHeWROQmw5cFp6aTBOMm5PdHVqQ3lhOUt4TWJiRy1lMlc4QlpJWTNjMVlYUmVhUnZYaDhGZHg4N3FIR3BDUVRfNTNLR2ZHMDVfazdBVjNyMmlHZmUzaUJnSlA4NVVaR1ExVTVDSWZfR0VuVTRXVmZ0cndxOFVVLWFBZy1ib0dabnB4U3hab3E5R0JPTzJ1OG9zVmRvbDFKU3BvNlB0WktRSmtpeUR4Y2plZ3kyTThacjdaUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-05-28-019",
+    "date": "2026-05-28",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Port Tampa Bay approves $36M CEMEX terminal expansion to boost Bay Area's construction material supply - FOX 13 Tampa Bay",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0JMUTQ0S0JxLXZLT3ZNbThnU3NlNjIwYzNDQ2FCdmdqRjVYTE5hM0phbGdXSUt6QmlVUWVMUjJJbGpxSG5xQlZlek9JUXgwT1FHcnRLZTFHY29mN25sVFJ1NkFVSVBRZWhUV25wQz",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd0JMUTQ0S0JxLXZLT3ZNbThnU3NlNjIwYzNDQ2FCdmdqRjVYTE5hM0phbGdXSUt6QmlVUWVMUjJJbGpxSG5xQlZlek9JUXgwT1FHcnRLZTFHY29mN25sVFJ1NkFVSVBRZWhUV25wQzRXbXhQM3AtRGlsYjJXNWRpZlNyczZkZU1XeHFHV2dpeE1UNlNrYzF1NzFiZ0IwLW1CODZhNGE2NWg4QmFU0gGyAUFVX3lxTE1MYl9ELXV4MU9FWWg2cmlKYmxrT3BfcnVaZjhGXzFpLUs1ejFJT2R3TEdVYmxHMkdoU3RkTkM0NGtNZUliT1c4Y0RHSWNTR3hZZVFQVkpUeG0wOU1ubElyaWl1cVB6MnJyZ1Roem9SRGpRVloyeHpWejdsSnczYmdDdFU2NXYyTGVDUmFaanJHSzZUN1Bqb2wxRjh1R3BQVkRNOVNmR3EzLTQzWWhCemF3MVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-05-28-020",
+    "date": "2026-05-28",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "CEMEX, S.A.B. de C.V. (CEMEXCPO.MX) Stock Price, News, Quote & History - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QT1lJMjRQV3ZBMmhaZkZwbjdMLWhxNmJrM2prdTRGWDJMVUN6VkJsaVNLR1N4NVVWcmx2SlBWSW9jZ0ZCOVJLck1kVnZqVHVIRUlZMTdaZw?oc=5\" target=\"_blank\">CEMEX, S.",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QT1lJMjRQV3ZBMmhaZkZwbjdMLWhxNmJrM2prdTRGWDJMVUN6VkJsaVNLR1N4NVVWcmx2SlBWSW9jZ0ZCOVJLck1kVnZqVHVIRUlZMTdaZw?oc=5",
         "type": "rss"
       }
     ]
@@ -1047,6 +1204,46 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/gsa-congress-hijacking-building-repair-fund/821090/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-05-26-016",
+    "date": "2026-05-26",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Thyssenkrupp Nucera Q2 2026 sees significant EPS miss - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORHNZTngyeVprdEZpUXlsRHBUOXd6ekxYbXlpblFud2hDYS1EcUF5akdBV0tIb2s2RjlVQkF2Q1lqdXU3dE1VNjlkRlAzSURBQWhwT2ZUUWxmQkUyWndGcURZME5OVnE1YXpSTHNEUG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORHNZTngyeVprdEZpUXlsRHBUOXd6ekxYbXlpblFud2hDYS1EcUF5akdBV0tIb2s2RjlVQkF2Q1lqdXU3dE1VNjlkRlAzSURBQWhwT2ZUUWxmQkUyWndGcURZME5OVnE1YXpSTHNEUG1jbHQyOVpkeGdxem40dFJZLWpaSGJoOXFENThKR3gxRlhYY0RCVkl0OVFmUm1PdFhNNzFkWUlSRzRLQ0o0Y3BMLXhzdWcyUlJQeVA4QldvM2lObEJ5Y0NVN2xqbXVCTzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-05-26-017",
+    "date": "2026-05-26",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex supplies concrete for largest Costco store in Mexico - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3hYcTZxV19wZFFMS20xV2JvUDJfdHFsbVd5c2wzb05HVXpQZDVlZjZMLThoMEFraHdZTC1ZQU44REdtWDRmelU2a2JPOUlOT2g4dlZIY2VScE1Gb0h3LUJoOEhTYjJjZFB3Wmp5Mm",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3hYcTZxV19wZFFMS20xV2JvUDJfdHFsbVd5c2wzb05HVXpQZDVlZjZMLThoMEFraHdZTC1ZQU44REdtWDRmelU2a2JPOUlOT2g4dlZIY2VScE1Gb0h3LUJoOEhTYjJjZFB3Wmp5Mm9UdXFmUi1RcVowUEN3T2s3SHdJM1drZ3Z6ekVydms1WUJhdENIdDFzQ253?oc=5",
         "type": "rss"
       }
     ]
