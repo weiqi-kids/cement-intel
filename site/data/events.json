@@ -713,6 +713,24 @@
     ]
   },
   {
+    "id": "vulcan-2026-05-28-021",
+    "date": "2026-05-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vulcan Materials surges $2B in market cap after crucial ruling - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUklIcS1wcWZsUURQU0k3RVZUY1NjUlBvZVdTTmhDMjBieFRoMjdRN1htZFBKc2F2aTlJVlRmTWI3cF9HeGNmajRQS3RiVzVrMEJad1BjLTUxUDdzaG9UMkVJNTZOMTd6WkROX0Mxek",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUklIcS1wcWZsUURQU0k3RVZUY1NjUlBvZVdTTmhDMjBieFRoMjdRN1htZFBKc2F2aTlJVlRmTWI3cF9HeGNmajRQS3RiVzVrMEJad1BjLTUxUDdzaG9UMkVJNTZOMTd6WkROX0MxekpNWUVUTmdPRU1GN1JvdDd2ZVJnVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-05-27-001",
     "date": "2026-05-27",
     "companies": [
@@ -919,6 +937,26 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/contractors-work-zone-crashes-AGC/821169/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-05-27-012",
+    "date": "2026-05-27",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement Public Company Limited Announces the Restructuring of the Company?S Subsidiaries Across Three Business Groups - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTC1tSE1ZdldpQ09SLWxjV1d5MzNaLWlGMjhJcWhEM0ZXc1BKYnpkb2p5eVdOTjdTMmtwX2VUekU1THViWTN0YkxNRUFyNmVCZXJMY1A1V3dzdlBwVXBTejVsalNkanp4NXNGNlZMaT",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTC1tSE1ZdldpQ09SLWxjV1d5MzNaLWlGMjhJcWhEM0ZXc1BKYnpkb2p5eVdOTjdTMmtwX2VUekU1THViWTN0YkxNRUFyNmVCZXJMY1A1V3dzdlBwVXBTejVsalNkanp4NXNGNlZMaTdqNDNwZ3lSQ1pRTGJkLVdrbmFoZU9xeGp0X0JQeTdSNm9tOUFEU1NvY2tMOERtWlY4OHpOLURvVkVUS0JBSndJbHlmY1hBWE8xWDNDSzE5NFZwOWNubzJ5bzdIZnlpQ010NVpaUkVWYmY3M1U0eTNGMVlIbHI2NDMz?oc=5",
         "type": "rss"
       }
     ]

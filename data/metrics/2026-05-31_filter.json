@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 2,
+  "gate2_samples": [
+    "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+    "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+    "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+    "Vulcan Materials (VMC) Is a Local-Scarcity Pricing Franchise, Not Just a Housing Proxy - AlphaStreet",
+    "VMC Initiates Coverage On Vulcan Materials by Oppenheimer - GuruFocus"
+  ]
+}

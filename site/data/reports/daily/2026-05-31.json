@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:17:08.028759Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 201,
+    "too_old": 109,
+    "gate1_blocked": 12,
+    "gate2_blocked": 15,
+    "passed": 2,
+    "pass_rate": "1.4%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+      "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+      "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+      "Vulcan Materials (VMC) Is a Local-Scarcity Pricing Franchise, Not Just a Housing Proxy - AlphaStreet",
+      "VMC Initiates Coverage On Vulcan Materials by Oppenheimer - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-31 無水泥產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
