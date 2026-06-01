@@ -1,5 +1,313 @@
 [
   {
+    "id": "unknown-2026-06-01-001",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Euro zone factory growth slowed in May as input costs hit four-year high, PMI shows - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXV1X21talo1TnJFZHJWLXpiNENTc2dtbmRnS0lLbml0LVRpSUx4YUNFU2F0enR4dy1yZGJWRmQ4LXllNHpVQ3VycEplaFdETlRLM3l2NC13bFN4MzM2Y3hVZ1NpYmI4VFRqLWJhVT",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXV1X21talo1TnJFZHJWLXpiNENTc2dtbmRnS0lLbml0LVRpSUx4YUNFU2F0enR4dy1yZGJWRmQ4LXllNHpVQ3VycEplaFdETlRLM3l2NC13bFN4MzM2Y3hVZ1NpYmI4VFRqLWJhVTR2cm1fYlhsX2lUcXItN1NlRTlaT2xxZ1JHRHNSZXVqbFJxbXQ4S2pNclowbTFVTzBOOXRFanJvbHRlSXhMTTlkUU5QcG1UVEU4VmpPcWFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-01-002",
+    "date": "2026-06-01",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AlphaValue/Baader Europe Downgrades Thyssenkrupp to Reduce, Lifts PT - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWFOVEJieUZEOFFLSnFLYzB1d2o4d2YxMG94TEh0c25IMkZ2cGlBUHQyY0dQV0MtXzhyZXk4a19VT2JKeldDUDBWNmVJRFJkQnlPNlhHQlFwcEt5eU9KMGVkWHRnNEpDQ2lvdU8zal",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWFOVEJieUZEOFFLSnFLYzB1d2o4d2YxMG94TEh0c25IMkZ2cGlBUHQyY0dQV0MtXzhyZXk4a19VT2JKeldDUDBWNmVJRFJkQnlPNlhHQlFwcEt5eU9KMGVkWHRnNEpDQ2lvdU8zaldWaHpZUW55Z2VoZmlNMlNPN2pwdGs3YXhya3luckJkUXhVOWhiRmJfTlY2NElhOEpQNFgwOUxMMWR2UEQ1Vi1zMzBJcTdDYW00dlZsSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-01-003",
+    "date": "2026-06-01",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's June Juncture: The Stock Has Run Ahead of the Decisions That Will Define Its Future - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHpXYjlvdWNVUFRYa052a3p2Slh0ai1NaVAtb293WEV4Z3NJVHhwTDNSZHVuZThSdFJScHlaQjBScmtGenRZT1JzOWZqRXZoSzBjb3BnQkJXMHFRamNCMnBUSXotY0dHN3ZSV0hHbX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHpXYjlvdWNVUFRYa052a3p2Slh0ai1NaVAtb293WEV4Z3NJVHhwTDNSZHVuZThSdFJScHlaQjBScmtGenRZT1JzOWZqRXZoSzBjb3BnQkJXMHFRamNCMnBUSXotY0dHN3ZSV0hHbXJsSE9fM20tREZRLV9KcTBoZnpVU05nUmpSZThyYVdTb1cxNGtBYnhMRXlsRFJla1N5dlc1NkRfUDNieURPT0VhWU9mYlhJdnFSOExVYzVSWEljVEJERTlJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-01-004",
+    "date": "2026-06-01",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials UK supports active travel route with lower carbon asphalt - Highways News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEpqU0ZaaVYtMFlfcElneTJsTXEzNmZhc1JiWnE2TU1xTGZhdzh0YkVYMElkbHlvV04xcmNZNHUzWGxoRG52RmNsOWxiREwxWU1TQlZGcnp0NzJITmVFX1pqQVRRZW5SNjk3SUZ1OT",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEpqU0ZaaVYtMFlfcElneTJsTXEzNmZhc1JiWnE2TU1xTGZhdzh0YkVYMElkbHlvV04xcmNZNHUzWGxoRG52RmNsOWxiREwxWU1TQlZGcnp0NzJITmVFX1pqQVRRZW5SNjk3SUZ1OTRhZmQycVlsNFR5QWNNcmhHNC15alM1dGVJbEVjTG9uaWJFR1h2bXJadmFWTVB3dFRoWU5GU1VGNnU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-06-01-005",
+    "date": "2026-06-01",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MS-Taiwan Index Earning Revision (May): Hon Hai Precision, Taiwan Cement, Catcher Technology, TSMC - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdy1IbkktRHhyRFBTbnFfczA5S0R5SFl2OWI5ZklGSXpkS1lOZVUzTWhvMHV5VW9CYUoyMHNNRUY4cVktLWtMTkwwdlF3RlVEWHZpOUpqQnkwWFQwTG9Ib0N4QzlVVUxUaVo0a2dyZE",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdy1IbkktRHhyRFBTbnFfczA5S0R5SFl2OWI5ZklGSXpkS1lOZVUzTWhvMHV5VW9CYUoyMHNNRUY4cVktLWtMTkwwdlF3RlVEWHZpOUpqQnkwWFQwTG9Ib0N4QzlVVUxUaVo0a2dyZEdlUGVIdlQ0WHc0SGZMSjNhRElSbVdpNG5uWUFINFNfS1NzOFBWQlUySHc5aHdQci1ZdVVQdmVhUF92ZUpuWGFIaXMwbER2WWQ2UURXb0xwQXVxS2F4UGtr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-06-01-006",
+    "date": "2026-06-01",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ASIA CEMENT CH (00743) has risen 5.419%. The last price is HK$2.14 - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBrMERYcHdpMzg0V3NkckI4R1NpY3FTUTFvWm5Fc2tCcEpvSGw1VVcxV0pPaUlMSV9FYmNLSW1RdFphQ1RWREQ5ankxTDBXeXU3QWZKLWEyRlRQZFZJc05DNUxRWktUTFFWSVVHNTJnMX",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrMERYcHdpMzg0V3NkckI4R1NpY3FTUTFvWm5Fc2tCcEpvSGw1VVcxV0pPaUlMSV9FYmNLSW1RdFphQ1RWREQ5ankxTDBXeXU3QWZKLWEyRlRQZFZJc05DNUxRWktUTFFWSVVHNTJnMXVudw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-06-01-007",
+    "date": "2026-06-01",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Buy UltraTech Cement Ltd for the Target Rs.13,800 by Motilal Oswal Financial Services Ltd - Investment Guru",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxON3pPTHRSVzZJZVJ0cFZDS1FqOUFyR0hNSG9zTTVLMFIyX0Y2R2tmS2p5U0l1S1VUdUpOYWlEclQ0UkFvY2I0Rkp4ZDhJN1Z5b2xzOFlvWE9DZXpJSERlRHdjVHNoWHhJM1d3ckRRZF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON3pPTHRSVzZJZVJ0cFZDS1FqOUFyR0hNSG9zTTVLMFIyX0Y2R2tmS2p5U0l1S1VUdUpOYWlEclQ0UkFvY2I0Rkp4ZDhJN1Z5b2xzOFlvWE9DZXpJSERlRHdjVHNoWHhJM1d3ckRRZFhIZXBMTlJJVEFJclM0MjAyeHlvOHVucjl1cU9FYTh1NzhWTTM4VzF1cjJaNmVyLUV1MFdHNkZqcWRFNEd0X2pBX1JLVEZPT2c3enp4TlRrWUFjalp5bVhpQlM3YXQ1Z0pqQkxicA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-008",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Cement Australia pauses Railton plant for US$108m eco-upgrade",
+    "summary": "  One of Australia's largest cement manufacturing sites has paused operations for a major environmental overhaul.  Cement Australia ’s  Railton plant  in nor...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181440/cement-australia-pauses-railton-plant-for-us-108m-eco-upgrade.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-009",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Global cement and concrete leaders demand political support for decarbonisation",
+    "summary": " Industry leaders from the global cement and concrete sector are meeting at the GCCA CEO Strategic Dialogue in Madrid this week to address the challenge of b...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181442/global-cement-and-concrete-leaders-demand-political-support-for-decarbonisation.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-06-01-010",
+    "date": "2026-06-01",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Cemex completes US$36m Tampa Bay Port expansion to boost infrastructure supply",
+    "summary": "   Cemex US  and Port Tampa Bay have opened a US$36m expansion at the   Port Tampa Bay aggregate terminal  , featuring a new conveying system designed for 50...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181439/cemex-completes-us-36m-tampa-bay-port-expansion-to-boost-infrastructure-supply.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-011",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Buzzi Unicem USA converts cement plants to natural gas for net-zero goal",
+    "summary": "   Buzzi Unicem  USA is transitioning its US cement plants from coal and petcoke to natural gas to slash direct CO 2  emissions by roughly half. The energy t...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181438/buzzi-unicem-usa-converts-cement-plants-to-natural-gas-for-net-zero-goal.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-012",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "negative",
+    "title": "Tarmac opens new sustainable asphalt plant at Barrasford",
+    "summary": "UK-based Tarmac has opened a new asphalt plant in Barrasford, Northumberland, to improve its asphalt offering while shrinking its carbon footprint. \n",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181429/tarmac-opens-new-sustainable-asphalt-plant-at-barrasford.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-013",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Adani to invest US$26m in new plant in Kharagpur",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/india-flag-fabric-1500.jpg\" /></p><p><strong>India: </strong>Adani Group&nbsp;will invest over US$26m in a greenfield cement plant, expected to be",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20824-adani-to-invest-us-26m-in-new-plant-in-kharagpur",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-06-01-014",
+    "date": "2026-06-01",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "positive",
+    "title": "Cemex increases Alcanar plant decarbonisation investment",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/cemex_truck_front-1500.jpg\" /></p><p><strong>Spain:</strong>&nbsp;Cemex will invest €451m to decarbonise its Alcanar plant in Montsià, up from €38",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20823-cemex-increases-alcanar-plant-decarbonisation-investment",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-015",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Peruvian cement shipments rise in April 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/peru-flag-yellow-church-pine-tree.jpg\" /></p><p><strong>Peru:&nbsp;</strong>National cement shipments in Peru rose by 12% year-on-year in April 20",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20821-peruvian-cement-shipments-rise-in-april-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-016",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global industry calls for urgent political action to unlock concrete’s critical role in a changing world - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGJ4VUtkZ25hMFBRbzV0ZFBpQV9CV2szOC01YmQ2QkxQeVlqM1ppYzhfUDNQVE5NVEFJdTJ2UzVaRVZyX3Vaa1ZfV21DREJsMlgwcndULUFxWkQ1N3BzM3EwaEJ4TFF3S2h4Y1FEUm",
+    "sources": [
+      {
+        "name": "google_cement_industry",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGJ4VUtkZ25hMFBRbzV0ZFBpQV9CV2szOC01YmQ2QkxQeVlqM1ppYzhfUDNQVE5NVEFJdTJ2UzVaRVZyX3Vaa1ZfV21DREJsMlgwcndULUFxWkQ1N3BzM3EwaEJ4TFF3S2h4Y1FEUmZpeUVnZ2gzZGNvSlgySHVLelMzN2w3OGxiazY4VDM5TkVfN28tUUU3dVFEQVFoQlJQU2tvamFZZ2RpbGNndnhQbEFKM0hQZDB4bzM2ODJaeW5NZWZWamt6NEhtNGFER2ZCWnF5T3dDQXNwaks2NndpaEJ0ZmxRd3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [
@@ -323,6 +631,25 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/transportation-funding-bill-house-appropriations/821469/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-017",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "ULTRACEMCO Outlook for the Week (June 01, 2026 – June 05, 2026) - Equitypandit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1pMEhzZHljcEJoQW5zTkdIYWgxalNVZHUxdjZXWnBlU2R2UFJOOEsyQ2F3UV9Mc0lyLWltakV6eW5LWXB6V2tEN3pzV3RITkZTSUdTMnVwcmF3dzJBUFdiTzQzVkE4VVhpVDlhQ2RR?o",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pMEhzZHljcEJoQW5zTkdIYWgxalNVZHUxdjZXWnBlU2R2UFJOOEsyQ2F3UV9Mc0lyLWltakV6eW5LWXB6V2tEN3pzV3RITkZTSUdTMnVwcmF3dzJBUFdiTzQzVkE4VVhpVDlhQ2RR?oc=5",
         "type": "rss"
       }
     ]

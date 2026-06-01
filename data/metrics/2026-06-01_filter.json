@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 11,
+  "gate2_fail": 14,
+  "passed": 17,
+  "gate2_samples": [
+    "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+    "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+    "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+    "VMC Initiates Coverage On Vulcan Materials by Oppenheimer - GuruFocus"
+  ]
+}

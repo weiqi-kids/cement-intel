@@ -1,0 +1,277 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:38:01.860122Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Euro zone factory growth slowed in May as input costs hit four-year high, PMI shows - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXV1X21talo1TnJFZHJWLXpiNENTc2dtbmRnS0lLbml0LVRpSUx4YUNFU2F0enR4dy1yZGJWRmQ4LXllNHpVQ3VycEplaFdETlRLM3l2NC13bFN4MzM2Y3hVZ1NpYmI4VFRqLWJhVTR2cm1fYlhsX2lUcXItN1NlRTlaT2xxZ1JHRHNSZXVqbFJxbXQ4S2pNclowbTFVTzBOOXRFanJvbHRlSXhMTTlkUU5QcG1UVEU4VmpPcWFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-06-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AlphaValue/Baader Europe Downgrades Thyssenkrupp to Reduce, Lifts PT - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWFOVEJieUZEOFFLSnFLYzB1d2o4d2YxMG94TEh0c25IMkZ2cGlBUHQyY0dQV0MtXzhyZXk4a19VT2JKeldDUDBWNmVJRFJkQnlPNlhHQlFwcEt5eU9KMGVkWHRnNEpDQ2lvdU8zaldWaHpZUW55Z2VoZmlNMlNPN2pwdGs3YXhya3luckJkUXhVOWhiRmJfTlY2NElhOEpQNFgwOUxMMWR2UEQ1Vi1zMzBJcTdDYW00dlZsSg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "taiwan_cement-2026-06-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MS-Taiwan Index Earning Revision (May): Hon Hai Precision, Taiwan Cement, Catcher Technology, TSMC - Smartkarma",
+      "companies": [
+        "taiwan_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdy1IbkktRHhyRFBTbnFfczA5S0R5SFl2OWI5ZklGSXpkS1lOZVUzTWhvMHV5VW9CYUoyMHNNRUY4cVktLWtMTkwwdlF3RlVEWHZpOUpqQnkwWFQwTG9Ib0N4QzlVVUxUaVo0a2dyZEdlUGVIdlQ0WHc0SGZMSjNhRElSbVdpNG5uWUFINFNfS1NzOFBWQlUySHc5aHdQci1ZdVVQdmVhUF92ZUpuWGFIaXMwbER2WWQ2UURXb0xwQXVxS2F4UGtr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "asia_cement-2026-06-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASIA CEMENT CH (00743) has risen 5.419%. The last price is HK$2.14 - AASTOCKS.com",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrMERYcHdpMzg0V3NkckI4R1NpY3FTUTFvWm5Fc2tCcEpvSGw1VVcxV0pPaUlMSV9FYmNLSW1RdFphQ1RWREQ5ankxTDBXeXU3QWZKLWEyRlRQZFZJc05DNUxRWktUTFFWSVVHNTJnMXVudw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-06-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Buy UltraTech Cement Ltd for the Target Rs.13,800 by Motilal Oswal Financial Services Ltd - Investment Guru",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON3pPTHRSVzZJZVJ0cFZDS1FqOUFyR0hNSG9zTTVLMFIyX0Y2R2tmS2p5U0l1S1VUdUpOYWlEclQ0UkFvY2I0Rkp4ZDhJN1Z5b2xzOFlvWE9DZXpJSERlRHdjVHNoWHhJM1d3ckRRZFhIZXBMTlJJVEFJclM0MjAyeHlvOHVucjl1cU9FYTh1NzhWTTM4VzF1cjJaNmVyLUV1MFdHNkZqcWRFNEd0X2pBX1JLVEZPT2c3enp4TlRrWUFjalp5bVhpQlM3YXQ1Z0pqQkxicA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "taiwan_cement",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 5
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 199,
+    "too_old": 100,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 17,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+      "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+      "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+      "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+      "VMC Initiates Coverage On Vulcan Materials by Oppenheimer - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為蒂森克虜伯、CEMEX、海德堡材料相關動態：「Euro zone factory growth slowed in May as input costs hit...」。主要關注主題為財報、碳排放、基建支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Euro zone factory growth slowed in May as input costs hit four-year high, PMI...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "AlphaValue/Baader Europe Downgrades Thyssenkrupp to Reduce, Lifts PT - market...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
