@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:05:58.892394Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-02-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Arabian Cement reports 2026 first quarter results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.globalcement.com/news/20826-arabian-cement-reports-2026-first-quarter-results"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-06-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Berenberg initiates Vulcan Materials stock with Hold rating By Investing.com - Investing.com Australia",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWJlQkt4WVQ2QmdFTUxILTRCWDJSeUVZRVVmZklPSDNMa2NHWWhNQVdfV0w1OW5jTXFPU24zbjZTU0o0Y0FGYjBaU2RkZUVvM0pfdzRYRTd5dmw0NmtIcGVMOTNkaGVKeXY2bWU5UDJWQ0lrMmJKWmZBQkN2XzR6dXg3b1hrN05KMFhvRWRyTDdIZnRxUGVqLVFTQ0hfSG0wM3p4Y2gxS2Fjb2ZOUUlERHZIOE5tTm85X2wwNVhKV25xLXZJUGtUME5lU2w?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-06-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim’s Xella Deal Tests EU Scrutiny of Europe’s Refurbishment Market - EU Today",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVS1TNlluMTlIbHpBdEZ3NkYxeGhZamNSWWlETWxfcXplM19Pd1Zkb0xuZ1J2VVRqX2g1WkdlcXBTOVA5dTVNNGw3LWVzNzMtcDRtWUNXYXl0XzJfOTl4aTk3YXZRU0hFaS1SSUtlTE5FVEdXOUxrTjZ0R2pKTWQ3Y0plWkg3SFp6b19BVlZ6QjlNLTg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-06-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Francesco Brambilla becomes new CEO of Heidelberg Materials Trading - World Cement",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeGY0b293R2VYZFVSUWh6bXc0TlpJTHVXQmRvdi11Q2dQc0xqTnE3MjVzNnh4cVJldTRZM2o4RkdRamJTeVI5bHJqUlRpQnNDNkFVSWNlWWtlODhtMlNmZl9MNzJ0ZzctZmlWRWVfUW5hZVVtY0U4MlVoSm93ejhHUlREdVpYOGVmT0NfbDR4YWdZUzBsdU85VUFTUXhadFBXZWlPRm1IWmttS2gtNElxSnVzT3lUNUIzR0NYRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-06-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Downgraded to Sell Amid Bearish Technicals and Expensive Valuation - Markets Mojo",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVlJLcTcxMlU3Y0c5Z3k5V2RKMVBEN1lBZkZpSVFNWHlnY2FVVEV6ZkJ1Z0cwMHY4VG4tU1F5QVp3UGdqT195TEdjZ2x5WmEtRkVvUTMzNFZya1N4Tk5YaVROTnN1ZmJvLWo3VEpJM3hRZXdWVTRERllWR0o3U3NzeURhNWdEOUN0TXVTRW5qSlBMNHkwaHdzUnZWSF9uNHZ5ZW80Q2tIaGVvU3N3ejFWV2VHNVIxdVlCMHlhTEx3RUVqR203SWtpV3dvUlItOWJSWGlDRWZJVmh1THF2a2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "ultratech",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "cement_pricing",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 193,
+    "too_old": 96,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 23,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+      "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+      "Vulcan Materials surges $2B in market cap after crucial ruling - thestreet.com",
+      "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+      "VMC Initiates Coverage On Vulcan Materials by Oppenheimer - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為海德堡材料、UltraTech、Holcim相關動態：「Arabian Cement reports 2026 first quarter results」。主要關注主題為財報、庫存、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Arabian Cement reports 2026 first quarter results（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Berenberg initiates Vulcan Materials stock with Hold rating By Investing.com ...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
