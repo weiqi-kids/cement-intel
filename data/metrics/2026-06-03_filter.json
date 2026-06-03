@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 15,
+  "gate2_fail": 10,
+  "passed": 24,
+  "gate2_samples": [
+    "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+    "Oppenheimer Initiates Vulcan Materials at Market Perform - Moomoo",
+    "Cemex, Holcim, Republic, Taiheiyo settle Philippine cement-cartel probe - MLex",
+    "Holcim’s Tilbury reshapes UK cement supply - cemnet.com",
+    "NGOs urge probe into Holcim Azerbaijan over Lafarge Syria case - AnewZ"
+  ]
+}
