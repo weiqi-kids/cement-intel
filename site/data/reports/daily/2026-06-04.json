@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:02:04.149149Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement_china-2026-06-04-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "ASIA CEMENT CHINA HOLDINGS CORP To Go Ex-Dividend On June 5th, 2026 With 0.00433 USD Dividend Per Share - 富途牛牛",
+      "companies": [
+        "asia_cement_china",
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [
+          "asia_cement_china"
+        ],
+        "suppliers": [
+          "asia_cement"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhCdlNTbUtULTVpME5VY0VHSmdlYkVNWVowbVU5enBGSEFLRjEzd3RBa0RvT3BPSXdSM2twZW9IWm1rN2RZMGk2ZlNZVzRhU3BZMjhsUEtyUDNVcEp5Q09rRjRkejZSYWV3bXR5eElZenZGZmlhQllUQlhqemdoWkJRNGJQNmR3QXhBSmgtby12eElaU3hkbg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-06-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Epiroc Gets Order From Heidelberg Materials - TradingView",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVp1QUM5blJkZWRKSEd4QmRWMUtDUm0wbldKcC1ZeDYyYUl3dlpTVHl0MUJIOUNtOWZyaXNYYjR1dDQ2bHk2ZVVEbVFmNUVYUUw5MmJpZjJkVE5oWFFVenNpdk16TlZkTW9IQmU2bU5GaEJyVGRvWE5wMTNFamh1TzRsZVR2Y2pxRVpqU0tHdmRxSTBPRXBqdWdCNTNXWjN5X1puTk9SRkY3WmY4Mi05bVdGdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Epiroc wins order for LinkOA, extending its autonomous haulage system to aggregates sector - Cision News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWFJFYWlXMU5Md2dWRTZYdlF5R1FKWi1Ka2RkOXJlQ2hOVDdpT2JfcjN5VkJEUmc3TTkwVTRMX1VuZ3Y3Q2Fqc0dkOEZLcjJHSjdoZk80T3JINnVVdERiZS1qVkkzWDBsNWhjN0E3eVY2OUJFcnR6dHlESUlmWTlOMURDWmdSVTA4LW1vTlFybWV1UV9nOURmTkVtTFBtMVNZekxwYjVDVmJjMC1FTG02dzJJazQwNjNXMDhQajNWcUxES1QzQjYxdHlHdXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cemex-2026-06-04-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Cemex US opens new Tampa Bay aggregate terminal expansion",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181432/cemex-us-opens-new-tampa-bay-aggregate-terminal-expansion.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "cemex-2026-06-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cemex launches US$1.5bn bond offering",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181464/cemex-launches-us-1-5bn-bond-offering.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "asia_cement_china",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 191,
+    "too_old": 98,
+    "gate1_blocked": 17,
+    "gate2_blocked": 12,
+    "passed": 17,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+      "Vulcan Materials, boosted by strong public construction environment, started Perform at Oppenheimer ",
+      "Cemex US Expands Aggregate Terminal at Port Tampa Bay: $35M Project Completed - News and Statistics ",
+      "Cemex wins global water stewardship award for initiative in Mexico - World Cement",
+      "Anhui Conch Cement Company Limited: - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為CEMEX、海德堡材料、亞泥中國相關動態：「ASIA CEMENT CHINA HOLDINGS CORP To Go Ex-Dividend On June...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ASIA CEMENT CHINA HOLDINGS CORP To Go Ex-Dividend On June 5th, 2026 With 0.00...",
+        "level": "red"
+      },
+      {
+        "text": "Epiroc Gets Order From Heidelberg Materials - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
