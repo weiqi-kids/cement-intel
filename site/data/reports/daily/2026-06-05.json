@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:29:58.328407Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-05-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cement Hranice reports record profit in 2025",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181470/cement-hranice-reports-record-profit-in-2025.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "siam_cement-2026-06-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thailand's Siam Cement unit sells near 15% stake in Chandra Asri Pacific for $763 million - TradingView",
+      "companies": [
+        "siam_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONE5KVHh4WlhJODcydnl2S3lZRERBRzh6WUhxVHFzOElSM1VDa2xsODdleENzamNVNGlwZkcxd0RTMm1FbXRPeHMxNG04cmYyZXZnOGN3ejRSbGtoYzcwMDFfdnBYS0xJMFRsQm9sU2FFaktvS1ZzTGYyeE9LSDVnV0lVaWR5T25JTnVIRE05Nzl5bDJrLW5TVjhEcVN0VG9Nai0td25pT1NnajVHU0hzTWpiS2wyemhuNFpQck5PN1VNTGxMVVd5cUgtMnhWQ1dva2QyTktjTDBzZVhvVnZyVlBfaUY2aTdqelRTWUJn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weak 1Q26 for Italian cement",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181465/weak-1q26-for-italian-cement.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "siam_cement-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thailand's Siam Cement unit sells near 15% stake in Chandra Asri Pacific for $763 million - marketscreener.com",
+      "companies": [
+        "siam_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMV9hVHRLbFNOVzdFN1ZSemZCZG11Q01BUW1TUG9iOUZNOUlreTlpQlJSa1huSEk0ZU0td2hFY3RlaVpZcEhYeUR6bUxrS1oza2czYnFmLXc5Y1pualRhdk1ibG9jTTdTN3dZcmVfSXF4eEdsQ0YtZDZCUGhObC1JTG1La21RcW9uS1JUTHl6STZ5Y0I1LU9rQ0FPdmNxbkZ2aHB0clNQWHNLWWJ4Z0VVamFxUVhkcjNVYjZFSDhZWlJtTWFqNmRFcE83MDl2dXBORC1BNDZpWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shuntai Investments partners with China's CBMI for massive Zimbabwe clinker plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181468/shuntai-investments-partners-with-china-s-cbmi-for-massive-zimbabwe-clinker-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "siam_cement",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 194,
+    "too_old": 99,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 18,
+    "pass_rate": "12.5%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+      "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+      "Cemex US Expands Aggregate Terminal at Port Tampa Bay: $35M Project Completed - News and Statistics ",
+      "Cemex wins global water stewardship award for initiative in Mexico - World Cement",
+      "Anhui Conch Cement Company Limited: - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Siam Cement相關動態：「Cement Hranice reports record profit in 2025」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Cement Hranice reports record profit in 2025（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Thailand's Siam Cement unit sells near 15% stake in Chandra Asri Pacific for ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

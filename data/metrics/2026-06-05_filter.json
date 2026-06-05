@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 14,
+  "gate2_fail": 13,
+  "passed": 18,
+  "gate2_samples": [
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC) and Sailfish Royalty (OtherSR",
+    "Cemex US Expands Aggregate Terminal at Port Tampa Bay: $35M Project Completed - News and Statistics ",
+    "Cemex wins global water stewardship award for initiative in Mexico - World Cement",
+    "Anhui Conch Cement Company Limited: - marketscreener.com"
+  ]
+}
