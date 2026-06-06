@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:05:19.649473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-06-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Steel Restarts Hot Strip Mill 4 at Duisburg Following October Fire - megaproject.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjFyVUVNbXFFQW1Yd3RtMWk5UU9tV3lhZEtIVlYxT1NJVllqc2ZMMkc0ZkROaFdqNU5qMk92cG5WWGF0Y0tLVU1kOWpGWk1PeWpqTkl3UW5GN2hFeElHVFVOTXFaOHRIeUlmQ0lRVXlCTjhoTWdXRTc2U0oxOTQ0bFpiSjltcnFRekNuTEt0OVJOeExmdjlfdlhiOVFWQlJoRlBtYVRCQ1BBdlRfbUw0UjFic2U?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-06-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Buy UltraTech Cement Ltd for the Target Rs.13,800 by Motilal Oswal Financial Services Ltd - Investment Guru India",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLUNjblZjcTBFdG8tZ0laM1QtQlN0MTlYVWVCWUZSNUp1Qm9mZ1FlT3FhVktkM0czNmZnUElaRHpxbVU0LUpHZENPMXRFUDJNcVZPTU0wU1laazhadVFXS28tZzhxWFc5aU9nY2lHR3oxMmNNYzBPc1F3b0s4X1pHUjI0SExVYlBzRVZ4LXFsdWZ3aTZlLU5rYjZNempRNzMtT2E4VVhKSDFDMkVJdWp2bFZVSHlhNTZKdDVFUlhSRFdfbWt2MXNrWFNTNHRLcWhKNV9sMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 188,
+    "too_old": 111,
+    "gate1_blocked": 13,
+    "gate2_blocked": 13,
+    "passed": 10,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+      "Cemex US Expands Aggregate Terminal at Port Tampa Bay: $35M Project Completed - News and Statistics ",
+      "Heidelberg Materials deepens its role in Morocco’s occupation of Western Sahara - Western Sahara Res",
+      "Anhui Conch Cement Company Limited: - marketscreener.com",
+      "UltraTech Cement slides Thursday, underperforms competitors - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為蒂森克虜伯、UltraTech相關動態：「Thyssenkrupp Steel Restarts Hot Strip Mill 4 at Duisburg ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp Steel Restarts Hot Strip Mill 4 at Duisburg Following October Fi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Buy UltraTech Cement Ltd for the Target Rs.13,800 by Motilal Oswal Financial ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

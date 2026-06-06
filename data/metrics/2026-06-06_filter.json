@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 13,
+  "gate2_fail": 13,
+  "passed": 10,
+  "gate2_samples": [
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "Cemex US Expands Aggregate Terminal at Port Tampa Bay: $35M Project Completed - News and Statistics ",
+    "Heidelberg Materials deepens its role in Morocco’s occupation of Western Sahara - Western Sahara Res",
+    "Anhui Conch Cement Company Limited: - marketscreener.com",
+    "UltraTech Cement slides Thursday, underperforms competitors - MarketWatch"
+  ]
+}
