@@ -263,6 +263,26 @@
     ]
   },
   {
+    "id": "thyssenkrupp-2026-06-05-013",
+    "date": "2026-06-05",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Steel Restarts No. 4 Hot Rolling Mill in Duisburg Following 2025 Fire Repairs - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTk5DUkhjWjc5bkNCeDhKeTdjU2duVFhjNGN5WkhFNG5XRFllaHhwVlpSTnVyLVFlMUdxUFVmQ3k1NVUxZlZSeFlROGZ3dm8wcTFybEx1R2xnd1hLN2dHbmZEblRYWXhBaG5tdG02OG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTk5DUkhjWjc5bkNCeDhKeTdjU2duVFhjNGN5WkhFNG5XRFllaHhwVlpSTnVyLVFlMUdxUFVmQ3k1NVUxZlZSeFlROGZ3dm8wcTFybEx1R2xnd1hLN2dHbmZEblRYWXhBaG5tdG02OGlBUm01c2hhZUdrTThfYnJLNklXRlVQT3lwZkJfbUNUbU9nRUd4WXo4NUVFUjJ1SEtTT2hXM0FGd21NTWd6UHpDQzd1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "heidelberg-2026-06-04-001",
     "date": "2026-06-04",
     "companies": [
@@ -525,6 +545,24 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/walbridge-breaks-ground-stargate-data-center-openai-oracle/821972/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-04-015",
+    "date": "2026-06-04",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Epiroc win order for LinkOA from Heidelberg Materials - Agg-Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTUwU0NldTJnYVRXY2FYRDFFbl9oZ3ZCV3UtcHFaaGxhcXdKWGVqOU9qSXBrZlZRYXluRTRqMU5aRGg4cndKWWMyMklQcUs4X1JKVlRibWZIOHBJMzVNbnV2b0V1aWdOX3RvSzJCb2",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTUwU0NldTJnYVRXY2FYRDFFbl9oZ3ZCV3UtcHFaaGxhcXdKWGVqOU9qSXBrZlZRYXluRTRqMU5aRGg4cndKWWMyMklQcUs4X1JKVlRibWZIOHBJMzVNbnV2b0V1aWdOX3RvSzJCb2RLMjlabnhyUkN5QUFzQUhrTVJfOE5mbUhRQVE?oc=5",
         "type": "rss"
       }
     ]
