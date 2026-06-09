@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 17,
+  "gate2_fail": 12,
+  "passed": 22,
+  "gate2_samples": [
+    "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index",
+    "A Look at Vulcan Materials Co (VMC) After 4.0% Decline -- GF Value $277.29 vs Price $269.98 - GuruFo",
+    "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+    "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+    "Thyssenkrupp Uhde gets job at Brazilian green ammonia projects - Renewables Now"
+  ]
+}

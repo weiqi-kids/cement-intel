@@ -1,0 +1,236 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:01:46.917956Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "German exports up, production falls short of forecasts - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3F0R2taRGZ5OVozcEl0aG4ydmlRNm5YRzNKLUYzdmFjMHdVYlowY0F3S3Jka3JwM1BOSjVTT1JiWTZ0alpJNXJtMTBKNW5uOVAyTktCOEE1cDY4OE9kcnlCdHJBQ0kyckNvN1N3ZmlaS3NuWE1vekZEV3dOdTdoNk9MUk9SeXZ3eUhEcEdPcjZIUWdVWGU0MWRBV1VVY0hBdlNCdDJ1cVM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-09-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Sinoma commissions roller press in Saudi Arabia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181482/sinoma-commissions-roller-press-in-saudi-arabia.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-09-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Chinese investors explore cement plant project in Kyrgyzstan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181485/chinese-investors-explore-cement-plant-project-in-kyrgyzstan.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-09-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Iraq tenders three cement plant projects",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/20854-iraq-tenders-three-cement-plant-projects"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aalborg Portland secures EUR2.2bn CCS subsidy for ACCSION project",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181488/aalborg-portland-secures-eur2-2bn-ccs-subsidy-for-accsion-project.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 177,
+    "too_old": 105,
+    "gate1_blocked": 17,
+    "gate2_blocked": 12,
+    "passed": 22,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index",
+      "A Look at Vulcan Materials Co (VMC) After 4.0% Decline -- GF Value $277.29 vs Price $269.98 - GuruFo",
+      "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+      "Property owners gather in Greystone to prepare to fight rezoning request from Vulcan Materials - Gre",
+      "Thyssenkrupp Uhde gets job at Brazilian green ammonia projects - Renewables Now"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為碳排放、產能、原料能源成本相關動態：「German exports up, production falls short of forecasts - ...」。主要關注主題為碳排放、產能、原料能源成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "German exports up, production falls short of forecasts - Reuters（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Sinoma commissions roller press in Saudi Arabia（產能）",
+        "level": "green"
+      },
+      {
+        "text": "原料能源成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
