@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 14,
+  "gate2_fail": 13,
+  "passed": 21,
+  "gate2_samples": [
+    "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+    "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index",
+    "A Look at Vulcan Materials Co (VMC) After 4.0% Decline -- GF Val - GuruFocus",
+    "Thyssenkrupp Uhde gets job at Brazilian green ammonia projects - Renewables Now",
+    "Thyssenkrupp Uhde nabs pre-FEEDs for Brazil's Pecém and Açu green ammonia projects - Quantum Commodi"
+  ]
+}

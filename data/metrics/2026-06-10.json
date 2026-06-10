@@ -1,0 +1,49 @@
+{
+  "date": "2026-06-10",
+  "total_events": 16,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "capacity": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "raw_material_energy_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

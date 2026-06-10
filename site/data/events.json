@@ -1,5 +1,321 @@
 [
   {
+    "id": "vulcan-2026-06-10-001",
+    "date": "2026-06-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Local Residents Speak Out Against Vulcan Rezoning, Expansion At County Planning Commission Meeting - WGRV.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHRNelhsQXlRTWJDNXlmcXVGSF9Ka2RkRTlSYWF4dWtsT08zSjZ0NEU4X0t3bkp2d1VHQmtISGYxZXNhNVZPQmp5Y1JZWDlGd3lqOUl4WU9nMlQxal93U0ZON01FWGtyVEVUbFhmMD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHRNelhsQXlRTWJDNXlmcXVGSF9Ka2RkRTlSYWF4dWtsT08zSjZ0NEU4X0t3bkp2d1VHQmtISGYxZXNhNVZPQmp5Y1JZWDlGd3lqOUl4WU9nMlQxal93U0ZON01FWGtyVEVUbFhmMDUtWWxrM1hfTk9mY0dMZDR5S2FibGpHTVE4Uy1JRTFDd09sWjM0SHR0TEJ2bVRRSUdOMF9PemYzaVJfdEpPOVdKSjREa3FIZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-10-002",
+    "date": "2026-06-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Uhde wins pre-FEED for Brazilian ammonia projects - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVFCRnVrT3pNVWtEbEpaMHAwQ3p1RVNaR0hiekdjdWJtalN3UENRSnNjMEMwc1M4SWFkRkp0SjlvaDNGSXpyS2Q4TWNuRVB6YVppS3dxcWRDbjQxRkxIb1Y2YlV6Xzk0VEZNZlNzX2",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVFCRnVrT3pNVWtEbEpaMHAwQ3p1RVNaR0hiekdjdWJtalN3UENRSnNjMEMwc1M4SWFkRkp0SjlvaDNGSXpyS2Q4TWNuRVB6YVppS3dxcWRDbjQxRkxIb1Y2YlV6Xzk0VEZNZlNzX2dlc3VvYmZBS3gxNk1vbmlIc2dDVWFCb0xQNk1LX2E4bkFCN1l1Vml2ekVxNVpGRERhZkhqdG5EcUpIamxLQm5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-10-003",
+    "date": "2026-06-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Sells Remaining Stake In AST To Arvedi - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1h0VnYtZG1SbHNaREJTWThwUUE1MzJPdHQzTWlmRnBIa0JHWkltSkprOG5TdVY5X093SkhCZDE3WkRyYVZtbG5LemhxVVdnZVlldnktblRDZ3A3c09CM0IyMVQyVVZvM0JDRFVEZV",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1h0VnYtZG1SbHNaREJTWThwUUE1MzJPdHQzTWlmRnBIa0JHWkltSkprOG5TdVY5X093SkhCZDE3WkRyYVZtbG5LemhxVVdnZVlldnktblRDZ3A3c09CM0IyMVQyVVZvM0JDRFVEZVpGakxqUjg2NEh2Qk9vRDM2N3E1ZlduOTA1MTJNSVVvZGV1VHk1bklJSlk4RjlKYW5CYmVNZWtmRFNSdXM4bkZfY0w1VjZuQmxJVExzMERR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-10-004",
+    "date": "2026-06-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp became the world’s 47th largest steel producer in 2025 - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOblcwdmRQdnQyc3BDSEZ0dHd0WnBIWjJQRUVtLVZWTHFRTVVVR3JoUVZ3by1JZzM5ODlPLXVvRVR5WnczaGFLcXpMM3NSUE9mYk5sNDFUSHRwLWl3Wmg0NW9ZOGdKa3BJdlB3SzlSQ3",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblcwdmRQdnQyc3BDSEZ0dHd0WnBIWjJQRUVtLVZWTHFRTVVVR3JoUVZ3by1JZzM5ODlPLXVvRVR5WnczaGFLcXpMM3NSUE9mYk5sNDFUSHRwLWl3Wmg0NW9ZOGdKa3BJdlB3SzlSQ3ZzY2JLTTRBM3N2RXl6ODNCU2ozMF9GTi04TVVsM0F3Q2xoVTlxM0tTR2tNSzBrZFo5NHF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-005",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Inside Holcim’s CaptureLab , our industry’s first carbon capture test platform - Holcim",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBdWtCVU9TNnZxSklyY1dxWVFxdm5uN0FNcEwxbUZpbG1xb0ViSlNYTmgtOUtnUkRKZFRUWGFoTFdRNzRCYmlEYk5RNW42YTdfRGJaa3hwekNkTndiX3BlN0lKR2pZaTI5?oc=5\" tar",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBdWtCVU9TNnZxSklyY1dxWVFxdm5uN0FNcEwxbUZpbG1xb0ViSlNYTmgtOUtnUkRKZFRUWGFoTFdRNzRCYmlEYk5RNW42YTdfRGJaa3hwekNkTndiX3BlN0lKR2pZaTI5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-006",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Air Liquide And Holcim Launch Industrial-Scale Carbon Capture Pilot For Cement - Carbon Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGNVUzIxWkRjZ08xYTR0a3dNVDdzVC11dnVtQzJCTlRxeFVGZDR5VnVNNC1Na09mNjVKSVZGNFFuUXZuNjNhbHRpc0lTOEhFQ1ZCSjF0YXQxLXdTbjQ0U2JVaHZ4YmNfY0ttMHRXWV",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGNVUzIxWkRjZ08xYTR0a3dNVDdzVC11dnVtQzJCTlRxeFVGZDR5VnVNNC1Na09mNjVKSVZGNFFuUXZuNjNhbHRpc0lTOEhFQ1ZCSjF0YXQxLXdTbjQ0U2JVaHZ4YmNfY0ttMHRXWVhNVW5UemZINFVmQ0VLdFFRblEtWU5ZUlMxbC1SanlyTUUtWC0yUHNSQU1qZ1NJRnllaVBVLVlzNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-007",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Air Liquide commissions CO2 capture pilot at Holcim’s CaptureLab - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3EweE95WUp5ZDVyeExRTDExNDBfaWJaLTAxZFAxbWxERnk4aHZacXlTcFUtQWtKd25QMXVKamFNd3lhcFhDTFBLOTJKQ3hUenBsZ2s3Y3B0MTNIZTl1cVBIUXVLcHRXaG1xcXVXX3",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3EweE95WUp5ZDVyeExRTDExNDBfaWJaLTAxZFAxbWxERnk4aHZacXlTcFUtQWtKd25QMXVKamFNd3lhcFhDTFBLOTJKQ3hUenBsZ2s3Y3B0MTNIZTl1cVBIUXVLcHRXaG1xcXVXX3NUVktpRHducHdQbVhqMzVzX1VzajhvbHpnVlZ5QWVFMzJiRnFWZXZST0NzTWgyUVFMa2p2WC1leTQtRllHb0xIbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-008",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim launch industry-first carbon capture test platform - Agg-Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWtzMnB3YWtfWDdqdEJkb2dwU0xkY2VqanRubUo1VmdxbXlld0E1aFJSZVp6NWZTX0xMQUpVcXlHWFFjdndKRjREd0hqWEdkZ2dNT29ib3ZSTExYSDE3aFFreTBMdXB5TDI3NmZxRV",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWtzMnB3YWtfWDdqdEJkb2dwU0xkY2VqanRubUo1VmdxbXlld0E1aFJSZVp6NWZTX0xMQUpVcXlHWFFjdndKRjREd0hqWEdkZ2dNT29ib3ZSTExYSDE3aFFreTBMdXB5TDI3NmZxRV9QQmRVZEE4UWRsRnM1dTE4dk8yTlRKU2xyYThsaWlFTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-009",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim launches industry's first carbon capture test platform to validate advanced technologies - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVmJ2VGNGSnpua0FQelg0dDNaci1QcTNsMzRoVHYwTlFwaFV5NHo5cWwzMnk1Y3M0ZVFHQUI5OXp0YkdMa2NnckJzUlRwNm42SmJOZ2FHTVQyX2RwQURkR2NNb1Y1TEdldlJHNktjeV",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVmJ2VGNGSnpua0FQelg0dDNaci1QcTNsMzRoVHYwTlFwaFV5NHo5cWwzMnk1Y3M0ZVFHQUI5OXp0YkdMa2NnckJzUlRwNm42SmJOZ2FHTVQyX2RwQURkR2NNb1Y1TEdldlJHNktjeV9TSmkzRTlBWnJzSHpFTlpWaEJlUUhCdzVqbmtjUDB4ejFSVTdXX0FqcUJkTTQxWlM1ejNvXzhreWNCdURDbF9uQjctQTJ2bnVIenJjOVZaZkdWc0I0cEg1Ul81SnZyNXVIUURHaE1kYWljNmREMjZyUmNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-010",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Poland achieves 100% alternative fuel clinker test",
+    "summary": "  Holcim Polska  has successfully completed a technological trial at its  Malogoszcz  cement plant demonstrating clinker production using 100 per cent altern...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181494/holcim-poland-achieves-100-alternative-fuel-clinker-test.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-011",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim launches industrial scale carbon capture testing platform",
+    "summary": "   Holcim  has introduced the cement industry's first industrial-scale carbon capture test platform at its  Martres-Tolosane  facility in France, designed to...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181490/holcim-launches-industrial-scale-carbon-capture-testing-platform.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-012",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Belarusian Cement plants to repay over BYN38m",
+    "summary": "  The Council of Ministers has issued Resolution Number 285 to establish the exact amount that domestic cement plants must repay to the republican budget in ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181492/belarusian-cement-plants-to-repay-over-byn38m.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-013",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hoffmann Green unveils H-CLAY technology for clinker-free cement",
+    "summary": " France-based Hoffmann Green Cement Technologies has launched H-CLAY, a new technology designed to enhance the use of clay in the production of its zero per ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181491/hoffmann-green-unveils-h-clay-technology-for-clinker-free-cement.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-10-014",
+    "date": "2026-06-10",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "positive",
+    "title": "Heidelberg Materials orders autonomous haulage system for Australian quarry",
+    "summary": "Heidelberg Materials awards Epiroc AB, a leading productivity and sustainability partner for the mining and infrastructure industries, with a contract to ada...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181473/heidelberg-materials-orders-autonomous-haulage-system-for-australian-quarry.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-015",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "positive",
+    "title": "Holcim launches carbon capture test platform in France",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/holcim-capturelab-1500.jpg\" /></p><p><strong>France: </strong>Holcim has launched the sector’s first industrial-scale carbon capture test platform",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20859-holcim-launches-carbon-capture-test-platform-in-france",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-016",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Sagar commissions grinding capacity at Jeerabad plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/india-flag-fabric-1500.jpg\" /></p><p><strong>India:</strong> Sagar Cements&nbsp;announced that its subsidiary, Sagar Cements Pvt Ltd, has commissi",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20856-sagar-commissions-grinding-capacity-at-jeerabad-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-09-001",
     "date": "2026-06-09",
     "companies": [],
@@ -141,6 +457,102 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20851-fehs-building-materials-institute-reports-on-electric-hot-metal-slag-use-in-cement-germany-the-fehs-building-materials-institute-has-published-a-report-on-the-save-co2-project-investigating-the-suitability-of-electric-hot-metal-slag-ehms-from-hydrogen-based-direct-reduction-steelmaking-for-use-in-cement-production-the-project-aims-to-establish-whether-ehms-might-replace-conventional-ground-granula",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-06-09-009",
+    "date": "2026-06-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials acquires Colorado, Texas operations - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmFmWjN3Vm9VRml1YjQxS3p5WlpraUV0ZDZ5QVJzQ1EwenZveXNEa2RzSkpRSGI4dUFoM1czVHhrd29UNkQ1aVVkWHlWeFl1azhFR05rVGVZSE5zdDJ0dzJoNnlyS18wNzFlbm5hQU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmFmWjN3Vm9VRml1YjQxS3p5WlpraUV0ZDZ5QVJzQ1EwenZveXNEa2RzSkpRSGI4dUFoM1czVHhrd29UNkQ1aVVkWHlWeFl1azhFR05rVGVZSE5zdDJ0dzJoNnlyS18wNzFlbm5hQU1PRUFrSkRoUUU3clFNdDJGM2I5TnJSR0FlYzA2cE8yVzlRUHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-09-010",
+    "date": "2026-06-09",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Uhde signs two pre-FEED contracts for green ammonia projects in Brazil - Hydrocarbon Processing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnltSFZFUDZlbHlUNTBIME83akd1Rk1Ya2I3NTN0dXZTbnlRajhFVzZsX2hoaEF2Z0c0aU13SjVISmoyRkhqbG5vWGRFenR0b0ptR0VIMndMajVMVkRIem92MXUtUmFaOGY1VlNxcW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnltSFZFUDZlbHlUNTBIME83akd1Rk1Ya2I3NTN0dXZTbnlRajhFVzZsX2hoaEF2Z0c0aU13SjVISmoyRkhqbG5vWGRFenR0b0ptR0VIMndMajVMVkRIem92MXUtUmFaOGY1VlNxcWFOZExIVEVGQlV2NWxheHE2eURuOTNBcGUwdGNLZDk0SUFtazNYeW15ck9zSzJHOFp3VFc2LUhWbkJ4YjEtd2taVVdHb1lYdFBkclFtUEo0eG1ydnZqaGg5bVZVYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-09-011",
+    "date": "2026-06-09",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Uhde Signs Two Pre-FEED Contracts for Green Ammonia in Brazil - energynews.pro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkwxa0NfNzRlcEwxd1RmRXBRdnNiVFFKWk1vVjVNNUV4QkpLTk9QLWhoRElQTkhWa1lvUS1ucWtUTlBFeTNGSDFKNmFsWDMxNHloZHRNc3d6QzNoazV2bjVoOXB6bDJrRVN6Q2lMVG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkwxa0NfNzRlcEwxd1RmRXBRdnNiVFFKWk1vVjVNNUV4QkpLTk9QLWhoRElQTkhWa1lvUS1ucWtUTlBFeTNGSDFKNmFsWDMxNHloZHRNc3d6QzNoazV2bjVoOXB6bDJrRVN6Q2lMVGduOWVPT0NJcTFPeTM4RktMdE1BRE9PMXhQRDhpT0xjWnFmdXZNM2dIWmtfNERtTjdFdEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-012",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zero-waste cement bag milestone in the Balearics - Agg-Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPUU0tTVRUVUVTbzNZR2l6U3lIM0pFRHhfNzR6VzhqWFRFNktMc0FlempnOXlQbHpwS1JXR2hEODdZam5fU0Jvd2tjOEpwbEtlSXJkSWFMRTFZcHhhc29ULS1wU2tWZkxuVWo2MTRGU0",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUU0tTVRUVUVTbzNZR2l6U3lIM0pFRHhfNzR6VzhqWFRFNktMc0FlempnOXlQbHpwS1JXR2hEODdZam5fU0Jvd2tjOEpwbEtlSXJkSWFMRTFZcHhhc29ULS1wU2tWZkxuVWo2MTRGU0dVTVRyWFBwdXVOTjV5V1Q2SE9EYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-013",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan-based concrete firm wheels and deals for some San Jose properties - East Bay Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTJfdlVKeVpYRjZDNm5DVDY5TDJKM1NSRkdKcXF4bm5UU2VwOV9meHhqdHdrNWpwMXdHUkxMNWczVFVHMzN0cDdaRFJfTnpYUGY1MUF1cDJTZlJqTGgzQW1iVDNNNlg0SDVNSGVwb1",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTJfdlVKeVpYRjZDNm5DVDY5TDJKM1NSRkdKcXF4bm5UU2VwOV9meHhqdHdrNWpwMXdHUkxMNWczVFVHMzN0cDdaRFJfTnpYUGY1MUF1cDJTZlJqTGgzQW1iVDNNNlg0SDVNSGVwb1AwcVEzM2llcnktNVBBNXZqc0l0T0ROZXVQYTIwbU9BR3M2T0RtVzhjaDhwV01Hclh3bUZwdGUxazZsMlItcFdmcUdLcUbSAbQBQVVfeXFMTXUyX3ZVSnlaWEY2QzZuQ1Q2OUwySjNTUkZHSnFxeG5uVFNlcDlfZnh4anR3azVqcDF3R1JMTDVnM1RVRzMzdHA3WkRSX056WFBmNTFBdXAyU2ZSakxoM0FtYlQzTTZYNEg1TUhlcG9QMHFRMzNpZXJ5LTVQQTV2anNJdE9ETmV1UGEyMG1PQUdzNk9EbVc4Y2g4cFdNR3JYd21GcHRlMWs2bDJSLXBXZnFHS3FG?oc=5",
         "type": "rss"
       }
     ]
