@@ -1,0 +1,257 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:11:57.504385Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-06-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Residents voice opposition to Vulcan rezoning request at planning commission meeting - GreenevilleSun.com",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWEh0QXdTMXJXNjhVMG9wd3M5bkE4RDRPdGRCcXJBTGhMY2lmUDZqTG1RdWhtQnp6SElvRnZteXk2c2k0UmxGaS15RGloOFo4d0FKYkdwcG0xdlhDMnF2Q1NrY05tYl9yZFJLdDBvZENCckUtRHFUV3dDTlFadkJLYUFRQm1qNFpndEhubkhFcXgtWUwtSmtfQi1rYzZGbG5CdkhiLVpQczhUVmJNY3pXLWtBN19FVXFoTlo2SllWYUdzemxPNWRZZTI0SHNXU281VUprLUs5eDdkQ0dWZnFXamVYSUJjWjktYTZRa1diUUw5bnVPTW11SHp3UXl6TjE0VEhsV3Z1ZUd4dV9o?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-06-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Buzzing stocks: REC/PFC, Ultratech Cements, AVG Logistics, Dhruv Consultancy, PowerGrid, Neetu Yoshi, Vascon Engineers, 3i Infotech - BusinessLine",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JfSzQtYkswdE4wR2ttMFdUWXVhcUJ3ekEyeU9MVlRRNFVBWjFqVWtjTzZqMl9rZF8wam5lX2JwUjY1dHM3VzFUeXZSell2QllQTXU0MmZ6XzMwQ00yV3Y4OXh0MkxLWFY3Nkx6aTJoU00ycFIwSlF2QkY5OVNBaFFNUXNmNUFudU9pWmFrZVF3Z2V5QXdYbl9tUy1uSXFacXhGNXdPTVdWY1Qya01JRm9uWERydFRxSXpHaDB0QWp0cnNQQndCTUZ6bEJyR2hvLVVhSEVNSU5kbGQzMmZGNXd5ZEpYeklGRVFBTTc4VE85Zm5WZUx3YVdsdmFCbmlMVklSVGVQczBheU1xdE1TNkRfblU5d9IBnAJBVV95cUxOUEthQ2VOeGk4aE5FeFZHOGp6TUdWanprZjdvM0w4TmJvOGxuQUJiUENLTy1pMXZyWW9adktNX2xjNEhfaVByd0k0X01aclBuRm9XVnZGUGRiekR4RVJsaWhvb1hDWjR1WXl1VjVHc1VOQ1A4QVQ0YWFyUFFaU1VpaFVabkdheDJoVjFDdVlfMTcyVVFxS3ZhUTB2SEl1bm5lVlQ5ZVEyeE9kaFFrdHZURk5CekhhakRtY2tuTlFsYzR6bzlROVJVMzNQQ1dwazZHZ2ZTbVBmYWpvbkhYN294ZTl4N0JDOUx2blg2aWxkWE9lajhkZlNWTjVoWG9DMU9sQ01iVmN0VkxydlFSc2FyN093c19QYnRfVDlieA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-11-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Volos plant launches successful carbon capture campaign",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181501/volos-plant-launches-successful-carbon-capture-campaign.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-11-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Sagar Cements expands Madhya Pradesh grinding capacity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181497/sagar-cements-expands-madhya-pradesh-grinding-capacity.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-06-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp Materials Services becomes tk accelis in major rebrand - PES Media",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFEtSksxMXVFUVFYaGpGbnJEODVwakV4MnpOZ1QzQWhsMmg4TUltWGRGdmNQOV9hR0c5QmdkV0tQYVBFMnljVkVieFMzUFhEa0JVbzVobVoxa3cwdXZCN3I3M0hJUE04TkJqRWFkYWRzamJsS0xpX3hJdVdHelVEME5yaWh5WVlWQXRGSnZEQ05TQUt0OW5n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 5
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 171,
+    "too_old": 100,
+    "gate1_blocked": 13,
+    "gate2_blocked": 23,
+    "passed": 28,
+    "pass_rate": "17.1%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "The Real Constraints Shaping Data Center Growth",
+      "A Look At Vulcan Materials (VMC) Valuation After Portfolio Shift Toward Aggregates-Led Growth - simp",
+      "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+      "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index",
+      "A Look at Vulcan Materials Co (VMC) After 4.0% Decline -- GF Val - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為UltraTech、Vulcan Materials、蒂森克虜伯相關動態：「Residents voice opposition to Vulcan rezoning request at ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Residents voice opposition to Vulcan rezoning request at planning commission ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Buzzing stocks: REC/PFC, Ultratech Cements, AVG Logistics, Dhruv Consultancy,...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
