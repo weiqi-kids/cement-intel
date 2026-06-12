@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 12,
+  "gate2_fail": 21,
+  "passed": 27,
+  "gate2_samples": [
+    "The Real Constraints Shaping Data Center Growth",
+    "A Look At Vulcan Materials (VMC) Valuation After Portfolio Shift Toward Aggregates-Led Growth - simp",
+    "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+    "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index",
+    "thyssenkrupp Uhde and Fuella Advance Major Green Ammonia Projects in Brazil with Pre-FEED Agreements"
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:45:18.600859Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-06-12-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Vulcan Materials seeks community input on $20M quarry expansion in Knox County - WBIR",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdElrcnFDbE05UVh6YzRLTE45QUw2aGI0THF2Vm1PNlRwdDN2Z1ZVenlUSGVFLXRGdDYxdHZ3Q1RMZFRmc3Qta3pXWl9SRzN6OGZiQUtvVVdYUkVreFhlSmw0TVVueUgxZENaajNlNFhjMjE0WWNTdnA4b0d0R0E4bTVIcklfUEFkaUN2a0N5WVA4YXEzU2FBLWZUSmZpZk1meWNrTGJackJVQzJFSzAxUkZXLXhJcmpVVXA4bWhuZ3lDM1BnUEZ2M3Q4MEtNbk9qbVo1cDkySUZPWGktaG43MG1DNS05SDBkc0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-06-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "tk accelis: Thyssenkrupp Materials Services rebrands with new name - EUROMETAL",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVVIeXM0V3NVWUdGQ2NnTmdoNmRUOUl3T1RVSFprRGFUQVhfeGViVDE4Q2NUcjhyMmg5ajJHamVqUjFfcHZfMEtJZkZXSC1KUEZfbHNLNDZia2F6QjFTRmtvQkRKd2VQb1h5OGR2WWxBNFg2dE1XQzZGMV93SmFvaGpCWld3dHYzbXMwLUtzLVNaUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-06-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp completes sale of remaining AST stake to Arvedi Group - SteelOrbis",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWhRNTRZQzlLb2NwdDY2UWhqUnA1VWFVNEN5LWJzNG9GbjFoV2Z6WXd2dVY5T2VScjY5NFY4S2ZVTy13V29qU2VSWkdQdi1qYnNYckF2YUtfQ2QwenZ0VzJsbDBUSThkU05YNHEtTGlUaHEzQUtpREVQdUpzR0JGRVBBVzR2czRNNjZ5d3M0U3pEdjRjaGtOd296S2FKbjh6LUJvMTZBUDVGaDYtcVNrZjgzdXo0VzdPZzFlX014QUlFQXRFeGY4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-06-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Calvion and partners launch large-scale Carbon removal initiative - cemnet.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2RMajRQSkJDdFVfT0k1aXJtU2o2UWVaNmU5MlBPMG9tQWdNdHVfcEtOXzNnUFdRMmpNajF1N1BRM3NJSzFfLVAtbWktT2E2RGZhZU1NTXhBc0ZGeHZONDBKTHNsT1gzbUljc0FNNnlfZFNZWkJEYnJxc1dYRHZYNkR6Vk15dlQ2NXN4TGxyUGVwN3BQNmt4VFhuemZDclNlMXUwWDlnc2xldUJHTnRVR01fakF1aUFxTERmbkx1aGRmUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-12-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Sagar Cements expands production reach in central India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181504/sagar-cements-expands-production-reach-in-central-india.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 5
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "taiwan_cement",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "carbon_emissions",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 177,
+    "too_old": 100,
+    "gate1_blocked": 12,
+    "gate2_blocked": 21,
+    "passed": 27,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "The Real Constraints Shaping Data Center Growth",
+      "A Look At Vulcan Materials (VMC) Valuation After Portfolio Shift Toward Aggregates-Led Growth - simp",
+      "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+      "Vulcan Materials Exits California Concrete Market, Expands in Colorado and Dallas-Fort Worth - Index",
+      "thyssenkrupp Uhde and Fuella Advance Major Green Ammonia Projects in Brazil with Pre-FEED Agreements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為蒂森克虜伯、Vulcan Materials、台泥相關動態：「Vulcan Materials seeks community input on $20M quarry exp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vulcan Materials seeks community input on $20M quarry expansion in Knox Count...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "tk accelis: Thyssenkrupp Materials Services rebrands with new name - EUROMETAL（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
