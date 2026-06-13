@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:29:45.660465Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vulcan Materials (VMC) Stock Valuation Check After Recent Momentum And Premium P/E Ratio - Yahoo Finance",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGNNa01ZejNrcGFBS3VBV3RWR2FId180ZW03SDZpM0NqUURrZmNQMjlGcTZraXpSM0NFY2ptVVVWY21TTG9KMzg4TWhhdHpicU00bGhFbGxadkRUMUhmeUtsMFJiSHlaaTlFZGFsc2gyWWJBTVI0aE1SbG40OGpiOEd4a05BanNCQ0NkSjdGTnNDMDF0Y2FxWFp5VHZMeVBVWExZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UltraTech Cement confirms no encumbrance on India Cements shares as of 31 Mar 2026 - scanx.trade",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmVVYW1vZWNmTXpwSHZodVJuNjFnWjBIS3l1ZkhsX0l3V2tvdEFrXzdrZG94bWtHbnJ2eTJvdE5PSkwtU1JiaFJURzNBYW1iaWFnRGMxUHhxU2VnVldMNnVCZWYzWTg4OGNraTVXOEItYVFpTC04OG9zYVFSa1pIczRvZHF2TU1pT0xrbDI2enhKZ0pVejJ2bFZ4ZnN4QnFfNW50TGpyNXQzSzRvMDNYUDhsQVBpUHdFUldNNUw0MGg4TVU2c0VXWUtWOFFVYnduamhSV3JB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 192,
+    "too_old": 101,
+    "gate1_blocked": 11,
+    "gate2_blocked": 15,
+    "passed": 16,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "The Real Constraints Shaping Data Center Growth",
+      "A Look At Vulcan Materials (VMC) Valuation After Portfolio Shift Toward Aggregates-Led Growth - simp",
+      "VULCAN SHARPENS AGGREGATES FOCUS: EXITS CALIFORNIA CONCRETE, EXPANDS AGGREGATES FOOTPRINT IN DALLAS-",
+      "thyssenkrupp Materials Services rebrands as tk accelis - Aerospace Manufacturing magazine",
+      "thyssenkrupp Uhde and Fuella Advance Major Green Ammonia Projects in Brazil with Pre-FEED Agreements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Vulcan Materials、UltraTech相關動態：「Vulcan Materials (VMC) Stock Valuation Check After Recent...」。主要關注主題為庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials (VMC) Stock Valuation Check After Recent Momentum And Premiu...（庫存）",
+        "level": "green"
+      },
+      {
+        "text": "UltraTech Cement confirms no encumbrance on India Cements shares as of 31 Mar...",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

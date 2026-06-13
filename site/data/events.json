@@ -1,5 +1,43 @@
 [
   {
+    "id": "vulcan-2026-06-13-001",
+    "date": "2026-06-13",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Stock Valuation Check After Recent Momentum And Premium P/E Ratio - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGNNa01ZejNrcGFBS3VBV3RWR2FId180ZW03SDZpM0NqUURrZmNQMjlGcTZraXpSM0NFY2ptVVVWY21TTG9KMzg4TWhhdHpicU00bGhFbGxadkRUMUhmeUtsMFJiSHlaaTlFZGFsc2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGNNa01ZejNrcGFBS3VBV3RWR2FId180ZW03SDZpM0NqUURrZmNQMjlGcTZraXpSM0NFY2ptVVVWY21TTG9KMzg4TWhhdHpicU00bGhFbGxadkRUMUhmeUtsMFJiSHlaaTlFZGFsc2gyWWJBTVI0aE1SbG40OGpiOEd4a05BanNCQ0NkSjdGTnNDMDF0Y2FxWFp5VHZMeVBVWExZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-06-13-002",
+    "date": "2026-06-13",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement confirms no encumbrance on India Cements shares as of 31 Mar 2026 - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmVVYW1vZWNmTXpwSHZodVJuNjFnWjBIS3l1ZkhsX0l3V2tvdEFrXzdrZG94bWtHbnJ2eTJvdE5PSkwtU1JiaFJURzNBYW1iaWFnRGMxUHhxU2VnVldMNnVCZWYzWTg4OGNraTVXOE",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmVVYW1vZWNmTXpwSHZodVJuNjFnWjBIS3l1ZkhsX0l3V2tvdEFrXzdrZG94bWtHbnJ2eTJvdE5PSkwtU1JiaFJURzNBYW1iaWFnRGMxUHhxU2VnVldMNnVCZWYzWTg4OGNraTVXOEItYVFpTC04OG9zYVFSa1pIczRvZHF2TU1pT0xrbDI2enhKZ0pVejJ2bFZ4ZnN4QnFfNW50TGpyNXQzSzRvMDNYUDhsQVBpUHdFUldNNUw0MGg4TVU2c0VXWUtWOFFVYnduamhSV3JB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-06-12-001",
     "date": "2026-06-12",
     "companies": [
@@ -194,6 +232,204 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20868-thyssenkrupp-calvion-signs-direct-air-capture-memoranda-of-understanding-in-alberta",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-06-12-011",
+    "date": "2026-06-12",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Can S&P 500 Industrial Stocks Lift Vulcan Materials on Revenue Growth? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTFTeEFTVnJqRkxaRVgzQnViRzdOVHFKSVh5d1pNX0ZzUU4xak9RMkRTWWRESlkwdjZLMi1RcW41UUFuZTc1a29yRU5YSEo0NDNaSWxZUXd5d183eTN2bEZMRG43NlkyYm1uSHFCWj",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTFTeEFTVnJqRkxaRVgzQnViRzdOVHFKSVh5d1pNX0ZzUU4xak9RMkRTWWRESlkwdjZLMi1RcW41UUFuZTc1a29yRU5YSEo0NDNaSWxZUXd5d183eTN2bEZMRG43NlkyYm1uSHFCWjR4ZVJZVUJJdFppWWtJWDFXZVh2ek1NcmtCVW1ZYnhSYXdHOW9lMFFPZHZPNEh5QTFWeXVXU21SQUNBd3BsazFUMDRiTE1OWldkR01kMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-12-012",
+    "date": "2026-06-12",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heirloom, TKMS And Thyssenkrupp Calvion Partner On Large Scale DAC In Canada - Carbon Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0UzNEotZ2ZNOUY0a2N1dUE5R2Z0WmNGYTBkNjNnSkxMVVVYbGtKS00xQ1ctZkRfUzhSNjR0YVA3bWRQdjhvbk5kbFlxZmtWN2lLR2RfSjNleWVFV29ITHlNNkUtQmZWRkg0ejdPdj",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0UzNEotZ2ZNOUY0a2N1dUE5R2Z0WmNGYTBkNjNnSkxMVVVYbGtKS00xQ1ctZkRfUzhSNjR0YVA3bWRQdjhvbk5kbFlxZmtWN2lLR2RfSjNleWVFV29ITHlNNkUtQmZWRkg0ejdPdjJoWUdYci1lQkhvRHNaX2wwenVyZk5QV0NPUE1qOUVOZ1RMblZmcHRKcWhNTmNrNXoyb2Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-12-013",
+    "date": "2026-06-12",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp has completed the sale of its remaining shares in AST to the Arvedi Group - GMK Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkNybXZrTFg3YUNsSU8zbGZycndBZGxUZUhlazBSdV9DdUU4NTJXTzVhMExGT1ZpeVVnRVdmZlc3Q1Z1MzRQZExhRUNSYW1BaGdOU2Eyc2tYRjhlYjJtNENhOGplNEVqVWxSMDE5Nk",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkNybXZrTFg3YUNsSU8zbGZycndBZGxUZUhlazBSdV9DdUU4NTJXTzVhMExGT1ZpeVVnRVdmZlc3Q1Z1MzRQZExhRUNSYW1BaGdOU2Eyc2tYRjhlYjJtNENhOGplNEVqVWxSMDE5Nk5sMHdBb3J3dFJSaEh0VFk4NFJPSzgzd0hlaktqQU1ma2xmRVBacFJDb3hrY0ZRVjRIV2ttYlE0QzNkYnNaZmhRR2k2am7SAboBQVVfeXFMT1oyLUlYSWRjRzlRXzdDRHhyMmtsY1BocXhWLVE2TmhlbHljOTMtcTE1emVlM3U5WTY3QmcyWGNDcl9aUGtseVM5d2tIZGhSdVAxSzVCamtPSkVXQjl5MW4xRlM3a3RGX2QxREczSG9weWx4YTNSX3FZYnpYNkNocmZqZEd4Q2t2VEtFeVFpNlBhYkd4aGo0bWcxaWc0S0pDWDM1eW9SS3VtNGRRYUh5LXhHWW1EVzZhdnBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-12-014",
+    "date": "2026-06-12",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "thyssenkrupp Uhde awarded pre-FEED contracts for two green-ammonia projects - chemengonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRllIVXpSOU40MVZGX3VnX2tjNGdDc042RjdXNmx5cThBT0hnU3N5U1k0M2I3c25PS0hXTnlWRzc1cTJXT0pQTElidWpDVkNMendUVGNwbl9jS3pnVllnZDFrWmdCQnNsdmZBY1F6Ul",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRllIVXpSOU40MVZGX3VnX2tjNGdDc042RjdXNmx5cThBT0hnU3N5U1k0M2I3c25PS0hXTnlWRzc1cTJXT0pQTElidWpDVkNMendUVGNwbl9jS3pnVllnZDFrWmdCQnNsdmZBY1F6Ulg0c05EUFdsLTVQc2NEMHlLSHNtUEI1ZS10R2VKRnpGTjVuVDlTdGcwcThXUDgxaVpXcDNJanBuOGJHdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-12-015",
+    "date": "2026-06-12",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Holcim wins conditional EU antitrust nod for €1.85 billion Xella acquisition - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTBTMmZ3ZTBXd0JFV0JQeHFVeFBoenh5U2NIMHcyNnRfOTlFa3Z0SzMwWmZ5RjlVUlZVQlpvUW9XLURQMEpFN2lSak1rVkpadUgxTmFSTUd0amNKQXE2eVFwUHFWb0dLR19BV3ptQU",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTBTMmZ3ZTBXd0JFV0JQeHFVeFBoenh5U2NIMHcyNnRfOTlFa3Z0SzMwWmZ5RjlVUlZVQlpvUW9XLURQMEpFN2lSak1rVkpadUgxTmFSTUd0amNKQXE2eVFwUHFWb0dLR19BV3ptQUVaa0VGeE90TG1FUmt5ZFZFM2h1UzdjNDR2ZzZLVWFSeHJxYVJNUGw3aV82RXlIR1FRd0xocVpQVEhDSWZWVU1WZW4zVjlWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-06-12-016",
+    "date": "2026-06-12",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement Portland Clinker: Core material for modern construction - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDh2Q1FVOEJrbW9kRm96Q3ZSR2gtdkVZT0FodlhLblh2MmtLNE1CUHNyaWh3ZERPQ2p3SDR2UHFhMVc3OGwyWm5uN0xxd0Q5bzQ1TnFWSTA4NWZfU0tJQUtzQ1hLc2JhUXdzTEtkT0",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDh2Q1FVOEJrbW9kRm96Q3ZSR2gtdkVZT0FodlhLblh2MmtLNE1CUHNyaWh3ZERPQ2p3SDR2UHFhMVc3OGwyWm5uN0xxd0Q5bzQ1TnFWSTA4NWZfU0tJQUtzQ1hLc2JhUXdzTEtkT0dqdnNKS1dTekgwZjlnVkd6d1VzOU9zdnltVVllSlRhaEprM0xoM3lLWEt2QkxwZW81cUpGWjdIelI5OTk4TzFhS21ZcFU4NWtKUHFqdnM0a2hZUE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-06-12-017",
+    "date": "2026-06-12",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Co Ltd Stock (HK0914000021): fundamentals in focus after sector volatility - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUllKQnBzdllXeVdDT2lRdHlzUi1VNjVvejZYZGtlMExLcVBINXpEQlRGNk5SekNfTGlGalVQZTFpS283cFB4OUFqbE4wbjBXTGtyRkpQVzNEam1XRGZCNjFwbW80WnNtaW5La0Q2Zk",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUllKQnBzdllXeVdDT2lRdHlzUi1VNjVvejZYZGtlMExLcVBINXpEQlRGNk5SekNfTGlGalVQZTFpS283cFB4OUFqbE4wbjBXTGtyRkpQVzNEam1XRGZCNjFwbW80WnNtaW5La0Q2ZkJranF1bmFWdkpHSjJFcHFpZVVyc1MzMTBpM1VGM04ydUx6V2IwOGdmYWZhSW1vMThzS2R3YzlwSzZYMTdVcjBQSUN6NFI3aGJYQkpfWW5xc2V3RFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-06-12-018",
+    "date": "2026-06-12",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement climbs Friday, outperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGtJTkxLUUpGRGs0RHBuczZ4Q3R4RVdvckYzd3dDM0s1dm8ybi0tZVZ6cnFTSUxUS2d4ZlVadUxnWG5YT2daZGRiOXlBeFRaY0hHY0VveHN4X3o3MWF3SzFwNFJiNWQ4Tkk4WXhEMW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGtJTkxLUUpGRGs0RHBuczZ4Q3R4RVdvckYzd3dDM0s1dm8ybi0tZVZ6cnFTSUxUS2d4ZlVadUxnWG5YT2daZGRiOXlBeFRaY0hHY0VveHN4X3o3MWF3SzFwNFJiNWQ4Tkk4WXhEMWxqeXd2d2VFbnpBMTNjVzl1dWYyQmVPVnVOUldmTnBKaU4xcGNYbjQ3WTNtWTdGTm4zeDVqWDJKcTh0dHhQeG4wRFlraG5pNjB1WlgyOTdCR0k0eW9HUEhwR1dUbmZBS1A3Ymww?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-019",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Ex-Chicago Housing Authority director, builder accused of $4.8M kickback scheme",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3PWBfSzDVJc_bZXj5QAp3v0dzEFi3MBeee35cGuzHGk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTQwMTk5NDEwLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/chicago-housing-authority-director-builder-kickbacks/822765/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-020",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Punch List: Turner highlights World Cup builds, AECOM nabs DHS contract",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/MGPZKuir56_WBYhuCbNSDIJvUy-TDgraXsvJLVdptPs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb25lc19IYWxsX2F0X3RoZV9Vbml2ZXJzaXR5",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/punch-list-turner-world-cup-aecom-dhs/822761/",
         "type": "rss"
       }
     ]
@@ -597,6 +833,48 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/meta-workforce-academy-data-center-construction/822698/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-06-11-022",
+    "date": "2026-06-11",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Building Materials Stocks Q1 Earnings Review: Vulcan Materials (NYSE:VMC) Shines - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlVKQjlEZ2ZRLWhJMGUtdzBsS01qODkxMDBxR2FxMzVPaEhuY3FaYjlkTTBPNlc3NEpwU3lUN0JCTy1aUGNNV0dIU2NHeUFvTXpyajVfUW1qMGxLaEF6SnlwVTFKcHM3eVlndlZkVF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlVKQjlEZ2ZRLWhJMGUtdzBsS01qODkxMDBxR2FxMzVPaEhuY3FaYjlkTTBPNlc3NEpwU3lUN0JCTy1aUGNNV0dIU2NHeUFvTXpyajVfUW1qMGxLaEF6SnlwVTFKcHM3eVlndlZkVFNlNnJHbnBPeTlDWG9vS0dWQTR4ZTJLMHljcWFhXzZydko1THhpSmZudGVyZDE0bW9WbWJjbTBpVXhCUFdRM2VtYmRSZEs5aS1fRFZ5VmJkWVJxc2I2NlRUZTlrWnk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-06-11-023",
+    "date": "2026-06-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Stocks to watch, June 11: REC/PFC, Ultratech Cements, AVG Logistics, Dhruv Consultancy, PowerGrid, 3i Infotech - BusinessLine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JfSzQtYkswdE4wR2ttMFdUWXVhcUJ3ekEyeU9MVlRRNFVBWjFqVWtjTzZqMl9rZF8wam5lX2JwUjY1dHM3VzFUeXZSell2QllQTXU0MmZ6XzMwQ00yV3Y4OXh0MkxLWFY3Nkx6aT",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOS1JfSzQtYkswdE4wR2ttMFdUWXVhcUJ3ekEyeU9MVlRRNFVBWjFqVWtjTzZqMl9rZF8wam5lX2JwUjY1dHM3VzFUeXZSell2QllQTXU0MmZ6XzMwQ00yV3Y4OXh0MkxLWFY3Nkx6aTJoU00ycFIwSlF2QkY5OVNBaFFNUXNmNUFudU9pWmFrZVF3Z2V5QXdYbl9tUy1uSXFacXhGNXdPTVdWY1Qya01JRm9uWERydFRxSXpHaDB0QWp0cnNQQndCTUZ6bEJyR2hvLVVhSEVNSU5kbGQzMmZGNXd5ZEpYeklGRVFBTTc4VE85Zm5WZUx3YVdsdmFCbmlMVklSVGVQczBheU1xdE1TNkRfblU5d9IBnAJBVV95cUxOUEthQ2VOeGk4aE5FeFZHOGp6TUdWanprZjdvM0w4TmJvOGxuQUJiUENLTy1pMXZyWW9adktNX2xjNEhfaVByd0k0X01aclBuRm9XVnZGUGRiekR4RVJsaWhvb1hDWjR1WXl1VjVHc1VOQ1A4QVQ0YWFyUFFaU1VpaFVabkdheDJoVjFDdVlfMTcyVVFxS3ZhUTB2SEl1bm5lVlQ5ZVEyeE9kaFFrdHZURk5CekhhakRtY2tuTlFsYzR6bzlROVJVMzNQQ1dwazZHZ2ZTbVBmYWpvbkhYN294ZTl4N0JDOUx2blg2aWxkWE9lajhkZlNWTjVoWG9DMU9sQ01iVmN0VkxydlFSc2FyN093c19QYnRfVDlieA?oc=5",
         "type": "rss"
       }
     ]
@@ -1280,6 +1558,45 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVZXZnZBdllGelJlc1d5R3FjZTcwVTJLT2xhOUt1ODZqdkVGOGFwQmZtX1dtdkJwVy1JUkJhQTQwTW5jbG5oRmUwSWRXMS1iT0JKakFoVjlNUXJ2RnU5SzI5eFl6M2s1Q1VhQnpLZ2EwLWU1VmZxZTFYSnNnX2Roc0dzbVhWSkpoWDE5V2w3Z05NaXNXZHpMUWFPQWlBcUZoakRYSnEwZ3l4NTFIc3ppLThJQ3A2RFZsc2lOV2JhRk55VkxpWlIyTFUwdmlLX21MbTRHa1Jzc3NRV25iSWNXMndfbFoySDY1alo2UjhyNXJkTjVQMlFGVGQ5NGRVQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-036",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "(S+) Our Warming Climate: A Pilot Project in Norway Raises Doubts about CCS Sustainability - spiegel.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVZXZnZBdllGelJlc1d5R3FjZTcwVTJLT2xhOUt1ODZqdkVGOGFwQmZtX1dtdkJwVy1JUkJhQTQwTW5jbG5oRmUwSWRXMS1iT0JKakFoVjlNUXJ2RnU5SzI5eFl6M2s1Q1VhQnpLZ2",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVZXZnZBdllGelJlc1d5R3FjZTcwVTJLT2xhOUt1ODZqdkVGOGFwQmZtX1dtdkJwVy1JUkJhQTQwTW5jbG5oRmUwSWRXMS1iT0JKakFoVjlNUXJ2RnU5SzI5eFl6M2s1Q1VhQnpLZ2EwLWU1VmZxZTFYSnNnX2Roc0dzbVhWSkpoWDE5V2w3Z05NaXNXZHpMUWFPQWlBcUZoakRYSnEwZ3l4NTFIc3ppLThJQ3A2RFZsc2lOV2JhRk55VkxpWlIyTFUwdmlLX21MbTRHa1Jzc3NRV25iSWNXMndfbFoySDY1alo2UjhyNXJkTjVQMlFGVGQ5NGRVQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-06-10-037",
+    "date": "2026-06-10",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement stock (INE481G01011): Market data points to a premium valuation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUxyZnd1RUN3dFFXbUViQVVPTVNoRVBmbjdzSVk4dmU3TjFoU0ZJelpNb0NwYjg1bl9KMXFGQlkySDY3REJJcjR3Tk5PVFZjdHZ5cWsxTjY3dGYzeGNETmdkeHJQbER6RzB1TS02eU",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUxyZnd1RUN3dFFXbUViQVVPTVNoRVBmbjdzSVk4dmU3TjFoU0ZJelpNb0NwYjg1bl9KMXFGQlkySDY3REJJcjR3Tk5PVFZjdHZ5cWsxTjY3dGYzeGNETmdkeHJQbER6RzB1TS02eUJWVl8zV0ZhSlJDM3lMak9YdTJvVG9kbW03aTBNOUdtODluQThHUGlnU2stUjJmRkVRSnhWQlVhN1g5eVFLcUhGby1tMDlja2lBQkJLZk1LOGRhcEh3?oc=5",
         "type": "rss"
       }
     ]
