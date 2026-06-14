@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:51:30.214340Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-06-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp Uhde and Fuella Sign Pre-FEED Agreement for Green Ammonia Projects in Brazil - megaproject.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFdTd1Zybm1rNkFVQjBYeWhtem1vdklDNXNXdGcyRjE4NzFCeWl1dy1NMGEyMGdjaFdIM290LVgxeTN1WjNPcjBrNm8wdHBnNVgyOEthQ3R3cG9hbFlQbEE2Q3FFZHB1b29NOUtfZG52dm0yOHVKMEcxZENTY09KdXpxVGI4M1k4WmY2M0c0TXh0bkVmWlMySnJWMkdpSHgzWDFVcWpLWDFhX1BtMWxMWEpYNV9rZ3BvYVpwSXdjZm5XUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 202,
+    "too_old": 100,
+    "gate1_blocked": 12,
+    "gate2_blocked": 13,
+    "passed": 7,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "The Real Constraints Shaping Data Center Growth",
+      "A Look At Vulcan Materials (VMC) Valuation After Portfolio Shift Toward Aggregates-Led Growth - simp",
+      "Thyssenkrupp: Cash Inflow From Transaction Totals a High Double-Digit Million Euro Figure - Moomoo",
+      "Thyssenkrupp Uhde gets job at Brazilian green ammonia projects - Renewables Now",
+      "thyssenkrupp Uhde and Fuella Advance Major Green Ammonia Projects in Brazil with Pre-FEED Agreements"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為蒂森克虜伯相關動態：「thyssenkrupp Uhde and Fuella Sign Pre-FEED Agreement for ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "thyssenkrupp Uhde and Fuella Sign Pre-FEED Agreement for Green Ammonia Projec...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "蒂森克虜伯為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

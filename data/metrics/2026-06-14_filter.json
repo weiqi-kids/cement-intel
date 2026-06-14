@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 12,
+  "gate2_fail": 13,
+  "passed": 7,
+  "gate2_samples": [
+    "The Real Constraints Shaping Data Center Growth",
+    "A Look At Vulcan Materials (VMC) Valuation After Portfolio Shift Toward Aggregates-Led Growth - simp",
+    "Thyssenkrupp: Cash Inflow From Transaction Totals a High Double-Digit Million Euro Figure - Moomoo",
+    "Thyssenkrupp Uhde gets job at Brazilian green ammonia projects - Renewables Now",
+    "thyssenkrupp Uhde and Fuella Advance Major Green Ammonia Projects in Brazil with Pre-FEED Agreements"
+  ]
+}

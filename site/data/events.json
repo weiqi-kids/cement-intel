@@ -1,5 +1,25 @@
 [
   {
+    "id": "thyssenkrupp-2026-06-14-001",
+    "date": "2026-06-14",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Uhde and Fuella Sign Pre-FEED Agreement for Green Ammonia Projects in Brazil - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFdTd1Zybm1rNkFVQjBYeWhtem1vdklDNXNXdGcyRjE4NzFCeWl1dy1NMGEyMGdjaFdIM290LVgxeTN1WjNPcjBrNm8wdHBnNVgyOEthQ3R3cG9hbFlQbEE2Q3FFZHB1b29NOUtfZG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFdTd1Zybm1rNkFVQjBYeWhtem1vdklDNXNXdGcyRjE4NzFCeWl1dy1NMGEyMGdjaFdIM290LVgxeTN1WjNPcjBrNm8wdHBnNVgyOEthQ3R3cG9hbFlQbEE2Q3FFZHB1b29NOUtfZG52dm0yOHVKMEcxZENTY09KdXpxVGI4M1k4WmY2M0c0TXh0bkVmWlMySnJWMkdpSHgzWDFVcWpLWDFhX1BtMWxMWEpYNV9rZ3BvYVpwSXdjZm5XUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-06-13-001",
     "date": "2026-06-13",
     "companies": [
@@ -33,6 +53,46 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcmVVYW1vZWNmTXpwSHZodVJuNjFnWjBIS3l1ZkhsX0l3V2tvdEFrXzdrZG94bWtHbnJ2eTJvdE5PSkwtU1JiaFJURzNBYW1iaWFnRGMxUHhxU2VnVldMNnVCZWYzWTg4OGNraTVXOEItYVFpTC04OG9zYVFSa1pIczRvZHF2TU1pT0xrbDI2enhKZ0pVejJ2bFZ4ZnN4QnFfNW50TGpyNXQzSzRvMDNYUDhsQVBpUHdFUldNNUw0MGg4TVU2c0VXWUtWOFFVYnduamhSV3JB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-06-13-003",
+    "date": "2026-06-13",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Stock After Construction Boom Hype Is The Price Still Justified - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlFFcTZmZ1RoLVZVbm42Y2g1ZjR3Yk9maXU4MGdUOUk2bUdYVWl1QzBBMjZXbThiblo1cVpiVFBNOFVHbGRnWjk0YXFZZVFDRGlmVGNWV1I1ZnJ3dDFrbkRja2dNR2lIb0NVajdLU2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlFFcTZmZ1RoLVZVbm42Y2g1ZjR3Yk9maXU4MGdUOUk2bUdYVWl1QzBBMjZXbThiblo1cVpiVFBNOFVHbGRnWjk0YXFZZVFDRGlmVGNWV1I1ZnJ3dDFrbkRja2dNR2lIb0NVajdLU2hMZ1haNXZyMHhfWFhkeHhzWWpodVNiY3dpZlFHZ1N6ZDkwZVpPLWhZaC11bUYtQWhKRXlNM080WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-06-13-004",
+    "date": "2026-06-13",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How Vulcan’s Big Q1 Earnings Beat Versus Cautious Sentiment At Vulcan Materials (VMC) Has Changed Its Investment Story - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOW53NFpLN05sa0tuSEx4OUdUOEwzUWpRQkxLdkhIT1VpVmE2MmJzR0MzWXJPSEZmSGlrd21zOThITzFxdmVQWjVYMTVIMHh5VFgwNUZiMWVsZTFHc1hTRF9PSzMyOEpZQUxuTUdBVH",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOW53NFpLN05sa0tuSEx4OUdUOEwzUWpRQkxLdkhIT1VpVmE2MmJzR0MzWXJPSEZmSGlrd21zOThITzFxdmVQWjVYMTVIMHh5VFgwNUZiMWVsZTFHc1hTRF9PSzMyOEpZQUxuTUdBVHhkRXNFU3Y2TS1paUlPWVl2X3gzaW5fbExxeHJRbGxrR0xwX0l0YjBN?oc=5",
         "type": "rss"
       }
     ]
@@ -880,6 +940,26 @@
     ]
   },
   {
+    "id": "ultratech-2026-06-11-024",
+    "date": "2026-06-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement slides Thursday, outperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3dwVWxLMFVUNHFiU2NjZUFNQkhmM2Z2cnJvNWRvbDNVQlNGdDVfQkFkY2ZRMEdTZkt1Q25walJlWFQ2UDB3bXlDM3JtZ05kRGc2S202X1ZvUExQRmwzZ3lHY1lRUW1lVkY5LWx1Wl",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3dwVWxLMFVUNHFiU2NjZUFNQkhmM2Z2cnJvNWRvbDNVQlNGdDVfQkFkY2ZRMEdTZkt1Q25walJlWFQ2UDB3bXlDM3JtZ05kRGc2S202X1ZvUExQRmwzZ3lHY1lRUW1lVkY5LWx1WlJ1eWVJOEE3NF94VUszQmYzZ2pkS19MNXBUVmQ0eXRfVFVmOGFnR0xzZjR0U0JOWm54SUlGVnBoa0VPOGtmR1Q0WjhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-06-10-001",
     "date": "2026-06-10",
     "companies": [
@@ -1597,6 +1677,65 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOUxyZnd1RUN3dFFXbUViQVVPTVNoRVBmbjdzSVk4dmU3TjFoU0ZJelpNb0NwYjg1bl9KMXFGQlkySDY3REJJcjR3Tk5PVFZjdHZ5cWsxTjY3dGYzeGNETmdkeHJQbER6RzB1TS02eUJWVl8zV0ZhSlJDM3lMak9YdTJvVG9kbW03aTBNOUdtODluQThHUGlnU2stUjJmRkVRSnhWQlVhN1g5eVFLcUhGby1tMDlja2lBQkJLZk1LOGRhcEh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-10-038",
+    "date": "2026-06-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp: Step Forward in Further Streamlining and Focusing Portfolio - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcGVzUkk4dThQMHJVV1E5eWp3OFZZZjYxdEo2QThKcGluckxERkx6VFNRZEFXMkRVLVFVTXZjcXJkYkg3OWIyRFJZT1o0TFBqa2Y4Ukh3dmlfU2dpVFpYSFpJSXBzdS1YUWlYc3hFSG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcGVzUkk4dThQMHJVV1E5eWp3OFZZZjYxdEo2QThKcGluckxERkx6VFNRZEFXMkRVLVFVTXZjcXJkYkg3OWIyRFJZT1o0TFBqa2Y4Ukh3dmlfU2dpVFpYSFpJSXBzdS1YUWlYc3hFSGgyUGtLNC1fc202U01sbDVqRUY4NVVvWHl5NE9LakhaaUpfUFdBdXVaRWMzU0FUQnlVdVlNT0lkM1NDQWdSSEhnekI2b2dnZGtCT1pjWUNSNVotVjUxSmVVQ3pKMVlQeDRnbjc5cmJCSVFLWW9JbVZBMmxrbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-10-039",
+    "date": "2026-06-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Sells Remaining 15% Stake in Acciai Speciali Terni S.p.A to Arvedi Group - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGwzanp2SjFmSHRMbjk5LU9rclFSaHBVNzEyejVXNjc4M01uRHFiLTlTSGFrR2V5RWxjTVUyRERJSkRLRlk2YnptSUxtaGRQSVpQY3RPaUpYT1FTMnR5WTJ3aDNDYy1tdVBUU3ZEQj",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGwzanp2SjFmSHRMbjk5LU9rclFSaHBVNzEyejVXNjc4M01uRHFiLTlTSGFrR2V5RWxjTVUyRERJSkRLRlk2YnptSUxtaGRQSVpQY3RPaUpYT1FTMnR5WTJ3aDNDYy1tdVBUU3ZEQjNseWN5RlVnWFFxa2lCMWJ3VUlCWHlEUDI1VVJxekNWOU5zYjFvWk1YdkJ5emlDNm1fXzY2XzRlMEZ2eVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-10-040",
+    "date": "2026-06-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim launches industry's first carbon capture test platform to validate advanced technologies - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUF92RHpoWXcyeDNEbHM5Q1RpVkU4RHJKd1NWa20xYWs1TlRlbnU5YTBnNE00dWNDYzFtY1dWcFppZE93QWpZbGpsMk1yX2tPeGNWS19GdWYtaGM4cktod0FwMDU4M3hfU1B2RnZ2eW",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUF92RHpoWXcyeDNEbHM5Q1RpVkU4RHJKd1NWa20xYWs1TlRlbnU5YTBnNE00dWNDYzFtY1dWcFppZE93QWpZbGpsMk1yX2tPeGNWS19GdWYtaGM4cktod0FwMDU4M3hfU1B2RnZ2eWM3NVFPRHBxbkFPbEtnYzljaXlodlZ5ZW9nbFYtbnk3UHY2SGw1cFF3dGNpUE13bGVOTjVrSldiZ0xFN1JJaC02YUFCQ2k2SVJ3VTJLYlpvM0p0YlRhNE5tcW9mVjFRZUdHSFNzTGcxNnRBZkU?oc=5",
         "type": "rss"
       }
     ]
