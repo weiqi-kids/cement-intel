@@ -1,0 +1,268 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:56:15.489714Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-15-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Lebap Cement plant output rises in first quarter of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.globalcement.com/news/20875-lebap-cement-plant-output-rises-in-first-quarter-of-2026"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Four North American manufacturing companies unite under new tk accelis Materials Plus brand - Today's Medical Developments",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGM1T1ZLOVdvWHNaZHFJaXkxTEVnY3hhWk1JVk51V1JxNXRLZmVZMTFuM3g2eFBLY180UEQ3YVFOQjBFTHNZTTkxTGthNy1MYTF5dUdWV0FscmpHWFVYS3RVTXVaQ0NfeWlRT0xWTkdxVTZLYkw4OFBYMWpkVG0xaGMxMXctYmtuNWNJRmpmZVQxNFlSNUJQT0Zoam1BM2NpakEtdHMtU1Y5WDJSTm9ZN01tXzZIcEdtZUQyRlhNZkF2YmdXMUxvSlNzelROQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-06-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp Uhde to drive sustainable ammonia production in Brazil - ALCHEMPro",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWTB6b3BnelNZSmkwbXpPd19sNUtZSl80Mk92UGJvZVdRZlhkdlBPS2l2UG9POFd0QUV3aDQySVpzRFhMRmotb0FKZW9WS1c2MTZzLXlWQ1diN0xZang5b3Z3T3RlN2dOdi1FYnYyNS1CQVR1Tk03ZGc4eEZsLXQwdXFPSzNFV21CbHQyN1IwZV85T05sSjhLQVNjNHFWejMzOFJqVjRrdG9Mdk8zTjMwb1hGMTVFTmZvY2ZyR2phUHNoYVU1NzZsQVQ5OWctSVFKMGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-06-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Spin-Off Momentum Gathers Pace Amid Labour Unrest and EU Steel Shield - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDhCNnlHOXpfbjJCMERuUWJEbXVraVJyekRNb1JJYnBUekt1bUcyR2l3czMzRGRTeVdwUm54YzFmNXJjd01iYnZxZTZEelJZWlFuaDZKQUhMLXQxVVpjWlladWxCM3BsQ3hiWDIwODhwMlpMNGNZTk9YY0NsWXJaOE9SQThQX0VvUkFCS0d1bEk2TWVVUU9RWV8xU3JqVk5zQU53LV9PUEdjVGtEdTY2dHZ4RWxDR19sQWI5cjZ4Tzk5RnlSRnA4TjJ3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "siam_cement-2026-06-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mass-market twist for Siam Cement, SCG Super Cement targets Thai builders - AD HOC NEWS",
+      "companies": [
+        "siam_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbjRBeTV5SWFyWUdncThpMlFucGV2dV9LRU9CMHRRYjlYSTE0YnBiOENFNFV5R0ZEM2pPM2RPWnpjRmF0Q29nWE1IUVQ3bjhrNERBRzBwR2dERFlWT0JqYk9UOUI2ZGtTc042SlVmR084bGFEYldqMDNEM0twb1VpcGpodXZ3enBqNDVIZFQtSlhqV2tUNFRjV3NSSl93UjZ2S3ZoSHVGdUFjSmNoM2JUeTVJY0txV2lTMkxDTHhOSUVia0ZIVW16eDI0QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      },
+      {
+        "id": "siam_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 184,
+    "too_old": 106,
+    "gate1_blocked": 13,
+    "gate2_blocked": 10,
+    "passed": 22,
+    "pass_rate": "14.6%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "The Real Constraints Shaping Data Center Growth",
+      "A Look At Vulcan Materials (VMC) Valuation After Portfolio Shift Toward Aggregates-Led Growth - simp",
+      "thyssenkrupp Uhde and Fuella Advance Major Green Ammonia Projects in Brazil with Pre-FEED Agreements",
+      "The Real Constraints Shaping Data Center Growth",
+      "Cemex Rebrands Houston Shell & Concrete as Cemex Direct in Texas - Construction Owners"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為蒂森克虜伯、UltraTech、Siam Cement相關動態：「Lebap Cement plant output rises in first quarter of 2026」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lebap Cement plant output rises in first quarter of 2026（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Four North American manufacturing companies unite under new tk accelis Materi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
