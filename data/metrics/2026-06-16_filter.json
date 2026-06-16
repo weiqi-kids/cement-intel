@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 13,
+  "gate2_fail": 13,
+  "passed": 30,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "The Real Constraints Shaping Data Center Growth",
+    "Thyssenkrupp: Cash Inflow From Transaction Totals a High Double-Digit Million Euro Figure - Moomoo",
+    "thyssenkrupp Uhde and Fuella Advance Major Green Ammonia Projects in Brazil with Pre-FEED Agreements",
+    "Holcim UK mark another major milestone at Tilbury - Agg-Net"
+  ]
+}
