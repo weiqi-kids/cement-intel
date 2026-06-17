@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:17:18.076494Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-17-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Power Cement records strong profit turnaround driven by surging exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181531/power-cement-records-strong-profit-turnaround-driven-by-surging-exports.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-06-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan turns water challenge into sustainable success - Pit & Quarry",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczQ4ZW12RzVpMEZlSlBXdXFldGdCYklsemhodzY3RGRvWkFjUDZNTjRDNnhBZExJdUF1WTlqQVhTNm5NNzl4a1o1ZGxPX3lYQ2RoT0x0NVhYRE1qUVJhMDhub1dNSVo4aG9INnVSMEJNM0NVZWt4d1ZVQ2ZBQTZEbWVuS05jRmxlaDlSYUpoc3lQMGdUS0V2MlBaYXc1ZzdaMDBXTVBra0w3RmpvTWhHbUpR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-06-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp plans to spin off its materials trading division - GMK Center",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3UxSG16R1RHUzViT2RacGp2azZMbjZqUVhDTy1GcThmdGRjVkJWTjlBaWJBNkx4dmstSm90OExqXzg3ZHNIXzRNWVNRbG9aeFhQNm9xMENEcEpjdXBtNEszNVp0bWgtZkJiRzR4aXNkcHFJcHplWTE0SEYtcVJUcE9lT2xQRGJYNEdzZ1FfVzZBZ2_SAZgBQVVfeXFMTVh4WkZlQngwdy1WXzBlcVNWQUo3NnZZc3Y3ZDRrVXZ6cHdGUDlXTGFsbzdXdnVETlNqMEtMRFdPZWFsa0c4X1FYRmtuT3lpeVdhOW9ucDNPbU1FRFVkVjFhdEl5cEhNOFpHaDNDRC1scFJxVXhLR0s2WmFGTDRTeWkxdVVlS2cwaHM2ZWNGX1lkbVJKdkV2VS0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-06-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Announces Separation of tk accelis, Plans Frankfurt Listing by End of 2026 - News and Statistics - IndexBox",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXZrZTZPWC11QmJ3eGdBV0VGR0JxM1N2ekwxYnZ0Mjk4dXVYY0RBTXQybEFBMTRSdFNuM0NTUjhIVHlnalZUM2NVRXZSMzNYeDJ6VzZmTlBUcnFna0J6R3lUMkY1V1hBZUJlZlN2a0t6QU9NWjdXdUF1LUlCeHNGSmI5SW5uZkFrQ3ljLTVsSXptYjVtTHUw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-06-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Supervisory Board Approves Spin-off Plan - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2pjRUc4TmJiNE9OYzNIQlZ5cG1tQmtENVlDRmx2OTNPWUJoQWFXb1l1Sjhxb3NBdko4ZzA4SWFuOUNuU2NJaU8zYURLOTdubmJuQ1JPZmtLQndFWnpMZWFQYjdxYk0ydWdPT2hfTGM3aVRFbVN1T2FnS1dQT2lzWkhLNnV1VFI4cDBTWms2ZkRENUNuMnh2SmtJNnA1YWprMWdlLUMyenpzT1Q2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 174,
+    "too_old": 101,
+    "gate1_blocked": 14,
+    "gate2_blocked": 19,
+    "passed": 29,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Scaling Next-Generation Cementitious Materials",
+      "The Real Constraints Shaping Data Center Growth",
+      "Vulcan Materials Insider Sold Shares Worth $646,545, According to a Recent SEC Filing - marketscreen",
+      "Thyssenkrupp to spin off materials trading division, its biggest by sales - Reuters",
+      "Thyssenkrupp to spin off materials trading business - Financial Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為蒂森克虜伯、Holcim、UltraTech相關動態：「Power Cement records strong profit turnaround driven by s...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Power Cement records strong profit turnaround driven by surging exports（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Vulcan turns water challenge into sustainable success - Pit & Quarry（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

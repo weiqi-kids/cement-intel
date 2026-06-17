@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 14,
+  "gate2_fail": 19,
+  "passed": 29,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "The Real Constraints Shaping Data Center Growth",
+    "Vulcan Materials Insider Sold Shares Worth $646,545, According to a Recent SEC Filing - marketscreen",
+    "Thyssenkrupp to spin off materials trading division, its biggest by sales - Reuters",
+    "Thyssenkrupp to spin off materials trading business - Financial Times"
+  ]
+}
