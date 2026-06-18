@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 14,
+  "gate2_fail": 16,
+  "passed": 18,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "Canada nears decision on Korean, German submarine bids - upi.com",
+    "Thyssenkrupp to spin off materials trading business - Financial Times",
+    "BofA Keeps thyssenkrupp at Buy Amid Planned Materials Services Business Spinoff - marketscreener.com",
+    "Thyssenkrupp to spin off materials trading division - TradingView"
+  ]
+}

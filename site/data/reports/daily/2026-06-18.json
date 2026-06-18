@@ -1,0 +1,246 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:52:18.766290Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-06-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Co (VMC) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UjNDOVV6ZkR0TzlMN1NPRDJtd1BUbS1xMVBaZ3hSQlVlQm5aTHBIZDg5VEFwVGNTcTMtUVBTVVNMaXR2eWRQSjE3YTNZODlXSnhRNzFJLWdtX1Y4cFJUdExsSHBPVGRTNWNsXw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-06-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG approves independent spin-off and listing of tk accelis - Yieh Corp.",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd19iWmo0ZlVaSks1bGZ0c1BqQUM2YUZtR2pKM25hRkZ2WWFHUy1pRTRWcVNxUGlhaU9kMkJQdkQ4NUJRYkliYzdQdkR6R2RoZkdDODZOR1VPNl9FT2Z3a2ZSaTREYlAtYlMyNW1ScEptdTJrQzhTWFk2Sjlidi1KUnVvRHNiSnFyakJobkt1bXhOOVhfMnBVd2ZVX2pSRFFzbmpDVlFB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-06-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Deploys 45 Electric Trucks - Construction World",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQzJjOTVjUEZFd0ZHd0o5UWMxeDhWSXFaSk5jU2pXdGtrRVIzRlBLblRJSkZSYnFadklWdy1idEt0bzJuUmQtWWYyNzVMN045RFRyUWd2Vnd6REk0WkVJeVZYeXg1QUtMd2U3U3hyQ2pReGdYeGVkZU9ySV9Nd3J3cl9SX0hkTW1STGdUMmY0WHdCS0xJZnZFbW0tTklmejk5U2VNM2ZKbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-18-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Cement plant plan faces protest in Bathinda village",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181539/cement-plant-plan-faces-protest-in-bathinda-village.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-18-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Mannok Cement installs new kiln hood and ABC cooler inlet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/20894-mannok-cement-installs-new-kiln-hood-and-abc-cooler-inlet"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      },
+      {
+        "id": "crh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 172,
+    "too_old": 111,
+    "gate1_blocked": 14,
+    "gate2_blocked": 16,
+    "passed": 18,
+    "pass_rate": "11.3%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Scaling Next-Generation Cementitious Materials",
+      "Canada nears decision on Korean, German submarine bids - upi.com",
+      "Thyssenkrupp to spin off materials trading business - Financial Times",
+      "BofA Keeps thyssenkrupp at Buy Amid Planned Materials Services Business Spinoff - marketscreener.com",
+      "Thyssenkrupp to spin off materials trading division - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為蒂森克虜伯、Vulcan Materials、UltraTech相關動態：「Vulcan Materials Co (VMC) Revenue Breakdown: Business Seg...」。主要關注主題為財報、產能、碳排放，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials Co (VMC) Revenue Breakdown: Business Segments, Regional Reve...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "thyssenkrupp AG approves independent spin-off and listing of tk accelis - Yie...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
