@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-19",
+  "total_events": 9,
+  "by_company": {
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "cemex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.38
+    },
+    "carbon_emissions": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "capacity": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

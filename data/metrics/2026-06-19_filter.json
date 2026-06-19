@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 15,
+  "gate2_fail": 16,
+  "passed": 20,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "Thyssenkrupp to spin off materials trading division, its biggest by sales - Reuters",
+    "Thyssenkrupp to spin off materials trading division - MSN",
+    "Thyssenkrupp to spin off materials trading business - Financial Times",
+    "thyssenkrupp Uhde replaces IGSAS ammonia converter cartridge and catalyst - World Fertilizer"
+  ]
+}

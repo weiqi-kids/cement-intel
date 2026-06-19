@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:07:51.520198Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-06-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Holcim is expanding in high-value Building Solutions - Holcim",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYk1OV0NaeEhPREtUaXZpek1pbm9BNnRwSmFFV0syU3EtcUxmQ25BTlk1UkR0QVpUTEg2a25oN0ZGUjBaQUNDWTJERkw0OW91VWlSQTdTQnY5NnR0UnlvY3hvMWN0OXhBSWVtN2x0ZUtYaldXSDBPVWM0bG1tbU9RMVM3cGVVY2daLUJxSXltb2RnQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DYFQ2026 Charts and Quotes - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56cTJiaWYtbm9oOGlGMktGdUlwczBrdGl2SjJSVUZ5czhud1dTeGh1cDBJRGhHeVBBWGY4c0tpNVJETERUanNxMjlHRng0T3FlUV9oNU1IX1ItMjVDMC1NVVhsMzQ2anhKejVqTG04YVpKYkZ6eHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-06-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Expands Green Logistics Fleet In Partnership With EIM - Siliconindia",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHo5Z1VOaUNUcWdScFF1VVhSdXFPMnU5UXZORWFNT29jWlAtWTMxWHdISnBGOEw2dDRkQm9Cc09fbXBDaVZUekNwdzJ5T3cySHhDYjR1QXN0S0pZc3FOMEpjSkRNaHc4NjhjWWRhX0c5SzZFMnlhWlZxR3V3dEc4ODBnZFZnYjNZUWJBc1ZqT21GWWVyYXJqenM0dkxscVZkM0Z3aEM1ZHJfTzQ2dGdqM1liRXRVTmF4OXVENHlMQnkyOTJBUG1RWnpWU3lqNVZD?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-06-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Expands Green Logistics Fleet with 45 Electric Trucks in Partnership with EIM - Energetica India Magazine",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSmpxdm1qTWg5UHI2YVdhRUxvclRfNjdKekdhNjU4WF83bUtMQ2ttcmNVbjVSQ1NsUGEwUF9RTGxFSHlmUU56ZXBGNGdlMXREWkwzOUFGdmo1dW5wUzVyOWdnWUdWQzNSYUg5WlgwdGNpcEZ4SnhPbUVpWGdEX2U1RV9oZHVBdnNWaEpZSkx2ZU9RVEpNZU0wcG1qWU5wRWlFTmVjbUN2UEFNbUVJdmpqcHhVbjhndmVDWW5pdXBsOFR6TGVsa2w0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-19-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Amrize prepares groundbreaking ceremony of the modernisation of its Saint-Constant Cement plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181551/amrize-prepares-groundbreaking-ceremony-of-the-modernisation-of-its-saint-constant-cement-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 165,
+    "too_old": 119,
+    "gate1_blocked": 15,
+    "gate2_blocked": 16,
+    "passed": 20,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Scaling Next-Generation Cementitious Materials",
+      "Thyssenkrupp to spin off materials trading division, its biggest by sales - Reuters",
+      "Thyssenkrupp to spin off materials trading division - MSN",
+      "Thyssenkrupp to spin off materials trading business - Financial Times",
+      "thyssenkrupp Uhde replaces IGSAS ammonia converter cartridge and catalyst - World Fertilizer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為UltraTech、Holcim、CEMEX相關動態：「How Holcim is expanding in high-value Building Solutions ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "How Holcim is expanding in high-value Building Solutions - Holcim（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "DYFQ2026 Charts and Quotes - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
