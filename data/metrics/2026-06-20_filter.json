@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 6,
+  "gate2_samples": [
+    "Scaling Next-Generation Cementitious Materials",
+    "Thyssenkrupp to spin off materials trading division, its biggest by sales - Reuters",
+    "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+    "Thyssenkrupp to spin off materials trading division - MSN",
+    "Thyssenkrupp to spin off materials trading business - Financial Times"
+  ]
+}
