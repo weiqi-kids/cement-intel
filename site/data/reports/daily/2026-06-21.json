@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:17:01.959591Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 173,
+    "too_old": 121,
+    "gate1_blocked": 11,
+    "gate2_blocked": 7,
+    "passed": 3,
+    "pass_rate": "2.1%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Scaling Next-Generation Cementitious Materials",
+      "Vulcan Materials Insider Sold Shares Worth $646,545, According to a Recent SEC Filing - marketscreen",
+      "Holcim opposes Huaxin Cement bid for CSN cement division - cemnet.com",
+      "Scaling Next-Generation Cementitious Materials",
+      "UltraTech Cement slides Friday, outperforms competitors - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-06-21 無水泥產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
