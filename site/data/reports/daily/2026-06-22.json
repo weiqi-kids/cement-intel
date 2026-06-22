@@ -1,0 +1,274 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:36:29.474598Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crh-2026-06-22-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infrastructure Products for $8.5B",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "capacity_consolidation",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "2 Profitable Stocks Worth Investigating and 1 Facing Challenges - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmlFUE9EUEdSNTRhelUwcXZ3ejUteWxRdDJaSTJxUmV5RlRkU19BSlZURHVTbGNzVG5QUGRHSzBWX3NpZGpfRFgzaWVuYllqSjhlY0p6a3ozcWlmZjlnNHJtQkJTYzNTWXRydi1uWGgwT2hxQzNsbS1EOHJPUlkyUjZhMHNjckFJVXpRZzROMm5nSnJYTVBHNW42eVg3Q210OG5STVkzbktuNUROdlNuUmdBV0ZjVkdVQTZ3QjM1Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "asia_cement-2026-06-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "High early strength in heavy-duty projects - Asia Cement’s Type I Portland Cement in focus - AD HOC NEWS",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0tjYW1UMWFCbU5aaF95ZXQydllOMVQ1VUhmeVdSMHpvSkVxVWtJR1NBQkI3SnFxY1JteXNuSjlHU3g2c05vRnhQTWFwNUZwdU1JWS1pRURwQnJzUm44T0ItMkJkYlpLWTJ6RDFYLTRPeFNpdnJISHNaa251Vlp0QVZKeFdYMWNGay1TTXBSY01ISERTUHdYU0EtUVZsTWFhempSWG51R0NlbWV5RHdfT1ZBclFTVWlrSEttVWRFaw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-06-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why UltraTech’s Portland Pozzolana Cement quietly shapes India’s skyline - AD HOC NEWS",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVl6LUhjSGw3VDhRNm5HdU5BeFpaQzdaQUhibjRzZFFBemU3NU94OHFGaXE0TmduY005TDVESGVIUDBYejUyQ3ZBUFhHQTNFVEVoMy1GRXJTZ0Q0RHZiVE9rWXlObi1yVTNtU1k0ZzR0ZmMybjJPWmxhdF9BZkozVkZ5MGxPLWxQV3V0MU9nclB5ZVZjWDF3d0k3Vi0talB0V2t3NWkwbGNxQ2pWZlRZOS1HQnV6czRKazJFUGdhSXo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-22-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Construction surges ahead despite cost, power concerns",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.constructiondive.com/news/construction-surges-cost-power-concerns/823307/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 316,
+    "dup_title": 161,
+    "too_old": 110,
+    "gate1_blocked": 13,
+    "gate2_blocked": 14,
+    "passed": 18,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Scaling Next-Generation Cementitious Materials",
+      "Thyssenkrupp to spin off materials trading division, its biggest by sales - Reuters",
+      "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+      "Thyssenkrupp to spin off materials trading business - Financial Times",
+      "thyssenkrupp Uhde replaces IGSAS ammonia converter cartridge and catalyst - World Fertilizer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為CRH plc、亞泥、UltraTech相關動態：「CRH to Acquire Arcosa; Leading U.S. Provider of Aggregate...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infra...（基建支出、產能整合、財報）",
+        "level": "red"
+      },
+      {
+        "text": "2 Profitable Stocks Worth Investigating and 1 Facing Challenges - StockStory（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

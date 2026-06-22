@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-22",
+  "total_events": 12,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "capacity_consolidation": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "capacity": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
