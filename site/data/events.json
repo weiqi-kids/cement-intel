@@ -1,5 +1,101 @@
 [
   {
+    "id": "thyssenkrupp-2026-06-23-001",
+    "date": "2026-06-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nordex Surges Higher! Sharp Revenue Decline at thyssenkrupp nucera! Is dynaCERT a Buy Now? - news.financial",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWt4Q21oU1N1cXFQUEM4V2pEUXhnN3RBdVBrZGxSbjRzY2dnUWk1N1ZnemZTdmdEX3lUdzBkR2pXN3RNT2Rhc3VKcDhKZnJ1dFlrb0Rfa0pHRC1SY3g2aTNGVDE5SS1kTjBmdWN5WF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWt4Q21oU1N1cXFQUEM4V2pEUXhnN3RBdVBrZGxSbjRzY2dnUWk1N1ZnemZTdmdEX3lUdzBkR2pXN3RNT2Rhc3VKcDhKZnJ1dFlrb0Rfa0pHRC1SY3g2aTNGVDE5SS1kTjBmdWN5WFEyVHF0YmN0eXU0dWlFODNhdlVRV3B3WkpoQ3M5UlFFa05fZjJMcWJWVEZWUkdGTWQ4b3RJc3AzaDRrT0ZPaTQyTTNzQmNaZmFPZWlGUHBVcVNGV1p3NFJIeG10VC00RThLT2l3dg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-23-002",
+    "date": "2026-06-23",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials opens the week with a full calendar, shares in the DAX cement sector - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm5DUThlbWRtZDhLT1BwM0JINkhfNUYxaE5QS0VuYlpBVlMzNWJROGpaclFxMVhYMmVKSDVYb21lT3hpcGQzRXFmYWljUmgydkN4Q1ZEcGlxb2JmTnJETUF5cWx5QS02QnFxZVFzcE",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm5DUThlbWRtZDhLT1BwM0JINkhfNUYxaE5QS0VuYlpBVlMzNWJROGpaclFxMVhYMmVKSDVYb21lT3hpcGQzRXFmYWljUmgydkN4Q1ZEcGlxb2JmTnJETUF5cWx5QS02QnFxZVFzcEhJSVhsSFdNSkk5RkEtdk9WXzE5WnFlLVlqcUNPX3F3UU05WVZzYmZmM2haYzVvTjU3dHVDNHlJbUl2V2l0azYzVkFqX1F4UFhHNW5JVTFJdWZ3TXZaTVI2eg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-06-23-003",
+    "date": "2026-06-23",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Sichuan low-alkali cement from Asia Cement Co. - steady strength for massive projects - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQenJkZWNsMzFjMGwtdzA1YzRnaGN4NktuVzdFWDZ4ZjdvTW9tYVlWVGNwVHAzdmNJZzBSd0lxM2VCMXJoc2oxOE5XWGxmTGdNOGQ4eEhUOHo1UC1DUjZfWmJIRUNvRXNMWHB4SzdxcU",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenJkZWNsMzFjMGwtdzA1YzRnaGN4NktuVzdFWDZ4ZjdvTW9tYVlWVGNwVHAzdmNJZzBSd0lxM2VCMXJoc2oxOE5XWGxmTGdNOGQ4eEhUOHo1UC1DUjZfWmJIRUNvRXNMWHB4SzdxcU40VnJzMWxEOFBNSENYQ05oaVdqVF84ZDJfVmhGMzg4RFVRQ2xjMkV0c2lPUXQ2RGJVcVFjUUU5eklOVjF3RmtzOXJ4YU5hQUJoQ05HOGxDY25CV3h6Um00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-004",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "cement_pricing"
+    ],
+    "impact": "negative",
+    "title": "Nigerian government urges cement producers to cut prices",
+    "summary": " Nigeria's Minister of Works, David Umahi, has called on the country's cement producers to reduce cement prices, warning that rising costs are increasing pre...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181567/nigerian-government-urges-cement-producers-to-cut-prices.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-005",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "China sets hard coal and CO2 targets for 9 industries",
+    "summary": "China released its Three-Year Action Plan for Energy-Saving and Carbon-Reduction Transformation in Key Industries on 15 June. In the plan, the country target...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181553/china-sets-hard-coal-and-co2-targets-for-9-industries.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "crh-2026-06-22-001",
     "date": "2026-06-22",
     "companies": [
@@ -212,6 +308,78 @@
     ],
     "impact": "negative",
     "title": "Construction surges ahead despite cost, power concerns",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/g_RMA1JMmw4uMCt33SWrT6Nf1L2IDAc5ywiHCqUq2w0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzcxMDYxLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-surges-cost-power-concerns/823307/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-013",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Global Cement and Concrete Association holds Building the Sustainable Future: Pathways to Low-Carbon Cement and Concrete conference",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/GCCA-Thomas-Guillot-1-1500.jpg\" /></p><p><strong>UK:</strong>&nbsp;The Global Cement and Concrete Association (GCCA) has held its Building the Sus",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20901-global-cement-and-concrete-association-holds-building-the-sustainable-future-pathways-to-low-carbon-cement-and-concrete-conference",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-014",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "positive",
+    "title": "Infrastructure, data centers kept construction starts strong in May",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/cvD3rcKgSVu8Jxfgp97_u8tiOinkJ8MmWLR1bgi_9P4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TU05fQWVyaWFsX1JlbmRlcmluZ18tX1VwZGF0",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/infrastructure-data-centers-construction-starts-strong-may/823424/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-015",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Carollo Engineers lands $210M California water contract",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3ff2SpIA1rRNYg9S3FzQ3o773fO-Rhsl570CZ3rC2mo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PcGhpci1XVFAtQ29uc3RydWN0aW9uLWFuZC1T",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/carollo-engineers-california-water-contract-ophir-auburn/823400/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-016",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Construction surges despite cost, power concerns",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/g_RMA1JMmw4uMCt33SWrT6Nf1L2IDAc5ywiHCqUq2w0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzcxMDYxLmpwZw==",
     "sources": [
       {
@@ -628,6 +796,27 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20895-holcim-completes-acquisition-of-xella",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-06-19-015",
+    "date": "2026-06-19",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "How is Vulcan Materials' stock performance compared to other building & construction stocks? - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLUZSNDJzQUdQWlZKRDN2cmFSOU0zaG9wWEFSWGNOX1JVMjdFWUhWNWU3eld4TWNDc0FWRk1JaDRjbnV3ay1NWWI0WXc4MFdjc3FmQ3lSMlVJeWVlUmVNcHZzZzFTWl9MUE85cm9kOG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLUZSNDJzQUdQWlZKRDN2cmFSOU0zaG9wWEFSWGNOX1JVMjdFWUhWNWU3eld4TWNDc0FWRk1JaDRjbnV3ay1NWWI0WXc4MFdjc3FmQ3lSMlVJeWVlUmVNcHZzZzFTWl9MUE85cm9kOGRFNS14LWoyaGRnb0ZzTGdwd1NuZEJLU3QzT1d4SFJNdEx2LVROSVF6UE8xU3RXU1FnYW10UnpieDVha3ZkYm1NbGpqWUFUYVZybEpUZkFuTkRSdnRoX2t1TXA4UzlzdS16X1Q0WjBjMF9Sdw?oc=5",
         "type": "rss"
       }
     ]
@@ -2118,6 +2307,26 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGVZdHdvUnctdTU2LXd1YVo3Ujk0LUx2SE15TXJ3b3FKaEVlYTdpM3JCbVJCVklsUlo5eDJ1bkxENEI2OVROYTZyWDVtX19wRHNwbXlaRHhRUDJhSHBLSTNKM2lXLWNaeGo0X3k1dnRvOWxkb043M3BVS213ZUVpcWFZTU12WUlFakJKMGw3cjVWZTdZT1hoblNJa0tzMnN3c0Nr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-16-035",
+    "date": "2026-06-16",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CSN Cement Sale Faces Questions as Holcim Resists Huaxin Bid - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQejA1ak1Ec1RVM21GZ1I5bXVZTDQ5OHp0c0RWOUZtZWtXUHFtdHFaWHZZRm4yODFERnNsaEpQX09sLXBFWTlPcmNuY2IwSVg0QWdFcFpkVXBuVWxNeWt5ZlQ1ZW5td25NOElWbXJFRk",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejA1ak1Ec1RVM21GZ1I5bXVZTDQ5OHp0c0RWOUZtZWtXUHFtdHFaWHZZRm4yODFERnNsaEpQX09sLXBFWTlPcmNuY2IwSVg0QWdFcFpkVXBuVWxNeWt5ZlQ1ZW5td25NOElWbXJFRkc3STd6b215czd2OTFCODBpME51QS1fQ1hLQ2hxaDdEalVHZF93amhDVUxIVHhsQjBQeG5DbTRFV0NXRTNIekRYNA?oc=5",
         "type": "rss"
       }
     ]

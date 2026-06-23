@@ -1,0 +1,227 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T11:17:14.102370Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-06-23-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nordex Surges Higher! Sharp Revenue Decline at thyssenkrupp nucera! Is dynaCERT a Buy Now? - news.financial",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWt4Q21oU1N1cXFQUEM4V2pEUXhnN3RBdVBrZGxSbjRzY2dnUWk1N1ZnemZTdmdEX3lUdzBkR2pXN3RNT2Rhc3VKcDhKZnJ1dFlrb0Rfa0pHRC1SY3g2aTNGVDE5SS1kTjBmdWN5WFEyVHF0YmN0eXU0dWlFODNhdlVRV3B3WkpoQ3M5UlFFa05fZjJMcWJWVEZWUkdGTWQ4b3RJc3AzaDRrT0ZPaTQyTTNzQmNaZmFPZWlGUHBVcVNGV1p3NFJIeG10VC00RThLT2l3dg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-06-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials opens the week with a full calendar, shares in the DAX cement sector - AD HOC NEWS",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm5DUThlbWRtZDhLT1BwM0JINkhfNUYxaE5QS0VuYlpBVlMzNWJROGpaclFxMVhYMmVKSDVYb21lT3hpcGQzRXFmYWljUmgydkN4Q1ZEcGlxb2JmTnJETUF5cWx5QS02QnFxZVFzcEhJSVhsSFdNSkk5RkEtdk9WXzE5WnFlLVlqcUNPX3F3UU05WVZzYmZmM2haYzVvTjU3dHVDNHlJbUl2V2l0azYzVkFqX1F4UFhHNW5JVTFJdWZ3TXZaTVI2eg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "asia_cement-2026-06-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Sichuan low-alkali cement from Asia Cement Co. - steady strength for massive projects - AD HOC NEWS",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenJkZWNsMzFjMGwtdzA1YzRnaGN4NktuVzdFWDZ4ZjdvTW9tYVlWVGNwVHAzdmNJZzBSd0lxM2VCMXJoc2oxOE5XWGxmTGdNOGQ4eEhUOHo1UC1DUjZfWmJIRUNvRXNMWHB4SzdxcU40VnJzMWxEOFBNSENYQ05oaVdqVF84ZDJfVmhGMzg4RFVRQ2xjMkV0c2lPUXQ2RGJVcVFjUUU5eklOVjF3RmtzOXJ4YU5hQUJoQ05HOGxDY25CV3h6Um00?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-23-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nigerian government urges cement producers to cut prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cement_pricing"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181567/nigerian-government-urges-cement-producers-to-cut-prices.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China sets hard coal and CO2 targets for 9 industries",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181553/china-sets-hard-coal-and-co2-targets-for-9-industries.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cement_pricing",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 179,
+    "too_old": 115,
+    "gate1_blocked": 16,
+    "gate2_blocked": 13,
+    "passed": 11,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+      "Thyssenkrupp to spin off materials trading division, its biggest by sales - Reuters",
+      "Value Creation Through Realignment: Why thyssenkrupp, Desert Gold, and Meta Are Now Fundamentally At",
+      "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+      "thyssenkrupp Uhde successfully completes ammonia converter cartridge and catalyst replacement for İG"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為蒂森克虜伯、海德堡材料、亞泥相關動態：「Nordex Surges Higher! Sharp Revenue Decline at thyssenkru...」。主要關注主題為財報、水泥價格、碳排放，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nordex Surges Higher! Sharp Revenue Decline at thyssenkrupp nucera! Is dynaCE...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Heidelberg Materials opens the week with a full calendar, shares in the DAX c...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "水泥價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
