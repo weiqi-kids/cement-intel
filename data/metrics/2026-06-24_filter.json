@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 16,
+  "gate2_fail": 10,
+  "passed": 20,
+  "gate2_samples": [
+    "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+    "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+    "Value Creation Through Realignment: Why thyssenkrupp, Desert Gold, and Meta Are Now Fundamentally At",
+    "thyssenkrupp Uhde successfully completes ammonia converter cartridge and catalyst replacement for İG",
+    "Thyssenkrupp approves plan to restructure tk accelis - SteelOrbis"
+  ]
+}

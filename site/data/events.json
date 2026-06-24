@@ -1,5 +1,113 @@
 [
   {
+    "id": "unknown-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "New Nigerian cement factory planned following limestone discovery",
+    "summary": "  The government has decided to establish a new cement factory due to challenges associated with reactivating the moribund Nigercem plant in Nkalagu. Governo...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181573/new-nigerian-cement-factory-planned-following-limestone-discovery.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Tajikistan begins construction of two 1.2Mta cement plants",
+    "summary": " Tajikistan has begun construction of two new cement plants in Varzob district as part of a government programme to expand the country's cement production ca...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181572/tajikistan-begins-construction-of-two-1-2mta-cement-plants.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-003",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Afrimat Construction Index shows marginal growth",
+    "summary": "  The Afrimat Construction Index for the 1Q26 rose by 0.3 per cent YoY, marking the third consecutive quarter of seasonally adjusted growth. Compiled by econ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181571/afrimat-construction-index-shows-marginal-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-004",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Dangote Cement Cameroon targets 3Mta capacity by 2028",
+    "summary": "  Dangote Cement Cameroon  plans to double its cement production capacity to 3Mta by 2028 through the expansion of its Douala plant and the development of a ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181575/dangote-cement-cameroon-targets-3mta-capacity-by-2028.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-005",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Work on building two new cement plants starts in Tajikistan",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/construction-site.jpg\" /></p><p><strong>Tajikistan:</strong> Construction work on two new 1.2Mt/yr cement plants has begun on behalf of Tajik Ceme",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20911-work-on-building-two-new-cement-plants-starts-in-tajikistan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-006",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Najran Cement downgrades impact of fuel prices on production costs",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/najran-cement-1500.jpg\" /></p><p><strong>Saudi Arabia:</strong> Najran Cement says that an anticipated increase in its production costs due to ris",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20908-najran-cement-downgrades-impact-of-fuel-prices-on-production-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -91,6 +199,144 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181553/china-sets-hard-coal-and-co2-targets-for-9-industries.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-23-006",
+    "date": "2026-06-23",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim UK marks major milestone as Tilbury Cement Works commences Import and Distribution Operations - HUB-4.COM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZjhYUVF1bFNBczVIU1drRmtrVFpnbUI4TVhxXzhBeWpVUDlzalQ2S295V3JCMmRDZmZ4SHlhMjFtV0owU0NFdjlnNmxUbGd5c05kOF9VQ0pJUmwwSWE1WUktOVNwUHBXMVI3ZnZKbW",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZjhYUVF1bFNBczVIU1drRmtrVFpnbUI4TVhxXzhBeWpVUDlzalQ2S295V3JCMmRDZmZ4SHlhMjFtV0owU0NFdjlnNmxUbGd5c05kOF9VQ0pJUmwwSWE1WUktOVNwUHBXMVI3ZnZKbWhETVpJOGROM0IwODNFWGwyazgwQjlyZHk4OXV0SUdFTEJhYzFPNTl2ckNTUUZBU3V6LWtVUS1CRTE3U3lva3g3X3QzU0plUzFWbGM4d0tjYjU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-06-23-007",
+    "date": "2026-06-23",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Sichuan low-alkali cement from Asia Cement Co. - steady strength for massive projects - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQenJkZWNsMzFjMGwtdzA1YzRnaGN4NktuVzdFWDZ4ZjdvTW9tYVlWVGNwVHAzdmNJZzBSd0lxM2VCMXJoc2oxOE5XWGxmTGdNOGQ4eEhUOHo1UC1DUjZfWmJIRUNvRXNMWHB4SzdxcU",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenJkZWNsMzFjMGwtdzA1YzRnaGN4NktuVzdFWDZ4ZjdvTW9tYVlWVGNwVHAzdmNJZzBSd0lxM2VCMXJoc2oxOE5XWGxmTGdNOGQ4eEhUOHo1UC1DUjZfWmJIRUNvRXNMWHB4SzdxcU40VnJzMWxEOFBNSENYQ05oaVdqVF84ZDJfVmhGMzg4RFVRQ2xjMkV0c2lPUXQ2RGJVcVFjUUU5eklOVjF3RmtzOXJ4YU5hQUJoQ05HOGxDY25CV3h6Um00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-06-23-008",
+    "date": "2026-06-23",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement slides Tuesday, outperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlMwbndSOXpqS2lLR3E4dlVEZzJrTkFjMXI1UHN5NWxvdUlqQU40MWE0bDV5blpBcmo4VGMxaW44UXNGcHlrQ1lxWjdTX0kyQmZReTdxanJZbUZqOHFDSFR5dFRlcGpVYlNfNnNaOT",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlMwbndSOXpqS2lLR3E4dlVEZzJrTkFjMXI1UHN5NWxvdUlqQU40MWE0bDV5blpBcmo4VGMxaW44UXNGcHlrQ1lxWjdTX0kyQmZReTdxanJZbUZqOHFDSFR5dFRlcGpVYlNfNnNaOTRnVGpITUVQYzNaTTByNmI0X2wwODdlWDdBaTRpcUphaldjZnlFOFMtVW9wRC1CVkNsbjJIbVZxN1g5SW1LRGVXSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-23-009",
+    "date": "2026-06-23",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Cemvision partners with Siemens for systems including digital twins at upcoming alternative cement plants",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/Heidelberg_Materials_UK_backfill.jpg\" /></p><p><strong>Sweden:</strong> Cemvision has signed a strategic partnership agreement with Germany-based Sieme",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20906-cemvision-partners-with-siemens-for-systems-including-digital-twins-at-upcoming-alternative-cement-plants",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-23-010",
+    "date": "2026-06-23",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Worley secures services contract for Holcim’s carbon capture projects in the UK and EU",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/Germany_renewables_and_lignite_coal-fired_power_plant_C_r.classen.jpg\" /></p><p><strong>Europe:</strong> Australia-based engineering firm Worley has si",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20905-worley-secures-services-contract-for-holcim-s-carbon-capture-projects-in-the-uk-and-eu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-011",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Dalmia Bharat to raise US$422m for investments and debt repayment",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/india-mumbai-skyscraper-construction_c_yavuz_sariyildiz.jpg\" /></p><p><strong>India:</strong> Cement producer Dalmia Bharat plans to raise up to US$422",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20904-dalmia-bharat-to-raise-us-422m-for-investments-and-debt-repayment",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-012",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Jacobs-McCarthy JV starts work on $185M California water project",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/uguQovVRvyfePpAzfJ5XE2WkzYkLZoNHjgheVh49v3M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Hb2xkc3dvcnRoeV9FeHRlcmlvcl81LTIuanBn",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/jacobs-mccarthy-california-desalter-project/823539/",
         "type": "rss"
       }
     ]
@@ -390,6 +636,26 @@
     ]
   },
   {
+    "id": "asia_cement-2026-06-22-017",
+    "date": "2026-06-22",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "High early strength in heavy-duty projects - Asia Cement’s Type I Portland Cement in focus - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0tjYW1UMWFCbU5aaF95ZXQydllOMVQ1VUhmeVdSMHpvSkVxVWtJR1NBQkI3SnFxY1JteXNuSjlHU3g2c05vRnhQTWFwNUZwdU1JWS1pRURwQnJzUm44T0ItMkJkYlpLWTJ6RDFYLT",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0tjYW1UMWFCbU5aaF95ZXQydllOMVQ1VUhmeVdSMHpvSkVxVWtJR1NBQkI3SnFxY1JteXNuSjlHU3g2c05vRnhQTWFwNUZwdU1JWS1pRURwQnJzUm44T0ItMkJkYlpLWTJ6RDFYLTRPeFNpdnJISHNaa251Vlp0QVZKeFdYMWNGay1TTXBSY01ISERTUHdYU0EtUVZsTWFhempSWG51R0NlbWV5RHdfT1ZBclFTVWlrSEttVWRFaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-06-21-001",
     "date": "2026-06-21",
     "companies": [
@@ -418,6 +684,24 @@
     ],
     "impact": "neutral",
     "title": "Why Conch Cement’s premium Portland cement 42.5R remains a quiet backbone of construction - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRl9qRThTcTZXa1RWVE5xYVF1eHBfQktrVXpSenBYQTBVbjZjMV9lYkY5azBKb1dlWThRTjhfVkRSa09VLVVPaElsS2h3NnozWFVwR1BqRmtpVWlXTHlKRlNibXdnMjVrVFowVEhlUj",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRl9qRThTcTZXa1RWVE5xYVF1eHBfQktrVXpSenBYQTBVbjZjMV9lYkY5azBKb1dlWThRTjhfVkRSa09VLVVPaElsS2h3NnozWFVwR1BqRmtpVWlXTHlKRlNibXdnMjVrVFowVEhlUjhxQTJZQ3FnWHVGWHBnMlVJV2F1TDBCMXk5Tzd6MG1WZk93SmZiUHNxVDRZZGV1X3FlY2p6MmR2S09qTDRlWktrNTh1bG1GOE14ekpFVTZBRWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-21-003",
+    "date": "2026-06-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Conch Cement’s premium Portland cement 42.5R remains a quiet backbone of construction - Ad-hoc-news.de",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRl9qRThTcTZXa1RWVE5xYVF1eHBfQktrVXpSenBYQTBVbjZjMV9lYkY5azBKb1dlWThRTjhfVkRSa09VLVVPaElsS2h3NnozWFVwR1BqRmtpVWlXTHlKRlNibXdnMjVrVFowVEhlUj",
     "sources": [
       {
@@ -522,6 +806,47 @@
     ],
     "impact": "neutral",
     "title": "The Siam Cement PCL Stock - Long-term strategy and regional expansion - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWs1MmpGTjVmNllSbU8yY2hEQmpmdHBzMVBEd2VwS25oWE1Hcm9PVnhqb1g3RUNwWVd1ejhYOFFHdktVS3hNZXBiV3pEaFNSbjVvUEFpTGFoeDJ4Y2pVTnRXajNpcHFIRC1ZM0dZVk",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWs1MmpGTjVmNllSbU8yY2hEQmpmdHBzMVBEd2VwS25oWE1Hcm9PVnhqb1g3RUNwWVd1ejhYOFFHdktVS3hNZXBiV3pEaFNSbjVvUEFpTGFoeDJ4Y2pVTnRXajNpcHFIRC1ZM0dZVkFDR1RnaU5EVTJtMWVWeUlPY0lvbDVWMXdEaWxnV1FKbV9KVy1qbjhiQzlYZzJndER5TDNEU1RoRTl3UXpXS0twS3JpMnJHZlY1TUdkUVNsUmJpTTZM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-06-20-006",
+    "date": "2026-06-20",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement Stock - background and business model overview - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSncxSTFudjUycTR6SC1qa2N3Znd4SDVuUWFzc0ZTTGxUSmp0empYV0FzRWgtNmZoRjZ6MDNKbWRia1Z2bnRJRzNOSDhNd1psWjFmSndrV3hhaWE1V3Z5Uy1tMXJ0MzRkamhPaUtxcH",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSncxSTFudjUycTR6SC1qa2N3Znd4SDVuUWFzc0ZTTGxUSmp0empYV0FzRWgtNmZoRjZ6MDNKbWRia1Z2bnRJRzNOSDhNd1psWjFmSndrV3hhaWE1V3Z5Uy1tMXJ0MzRkamhPaUtxcHJBNEVBZUJycHVIVkdObTZFRFctamNnMmhfbFlCSU05NEU2b25JOEkxd2tKQ0pYeGVoYU5HWk92WmUxMWtNOUktdTFfOHh4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-06-20-007",
+    "date": "2026-06-20",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "capacity",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement PCL Stock - Long-term strategy and regional expansion - Ad-hoc-news.de",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWs1MmpGTjVmNllSbU8yY2hEQmpmdHBzMVBEd2VwS25oWE1Hcm9PVnhqb1g3RUNwWVd1ejhYOFFHdktVS3hNZXBiV3pEaFNSbjVvUEFpTGFoeDJ4Y2pVTnRXajNpcHFIRC1ZM0dZVk",
     "sources": [
       {
@@ -817,6 +1142,47 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLUZSNDJzQUdQWlZKRDN2cmFSOU0zaG9wWEFSWGNOX1JVMjdFWUhWNWU3eld4TWNDc0FWRk1JaDRjbnV3ay1NWWI0WXc4MFdjc3FmQ3lSMlVJeWVlUmVNcHZzZzFTWl9MUE85cm9kOGRFNS14LWoyaGRnb0ZzTGdwd1NuZEJLU3QzT1d4SFJNdEx2LVROSVF6UE8xU3RXU1FnYW10UnpieDVha3ZkYm1NbGpqWUFUYVZybEpUZkFuTkRSdnRoX2t1TXA4UzlzdS16X1Q0WjBjMF9Sdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-06-19-016",
+    "date": "2026-06-19",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Stock - weekly review in a soft China cement market - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnltUlRHWXJDY3hqZzBURGRYWmRCZ1U5dUFKZUE4VHJnYXhMSVlfMmhRN0JiRG5jSGhtX1B2MGRueE9rQ1ZER002X29EbGpSMjdHalpDdUd2VDQ5eURTZzY2LTk5QzlwWGtEcXhJV3",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnltUlRHWXJDY3hqZzBURGRYWmRCZ1U5dUFKZUE4VHJnYXhMSVlfMmhRN0JiRG5jSGhtX1B2MGRueE9rQ1ZER002X29EbGpSMjdHalpDdUd2VDQ5eURTZzY2LTk5QzlwWGtEcXhJV3ZSbGV5TXRnMFZZNGdXMmhFcHpXNDBaT1ZMcE5KY0praFplNnpyaGxOclpCOEk5TE1leWw1eHVEbzVuaUpnT29SUWcydjdjak5BNjF0YUI5N1lCbkJseVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-06-19-017",
+    "date": "2026-06-19",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Backs SBI's US Cement Exports via CalPortland Partnership - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPS3VMeWNUV01qVm05elJObWJnc3lTa3BPUVB3UkRCclEwc3F6bWt5Q28xZUtBV0t5aWtERE5VQ1VBVzMyUUcwSzdDNW5uWHBZYVJzRksyc1d2Z3kydExveFB0NHZHajNIWmZJQ2NTUm",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS3VMeWNUV01qVm05elJObWJnc3lTa3BPUVB3UkRCclEwc3F6bWt5Q28xZUtBV0t5aWtERE5VQ1VBVzMyUUcwSzdDNW5uWHBZYVJzRksyc1d2Z3kydExveFB0NHZHajNIWmZJQ2NTUmYyR1dreVVPSjRHS0ZGSGlPU0l5WmhlWlVqaTQ1WkZ4SFl5U1hsQ2hHVklKMmc4WVhhZnVzc0lB?oc=5",
         "type": "rss"
       }
     ]
@@ -1160,6 +1526,27 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlBDOURBR0x2S1AxdzV6RDFPcjVaVHNKZVZmWWNsc29YeEs3WlVYWUc5V1ZDbVlxeHBQQWVmbDNlRGliQ3R6TTdtaWxLaEd6eE5lZVNPQkdSQ2UwU2hpbWFiLW5XQTVBMnFxOU9GVUN1aEVRUFVFYmdzSy04QTlGQkRLV1BnaHZ0SHFfRHVNLU5kRExXZEszd0dLbThCMVIzVUQwQjg0WmpmVDFaVm1UTHo0b3FobmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-06-18-019",
+    "date": "2026-06-18",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Low-clinker cement, Asia Cement’s Eco Innovation 32.5R targets greener builds - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSlBtbThCMl84ZHJPUGlENE9QTUh0aFlkZG9iSjhPRHVtcy0xbFVuNU5jQV9Id3Z3YWlTMlU4RG45RXZPNm5GNFFxMnVabWRPSExXMk1ZS1Q1NHYyZGJ4elRHQWQ2ZURhaTQ0MW90OU",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSlBtbThCMl84ZHJPUGlENE9QTUh0aFlkZG9iSjhPRHVtcy0xbFVuNU5jQV9Id3Z3YWlTMlU4RG45RXZPNm5GNFFxMnVabWRPSExXMk1ZS1Q1NHYyZGJ4elRHQWQ2ZURhaTQ0MW90OUxqWU9vRWR0Q2h6R3dveV9UbWhQN3pHUktCSHZxQmRLUWZUM3VQcjZIWlloNjZmZWpkNnFNd29HaUtsYkt6V1dlTFo3Rm1GVGgxbXZxVHpfREozdl9UQUs0?oc=5",
         "type": "rss"
       }
     ]

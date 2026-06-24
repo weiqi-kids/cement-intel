@@ -1,0 +1,181 @@
+{
+  "date": "2026-06-24",
+  "date_range": {
+    "start": "2026-06-18",
+    "end": "2026-06-24"
+  },
+  "generated_at": "2026-06-24T10:50:50.768514Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "crh-2026-06-22-001",
+      "date": "2026-06-22",
+      "title": "CRH to Acquire Arcosa; Leading U.S. Provider of Aggregates and Critical Infrastructure Products for $8.5B",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 18,
+      "last_week": 30,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.19
+    },
+    "carbon_emissions": {
+      "this_week": 7,
+      "last_week": 12,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": 0.0
+    },
+    "raw_material_energy_cost": {
+      "this_week": 3,
+      "last_week": 14,
+      "week_over_week_change": "-79%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 13,
+      "last_week": 11,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.04
+    },
+    "inventory": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "infrastructure_spending": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 1.0
+    },
+    "capacity_consolidation": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.5
+    },
+    "cement_pricing": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "vulcan": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "thyssenkrupp": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 2
+    },
+    "ultratech": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 1
+    },
+    "crh": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "holcim": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "cemex": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "asia_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "heidelberg": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 81,
+        "last": 142,
+        "change_pct": -43.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-18",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 17,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 17,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 6,
+      "sentiment_avg": 0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-18 ~ 2026-06-24）共 81 則事件，重點為「CRH to Acquire Arcosa; Leading U.S. Provider of...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "UltraTech",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CRH plc",
+        "reason": "受原料能源成本議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

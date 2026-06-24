@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:50:50.629777Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Afrimat Construction Index shows marginal growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181571/afrimat-construction-index-shows-marginal-growth.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-24-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Tajikistan begins construction of two 1.2Mta cement plants",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181572/tajikistan-begins-construction-of-two-1-2mta-cement-plants.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-24-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Dangote Cement Cameroon targets 3Mta capacity by 2028",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181575/dangote-cement-cameroon-targets-3mta-capacity-by-2028.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-24-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Work on building two new cement plants starts in Tajikistan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/20911-work-on-building-two-new-cement-plants-starts-in-tajikistan"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Nigerian cement factory planned following limestone discovery",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181573/new-nigerian-cement-factory-planned-following-limestone-discovery.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 164,
+    "too_old": 127,
+    "gate1_blocked": 16,
+    "gate2_blocked": 10,
+    "passed": 20,
+    "pass_rate": "11.6%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+      "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+      "Value Creation Through Realignment: Why thyssenkrupp, Desert Gold, and Meta Are Now Fundamentally At",
+      "thyssenkrupp Uhde successfully completes ammonia converter cartridge and catalyst replacement for İG",
+      "Thyssenkrupp approves plan to restructure tk accelis - SteelOrbis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為產能、原料能源成本、財報相關動態：「Afrimat Construction Index shows marginal growth」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Afrimat Construction Index shows marginal growth（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tajikistan begins construction of two 1.2Mta cement plants（產能）",
+        "level": "green"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
