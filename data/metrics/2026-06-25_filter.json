@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 16,
+  "gate2_fail": 8,
+  "passed": 13,
+  "gate2_samples": [
+    "Enterprise value to EBITDA forward of thyssenkrupp AG – HAM:TKA - TradingView",
+    "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+    "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+    "thyssenkrupp AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Tradi",
+    "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - Ad-hoc-news.de"
+  ]
+}

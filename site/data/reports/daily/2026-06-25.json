@@ -1,0 +1,207 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:43:48.651114Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-25-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "HBM Nigeria targets massive 5.5Mt expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181581/hbm-nigeria-targets-massive-5-5mt-expansion.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-25-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "PM Nabbanja demands fast-tracking of Ugandan cement plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181583/pm-nabbanja-demands-fast-tracking-of-ugandan-cement-plant.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-25-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Wife of former general manager urges reopening of Chaibasa Cement plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181582/wife-of-former-general-manager-urges-reopening-of-chaibasa-cement-plant.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-06-25-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "UltraTech proposes 3.5Mt/yr plant in Banka",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.globalcement.com/news/20918-ultratech-proposes-3-5mt-yr-plant-in-banka"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-25-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Pakistan cracks down on illegal cement production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/20917-pakistan-cracks-down-on-illegal-cement-production"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "siam_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 169,
+    "too_old": 131,
+    "gate1_blocked": 16,
+    "gate2_blocked": 8,
+    "passed": 13,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of thyssenkrupp AG – HAM:TKA - TradingView",
+      "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+      "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+      "thyssenkrupp AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Tradi",
+      "Quietly essential in every pour - Asia Cement’s Portland cement 42.5R explained - Ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為UltraTech、Siam Cement相關動態：「HBM Nigeria targets massive 5.5Mt expansion」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "HBM Nigeria targets massive 5.5Mt expansion（產能）",
+        "level": "green"
+      },
+      {
+        "text": "PM Nabbanja demands fast-tracking of Ugandan cement plant（原料能源成本、產能）",
+        "level": "green"
+      },
+      {
+        "text": "原料能源成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
