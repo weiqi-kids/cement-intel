@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 15,
+  "gate2_fail": 10,
+  "passed": 25,
+  "gate2_samples": [
+    "Thyssenkrupp's Listing of Materials Services Unit a Near-Term Catalyst -- Market Talk - Moomoo",
+    "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+    "Enterprise value to EBITDA forward of thyssenkrupp nucera AG & Co. KGaA – MUN:NCH2 - TradingView",
+    "Getting Stuck For About 45 Minutes On Some ThyssenKrupp Traction Elevators In Pompano Beach FL Blaze",
+    "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha"
+  ]
+}
