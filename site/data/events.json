@@ -1,5 +1,25 @@
 [
   {
+    "id": "anhui_conch-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of Anhui Conch Cement Company Limited Class H – TRADEGATE:AQE - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOU01rUGo2YVpOTFQ4aUxxNUwxVUVGY0J3dmdmd1VDUmNPQjBrbkxPMUtCLWRkeVIydEFhM3MxRXU5ektYM3ZDTUswUk1PZUFoTkhGX3pTcTIxc04xRGkxV1k4ZlJRRHg5TENBLXR1bE",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU01rUGo2YVpOTFQ4aUxxNUwxVUVGY0J3dmdmd1VDUmNPQjBrbkxPMUtCLWRkeVIydEFhM3MxRXU5ektYM3ZDTUswUk1PZUFoTkhGX3pTcTIxc04xRGkxV1k4ZlJRRHg5TENBLXR1bEVEdHllWnBtQV9JSkdlNFdKMHNwOGdDTmFpWEUtWnJtbDJyNkNxUXVUTFZLeDd0bU9M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -93,6 +113,66 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVlqTUZXSUJYOVl1bmJIdXlZQU1ENXZNZFJDQ0V5dzVEVlZ3N1E0RXpYTTZmZkNOZVR4Q3Q2eE1QdnBCRGE1b1FvVUQ1S0x5dmdvVGlmUGRvQks2Q0VjSHJPUXZFQWd0N0FFS20zWVdBR2lfNG9XWlRLNlppNVNlY3F3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-27-006",
+    "date": "2026-06-27",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Number of shareholders of Heidelberg Materials AG – LSX:604700 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORW9teTJMbTBVYUFyRkpPbE5KdW51NzBKZ0ROczkyaFFXUUlZVU9jdVh2Q3N4d3p3ZlIzZW94SzRTTHJVb2hpb0lRMk95SXhVbVlMcGhsUlJycHM0N0VuamFXUW5TYXFoaGQzbk1YNV",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORW9teTJMbTBVYUFyRkpPbE5KdW51NzBKZ0ROczkyaFFXUUlZVU9jdVh2Q3N4d3p3ZlIzZW94SzRTTHJVb2hpb0lRMk95SXhVbVlMcGhsUlJycHM0N0VuamFXUW5TYXFoaGQzbk1YNVRuSnVpSVdVa1N1cE5LNkNvMnFDMXdQYXkxNVhHbDBOUFNSMFBJeElUUk5pWVNkOEZPdDIya3V3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-06-27-007",
+    "date": "2026-06-27",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Taiheiyo Cement Corporation – LSX:858354 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNa05KSm44djh4NlpubG5PaVlYWnV3bkZ3S3hPY3R3eFhjS0V2S1FNU1ZjLTU5c0pjdF9namF0YUpYcU9XejlBR2JMRzluZFZBX3ZOb0ljemZmZmY0LVVLWDlCc203U2tzSXNQbnBUY0",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa05KSm44djh4NlpubG5PaVlYWnV3bkZ3S3hPY3R3eFhjS0V2S1FNU1ZjLTU5c0pjdF9namF0YUpYcU9XejlBR2JMRzluZFZBX3ZOb0ljemZmZmY0LVVLWDlCc203U2tzSXNQbnBUY05aNzZRU01fd3RRd0s3b2IwaUJXbXhxZjNINE5Rdy1GUXRfVXJ1SWhyeGxGbVNKM0Uz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-06-27-008",
+    "date": "2026-06-27",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Siam Cement Public Co. Ltd. – SET:SCC - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxON1QtbW5wZkJzX0JlX1lSOWV3eDNFTVF4dzJ1MXZMbHkzbDQwdHBsM3FtMDR5WjNsN2FWbV9SU0xQaVR5NGZSbnh6QUJmVl9XZ1pCX2FVeUFFN2xULUZHMnJnSGM4Znp6cl91WEV4Ri",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1QtbW5wZkJzX0JlX1lSOWV3eDNFTVF4dzJ1MXZMbHkzbDQwdHBsM3FtMDR5WjNsN2FWbV9SU0xQaVR5NGZSbnh6QUJmVl9XZ1pCX2FVeUFFN2xULUZHMnJnSGM4Znp6cl91WEV4Ri00NDFpb1hidEZfZWZ2WTRwTGwyQkZxa0c2X3hiMkItWmVyU3QwbTJ4TXV2UHg?oc=5",
         "type": "rss"
       }
     ]
@@ -723,6 +803,64 @@
     ]
   },
   {
+    "id": "holcim-2026-06-26-033",
+    "date": "2026-06-26",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SaltX, Holcim and Paebbl launch circular cement demonstration project - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0trTUxCS2lqYVNLZWFtMXZFenEwVXl1M1VOc1Z6bDhaRDQyWHRTZUJNSjdlQmZUM2VrTVNXTXg3cF9wX0Z5T1hzRTB5RXhOV0l2ek9zbDhEaWVlR19SUUZkXzFWWDhLSnZOUERhUn",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0trTUxCS2lqYVNLZWFtMXZFenEwVXl1M1VOc1Z6bDhaRDQyWHRTZUJNSjdlQmZUM2VrTVNXTXg3cF9wX0Z5T1hzRTB5RXhOV0l2ek9zbDhEaWVlR19SUUZkXzFWWDhLSnZOUERhUng2X283Q01RanBpMXFBRDlZaVhDdnladlh2ZVd6c0swQ1MzYmVvdE9mYkJKcTBjMGNxZEVibFBGb1QyNGFpNDkybFE2Vnk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-06-26-034",
+    "date": "2026-06-26",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SaltX Technology Holding AB, Holcim, And Paebbl Demonstrate Electrified And Circular Cement Production - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSm9kN3hWaF9YZzZmMXFPMjhialdGZVFUZHRSVE1Rd2tYeHpNanh3a1FNbURUR3VDSDNyaTdzZU9fYk1wMXlseGItcm5KeEdpSm4weDdxT0g0aWlpU1BQWjRPOW1jZnRQYV9EMWxDQ1",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSm9kN3hWaF9YZzZmMXFPMjhialdGZVFUZHRSVE1Rd2tYeHpNanh3a1FNbURUR3VDSDNyaTdzZU9fYk1wMXlseGItcm5KeEdpSm4weDdxT0g0aWlpU1BQWjRPOW1jZnRQYV9EMWxDQ1VsWS1sc1NZbEZiNFJPZ3pQTG9uTzdXVWJ3c0x4RjVxOWpBY2p4clBCQXJoUmprYUl1ZERRLVpiSXl4U2Q3NTM2eFdxRWJFTEtFTFpYSmxHeU5QREp1cmpUMlVjT3lVMEtEU3ZVQnZWdWlKRTdkMU0tdnIxdmJ5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-06-26-035",
+    "date": "2026-06-26",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siam Cement Public Co. Ltd.(Alien Mkt) Actuals & Estimates (LSX:136003) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUtuZ0Q0UWw1WGJkaGhLT1BGMHY5UGJaV1NjUjdNSi1oSW1ETGt2bFZHVXNZY0hPaVhrTkhPLUVZTnpqYjVmTWVQZkZsc29CUENkVFNTZUNSYXlpS0pxam5fTkoweXpQRzlGNHVxSD",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUtuZ0Q0UWw1WGJkaGhLT1BGMHY5UGJaV1NjUjdNSi1oSW1ETGt2bFZHVXNZY0hPaVhrTkhPLUVZTnpqYjVmTWVQZkZsc29CUENkVFNTZUNSYXlpS0pxam5fTkoweXpQRzlGNHVxSDRMUGpmMmRkYUZQWnVVVU5pV2dfVkc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [],
@@ -1092,6 +1230,44 @@
       {
         "name": "taiheiyo",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SU1I2LVNJU1V3XzdyU0RQMUEyM19ZUkZkVmhfeVJGZ3hTazd1NGdndFgzQy1jemR3ZktmYzE1RERBWk8wY0xDdGV5MkRONWdPQ0I5VFZsWGpkUkRzOFZYVllHUWowQzdmYmM5YmRkeUE2RXkzVWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-25-021",
+    "date": "2026-06-25",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Investment Update: Heidelberg Materials (OTCMKTS:HDLMY) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkxLS3ZXYjkweHpVSG9jcUVqdzNQY2h2UnlKRTFnWEZIT0Q2RmNoZU9UXzBET2tUbGlrUW0wMU5JdXZQZFhZUTlELUJfRUZxaDBYMnJ4RmhSUDM0bmkxY0lLRkxhaWFRSDFtZ3ZUTH",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkxLS3ZXYjkweHpVSG9jcUVqdzNQY2h2UnlKRTFnWEZIT0Q2RmNoZU9UXzBET2tUbGlrUW0wMU5JdXZQZFhZUTlELUJfRUZxaDBYMnJ4RmhSUDM0bmkxY0lLRkxhaWFRSDFtZ3ZUTHl1cXBxbUhEUFdzSHliU0FHOHJrZ2tOUlczMHpmRkRieEtta0NKU3BDZUVTTHhvaU1zMnRiNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-022",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "HEI0 Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBrdFFwQU5aM0k3a3pzeU9fZFJnV3JBWWdPY3FBcjJ4emhMd2tKQmpibmEtY0hnYjktUlB2WjJoc0ZnWjB6dmc5aFFRSjVpN1pXdF9VWjZlSFVEVVNKc3MxNkZuaGRxdFFoN0kyRE9KNE",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrdFFwQU5aM0k3a3pzeU9fZFJnV3JBWWdPY3FBcjJ4emhMd2tKQmpibmEtY0hnYjktUlB2WjJoc0ZnWjB6dmc5aFFRSjVpN1pXdF9VWjZlSFVEVVNKc3MxNkZuaGRxdFFoN0kyRE9KNEtPWlktbDFLaUNB?oc=5",
         "type": "rss"
       }
     ]

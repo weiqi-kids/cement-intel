@@ -1,0 +1,96 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:28:48.594917Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "anhui_conch-2026-06-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to sales forward of Anhui Conch Cement Company Limited Class H – TRADEGATE:AQE - TradingView",
+      "companies": [
+        "anhui_conch"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU01rUGo2YVpOTFQ4aUxxNUwxVUVGY0J3dmdmd1VDUmNPQjBrbkxPMUtCLWRkeVIydEFhM3MxRXU5ektYM3ZDTUswUk1PZUFoTkhGX3pTcTIxc04xRGkxV1k4ZlJRRHg5TENBLXR1bEVEdHllWnBtQV9JSkdlNFdKMHNwOGdDTmFpWEUtWnJtbDJyNkNxUXVUTFZLeDd0bU9M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "anhui_conch",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 191,
+    "too_old": 116,
+    "gate1_blocked": 9,
+    "gate2_blocked": 11,
+    "passed": 9,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Vulcan Materials (VMC) Gets a Buy from Barclays - The Globe and Mail",
+      "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+      "SaltX's Circular Cement Demonstration Project with Holcim, Paebbl Wins EU Funding - marketscreener.c",
+      "Cemex France to supply ready-mix concrete for Grand Paris Express Line 15 Ouest construction project",
+      "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為海螺水泥相關動態：「Price to sales forward of Anhui Conch Cement Company Limi...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Price to sales forward of Anhui Conch Cement Company Limited Class H – TRADEG...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "海螺水泥為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 9,
+  "gate2_fail": 11,
+  "passed": 9,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) Gets a Buy from Barclays - The Globe and Mail",
+    "Denmark: ThyssenKrupp Synergy Glass Door Elevator/lift – H&M (Østergade) – Indre By, Copenhagen Aaro",
+    "SaltX's Circular Cement Demonstration Project with Holcim, Paebbl Wins EU Funding - marketscreener.c",
+    "Cemex France to supply ready-mix concrete for Grand Paris Express Line 15 Ouest construction project",
+    "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha"
+  ]
+}
