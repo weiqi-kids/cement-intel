@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 15,
+  "gate2_fail": 10,
+  "passed": 20,
+  "gate2_samples": [
+    "SaltX's Circular Cement Demonstration Project with Holcim, Paebbl Wins EU Funding - marketscreener.c",
+    "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha",
+    "Enterprise value to EBIT forward of Heidelberg Materials AG – XETR:HEI - TradingView",
+    "Heidelberg Materials AG Actuals & Estimates (XETR:HEI) - TradingView",
+    "Asia Cement Co Ltd - Reuters"
+  ]
+}

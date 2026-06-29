@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-29",
+  "total_events": 13,
+  "by_company": {
+    "martin_marietta": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "thyssenkrupp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "raw_material_energy_cost": {
+      "count": 2,
+      "sentiment_avg": 0.88
+    },
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": -0.07
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "capacity_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
