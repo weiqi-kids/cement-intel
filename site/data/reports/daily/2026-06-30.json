@@ -1,0 +1,279 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:57:59.297740Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-30-004",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "EU unveils new steel import quotas to protect its industry from overcapacity - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation",
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmY3YmQtR3k0TmxocjIzS3pXeVV6bkVaaHhYbUhpVld4UmlHa0MwLWtnaHlodTFrRzlGZ2ZLcWstZnhvS19rZXYxTC1tcU5USVp0QlJkc2dQTTJLaVpjQUc3bm9jN0tkTU4yZGtnM3VtSDdVenoxcjFCcEVTcVZhZTdvNlkxQW05VElyUkJUWWxZeTlHZThXWFR1bTVudmVmMllDMi1UWjktZUxFVF9DRW5SRjJJMWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-06-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials consensus picture on Wall Street, shares steady in S&P 500 context - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2RJOTl4ak1pV3BudzZiejNBNkdoVmEtZEQ2cnc3UlgtUXJKWnlhVG9qU050S2Y1S0dCQVMyYlB5c0lRdHU4S2VyQTdPY0RuenhRVzkzd1dEbzNKOFFVMmVvSkd6NVdzcTN0VmUyeEpuNG9PYUhNLVRVRzZ2aFJIY3dnUzVzaXNDZ2JmRVlwN0JnU0tRaTJnbmhmWUdkNEdSWGUtcjQ4ZXlwSTVURTVuMnlWeG0wTzl5RG1OLXNBZmxfRkxfVVdrUXRfSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-06-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp and GlobalLogic Partner to Advance Physical AI in Heavy Industry - ARC Advisory Group",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1JOUDZEd2FJVEFENHFMdHB4T19iVV92Tk5XODRtdnJmZVE4dHBHbkpKZHpYTnNqUkl5YjUyem9kX2xRMDB4YnoyRFpJdkFKM1k0aEs2Q2VuWG13Sm8ySXl2YXVaRVdwSEhNYUtaSXY0cWVNMGdlZ3BSdUs5RnpHWjc4NkE1ZVYzRF9nOUVTVU1jazVTNkRvY2hUMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-06-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp and GlobalLogic collaborate to accelerate industrial transformation through Physical AI - varindia.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVdlNmJ3U2pmaFdXb0NMVnRSSndNdGxTVV9xSnh0VEJjQ2c0OTItMHBPSVNLTXJDX21HWFByVVZ6LUFMOXhES3YzUXVEYWRkMVlNcWhjdkV0VTZyRTVrUGNMQUxucmMzNkJDQ1REbkFONmFYSGN2MFdtX2VMSzlmb09fVEZBQ05JeHJpc3VoMF9VZVo1dk9rS3VlRmNWNFVCV3U5OWdUcENaU3NoaE1wY2JNRUM3Umt6bXF3ejlkS0VkTlpjZHZPa0Rn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-06-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RBC Trimmed Heidelberg Materials Forecasts Ahead Of Q2 Results - Finimize",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd1lwWlQ1VTkzVk9ybXFkMWplV2FCRG1wMnhuRmpQLTR2RGlZMFJKX01LYy1IVkJaYk45SEx1ak52b09YQTY2VGduQ2NjZG5DWjN3ZlpjUk5QN0tZbGZoNlBhMUNNMHZITVg3YmVmRWE5aWhPMnBPQ25ER0hxanhSRUFZMmlULXRCNEQ4ZXpoUG91VXFqbVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 166,
+    "too_old": 111,
+    "gate1_blocked": 12,
+    "gate2_blocked": 16,
+    "passed": 35,
+    "pass_rate": "20.1%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+      "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+      "Thyssenkrupp Lays Out Spin-Off Mechanics Ahead of Pivotal August Vote - AD HOC NEWS",
+      "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha",
+      "HEIDELBERG MATERIALS : UBS keeps its Buy rating - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Vulcan Materials、蒂森克虜伯、海德堡材料相關動態：「EU unveils new steel import quotas to protect its industr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "EU unveils new steel import quotas to protect its industry from overcapacity ...（產能整合、產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials consensus picture on Wall Street, shares steady in S&P 500 c...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

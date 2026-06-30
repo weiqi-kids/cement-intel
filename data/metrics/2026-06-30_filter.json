@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 12,
+  "gate2_fail": 16,
+  "passed": 35,
+  "gate2_samples": [
+    "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+    "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+    "Thyssenkrupp Lays Out Spin-Off Mechanics Ahead of Pivotal August Vote - AD HOC NEWS",
+    "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha",
+    "HEIDELBERG MATERIALS : UBS keeps its Buy rating - marketscreener.com"
+  ]
+}
