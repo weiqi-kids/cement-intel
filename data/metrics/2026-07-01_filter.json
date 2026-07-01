@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 12,
+  "gate2_fail": 18,
+  "passed": 24,
+  "gate2_samples": [
+    "The Crusher Run from Vulcan Materials - everyday backbone for US roadbuilders - AD HOC NEWS",
+    "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+    "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+    "Holcim UK Marks Major Milestone as Tilbury Cement Works Commences Import and Distribution Operations",
+    "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView"
+  ]
+}

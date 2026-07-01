@@ -1,5 +1,270 @@
 [
   {
+    "id": "vulcan-2026-07-01-001",
+    "date": "2026-07-01",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Vulcan Materials Company (Holding Company) – NYSE:VMC - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdThTYkJCMFlpWjBqS1VBRXNISXBBSjNuazJEX1JDRWhpYXB2VzF1MEVzVjM3NTRoZnY2U3pfVGhqdHIzdjhhUEd4TlZ0MTdCSTF4TVlUSTZjSWlnTVdyWWQzZ1Q1djBOZ0RzNFo2OD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdThTYkJCMFlpWjBqS1VBRXNISXBBSjNuazJEX1JDRWhpYXB2VzF1MEVzVjM3NTRoZnY2U3pfVGhqdHIzdjhhUEd4TlZ0MTdCSTF4TVlUSTZjSWlnTVdyWWQzZ1Q1djBOZ0RzNFo2ODFpR3Y0Rjg4UEw2YVRQS1p3XzdsVGR1Y3FXdlg3aF9oVUVmUFVHMkZMd282YUl3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-01-002",
+    "date": "2026-07-01",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC): Buy, Sell, or Hold Post Q1 Earnings? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVo1QWFTNWpMZGRpQV9BY0xwWXo1Sk5GdjhlUndycS1EMmVJai1GNnRCS0xfYWprZjhzd1hWQWszd0xFb1NqWk1pVU1PSzhSVkdiQlZ0Mllfcl85c0pscTBMeWxZYUFkREd1N0RJZG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVo1QWFTNWpMZGRpQV9BY0xwWXo1Sk5GdjhlUndycS1EMmVJai1GNnRCS0xfYWprZjhzd1hWQWszd0xFb1NqWk1pVU1PSzhSVkdiQlZ0Mllfcl85c0pscTBMeWxZYUFkREd1N0RJZGdfTk0tUmlzcWJlWmVxU3Z4M3JENW4yalFkUFdlUXNYQTR2ZUd0STBtSWI2VHI3eEkwYXVucUN2R3o1Y3AxdGMyZkpKV1p2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-003",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Industrial firms warn EU carbon overhaul could benefit polluters - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHo5aHZYSF9EbDJvcGNaX3o5ZEpDZXR1Y0hWSUV5dk1HOHRGWFh1VGZQd3RKb3ItNnpJOUdaOEZ6b3lOS0o2b2VQcjk1d245RUR1aklkYTk4dkIzRUJYLUVNX1lEYVQyeVFIdU4zSF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOHo5aHZYSF9EbDJvcGNaX3o5ZEpDZXR1Y0hWSUV5dk1HOHRGWFh1VGZQd3RKb3ItNnpJOUdaOEZ6b3lOS0o2b2VQcjk1d245RUR1aklkYTk4dkIzRUJYLUVNX1lEYVQyeVFIdU4zSFlEV05YczI3U1VoYnhqd2laUjdWcEVkdXo2cUw3NDBNOGxVVDBCSEtDaWxOTVJsak9DZE5rQUh2MldtTy1aNzZPTzFJOEdQS2QyTU1J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-004",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Euro zone factory output ends first quarter on strong note, cost pressures ease - PMI - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNRNkduY3NTVXRQVjVmVnQ3OTRmcGhxd1RxbEU3UkFZTmhnTmM3WVQ4ODlDREtTY2ZvVTBaNmwwc0MzeURjTFg0TTVvUk1YX3Z4cV9VbWlhU0IwYUVJcE5aRkh6cm1VRnBna3BqQW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNRNkduY3NTVXRQVjVmVnQ3OTRmcGhxd1RxbEU3UkFZTmhnTmM3WVQ4ODlDREtTY2ZvVTBaNmwwc0MzeURjTFg0TTVvUk1YX3Z4cV9VbWlhU0IwYUVJcE5aRkh6cm1VRnBna3BqQWhzOXJEclBaZWZublRubVI3STZ2cmswaGtGYnU1LURtODd5czY5WmphZFJJRDRLdk5TZk04dTE2Vk1SbDd4bkZBUlNCRGczdFlwdFo4U2JmbFN6SlRLcTlV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-01-005",
+    "date": "2026-07-01",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim UK Supplies High-Performance Concrete for £10M Heysham Port Redevelopment - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0ljUmdjVU1QUnEwVDlXNnBEdk45cjdXeDlvaFBCNVVfSzFRYWFYZFNqN2J2OGN4c3pfQkxKQ2lJTERMT3oxSlp0WGQ4Vmw5NE10TllXVVI4SUNLVV9SZFR0V2dPNlhiNnBlLTZoT2",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0ljUmdjVU1QUnEwVDlXNnBEdk45cjdXeDlvaFBCNVVfSzFRYWFYZFNqN2J2OGN4c3pfQkxKQ2lJTERMT3oxSlp0WGQ4Vmw5NE10TllXVVI4SUNLVV9SZFR0V2dPNlhiNnBlLTZoT2VjbGhkVjV5cFlPTHJaLVZjX0NlM0FfU2NfVEo1NWZYbFZvRW41aHpPb3BNQzVCd1Y1YlBBM1RFbXF5Z1o5U2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-01-006",
+    "date": "2026-07-01",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HEIDELBERG MATERIALS : Deutsche Bank gives a Buy rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFVNNkpDakVwMTFId05MQVdobWNoRmhlMC1jclpZN05rUVRXSFpmTHBRQ0tKS1g0UFBmU0Z6aVlHS1djZ3N6X3oxX3RTaldhMG1NZG5HM3g1TU5TUkdJNHhoMFI0dFBFOHd5M3ZLaW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFVNNkpDakVwMTFId05MQVdobWNoRmhlMC1jclpZN05rUVRXSFpmTHBRQ0tKS1g0UFBmU0Z6aVlHS1djZ3N6X3oxX3RTaldhMG1NZG5HM3g1TU5TUkdJNHhoMFI0dFBFOHd5M3ZLaW9Rdi1GWHl4NEZxVC00QkJmaVk4XzRRWk9jcE4xYTlIU3NSTUE0X0JxOWpZZnpRSGpPNnFCODluVGxhZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-01-007",
+    "date": "2026-07-01",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement Wins 2026 AREA Social Empowerment Award and Silver Emblem of Sustainability - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHU4blRPTnZRWlZJVjQ2NWh5Ni1aRmxQaWpJVUVFU1F1bmVlNGxTNVF0Q2Z6UjAtb0hVZ1JFSWFhMlpNTWtnUnlqMWg4dUE2LVBEV1ZnanZYSVNLbEp5MjBualNYUnFDYllvbTQ4YT",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHU4blRPTnZRWlZJVjQ2NWh5Ni1aRmxQaWpJVUVFU1F1bmVlNGxTNVF0Q2Z6UjAtb0hVZ1JFSWFhMlpNTWtnUnlqMWg4dUE2LVBEV1ZnanZYSVNLbEp5MjBualNYUnFDYllvbTQ4YTNJUmdpS3c2cHhyNi11a2RJTFAta2hUYVBwRXRyUHhKNTZlaEFVSmY1d3YxcTI3XzlFTTBUclQ3V1NpTVdLOEY5ZktyT3ljXy1XRUotSmR3QnhtWEFIcmlGVHJHTVRpcTlUSW9VZWRMN1RTaGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-008",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Leilac secures second Asian commercial cement project",
+    "summary": " Carbon capture technology developer Leilac has secured a paid engineering contract with an unnamed East Asian cement producer to assess the commercial deplo...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181616/leilac-secures-second-asian-commercial-cement-project.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-009",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Vietnam launches pilot carbon market covering 51 cement plants",
+    "summary": " Vietnam has officially launched its pilot emissions trading system (ETS), bringing 51 cement plants into the country's first carbon market alongside 34 ther...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181615/vietnam-launches-pilot-carbon-market-covering-51-cement-plants.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-010",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Philippines launches cement decarbonisation roadmap",
+    "summary": " The Philippines has launched its first Cement and Concrete Industry Decarbonisation Roadmap, establishing a framework to guide the sector's transition to ne...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181613/philippines-launches-cement-decarbonisation-roadmap.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-011",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Demolition ordered for Cupertino cement plant and quarry",
+    "summary": "  Demolition is scheduled to begin at the controversial Permanente Quarry and cement plant near Cupertino after years of planning.   The plant stopped operat...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181612/demolition-ordered-for-cupertino-cement-plant-and-quarry.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "martin_marietta-2026-07-01-012",
+    "date": "2026-07-01",
+    "companies": [
+      "martin_marietta"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Martin Marietta to acquire Lhoist North America for US$13.5bn",
+    "summary": "   Martin Marietta Materials  has agreed to combine with Lhoist North America in a transaction valued at US$13.5bn in cash and common stock. Lhoist North Ame...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181611/martin-marietta-to-acquire-lhoist-north-america-for-us-13-5bn.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-013",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Titan America launches 3D printable concrete technology",
+    "summary": "Titan America has launched xForm3D, a US-patented 3D printable concrete technology designed for the construction of commercial, residential, infrastructure a...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181594/titan-america-launches-3d-printable-concrete-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-01-014",
+    "date": "2026-07-01",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement receives US coal shipment at Deendayal Port",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/india-bilphari-coal-mining_c_drarpan_chatterjee.jpg\" /></p><p><strong>India:</strong> UltraTech Cement has received an 82,000t consignment of coal from",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20934-ultratech-cement-receives-us-coal-shipment-at-deendayal-port",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-06-30-001",
     "date": "2026-06-30",
     "companies": [
@@ -339,6 +604,85 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20930-refuse-derived-fuel-for-republic-cement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-30-019",
+    "date": "2026-06-30",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp details timeline for Terre Haute plant closure, layoffs - Inside INdiana Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXI5RnRuR3pNanRYblNtVHhuMFk0bG91VF9WUEJrd0V1SV9NdE1aLTh1Zms5bXpUSFVUUktGY0k4X0RDNE14c3BLRWFySGJyTUh0T0JVVWdKT3VKWFVRYjI5cksxUENOcGdoX1ZIbH",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXI5RnRuR3pNanRYblNtVHhuMFk0bG91VF9WUEJrd0V1SV9NdE1aLTh1Zms5bXpUSFVUUktGY0k4X0RDNE14c3BLRWFySGJyTUh0T0JVVWdKT3VKWFVRYjI5cksxUENOcGdoX1ZIbHZRdVlhMU9wMjRJV0dRanlNTm5wc1hsc3VLRXlRYlZOeFVSNzF6X3RFTlJhdjQ2MF9mYVJLRWdiQTZENm9CcGtyWFN6dGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-30-020",
+    "date": "2026-06-30",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HEIDELBERG MATERIALS : Jefferies reaffirms its Buy rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYms4RXExNHJSa3BjLTRINVNLam9zZk5QOEwzdFd1Q2JMVzVyVXdXR3F0ZTk3dEQyYU9YRE1YWVFGc2c2UDcyd0Z2UTJQOTRrRnhiX05DZHNVVE1rbm5IZjFDWWExLVI4dHVQZVhBQW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYms4RXExNHJSa3BjLTRINVNLam9zZk5QOEwzdFd1Q2JMVzVyVXdXR3F0ZTk3dEQyYU9YRE1YWVFGc2c2UDcyd0Z2UTJQOTRrRnhiX05DZHNVVE1rbm5IZjFDWWExLVI4dHVQZVhBQW84LVF4VGlKVkw1dVRkTEJySWo4WG5FSU1PVWxvVzFwU1dwZW9BbWRYbnl2THRLU0JYME9nNUt6T044dU9N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-06-30-021",
+    "date": "2026-06-30",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement executive superannuates on June 30, 2026 - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQeTAyVWxBb0ZqUEtxaUFwWk53dDV6MndjXzN6VmNGZXg4QlZHSndHSW44eEhKRU80NEdWV2swQzdaa25fX0xmaWR6UlVOQ0Znemh1LUtlek52SnpYdFdQUk5BMFlMdWs3blVNbnNKTT",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeTAyVWxBb0ZqUEtxaUFwWk53dDV6MndjXzN6VmNGZXg4QlZHSndHSW44eEhKRU80NEdWV2swQzdaa25fX0xmaWR6UlVOQ0Znemh1LUtlek52SnpYdFdQUk5BMFlMdWs3blVNbnNKTTRhY0Z2OURLU0NfemJVX2hCNWNIQXRpYzY0NWxoWVRqc3MtU2wxdE9FdHptSk53LUhST1Q4Zm1wandadFF4Y0NEdEdLbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-022",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amtrak keeps $1.6B East River Tunnel project on pace for 2027 finish",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/l4vW5FDAXoaZ6ZGvi_iNSKiLPn9xxm8FipbPi5Q5rgA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FUlQtQ3V0dGluZy1SYWlsLTEwMjR4NTc2Lmpw",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/amtrak-east-river-tunnel-project/824078/",
         "type": "rss"
       }
     ]
@@ -804,6 +1148,26 @@
     ]
   },
   {
+    "id": "siam_cement-2026-06-29-025",
+    "date": "2026-06-29",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement Public Co. Ltd.(Alien Mkt) Actuals & Estimates (LS:136003) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOczBOQ3BTNkdzZG1VUGZMSGN6WUU2aWg3cjdPSWg3OGFBTk1wdEpEQXJ1VU91MGtvdmJxN3dNa0RZOHNYa0JRTlJTd0hpb1pjTE82dG9GelJSdllETXpscU5JcnllZ0VtdTFrRlBfSz",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczBOQ3BTNkdzZG1VUGZMSGN6WUU2aWg3cjdPSWg3OGFBTk1wdEpEQXJ1VU91MGtvdmJxN3dNa0RZOHNYa0JRTlJTd0hpb1pjTE82dG9GelJSdllETXpscU5JcnllZ0VtdTFrRlBfSzdtekVTWld4OTVBaGZ6Y1RYZWZyRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "anhui_conch-2026-06-28-001",
     "date": "2026-06-28",
     "companies": [
@@ -878,6 +1242,46 @@
       {
         "name": "anhui_conch",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHlIbFJSOWlVSVpWQTM0UzVXSzdJSXZYZld2TUgxTjZSZkVwc28wU3dlTURZR25LRWR0UzdYZ1JpQXVNNm82MEhxU0hTd2JzOEROTDVlNzJDb3ZuUEhfZ0ZZQVQ1LW5ucGhoeEt1UktZdVhET2lOUEYzSjB6SDRwckVzeWotb2xOV3lNUXlyLXVoemo4ai1sa2tvUGs5SGRFMmhCWU5kOWN0bW1meVBN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-06-28-005",
+    "date": "2026-06-28",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Anhui Conch Cement Company Limited Class A – SSE:600585 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEtDTUhYMVBGbnljWmk2ZjRnc1hqZlpZTEtES3B1ZEo1ajJYN0lhV2M1MUowSXVJOEJFSzRWT05zZngwelFTU3hrTmQtNzN5LTBWWE9lLTlGQUtrRUh2NTZXVkctaEVQUlBXdUdYOC",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEtDTUhYMVBGbnljWmk2ZjRnc1hqZlpZTEtES3B1ZEo1ajJYN0lhV2M1MUowSXVJOEJFSzRWT05zZngwelFTU3hrTmQtNzN5LTBWWE9lLTlGQUtrRUh2NTZXVkctaEVQUlBXdUdYOC05ZG5hWjBIUU81dkJUdVZOeVpSYzhidzJfa0VvMWxwWHE4THVybURhMGlzVzlSSzlRNXdzdVZQY00zWms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-06-28-006",
+    "date": "2026-06-28",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Anhui Conch Cement Company Limited Class H – TRADEGATE:AQE - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3RKNnV4XzRDa2tUcDU5TzhPMlhLTnh0NHg0SGdoSzVmSmhUbmJQNFczUmxVTDVWYlMwTUVxazdzdndkeE1IZzNIemQzV1NBR0szTmNxc05sQTQ3STJyelY5cjRvSndYU1lLdG9ieX",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3RKNnV4XzRDa2tUcDU5TzhPMlhLTnh0NHg0SGdoSzVmSmhUbmJQNFczUmxVTDVWYlMwTUVxazdzdndkeE1IZzNIemQzV1NBR0szTmNxc05sQTQ3STJyelY5cjRvSndYU1lLdG9ieXVwdVZxbjZhUktDUWFkYnhzd0YtQnkyMEI4ZnBReEVyekt1VjdQQnNuVm1JamlwOG5ydjJfUw?oc=5",
         "type": "rss"
       }
     ]
@@ -1861,6 +2265,65 @@
       {
         "name": "cemex",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRV9EeEdWZUFZQ2tWd2JHWlEwekYySll4bU1QYjZCN1VaVVVVd3Brc3dvYzQ4Y3l4X1pDMm52Mm1CODFyS3NnRi0wSkF2NFVheEtpUHVpbVgtd0pNQ3BNams2czRkSGpobkdQVUIwSjBHVGVlRlZUNW5GcXFNV3hWUG1xeFRrLWJQNlloZ3c1NE1vYlZWbUo2bVB2MTlyMmhRQWEya2t6dG1jLVdWX2F4ckdiNzE3eFE5eUVSTHVRUXhDbms1UmUwSlJoTF9kX2k5YTk3MHlXa0FHWC1TakM0dmpONnFmY2w4bGpVdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-06-26-041",
+    "date": "2026-06-26",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex supplies lower-carbon cement for one of Europe’s tallest residential buildings - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHRNTkJNSk81Zk5qUnlHTGNpZFZCMXJWblZBcEtmTFBNWFU2X0kwZl9TUjF2cEZtdndlM1U5MXRIdXAxOGxqaGhCdVljdG9lYmkyaC1RWkthcjQ3UGhGUURoODJqSVJvWWx1cVlYST",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTHRNTkJNSk81Zk5qUnlHTGNpZFZCMXJWblZBcEtmTFBNWFU2X0kwZl9TUjF2cEZtdndlM1U5MXRIdXAxOGxqaGhCdVljdG9lYmkyaC1RWkthcjQ3UGhGUURoODJqSVJvWWx1cVlYSTM2VlpuOGpiS29ZU0xhWXFWOVd5S1dQaDVQd19CblRhUGxmaXhJT0xuMUpBUW82bEhYZ3JxNEVEcmF3bXNKdWFkQW5XS2ZTdDJJQ05ZR0I4bmhRY1dYWmRTN3lfX0c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-06-26-042",
+    "date": "2026-06-26",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Asia Cement (China) Holdings Corp. – HKEX:743 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMVZBQ3U0WDlnVk9MV3BXRDJlOC1rWmRZUzNpOE45NDYtVk9QSWczNV9Cdl93NUc3aGNBVEdNMk5SaHMxSWxISjZpWEVWS2cyRnFGbFpfVVRUelJtekdhSEJpUGtNRy01WHZJTFNDeT",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVZBQ3U0WDlnVk9MV3BXRDJlOC1rWmRZUzNpOE45NDYtVk9QSWczNV9Cdl93NUc3aGNBVEdNMk5SaHMxSWxISjZpWEVWS2cyRnFGbFpfVVRUelJtekdhSEJpUGtNRy01WHZJTFNDeTdMQ1RVakxQR1JiREZsRkNlSnU2ZmU0SFBmLXN1SlQ2aVdJUXdpUFZnU3FUcHZqZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-043",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "SCC Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1pbWlLODF6M3p3c3NwZnQ0ZWc5WTcxRl80bkpIcElBcjRjMUN3MUQzR1A4d1FDbS1MSEhwNzNhM1VLcHAtLWp3ZG1Qa0NodzU1TUhZSHpOang4TkdkLU13VEFEdzdyZmh4LWY3WF9zOV",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pbWlLODF6M3p3c3NwZnQ0ZWc5WTcxRl80bkpIcElBcjRjMUN3MUQzR1A4d1FDbS1MSEhwNzNhM1VLcHAtLWp3ZG1Qa0NodzU1TUhZSHpOang4TkdkLU13VEFEdzdyZmh4LWY3WF9zOVpSanhS?oc=5",
         "type": "rss"
       }
     ]

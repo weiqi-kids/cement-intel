@@ -1,0 +1,266 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:24:46.050441Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-07-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Vulcan Materials Company (Holding Company) – NYSE:VMC - TradingView",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdThTYkJCMFlpWjBqS1VBRXNISXBBSjNuazJEX1JDRWhpYXB2VzF1MEVzVjM3NTRoZnY2U3pfVGhqdHIzdjhhUEd4TlZ0MTdCSTF4TVlUSTZjSWlnTVdyWWQzZ1Q1djBOZ0RzNFo2ODFpR3Y0Rjg4UEw2YVRQS1p3XzdsVGR1Y3FXdlg3aF9oVUVmUFVHMkZMd282YUl3QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-07-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC): Buy, Sell, or Hold Post Q1 Earnings? - TradingView",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVo1QWFTNWpMZGRpQV9BY0xwWXo1Sk5GdjhlUndycS1EMmVJai1GNnRCS0xfYWprZjhzd1hWQWszd0xFb1NqWk1pVU1PSzhSVkdiQlZ0Mllfcl85c0pscTBMeWxZYUFkREd1N0RJZGdfTk0tUmlzcWJlWmVxU3Z4M3JENW4yalFkUFdlUXNYQTR2ZUd0STBtSWI2VHI3eEkwYXVucUN2R3o1Y3AxdGMyZkpKV1p2Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Euro zone factory output ends first quarter on strong note, cost pressures ease - PMI - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNRNkduY3NTVXRQVjVmVnQ3OTRmcGhxd1RxbEU3UkFZTmhnTmM3WVQ4ODlDREtTY2ZvVTBaNmwwc0MzeURjTFg0TTVvUk1YX3Z4cV9VbWlhU0IwYUVJcE5aRkh6cm1VRnBna3BqQWhzOXJEclBaZWZublRubVI3STZ2cmswaGtGYnU1LURtODd5czY5WmphZFJJRDRLdk5TZk04dTE2Vk1SbDd4bkZBUlNCRGczdFlwdFo4U2JmbFN6SlRLcTlV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-07-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim UK Supplies High-Performance Concrete for £10M Heysham Port Redevelopment - IndexBox",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0ljUmdjVU1QUnEwVDlXNnBEdk45cjdXeDlvaFBCNVVfSzFRYWFYZFNqN2J2OGN4c3pfQkxKQ2lJTERMT3oxSlp0WGQ4Vmw5NE10TllXVVI4SUNLVV9SZFR0V2dPNlhiNnBlLTZoT2VjbGhkVjV5cFlPTHJaLVZjX0NlM0FfU2NfVEo1NWZYbFZvRW41aHpPb3BNQzVCd1Y1YlBBM1RFbXF5Z1o5U2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "asia_cement-2026-07-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Cement Wins 2026 AREA Social Empowerment Award and Silver Emblem of Sustainability - PR Newswire",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOHU4blRPTnZRWlZJVjQ2NWh5Ni1aRmxQaWpJVUVFU1F1bmVlNGxTNVF0Q2Z6UjAtb0hVZ1JFSWFhMlpNTWtnUnlqMWg4dUE2LVBEV1ZnanZYSVNLbEp5MjBualNYUnFDYllvbTQ4YTNJUmdpS3c2cHhyNi11a2RJTFAta2hUYVBwRXRyUHhKNTZlaEFVSmY1d3YxcTI3XzlFTTBUclQ3V1NpTVdLOEY5ZktyT3ljXy1XRUotSmR3QnhtWEFIcmlGVHJHTVRpcTlUSW9VZWRMN1RTaGs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "martin_marietta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 173,
+    "too_old": 112,
+    "gate1_blocked": 12,
+    "gate2_blocked": 18,
+    "passed": 24,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "The Crusher Run from Vulcan Materials - everyday backbone for US roadbuilders - AD HOC NEWS",
+      "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+      "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+      "Holcim UK Marks Major Milestone as Tilbury Cement Works Commences Import and Distribution Operations",
+      "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Vulcan Materials、Holcim、海德堡材料相關動態：「Price to earnings forward of Vulcan Materials Company (Ho...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Price to earnings forward of Vulcan Materials Company (Holding Company) – NYS...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials (VMC): Buy, Sell, or Hold Post Q1 Earnings? - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
