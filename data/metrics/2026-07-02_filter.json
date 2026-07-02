@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 14,
+  "gate2_fail": 19,
+  "passed": 18,
+  "gate2_samples": [
+    "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+    "HEIDELBERG MATERIALS : Buy rating from Barclays - marketscreener.com",
+    "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha",
+    "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView",
+    "Goldman cuts target for Heidelberg Materials to €230, keeps 'Buy' - marketscreener.com"
+  ]
+}

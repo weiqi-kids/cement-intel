@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-02",
+  "total_events": 9,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "thyssenkrupp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cemex": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "infrastructure_spending": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

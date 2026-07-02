@@ -1,5 +1,179 @@
 [
   {
+    "id": "vulcan-2026-07-02-001",
+    "date": "2026-07-02",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Vulcan Materials outlines long-term growth path as construction demand evolves - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWp2cG5JblJsc0ZqcVhTMG1ocGlILS1wX2x3WUdGMWViTXRnRVZlVXVXZWZZaVZDVlpvWlJmYnNDZGpQYXFiM1RfRVd5QzhCeHc2SzJHZC1OanV6dG5LeUFoNEM4YUZnWEl0X1pfZm",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMWp2cG5JblJsc0ZqcVhTMG1ocGlILS1wX2x3WUdGMWViTXRnRVZlVXVXZWZZaVZDVlpvWlJmYnNDZGpQYXFiM1RfRVd5QzhCeHc2SzJHZC1OanV6dG5LeUFoNEM4YUZnWEl0X1pfZmtfOWFsSXVXWUkzam1obFVoY05SZ3FYakw3eDdKVnRjRE03OVQ5aGV5ZE1aZ0xkRVdLeEhjbzVwRkNlRjBIcGhPZ2k1b2VOcU42UWxMeGlKYV9mdlZrWHd1Tw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-07-02-002",
+    "date": "2026-07-02",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "David Rosen Holds 3.07% Stake In thyssenkrupp AG - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTZCYWxYYUprRGZYTFRtT29OU0JYT282WTFTNktDSjcwcHdnVjB2LVZSOHNncmRMT19CTmdrVzBRVmNHMU1ySUdwS3Y4S3hVRU5aVTIyLS1oYTc2MjM3OW5iQlVaeWtBZEwyQi1MVk",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTZCYWxYYUprRGZYTFRtT29OU0JYT282WTFTNktDSjcwcHdnVjB2LVZSOHNncmRMT19CTmdrVzBRVmNHMU1ySUdwS3Y4S3hVRU5aVTIyLS1oYTc2MjM3OW5iQlVaeWtBZEwyQi1MVk5PWUUyOWZmZk9LQ2VWLUpvZ1VrMlpHblczbmVUWHk3YTFJWEJxMm5EN2FPYXdKTkZXeXE4UFVVb0RJMm5JdzBGTHhCX0VEeExI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-02-003",
+    "date": "2026-07-02",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim builds on global demand as construction markets evolve - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDQ4cmpTOW5DNDMwTnVwVUlXenRTRWU4NmMtd0hBTm9nTWFjM25JeXlJYlRfNVlra2F0UEFvTWF6M2tZMmtuaVJlcGZYTjJzTE9rREtiQ2l1MExsaG5ELXd3TVYyNkd4dzRjSC0wcj",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDQ4cmpTOW5DNDMwTnVwVUlXenRTRWU4NmMtd0hBTm9nTWFjM25JeXlJYlRfNVlra2F0UEFvTWF6M2tZMmtuaVJlcGZYTjJzTE9rREtiQ2l1MExsaG5ELXd3TVYyNkd4dzRjSC0wcjhXdk1hMU1WX0U5c19DTVZtdVJwcFd4Qm8wRWxTQW5kZDFydldoQmY4R0wzUlUta2pVLUh2ZzFXeHMwemV1bXBhVEJNSUgzTUx0bk81bg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-02-004",
+    "date": "2026-07-02",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex contributes to strategic highway projects across Central Europe - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONW9QblhGdkE0SGMzWk9zcy1BelFIa1hFU1dtV1hkZHFEa0lfQ2M4SDkzUTVWQXM4aVluOWVvdjBFUE8tNURicFBIb3lobUp5VXZ0bnpjUzRCV0xHcEpDei1lTE1Camh1ay0td1h4Nn",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONW9QblhGdkE0SGMzWk9zcy1BelFIa1hFU1dtV1hkZHFEa0lfQ2M4SDkzUTVWQXM4aVluOWVvdjBFUE8tNURicFBIb3lobUp5VXZ0bnpjUzRCV0xHcEpDei1lTE1Camh1ay0td1h4NnNaUHFWV3RpZXcxZkYycXVydElPUWFjdDh5cWpGVFZBTHJHbjlkdk5QLU5GNFYyVm5RYk9IVmdLY1ZIZHJqWVlpc0xHczNWZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-02-005",
+    "date": "2026-07-02",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg; AECOM win international award for M5 project - Global Highways",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNms2NDZESHVSRFRua1EzNEVjY0wxYm9FaVFfaFkzaTM0a0JWOVBvcEt4REpRbG45Nk9JdS0wWDViY1dFU0EyQ3MxZ00tU1ZZZU1ueG5BbmpaTUR0WHc2bGtEWU04UlI4SzlYRlJDVj",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNms2NDZESHVSRFRua1EzNEVjY0wxYm9FaVFfaFkzaTM0a0JWOVBvcEt4REpRbG45Nk9JdS0wWDViY1dFU0EyQ3MxZ00tU1ZZZU1ueG5BbmpaTUR0WHc2bGtEWU04UlI4SzlYRlJDVjdENVpCaUJfWkIxa1dlOThyNGhFNlI0WGQ5S2Fwc2dqZ1Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-02-006",
+    "date": "2026-07-02",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Adani And UltraTech’s Entry Raises Stakes for India’s Cable Makers - thecore.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOejU5bDd3bGRyYlVjaHJ2WlFkSGpDRXdhdVh2dXpMMl9fVHVZVmdINEJScFNwQktXZTFhbTJiMXNUc1BrSzhIRjdvWjNWOHRoQVluT3hXdEFCdjhkallXUC01RlU2eThya2VQcjREbW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejU5bDd3bGRyYlVjaHJ2WlFkSGpDRXdhdVh2dXpMMl9fVHVZVmdINEJScFNwQktXZTFhbTJiMXNUc1BrSzhIRjdvWjNWOHRoQVluT3hXdEFCdjhkallXUC01RlU2eThya2VQcjREbWFXdGYtald5Z3dBWGJkN0lScy1QZnFMQjIxcGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-007",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Workers protest planned closure of ACC's Jhinkpani cement plant",
+    "summary": " More than 1200 workers, residents and trade union members have marched to the West Singhbhum district administration offices in Jharkhand, India, calling on...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181623/workers-protest-planned-closure-of-acc-s-jhinkpani-cement-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-02-008",
+    "date": "2026-07-02",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "positive",
+    "title": "Cemex contributes to strategic highway projects across Central Europe",
+    "summary": " Cemex has supplied essential concrete, aggregates, and cement solutions for major highway projects across Central Europe to improve regional connectivity an...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181620/cemex-contributes-to-strategic-highway-projects-across-central-europe.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-009",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Lucky Cement completes Karachi plant upgrades",
+    "summary": "  Lucky Cement Ltd  has announced the successful completion and commissioning of a process optimisation and capacity enhancement project at its  Karachi plan...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181619/lucky-cement-completes-karachi-plant-upgrades.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-07-01-001",
     "date": "2026-07-01",
     "companies": [
@@ -260,6 +434,122 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20934-ultratech-cement-receives-us-coal-shipment-at-deendayal-port",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-01-015",
+    "date": "2026-07-01",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC): Buy, Sell, or Hold Post Q1 Earnings? - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3RzYWhtbG51WHJoeU5CWEFIUURkM0tTSWVfMnRZZEVMYU9wTzlmbXRqTmFOeElwTE9KVUtYcHBwYlI3d01CZEpCM0pMQzlTRUlocFdobXNwRUJsZ19EY2FhR1pKc1NVRFdvMXR2Y0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd3RzYWhtbG51WHJoeU5CWEFIUURkM0tTSWVfMnRZZEVMYU9wTzlmbXRqTmFOeElwTE9KVUtYcHBwYlI3d01CZEpCM0pMQzlTRUlocFdobXNwRUJsZ19EY2FhR1pKc1NVRFdvMXR2Y0UwU25jdXlrblZvcU1kVTAtb196UExrRzI5ZTYzeWVaV2ZpS2J0VjJkNnJTLXRWZ0ZEZnUzN2h6YTVIbE85VXlQSEpkOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-01-016",
+    "date": "2026-07-01",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex pours low carbon cement for one of Europe’s tallest residential buildings - Global Construction Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0VxUWZMQ2pSQS1yMGU3UXVVbnUwQ0E0WFZVYnZjUUwwWHdyTUdhcWJaVVBzNnROd2VOT0RFVFJMTWNzVkZwU0pPelhKek81MGNrZjVVaDNuSktiTW5aenBaU1R1Qk9SSXBKWGhpQk",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0VxUWZMQ2pSQS1yMGU3UXVVbnUwQ0E0WFZVYnZjUUwwWHdyTUdhcWJaVVBzNnROd2VOT0RFVFJMTWNzVkZwU0pPelhKek81MGNrZjVVaDNuSktiTW5aenBaU1R1Qk9SSXBKWGhpQkJoRzJmYmFsRGFBUlpoZXdfMHJiV1VzN0JfS2s4MEtsZE1jTlYxYlhWNTRUQWJGLTFpQ2lYN0dHRWc1amQ3SXA0cXQwVVBtSi1lLUk5ZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-01-017",
+    "date": "2026-07-01",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "“Failing is important in the age of AI”: Chandrashekar, UltraTech Cement - People Matters - HR News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2x6dmU5VVgxbHhmTDlrei1ZdGFIQXRrNV90OWxpOGtXa2VDc19qU3JQSGpORGptWUpXQXpvWnJfajlpYnlvV21jRTJRQ2ZkbkVITHpsRC1FYlBGLXZkUlphTmYwdzRxWGl3RW5vRz",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2x6dmU5VVgxbHhmTDlrei1ZdGFIQXRrNV90OWxpOGtXa2VDc19qU3JQSGpORGptWUpXQXpvWnJfajlpYnlvV21jRTJRQ2ZkbkVITHpsRC1FYlBGLXZkUlphTmYwdzRxWGl3RW5vRzI1anU5Qk13bW1jajhZRXVabkcxbEowcE91ano3ODF5S2NqckNteVpFOEFsTzJYQVJEdTgzUXBnN1VsS19EUVA2VU9BVjZCbmZIU0F6TG5vLXVOWXl4V2J6QlRTdTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-018",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Philippines government launches Cement and Concrete Decarbonisation Roadmap",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/mexico-balancan-sleepers-factory-mayan-train_c_esmaragdo_camaz.jpg\" /></p><p><strong>Philippines:</strong> The Department of Trade and Industry (DTI) l",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20937-philippines-government-launches-cement-and-concrete-decarbonisation-roadmap",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-019",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Mastek completes Yanbu cement plant digitisation",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/riyadh-saudi-arabia-construction-financial-district-sunset_c_saudiarabiaphotography.jpg\" /></p><p><strong>Saudi Arabia:</strong> India-based software d",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20936-mastek-completes-yanbu-cement-plant-digitisation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-020",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Judge permanently bars DOT from blocking Hudson Tunnel funds",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/r4HegFM9pPebefG3MVqgHBdMLq44vAe0kWvNZ0Z_7vc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQxNjg2MDI0LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/judge-permanently-bars-dot-blocking-hudson-tunnel-funds/824201/",
         "type": "rss"
       }
     ]
@@ -683,6 +973,46 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/amtrak-east-river-tunnel-project/824078/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-06-30-023",
+    "date": "2026-06-30",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Price Target Down as RBC Lowers Earnings Projections Ahead of Q2 Results - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmw3bmJFRnlSQ0lYZ2xWenVHeEtPUGpSYWNjaVZ2UUtjcmRqaDBXaXR5M01TWWszVHhPSUdCSlhsX2M0QUhtSnJwclBtbFB5Yzk1OEJJMjd5eTdSS3Z2clZFWG9JenU5Uy1CX1F0dW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVmw3bmJFRnlSQ0lYZ2xWenVHeEtPUGpSYWNjaVZ2UUtjcmRqaDBXaXR5M01TWWszVHhPSUdCSlhsX2M0QUhtSnJwclBtbFB5Yzk1OEJJMjd5eTdSS3Z2clZFWG9JenU5Uy1CX1F0dW5ReWR3bE5YNUgyc0k5ekFJaU42ZHg3UGlxazBkaE9kSU9FdVU4SHZCMHplZFlJM3J3S1dYd3ZHc2o0R29Fd0lUSXlVQ2d3NGstSEhFRm81NVI4Zzgyckdfa0UzSEhMOGVWR1dkSnJZUlFsbnMzTXBBN0szR2U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-06-30-024",
+    "date": "2026-06-30",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BigBloc JV Siam Cement Secures Rs 4.5 Crore Order from Tata for Micron Semiconductor Unit - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNelFuV1ZTdjlvMURfWDVXaFhlTlNKWEpkZXJpUklGREk0SWtySkxMZnQ0bFV6eHpXOHR6QUROaHhEYWtucUlPd2tUVDQ4bWdMU2tvMThESW12NXJnWlhKSUNsYXNIRERKajFPbVBYUG",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNelFuV1ZTdjlvMURfWDVXaFhlTlNKWEpkZXJpUklGREk0SWtySkxMZnQ0bFV6eHpXOHR6QUROaHhEYWtucUlPd2tUVDQ4bWdMU2tvMThESW12NXJnWlhKSUNsYXNIRERKajFPbVBYUGtjYnR4bVNEdjhONTFYUjRPZjhzX09jb1ZtLVNwY0FLQXAxLTdxR0YzcFMzVUstOURFVEZfdjg5SHNoTmM2Rmw3NkRHcEFJQVBhVmc?oc=5",
         "type": "rss"
       }
     ]
@@ -2324,6 +2654,26 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pbWlLODF6M3p3c3NwZnQ0ZWc5WTcxRl80bkpIcElBcjRjMUN3MUQzR1A4d1FDbS1MSEhwNzNhM1VLcHAtLWp3ZG1Qa0NodzU1TUhZSHpOang4TkdkLU13VEFEdzdyZmh4LWY3WF9zOVpSanhS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-26-044",
+    "date": "2026-06-26",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBIT forward of thyssenkrupp nucera AG & Co. KGaA – XETR:NCH2 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNem9Pbkdyajl2SFJZUkZmdldwRkxuQnN3YmN3T2ZjQWNkenVBTUVMX0Q5eXZObnVmY1NtTGpXVzhVYjFhMGx2TG9wZmJYeC0yVXZqb1hsTUJDRUJIdmYxR210MzI0dmQ2bXFKbFlqLW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNem9Pbkdyajl2SFJZUkZmdldwRkxuQnN3YmN3T2ZjQWNkenVBTUVMX0Q5eXZObnVmY1NtTGpXVzhVYjFhMGx2TG9wZmJYeC0yVXZqb1hsTUJDRUJIdmYxR210MzI0dmQ2bXFKbFlqLWlLTHQ3WW9hVHNFa1hjWmdOSG9IZUhrczZkVy01c2s0cm13ejgyeEJKZUF5YzhnN2d5cmNmVHdJbms?oc=5",
         "type": "rss"
       }
     ]

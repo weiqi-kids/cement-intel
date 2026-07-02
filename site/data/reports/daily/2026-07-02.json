@@ -1,0 +1,236 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:39:42.545821Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-07-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "David Rosen Holds 3.07% Stake In thyssenkrupp AG - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTZCYWxYYUprRGZYTFRtT29OU0JYT282WTFTNktDSjcwcHdnVjB2LVZSOHNncmRMT19CTmdrVzBRVmNHMU1ySUdwS3Y4S3hVRU5aVTIyLS1oYTc2MjM3OW5iQlVaeWtBZEwyQi1MVk5PWUUyOWZmZk9LQ2VWLUpvZ1VrMlpHblczbmVUWHk3YTFJWEJxMm5EN2FPYXdKTkZXeXE4UFVVb0RJMm5JdzBGTHhCX0VEeExI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-07-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim builds on global demand as construction markets evolve - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDQ4cmpTOW5DNDMwTnVwVUlXenRTRWU4NmMtd0hBTm9nTWFjM25JeXlJYlRfNVlra2F0UEFvTWF6M2tZMmtuaVJlcGZYTjJzTE9rREtiQ2l1MExsaG5ELXd3TVYyNkd4dzRjSC0wcjhXdk1hMU1WX0U5c19DTVZtdVJwcFd4Qm8wRWxTQW5kZDFydldoQmY4R0wzUlUta2pVLUh2ZzFXeHMwemV1bXBhVEJNSUgzTUx0bk81bg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cemex-2026-07-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex contributes to strategic highway projects across Central Europe - cemnet.com",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONW9QblhGdkE0SGMzWk9zcy1BelFIa1hFU1dtV1hkZHFEa0lfQ2M4SDkzUTVWQXM4aVluOWVvdjBFUE8tNURicFBIb3lobUp5VXZ0bnpjUzRCV0xHcEpDei1lTE1Camh1ay0td1h4NnNaUHFWV3RpZXcxZkYycXVydElPUWFjdDh5cWpGVFZBTHJHbjlkdk5QLU5GNFYyVm5RYk9IVmdLY1ZIZHJqWVlpc0xHczNWZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-07-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg; AECOM win international award for M5 project - Global Highways",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNms2NDZESHVSRFRua1EzNEVjY0wxYm9FaVFfaFkzaTM0a0JWOVBvcEt4REpRbG45Nk9JdS0wWDViY1dFU0EyQ3MxZ00tU1ZZZU1ueG5BbmpaTUR0WHc2bGtEWU04UlI4SzlYRlJDVjdENVpCaUJfWkIxa1dlOThyNGhFNlI0WGQ5S2Fwc2dqZ1Y?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-02-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Workers protest planned closure of ACC's Jhinkpani cement plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181623/workers-protest-planned-closure-of-acc-s-jhinkpani-cement-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 178,
+    "too_old": 109,
+    "gate1_blocked": 14,
+    "gate2_blocked": 19,
+    "passed": 18,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+      "HEIDELBERG MATERIALS : Buy rating from Barclays - marketscreener.com",
+      "Heidelberg Materials: Not Yet Attractive, But May Become So Later (OTCMKTS:HDLMY) - Seeking Alpha",
+      "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView",
+      "Goldman cuts target for Heidelberg Materials to €230, keeps 'Buy' - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為CEMEX、Vulcan Materials、蒂森克虜伯相關動態：「David Rosen Holds 3.07% Stake In thyssenkrupp AG - Tradin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "David Rosen Holds 3.07% Stake In thyssenkrupp AG - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim builds on global demand as construction markets evolve - AD HOC NEWS（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
