@@ -1,0 +1,239 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:37:07.754732Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-07-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Stock Proves Resilient as Polish Setback Is Offset by Canadian Hope and EU Tariff Shiel - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXlYS29XdXo2MWI3ajgybXh6bHRmN3JQU09hb000dElJTGEzSFRZSmxaWHFmNVNlYVpxQ2Y2Q2I5RUROTng3RVhYZHQwOXZ4bmRiQm5XeDNpTkNoWmNkSTV6ZWZsR3pzbmVKVHB6cmRQcUlLMl9DbXk0SUhENTlBd1ZENXdvOWpjRDh4M01keGxGRGZkT2xKM0NmNGJici03NUpFbGtodVNnQV92UDQxWlBpOGRKNFJWdWttYkduT1hLc1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "taiheiyo-2026-07-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiheiyo Cement Finalizes Adjustment on Fully Committed Share Repurchase - The Globe and Mail",
+      "companies": [
+        "taiheiyo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3lmdkxuckFZM3o5UDBndV84SUZ5Yk9hTVNJaG5tQ3NFRjQ3VXJ4ZDVMOGZqai00TUI5RnFGVXlPY2ZtMVVEMkFJOXNfMmM4TDFmUXVnU3lxRDRYYmc5eE43ZXgtVTRfbTdkWnczZkwteXRPZ3ZfZkI2TjhzMzJVQ1FBYkh2U2NGTFFsUmx0NEJYUDBYVkdlQ2g4RVFjT3lyLW1QbDNRVkZ0VlpXRkRHWFRlc01qWnNUV3lrT3FzOVRHak5pLWtzTlcyalp5eGlITnUtVlhjdGNoZmhqS2p0U2tRMWNLZDk5?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "anhui_conch-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Anhui Conch subsidiaries acquire cement assets for US$91m - cemnet.com",
+      "companies": [
+        "anhui_conch"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjNKWERKMkhWcE5Eb0pvemVfdVFIU3NEZ0x4d3c0RUVYSkhRYV9NUjhGbC11NFJ2T2h6NjZ2bS1DNUY5N2hWWml4X0RYT1A3ejVYVm1HRlpycHA4ODJLMk85dXhmRUpzNGNXM1BGTVpicUQ0ajhJMDZldVFWS05pLUNyQXpRWXM3enYteG1zamM3Y3dwU1MxZFhMTjM3ODdSMi1BdmpB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea Cement Association and KCL partner on low-carbon cement R&D",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181630/korea-cement-association-and-kcl-partner-on-low-carbon-cement-r-d.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-07-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Heidelberg Materials faces supply chain complaint over Indonesia cement project",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181629/heidelberg-materials-faces-supply-chain-complaint-over-indonesia-cement-project.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "anhui_conch",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "taiheiyo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 176,
+    "too_old": 106,
+    "gate1_blocked": 14,
+    "gate2_blocked": 17,
+    "passed": 24,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+      "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+      "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView",
+      "Goldman cuts target for Heidelberg Materials to €230, keeps 'Buy' - marketscreener.com",
+      "HEIDELBERG MATERIALS : UBS keeps its Buy rating - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為海螺水泥、海德堡材料、蒂森克虜伯相關動態：「Thyssenkrupp Stock Proves Resilient as Polish Setback Is ...」。主要關注主題為財報、碳排放、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp Stock Proves Resilient as Polish Setback Is Offset by Canadian H...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Taiheiyo Cement Finalizes Adjustment on Fully Committed Share Repurchase - Th...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

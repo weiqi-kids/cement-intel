@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 14,
+  "gate2_fail": 17,
+  "passed": 24,
+  "gate2_samples": [
+    "Vulcan Materials Company(NYSE: VMC) dropped from Russell 1000 Dynamic Index - marketscreener.com",
+    "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+    "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView",
+    "Goldman cuts target for Heidelberg Materials to €230, keeps 'Buy' - marketscreener.com",
+    "HEIDELBERG MATERIALS : UBS keeps its Buy rating - marketscreener.com"
+  ]
+}
