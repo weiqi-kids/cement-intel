@@ -151,6 +151,45 @@
     ]
   },
   {
+    "id": "heidelberg-2026-07-03-009",
+    "date": "2026-07-03",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials challenged with new German law over Central Java cement plant and quarry project",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/indonesia-transport-quarry-ocean_c_bangoland.jpg\" /></p><p><strong>Indonesia/Germany:</strong> Heidelberg Materials is facing local protests against a ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20952-heidelberg-materials-challenged-with-new-german-law-over-central-java-cement-plant-and-quarry-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-010",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Workers march against ACC Jhinkpani cement plant closure",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/India_Jharkhand_government_C_PradeepGaurs_EDITORIAL_USE_ONLY.jpg\" /></p><p><strong>India:</strong> 1200 protestors, including workers, residents, socia",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/20951-workers-march-against-acc-jhinkpani-cement-plant-closure",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-07-02-001",
     "date": "2026-07-02",
     "companies": [

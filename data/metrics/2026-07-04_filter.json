@@ -1,0 +1,13 @@
+{
+  "total_raw": 72,
+  "dup_title": 37,
+  "no_date": 0,
+  "too_old": 19,
+  "gate1_fail": 12,
+  "gate2_fail": 2,
+  "passed": 2,
+  "gate2_samples": [
+    "Cementos Argos to merge with Concretos Argos",
+    "Mineral Products Association calls on government to ‘back British cement’"
+  ]
+}
