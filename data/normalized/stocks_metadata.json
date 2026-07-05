@@ -1,73 +1,73 @@
 {
   "vulcan": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "martin_marietta": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "eagle_materials": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "thyssenkrupp": {
-    "earliest": "2004-06-17",
+    "earliest": "2004-03-19",
     "latest": "2026-07-03",
-    "count": 5609
+    "count": 5673
   },
   "holcim": {
-    "earliest": "2004-06-17",
+    "earliest": "2004-03-19",
     "latest": "2026-07-03",
-    "count": 5562
+    "count": 5626
   },
   "crh": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "cemex": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "heidelberg": {
-    "earliest": "2004-06-17",
+    "earliest": "2004-03-19",
     "latest": "2026-07-03",
-    "count": 5609
+    "count": 5673
   },
   "taiwan_cement": {
-    "earliest": "2004-07-05",
+    "earliest": "2004-04-06",
     "latest": "2026-07-03",
-    "count": 5414
+    "count": 5478
   },
   "asia_cement": {
-    "earliest": "2004-07-05",
+    "earliest": "2004-04-06",
     "latest": "2026-07-03",
-    "count": 5414
+    "count": 5478
   },
   "anhui_conch": {
-    "earliest": "2004-07-05",
+    "earliest": "2004-04-06",
     "latest": "2026-07-03",
-    "count": 5369
+    "count": 5433
   },
   "ultratech": {
-    "earliest": "2004-06-22",
+    "earliest": "2004-03-24",
     "latest": "2026-07-03",
-    "count": 5444
+    "count": 5507
   },
   "taiheiyo": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "siam_cement": {
-    "earliest": "2004-06-18",
+    "earliest": "2004-03-22",
     "latest": "2026-07-03",
-    "count": 5401
+    "count": 5465
   },
   "cnbm": {
     "earliest": "2006-03-23",

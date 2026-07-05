@@ -1,5 +1,222 @@
 [
   {
+    "id": "holcim-2026-07-05-001",
+    "date": "2026-07-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim builds on global construction demand as investors track long term strategy - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHlra3g2S1dTa0hZdThnZkQxMjhXeXpzRWV2VjJlSHExQ3Zibm9SRE00SktGejRyVlBhNldDWjRldWN6aVJUejl4cVdSRzA3cEJHZFdQbHhCaWVoSFVVYUJlUlhFOFNnYjZDNHJNX1",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHlra3g2S1dTa0hZdThnZkQxMjhXeXpzRWV2VjJlSHExQ3Zibm9SRE00SktGejRyVlBhNldDWjRldWN6aVJUejl4cVdSRzA3cEJHZFdQbHhCaWVoSFVVYUJlUlhFOFNnYjZDNHJNX1o2U0lQcndaQUg4SWNZNWFIaEtMeWZTbm1Sdk9hS2VZMEktbHhBUjc2bXU5b3k5bTdJRWdpUTlrd3FuWnk1cWRsbmVKTG5UbGdZNlB1RTFyZDdkckRDZXBoWnNjZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-05-002",
+    "date": "2026-07-05",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials outlines long-term strategy as global construction demand evolves - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQSWd1bWhXWWZMTjlZYjB5c0lCVXB4c1FhLXFrM2ViMnJTV2lNV19tTlVnN2k5RlRBWFQyYWthZEJuMWp1bzdwajVEd1VzQ0VRdjNUbGxhelNkWWVGLWZVVW9Ma2lhdE1xQlJvZmd0NX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSWd1bWhXWWZMTjlZYjB5c0lCVXB4c1FhLXFrM2ViMnJTV2lNV19tTlVnN2k5RlRBWFQyYWthZEJuMWp1bzdwajVEd1VzQ0VRdjNUbGxhelNkWWVGLWZVVW9Ma2lhdE1xQlJvZmd0NXVPQ2ZwU1pEX3h4c1pham1HbHFDZThOWUh2NGFxemx5dC1HRDgxMUNIeXlINUwzY1hLcmRHOVFHSkdaeHFvWDdMaldEN1E0YXRyOUt3YVMya2h4SlVoLUNIUWpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-07-04-001",
+    "date": "2026-07-04",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement stock leans on core cement business - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGxETk9GYVJtYmZkdElGeHhXTFpzVVNTVURxbzhlNUpNMjRhRHdlcEtUVzlUT0ZNQjJWN2tEMlVuT2ZUVnNqWFpNdm93dXNNd0lHaWU5dGtja0l3M0o2OTJXUHRRVjhBU0Y2YW9OcW",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGxETk9GYVJtYmZkdElGeHhXTFpzVVNTVURxbzhlNUpNMjRhRHdlcEtUVzlUT0ZNQjJWN2tEMlVuT2ZUVnNqWFpNdm93dXNNd0lHaWU5dGtja0l3M0o2OTJXUHRRVjhBU0Y2YW9OcWp5T2tBc2pST0VDQkx4VlBiOWRqQkhEOFRWTk9CMVNhUXdtVDF0V3F4d2hrZ29uMDdqelBZMzd5NS1EQ3dx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-04-002",
+    "date": "2026-07-04",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock follows a focus on operations - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmFVRXgzSnluQW9yZXZwbmlmX0pjLTdYaFJHeC1IZUtwcGVPV0NsYlNtUFpjZTZ1bW5Xa2tDT0dCX3hXZ3VBTmV1SmNCUnZWS2EzNUxpaUhramFaREtLcHVzZHZtS1plZDktMktJNn",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmFVRXgzSnluQW9yZXZwbmlmX0pjLTdYaFJHeC1IZUtwcGVPV0NsYlNtUFpjZTZ1bW5Xa2tDT0dCX3hXZ3VBTmV1SmNCUnZWS2EzNUxpaUhramFaREtLcHVzZHZtS1plZDktMktJNnVpdWhFMjVWNnBldHVPZTg2OEtfd3o1ZGRFNmg4T1N6UHNfVk8wMUJZWFhkR1FQQWpsLVF6SUQxVkdFZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-04-003",
+    "date": "2026-07-04",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement strategy supports regional demand. Investors watch Hong Kong listing context - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTFZR2RMQ2xraFdZRzB3ckhheVY0QjdtSElaeC1zVjlkX0E3TWNBenJGWnJEMjA5dmMxWWh4T2FXdUtweDdrMkZpSlVfWUIwWUtSelRoQVphQTA4dDc0UjJ6NEhYcDB6Z1VybDVvbk",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaTFZR2RMQ2xraFdZRzB3ckhheVY0QjdtSElaeC1zVjlkX0E3TWNBenJGWnJEMjA5dmMxWWh4T2FXdUtweDdrMkZpSlVfWUIwWUtSelRoQVphQTA4dDc0UjJ6NEhYcDB6Z1VybDVvbktBRGhncDYtMVFsSV85a19MNm1iV3locWtOTkNrd1AxU1JmZ2JLN2hXZGFxdURzRTk5M2s3cEFTTklSenhiZ18ybE5zeEs1OTRqVTE4cEhjMXB6bDI4aEZpRGlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-04-004",
+    "date": "2026-07-04",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Conch Cement highlights its role in China’s infrastructure buildout as investors watch long-term d - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckhTZVZWbThmM1duQUtLYjA2UXpmdUdrOHpwT2dXZV80Z2pXdkZ4Vk1vZXZDZWxVblUxMDA3X1oyeUhaeEJHanYxMDJmcmRudkRYUFpiNE9ZSzZ0SVc0ajlNX0gyMFVKM3RId1djcn",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckhTZVZWbThmM1duQUtLYjA2UXpmdUdrOHpwT2dXZV80Z2pXdkZ4Vk1vZXZDZWxVblUxMDA3X1oyeUhaeEJHanYxMDJmcmRudkRYUFpiNE9ZSzZ0SVc0ajlNX0gyMFVKM3RId1djcnZUeXVXMlZXR19EUTVmbnVZRWcwVFkxTUVRSkh6UFB4NzBubnNWeFBwQzl0Yi0zdUNoUG9qeXZOM3hfWnVqSF9fRWhrMkFxelZZaUQtTDN1Smw5Q2pnYm1FVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-04-005",
+    "date": "2026-07-04",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "UltraTech Cement focuses on long-term growth as demand for building materials stays resilient - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHY4MUJ1VEZBVlpLakZlaGlGS21MWEg4ZWZrcE1DR1ZSVkxkbjE5aFg3Y3h6TUE2MGctNVJuRXcxUVpTX01NaTlxTVRDMk92ZGlRdHNhLS15Umg5MmVONFc2d1NZcDJJT2d5ekYyTT",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHY4MUJ1VEZBVlpLakZlaGlGS21MWEg4ZWZrcE1DR1ZSVkxkbjE5aFg3Y3h6TUE2MGctNVJuRXcxUVpTX01NaTlxTVRDMk92ZGlRdHNhLS15Umg5MmVONFc2d1NZcDJJT2d5ekYyTTd3SHNKMTVoVl9zQ0hlYnZVcHlabkFGUVdlMkpkQS1KNnpWUVhRb2FFR0YzN05XRTZoajhkQmxaOTNTTl9sa3B0Y3ZWVWJVaDFaT0ZNRzNEU05JSmRE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-04-006",
+    "date": "2026-07-04",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement earnings outlook and long term growth narrative - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUhfdGVid0ZHSVI0NUhTYkpqZjBWOXVaTE12M2VzZlliUEx3dWpyZURNc2cxN0F1Ny1DSTJ0SUctMkE3QVV1U2xSa0h0d3lzSDNUV1dnci1YQzNBR0lOLVdQVC0zREhjSzgtYUVIM2",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUhfdGVid0ZHSVI0NUhTYkpqZjBWOXVaTE12M2VzZlliUEx3dWpyZURNc2cxN0F1Ny1DSTJ0SUctMkE3QVV1U2xSa0h0d3lzSDNUV1dnci1YQzNBR0lOLVdQVC0zREhjSzgtYUVIM2hKSDBwRXEyTF9JbHJYbEFEcjF4azJCa0sxMURZaDJhMFBreFhKS0Z3dlJrZ2NoRi1vZzFORzAySzgtbHFnalBTQUo2bWRNMWFJQlBUellrWTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-07-04-007",
+    "date": "2026-07-04",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement focuses on long-term infrastructure demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2IzV0lhb1lTMkYtVE1YMWM5THBNTDV3ZlFWNHRrWmVxY09HSGcwdjlBV2wyeHZzdGtGcGhXcHQ5aXZZTktQQm9hVHFpR2pCRUUtUGlQN25HcGZvU2dobHpFNFh5TGpPYzhwcXpQdj",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2IzV0lhb1lTMkYtVE1YMWM5THBNTDV3ZlFWNHRrWmVxY09HSGcwdjlBV2wyeHZzdGtGcGhXcHQ5aXZZTktQQm9hVHFpR2pCRUUtUGlQN25HcGZvU2dobHpFNFh5TGpPYzhwcXpQdjJSYjVkeWpIN09jSU9rTFJobU9sRW9xS2VWMkdKbUNXX3pDSDFNLU5WVVV1QkdfdVFzN3VWRDYycEk0c0hldTlYbndjaWNyOVNH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-07-04-008",
+    "date": "2026-07-04",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement PCL navigates regional demand shifts. Investors watch long-term strategy - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSC1iTWl5MFJkU0lNa2dQV2ZTQ2oxOU81ci05d0lXdXZiR1RmaGZqY005RG9QY3hVd09wYTFpaHA0TFB3d01hNFFWLUQ4cThMTzlqemQ5XzQ0VllLVlhGVXZMMzRGLVpBY3ItUG5jQm",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSC1iTWl5MFJkU0lNa2dQV2ZTQ2oxOU81ci05d0lXdXZiR1RmaGZqY005RG9QY3hVd09wYTFpaHA0TFB3d01hNFFWLUQ4cThMTzlqemQ5XzQ0VllLVlhGVXZMMzRGLVpBY3ItUG5jQmdibWc2d2xUcGpia3BuR3hmWnJZaTltWlNtLTJtVm1SM19FeE43aExOX1ZXbHlRdGZMX3dUX0p4Tzg5bTVXNkJWWkgyUUs0R0lBOHRWd2dCcnE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-07-04-009",
+    "date": "2026-07-04",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Siam Cement PCL steady amid regional construction demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3BSZ1NPZllyU2QzTlBRZUFJOHlVanlYVFpfMjRaNGlpbXUwZkxCUnZpRHltSzltMlRqWk1fZ1RScUN4SmNDVTlNdWtId250S3hvcFB4QWZtM0pJMXc2Q01jYWRmeTdBTW9ZSV96T1",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3BSZ1NPZllyU2QzTlBRZUFJOHlVanlYVFpfMjRaNGlpbXUwZkxCUnZpRHltSzltMlRqWk1fZ1RScUN4SmNDVTlNdWtId250S3hvcFB4QWZtM0pJMXc2Q01jYWRmeTdBTW9ZSV96T1ZPYk9xdEJZaUNDNVhxT0tWSWUtdzhUbm1vYkx6eV9VRk8wS2xKSTFUX2MtUTZhUGZqaTBueHlYVE9JX1F0V1IyaUJMZ0ZYV2FYTHQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-07-03-001",
     "date": "2026-07-03",
     "companies": [
@@ -185,6 +402,122 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/20951-workers-march-against-acc-jhinkpani-cement-plant-closure",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-03-011",
+    "date": "2026-07-03",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Did Vulcan Materials' (VMC) Russell 1000 Dynamic Exit Just Reframe Its Demand-Resilience Story? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX21QSGw2UnhVZWRSbE5sa0hCcjU4X2tBYjU2UXJhcXFhVnNtaW9TZ2oxdnZVSUZpWm81bnFqVHB3MUIyVEZOdmRsaVZram50RVdpNVZnRWdVZHZtUDZMUm82X3Q3b1RfbHdGMVE2NH",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX21QSGw2UnhVZWRSbE5sa0hCcjU4X2tBYjU2UXJhcXFhVnNtaW9TZ2oxdnZVSUZpWm81bnFqVHB3MUIyVEZOdmRsaVZram50RVdpNVZnRWdVZHZtUDZMUm82X3Q3b1RfbHdGMVE2NHRJeU1mRGZZNGtJYmxHSWl5cVhtUWVuWnZhNkFlUXBtckh6TFI3NUJPMWRkYjNkeVFybHNaQzZ5Qld0NUh4YkpoZjhUYzRkZnBaT0V3aUx6T254WHh4M0doVlh3Y19NY1ZKbWsw0gHTAUFVX3lxTE1fbVBIbDZSeFVlZFJsTmxrSEJyNThfa0FiNTZRcmFxcWFWc21pb1NnajF2dlVJRmlabzVucWpUcHcxQjJURk52ZGxpVmtqbnRFV2k1VmdFZ1Vkdm1QNkxSbzZfdDdvVF9sd0YxUTY0dEl5TWZEZlk0a0libEdJaXlxWG1RZW5admE2QWVRcG1ySHpMUjc1Qk8xZGRiM2R5UXJsc1pDNnlCV3Q1SHhiSmhmOFRjNGRmcFpPRXdpTHpPbnhYeHgzR2hWWHdjX01jVkptazA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-03-012",
+    "date": "2026-07-03",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Mexico Seeks Deal to End Vulcan Limestone Mining for Good - Mexico Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHpFRVFtanNTcnE3eG13dTFkejdnRFUydjNuUVdQVV91TVk0bmtZU3M2NU96bHJYR0RhTzRSSGtLajlPOVVOS2ctUlg0TENMcTFlOFdQV1A3bU53VUFLTmM4aVduQlREdjNkbXZWR0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHpFRVFtanNTcnE3eG13dTFkejdnRFUydjNuUVdQVV91TVk0bmtZU3M2NU96bHJYR0RhTzRSSGtLajlPOVVOS2ctUlg0TENMcTFlOFdQV1A3bU53VUFLTmM4aVduQlREdjNkbXZWR0NkVmRhV2Z4blJUX09ZUmx2VVRHSzhtVVMweTFMMlNLZUF4dHFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-013",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Indonesians fight a German cement giant over a mine and factory project - ABC News - Breaking News, Latest News and Videos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NDTzc4WURpN0xHcDIzQzZLcGdtZXNPNjI2d2hjQ21lWUNtX293VkN2bzBMTGJzdmhjbDJKeGxnNzlxU09MSVA2X2tOOEQxbTJicDRKTldjZDRBRTJPR1NJTzZmZXR3dUFrZlFWZl",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3NDTzc4WURpN0xHcDIzQzZLcGdtZXNPNjI2d2hjQ21lWUNtX293VkN2bzBMTGJzdmhjbDJKeGxnNzlxU09MSVA2X2tOOEQxbTJicDRKTldjZDRBRTJPR1NJTzZmZXR3dUFrZlFWZlRDUkxJZU1pcU9BZnF3OFpVOTNackJvcUdkVFN0OE5TWGJnVGlPQmF3UjVOa2VzbHY0emNHbHhIUW5KVnPSAbABQVVfeXFMT2M4bXczVFRXazBoZHZYVTNxRTBWYXpXUThEdlIydjhpZTAyZzczMGpPOEd5NkRHWkpaT2ZOZE1tZVRkaWthazZCcmJQdFZaVWZ2NmxKcGFOTEtHNERpLWZpRzdyczcwRS12T255eXFrVnZpalJpR0trUldrZ0tHR0wtVldsZ2lVT3pMTE5FbFczMGktcnJudkVaLTdwVVJqWEFKZnNzNUY2U19KWENjUl8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-03-014",
+    "date": "2026-07-03",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials faces supply chain complaint over Indonesia cement project - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFFaaEI4ZXIwT2dRNVJPbTdoVlFRcDhjX2JNLVdSUjBKaTZlcUJSN1BQb0FxY1hGLTdjZGdNMnc4TVY4Q1BYYzNvSWNjU3k4ajlKWHNVSDFXZFY1YTJMTDRIaEZRQW5XT0xuVVVtZX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFFaaEI4ZXIwT2dRNVJPbTdoVlFRcDhjX2JNLVdSUjBKaTZlcUJSN1BQb0FxY1hGLTdjZGdNMnc4TVY4Q1BYYzNvSWNjU3k4ajlKWHNVSDFXZFY1YTJMTDRIaEZRQW5XT0xuVVVtZXYwZVJ3QzJ5bmZpQldwTHFLbjE0XzRGQ2ZTUVBGRjZLaFZSTjB4bTF1aWhfUW0zRk1HOHJXSEZHU3NleEtTazNKSy1vX2ctR295THhHY3J5alFHNk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-03-015",
+    "date": "2026-07-03",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement wins 2026 AREA Social Empowerment Award and Silver Emblem of Sustainability - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzFTM19qaVFOa3hjQU83QUN6ZVAzeGk4bXdlT2NMZWlReERiOFl2eEJJbktOWVdnYVlXRHBZTkN1QklKLURsenpXbGkzaHdVTWtlLWZiZEpFd0VxRGU5SEYxUUhLWmQ3NWctRUQtU1",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzFTM19qaVFOa3hjQU83QUN6ZVAzeGk4bXdlT2NMZWlReERiOFl2eEJJbktOWVdnYVlXRHBZTkN1QklKLURsenpXbGkzaHdVTWtlLWZiZEpFd0VxRGU5SEYxUUhLWmQ3NWctRUQtU1ZZWHFKbUdsdnJseVZtdjRBVV83MGQ4aDlmTTNpNEUtcFdHT25WZFBBLS1vNVBIMk40eGpiVHk3NzVNSUFhYm1kMTZpblpYb1h6OVphOUJBR0xxTHZnZ1VMRFRvblItcFJJVTNIRnk4S2hSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-016",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Wanwei Updated High-Tech Material Industry Sets Cap of 93.6 Million Yuan in Related-Party Deal With Conch Cement - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXExTHdCVEVMTWtYYnkyYlZmSjk0NkhhSmxwbTNDUUNiUnVRMkZweklvckh4RXhiLVZFRXZ6cWprSnctYTFzb2pBdHRwcWhYN1dVdkxmVkRoSEJFTzNIMEptVWlucGlJa3Q4b3I3UT",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXExTHdCVEVMTWtYYnkyYlZmSjk0NkhhSmxwbTNDUUNiUnVRMkZweklvckh4RXhiLVZFRXZ6cWprSnctYTFzb2pBdHRwcWhYN1dVdkxmVkRoSEJFTzNIMEptVWlucGlJa3Q4b3I3UTNHNzlfQkg3bWxqVV9IQ3VGM3JRVWZOMGdwMWt1Y2JvVExZLThpOE1GQUlqdHhvelpXUkhRbF9RZ203WkFSVi10RDMySko0b0E0VGtJV1g0c3ZRNU4zQUcxdi1UUUlNNXV5em9j?oc=5",
         "type": "rss"
       }
     ]
@@ -1481,6 +1814,24 @@
     ]
   },
   {
+    "id": "ultratech-2026-06-30-026",
+    "date": "2026-06-30",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ultratech Cement Limited Announces Superannuation of Sanjeeb Kumar Chatterjee from Executive President ? Secretarial, Effective June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdzQwdU1WUGk5eWdPZEpZRldoa0ZYRHFRMnB5LVc3WVR3bjRXZUFpcFZGMGNwbTIwSTM2QUN2eDhvMThqZjNfSW5xUzJ5RlAxTFhvdlNmVWtFR0JKRThVS0RCLVpfQm81cldTdW00aG",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdzQwdU1WUGk5eWdPZEpZRldoa0ZYRHFRMnB5LVc3WVR3bjRXZUFpcFZGMGNwbTIwSTM2QUN2eDhvMThqZjNfSW5xUzJ5RlAxTFhvdlNmVWtFR0JKRThVS0RCLVpfQm81cldTdW00aGN4WlVNR1FCbVRyNkdmVXBwZFdOTVF0UHk5TEdSOFNROWp4ZWU0RllCS0V0RmdGeGhtbFc3SExKUm1HVGZUZTNNTGgxSjNSOTJvbWFKbXA4aTdhWHJkaDA4UGFpbm5pUWdWNGNCT21FU2c3TmJ3VHhqVnROckN4UWtQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "martin_marietta-2026-06-29-001",
     "date": "2026-06-29",
     "companies": [
@@ -1956,6 +2307,24 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczBOQ3BTNkdzZG1VUGZMSGN6WUU2aWg3cjdPSWg3OGFBTk1wdEpEQXJ1VU91MGtvdmJxN3dNa0RZOHNYa0JRTlJTd0hpb1pjTE82dG9GelJSdllETXpscU5JcnllZ0VtdTFrRlBfSzdtekVTWld4OTVBaGZ6Y1RYZWZyRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-06-29-026",
+    "date": "2026-06-29",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Steel Business Is a Source of Potential -- Market Talk - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVNkdVdPaU5lZGpnUFRnaTdsbGZuTzZCVU9uTjFQQVo1RjVid1VTZ21kZURZR1FmREM2VEtJOWNRdDNlT3kza2FXSFZWekppUE10MXhqUFZIblo2dklaclhUUENOQWFKZ2NCY1NpOF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVNkdVdPaU5lZGpnUFRnaTdsbGZuTzZCVU9uTjFQQVo1RjVid1VTZ21kZURZR1FmREM2VEtJOWNRdDNlT3kza2FXSFZWekppUE10MXhqUFZIblo2dklaclhUUENOQWFKZ2NCY1NpOFU4YTJYdHVTQ0E3ZHk0Ty00VWJEd1JROXNZczhkRHRWMFJoS3dXTVZaZWg1ZjFWMEZSV3lzWk5n?oc=5",
         "type": "rss"
       }
     ]

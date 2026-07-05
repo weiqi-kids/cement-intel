@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 16,
+  "gate2_fail": 16,
+  "passed": 19,
+  "gate2_samples": [
+    "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+    "The Vulcan materials VDrive asphalt - VMC bets on high-performance paving - AD HOC NEWS",
+    "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+    "The CEMEX ReadyMix Concrete. A classic building material still shaping US projects - AD HOC NEWS",
+    "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView"
+  ]
+}

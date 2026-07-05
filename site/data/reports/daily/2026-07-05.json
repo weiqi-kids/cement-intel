@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:13:27.254083Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-07-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim builds on global construction demand as investors track long term strategy - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeHlra3g2S1dTa0hZdThnZkQxMjhXeXpzRWV2VjJlSHExQ3Zibm9SRE00SktGejRyVlBhNldDWjRldWN6aVJUejl4cVdSRzA3cEJHZFdQbHhCaWVoSFVVYUJlUlhFOFNnYjZDNHJNX1o2U0lQcndaQUg4SWNZNWFIaEtMeWZTbm1Sdk9hS2VZMEktbHhBUjc2bXU5b3k5bTdJRWdpUTlrd3FuWnk1cWRsbmVKTG5UbGdZNlB1RTFyZDdkckRDZXBoWnNjZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-07-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials outlines long-term strategy as global construction demand evolves - AD HOC NEWS",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSWd1bWhXWWZMTjlZYjB5c0lCVXB4c1FhLXFrM2ViMnJTV2lNV19tTlVnN2k5RlRBWFQyYWthZEJuMWp1bzdwajVEd1VzQ0VRdjNUbGxhelNkWWVGLWZVVW9Ma2lhdE1xQlJvZmd0NXVPQ2ZwU1pEX3h4c1pham1HbHFDZThOWUh2NGFxemx5dC1HRDgxMUNIeXlINUwzY1hLcmRHOVFHSkdaeHFvWDdMaldEN1E0YXRyOUt3YVMya2h4SlVoLUNIUWpB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 180,
+    "too_old": 106,
+    "gate1_blocked": 16,
+    "gate2_blocked": 16,
+    "passed": 19,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+      "The Vulcan materials VDrive asphalt - VMC bets on high-performance paving - AD HOC NEWS",
+      "THYSSENKRUPP NUCERA : Goldman Sachs remains Neutral - marketscreener.com",
+      "The CEMEX ReadyMix Concrete. A classic building material still shaping US projects - AD HOC NEWS",
+      "Price to sales forward of Heidelberg Materials AG – LS:604700 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Holcim、海德堡材料相關動態：「Holcim builds on global construction demand as investors ...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Holcim builds on global construction demand as investors track long term stra...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials outlines long-term strategy as global construction deman...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
