@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 19,
+  "gate2_fail": 11,
+  "passed": 21,
+  "gate2_samples": [
+    "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+    "Why Canada’s Submarine Choice Is Drawing Global Attention with thyssenkrupp AG (ETR:TKA) - Kalkine M",
+    "Thyssenkrupp updates investors on strategy and portfolio. The industrial group navigates global stee",
+    "Cemex strengthens its global cement footprint as investors track long-term growth - AD HOC NEWS",
+    "HEIDELBERG MATERIALS : Buy rating from Barclays - marketscreener.com"
+  ]
+}

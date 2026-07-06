@@ -1,0 +1,274 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:05:58.752469Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-07-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Asphalt Mixes - Backbone for US Road Projects - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmtYcjVQdF9IaUk4eHFvY1BPZXBjVzVnWmtmeW14elNjSzZjSjhmekozbTUxRE1uMF9YSWo0SkUtTWJRMV9RbWJKc0RmbTVWaFVfczZad3B5MlJqLW1sVTlGZ08tTlpjTTJtS1pJX2daQ1dObC0tQTVKQmZOdWFzb3dFOGl4WjMyYzFObk81b0k4SUN0ZW4wOUVLVDUxTE5KVWNKMDNLZXNQV2o4dHhwaWFlLVRROVB4TzdB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada to decide between German, South Korean submarine bids on Monday - ABC News - Breaking News, Latest News and Videos",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEE4NGtOSWtxaEJOOWtJVllNdlhzQkt2dC1NVUppMGladm9NMUd4RE80V1pMOEpodkg4X2hFZ2tMczczU3JxUzYyT2tXb1lPVWRrWmZYVmZuNEN5UlVtM01KX0stanlIUnBkWGZxSl9wRllvRHRmQ21mX3Z2RlpzbktJU0twYlVyVzBsQ1BQUmoxb3lyeWxFazh1ak03OW1RdEFzclZDRENoeEVaU3fSAbMBQVVfeXFMTkJlTWN4dWZIbG0zbnFtcnpIOTBoUUprXzNDSnpfdDVnb0hpc2o2alg2MmN4c2tQOHBGNTQ0dnJaVnlEVWgxLXozSmlJcFlNLTc0dE1FQ0JKM2hmQi1vMlhmVXVTbFJWVFEzbmI5Sy1aLVUwMjBqSS0yVUU0eVV3QnFpZy1FQlRXQkcyUEpwMVlsZmJDNFNFZjBSWGI3UDI3Q0ZPdVE1eEZoVW04X29XOGUtamM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-07-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TK Nucera outlines its hydrogen strategy as ThyssenKrupp Nucera builds market presence - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjBoVHQ1ZU1ReWIwcTZGWm96YVRCQktQZDNYYXNBTElDalJ5bUx6UTZma1podXRqN0NVVzNLSFJ0SFpVOG83N2ZxaElyUWpFRWVqdFBfM2pZMF9IVVRfZTZfVTlQZVJKS3laXzUtX2VRV0xscTREdUlBcnBrQzRhcEpSNWtqZzlMcTllekVoUmNkT0cwTGJtaXlrTHNDSjF1aFhHMDFfell0Znl5aElSZEVraWV6R21GWTJaQ25RVVdHbXBxWTdFOQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-07-06-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ambuja Cements, UltraTech Cement, Dalmia Bharat In Focus Ahead Of Q1 Results — Check Target Prices - NDTV Profit",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT3RGMmU2c0VfOWJLZHRRSFltSjd4MXFTbXBjbnJVc2tnMmJmeTJmZzNFOUxsMFd3NDN4dFNSWmQ0cnF6TWxkYzI2RkhRdWVjN3ozTkJXZFhCYjRDT2kxNE15S2s2MU1Fb2pJbDJqblJuVVFsdXZhanJPWUZNZzdSdUstekFhaFZBYktvSGpNeTM5dWc3RTNJQm84RjNuZXdDVFdGQk9QTlBxU0hiQ3BqY2p1ZGMycjB0OXZUY3RyM25lYk5ISFhkcVVpbTN4SnZOUDlvbWVrbWY5OGFjR3RzRmZwWUxZcHJLUEpUYy1Kd181aG1LTEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-06-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "JSW expands Andhra Pradesh cement and renewable energy operations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181638/jsw-expands-andhra-pradesh-cement-and-renewable-energy-operations.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 4
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 176,
+    "too_old": 111,
+    "gate1_blocked": 19,
+    "gate2_blocked": 11,
+    "passed": 21,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+      "Why Canada’s Submarine Choice Is Drawing Global Attention with thyssenkrupp AG (ETR:TKA) - Kalkine M",
+      "Thyssenkrupp updates investors on strategy and portfolio. The industrial group navigates global stee",
+      "Cemex strengthens its global cement footprint as investors track long-term growth - AD HOC NEWS",
+      "HEIDELBERG MATERIALS : Buy rating from Barclays - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為蒂森克虜伯、Holcim、Vulcan Materials相關動態：「Vulcan Materials Asphalt Mixes - Backbone for US Road Pro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vulcan Materials Asphalt Mixes - Backbone for US Road Projects - AD HOC NEWS（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Canada to decide between German, South Korean submarine bids on Monday - ABC ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
