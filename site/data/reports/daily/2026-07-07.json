@@ -1,0 +1,281 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:56:06.620636Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "heidelberg-2026-07-07-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Heidelberg Expands Russia Cement Plant After Saying It Wouldn’t - Bloomberg.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWF2Y1hVa292a0plcm9hbjNySWQ2YjB1TFRsQzI3U09RMHJwSGEtQWRFZm5KTDNGbHpXOUM2Ump1NHlIVkdtSW0xajQ4a21hUnlxVjliTHBUb01KWWdsb2VraWttaUo0WkhPRkxkVERxNUYwTl9iRWFBLXhEVkh2RkRDZTF2SjJkNFFESnlPcnBCS19DWVA1enJnWGdMZWxhV1pwQXlCekZGekViN09IT2YyNjk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-07-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Nucera partners with Indian government-owned industrial giant to set up local electrolyser factories - Hydrogen Insight",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaWtEWVVDZndsLURIZ2JYaTZFS1ctanAyQU1PYmNodUs0Smphdm1vNXExNHY1ZkxQNThKTkg5TXNzRmF2cnFLVTVLNmRHU1dlS2xmR2tYbXZNc29ud1p6R3M5ZEctQ25tYUpHQU4yTmxqQTZtSHJidWxpLWxTYmlraEhnU2FtTlFCbEE5NjBtMHlVVHJobXZVUGZmYk9sVC00eHV1aWVoNm5reFNZQThwM2ZPQkUwUXdwTE5rSGxmX3hFSmJxNWU0LTNPV3VYcUxzRzJBRFdEeTZWam5WdTdjWUdUNHR2Q1cwanV0a3MxdDREMHVtWHl3UXpuZGFyZDFG?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-07-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada Selects ThyssenKrupp Marine Systems (TYEKF) for Submarine Program - GuruFocus",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblF4ZHY5V2pPdDJWVC1ZR2xrYnZBQ3NFUzliMmxrOFhGRTBkT05IdEpmRUJTQThXLUtvallrd2dNd0F1YTBPc2JFRDNHM0FnLWE2U0N6Z2ViOWdtVVUweTB2T25VZHZ3U2d5djdxVXBOaWJ4ZEFmYzRRbC1Lbjd1UF9laWtva25FZkZoOGNrcHZ2QVZpZzZmbDY5eWZadTYySjdncDJjQVMtOXE5UUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-07-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim UK Provides Bespoke Concrete Mixes for Heysham Port Upgrade in Lancashire - News and Statistics - IndexBox",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1l5ZFAtQVNpZlZSdEdqVUZlcWxVZnN1dkcyNno2UjVuRDEzQVA2VG45Njd4WWhHQ2YzYkZtaEVuRFdNMFlaZW5lUTRCUWNrZno5OGR1MDZsamxyV1lPdUZZX3JpQlNkYXJyRE5KaFhkR2pfblNhZm5PdFpzalNsWHBlYURFU2xmUTRWdktYdlROaE00QlpqSWxiM25mdGtn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-07-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim strengthens global building-materials footprint as investors watch earnings outlook - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ1NwcmN4bFVRZnhIVTNpZF9sVWtjN19TZ2hqajNOSGdEWkJIWFZYSFZYVU9uMUN2RFYwMkRuSWNKY0xQVXVicmJhYVZXRmQ1MDFnTkFFazctbGVmREp5X2VySTNudUdRWUR3OFlrdTFQLUM0Tk9TZGhQOF8tT0l0NE9Oc0ZjVF9Db0JPdVdlNWJoNlZ5NTR2MzVqdHlfeXowcHVZSXFwMVdXdnYwMkdMaV9ybTdlYWJjTVk1bDY0Vnd4cmZWNkVBU1FnQzE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 3
+      },
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "asia_cement",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 166,
+    "too_old": 105,
+    "gate1_blocked": 16,
+    "gate2_blocked": 13,
+    "passed": 40,
+    "pass_rate": "23.0%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+      "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC), Alcoa (AA) and Air Products ",
+      "Thyssenkrupp Nucera taps state-owned tech firm to set up Indian electrolyser making - gasworld",
+      "Canada selects Germany’s ThyssenKrupp to build 12 submarines as it boosts NATO spending - Washington",
+      "Cemex Contributes to S6 Expressway, D35 Motorway, and Nuremberg-East Overpass - News and Statistics "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為蒂森克虜伯、Holcim、海德堡材料相關動態：「Heidelberg Expands Russia Cement Plant After Saying It Wo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Heidelberg Expands Russia Cement Plant After Saying It Wouldn’t - Bloomberg.com（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp Nucera partners with Indian government-owned industrial giant to...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

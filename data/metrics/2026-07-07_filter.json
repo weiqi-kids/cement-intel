@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 16,
+  "gate2_fail": 13,
+  "passed": 40,
+  "gate2_samples": [
+    "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC), Alcoa (AA) and Air Products ",
+    "Thyssenkrupp Nucera taps state-owned tech firm to set up Indian electrolyser making - gasworld",
+    "Canada selects Germany’s ThyssenKrupp to build 12 submarines as it boosts NATO spending - Washington",
+    "Cemex Contributes to S6 Expressway, D35 Motorway, and Nuremberg-East Overpass - News and Statistics "
+  ]
+}
