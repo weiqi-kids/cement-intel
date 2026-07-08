@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 17,
+  "gate2_fail": 15,
+  "passed": 23,
+  "gate2_samples": [
+    "$8B company takes small NJ borough to court over quarry plan - Central New Jersey News",
+    "VMC - Vulcan Materials Co Volatility & Greeks - Finviz",
+    "Analysts Offer Insights on Materials Companies: Vulcan Materials (VMC), Alcoa (AA) and Air Products ",
+    "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+    "Canada selects Germany's ThyssenKrupp Marine Systems to build 12 submarines as it boosts NATO spendi"
+  ]
+}
