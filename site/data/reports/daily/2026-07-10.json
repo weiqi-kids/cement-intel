@@ -1,0 +1,270 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:54:20.582225Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-07-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "THYSSENKRUPP : JP Morgan reaffirms its Neutral rating - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamRMWUpWQ2dmb3hxWWNwNnc3UFdOUUVMZmVLZ1dhY25zTVcwcm45b3FEUXk5R0g0VFJvU0FkQ2Zobm1CbjJOa1Q5SF80R1Yzcndqc0dsenZNVmRXYVJaYTVPVmpYV1NvLTJUbmZrUlIxX01mc2dkeXNBNnhpMzhoYkM4UWpyekt6eFlQN1FIQ0RsdjFPZk9fOS15anJrd05VS3JwYTJyOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "evoZero Cement Powers UK's First Lower-Carbon Concrete Roof Tile from Marley - News and Statistics - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGJIZ3B6NXVkeF9pSks3M2lSVHhxT1hsMjdMV1lzWmJUYXFlTkZfa0FlTVJrcHFTRWlLejFrSzVPTnVqbGF1TXpNeTJhZFgtOE5jNFlrX1Q3eWIyTy1RVE55ZE5hNktaaXFaN2lPUzNNbTgyLW9UNmg4LVhEdHhieVdGNGw3cTJGTjdBdDdCb3FtdERubFBnQkdUckhLT3BYMmF5eUF5TjhUQmU1OHkyaDZB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-07-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Manish Hathiramani recommends Bharti Airtel, UltraTech Cement - CNBC TV18",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3ZtamdBRmszc1NGWTEwa3lPaTJoTmhhdDJCMUJIanliOVlQUWpBZHhIeEM3Zm93Mk9YN2ZTQzE3UnJBS1htZUJsOVo5bVAxZ3RFUFRHMlpsSFF3WjNiNXFPTU9TUEo0Vmh0XzQ1YjNJMTBsS01lZHJBU1Y2ZzE0bFNaXzI4U20xaVcwbms0Qzk0T3Rld2FMQ19YejZvaHNXOHNDVXo1ZUxnRUhzRmFFb0NqQdIBuAFBVV95cUxQMmRFTjN2YkpFaWFGZm9JWTl4M1Y5N3ptdW1NNkhTQjNNbGd3YzRkcVNpNU43Si1LVE5XRnkxS0hjbF9jdDdVZEVQUzFqbE15bTBmYjR5Q252N3Jtc2NFU1NWUExpOTUxRlh5bEJBUDVsUVJGZ05Qd2k5Z2MyQmJUY3dKZE5qNXA2c1puOG80OGdBUm54eVNrZzdfS283UHhwNlR4SUZoaXBYQTNRbVZrTXk0cTJVc1lu?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-10-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pakistan's cement sector earnings are likely to rise 21% in 4QFY26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181663/pakistan-s-cement-sector-earnings-are-likely-to-rise-21-in-4qfy26.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-10-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Taliban officials launch expansion of Jabal Siraj Cement plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181665/taliban-officials-launch-expansion-of-jabal-siraj-cement-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 342,
+    "dup_title": 173,
+    "too_old": 103,
+    "gate1_blocked": 12,
+    "gate2_blocked": 15,
+    "passed": 39,
+    "pass_rate": "23.1%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "$8B company takes small NJ borough to court over quarry plan - Central New Jersey News",
+      "Canada selects Germany’s ThyssenKrupp to build new submarine fleet - Breaking Defense",
+      "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+      "Thyssenkrupp Nucera taps state-owned tech firm to set up Indian electrolyser making - gasworld",
+      "Canada selects Germany’s ThyssenKrupp to build 12 submarines as it boosts NATO spending - Washington"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Vulcan Materials、蒂森克虜伯、Holcim相關動態：「THYSSENKRUPP : JP Morgan reaffirms its Neutral rating - m...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "THYSSENKRUPP : JP Morgan reaffirms its Neutral rating - marketscreener.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "evoZero Cement Powers UK's First Lower-Carbon Concrete Roof Tile from Marley ...（碳排放、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

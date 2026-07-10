@@ -1,0 +1,16 @@
+{
+  "total_raw": 342,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 103,
+  "gate1_fail": 12,
+  "gate2_fail": 15,
+  "passed": 39,
+  "gate2_samples": [
+    "$8B company takes small NJ borough to court over quarry plan - Central New Jersey News",
+    "Canada selects Germany’s ThyssenKrupp to build new submarine fleet - Breaking Defense",
+    "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+    "Thyssenkrupp Nucera taps state-owned tech firm to set up Indian electrolyser making - gasworld",
+    "Canada selects Germany’s ThyssenKrupp to build 12 submarines as it boosts NATO spending - Washington"
+  ]
+}
