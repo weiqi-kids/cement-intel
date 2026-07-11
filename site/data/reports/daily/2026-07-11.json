@@ -1,0 +1,143 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:29:21.028723Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "heidelberg-2026-07-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock reflects a steady building cycle focus - ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWd0WDlQdnNHRFhGcWpWS0swOHpBQ0JVRTg5SnVGY2gyU2Y0cXRjSTVheFZyaXdsV3dKT3gya1h4UlF4UG9wclZLeUc4aEF6Y3JWcnoyMExzVWRjYnlKaVFjR1c4WTRDbnNUdGpNMDdoQnd3cWF4UnZXZFVGcVA4c1UyQ2toYVBRVm5UM0RjWGx6NldtaUF6SlMySGY1MU9OZndobVJqc1drLWlabFZnelZzUEQ2NE1sLVBTdG4xT0I3Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-07-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement - TCS, HDFC Bank, 8 others with up to 49% upside. How many in your portfolio? - The Economic Times",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWk1jMjMtU2FWdHBqM3BsdnVvTk50UEs4NVctMjN0bUhYSUtjZHlCTDVmWmFzRFBkN3BvTGlVZUZGUXhxYnRqOEIwMGNpWlE1c3l0anFLYVE3ek9mQ1ZYcmV0M1JWTWd0QjRyYTZfQTQyZzZaMU1vbnlYRk1fM1F2dnVyOTJFS3FzLW5vZjRPNVdZdmo1cnlnQV9iRXBkZEZjbEU0bVFObGc1aDVvbTFWVTFvRVZfLVQ2dkQ1aXpjZF8tbEJKWDUwZnI4cHFEX1dWTnYwRm5SSllPVE1QdzJtUVdIV1hYOHV4emVyQl9fM24?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 173,
+    "too_old": 113,
+    "gate1_blocked": 10,
+    "gate2_blocked": 12,
+    "passed": 33,
+    "pass_rate": "19.6%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+      "Canada selects Germany’s ThyssenKrupp to build new submarine fleet - Breaking Defense",
+      "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+      "Canada selects Germany’s ThyssenKrupp to build 12 submarines as it boosts NATO spending - Washington"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為海德堡材料、UltraTech相關動態：「Heidelberg Materials stock reflects a steady building cyc...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Heidelberg Materials stock reflects a steady building cycle focus - ad-hoc-ne...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "UltraTech Cement - TCS, HDFC Bank, 8 others with up to 49% upside. How many i...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
