@@ -1,0 +1,140 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:52:33.317636Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-07-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To Vulcan Materials (VMC) Dividend Amid Russell Index Exit And Cost Pressures - simplywall.st",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHNvc0VMajV2RGpIQ1ZfeW1HTl9NZk1ZU1hGUUNSd1lidWhWY2VySEI5eEt6RzEtN25oWGZPMG1SUGk0OXpoNG5Hd2NGNEZ0UkwtLUFJNnRtM01ndW5Ja0V0RjhNOHVNVTczcHczemFZb01lRVBLQkV4eFA5VU5nVTVYdWRvOGFpMFBsZWdaZXRXNUI0TEVmNEFVUVN2N0pRX3kweWkyeGZ0X0J6aHFwTlRNSHBRcUk2dWx1VEJMNFFXZndrOUFYTWR6SmY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-07-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Holcim stock reflects a global building materials leader amid resilient demand - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRE9YRVYxRzQwVHRaY2JiZ0RNVFpUcHdPb1JQdk42LWRWdEVULURaay1YLXRONk14VG5VcGNYd0tLV2ZwT21TX0RFVmt2NTdySWpUOHBTekp5MUU0OXZXbkVHSGhBeGsxLUZzenpoaWRyWU5nV2gydmxDQk45Y19hazV3Tm9KeWdudFFnMDZwbW5NdzdFRjJuZnZ6Y3hWMHN6X3IwRUx2QmJZZ1g2SXpDZ1RIREMxay1SYWp1TGhTSWVWS0ZFdnQzVVVB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 197,
+    "too_old": 106,
+    "gate1_blocked": 9,
+    "gate2_blocked": 13,
+    "passed": 7,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+      "Canada selects Germany’s ThyssenKrupp to build new submarine fleet - Breaking Defense",
+      "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+      "Thyssenkrupp Nucera taps state-owned tech firm to set up Indian electrolyser making - gasworld"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Vulcan Materials、Holcim相關動態：「How Investors Are Reacting To Vulcan Materials (VMC) Divi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "How Investors Are Reacting To Vulcan Materials (VMC) Dividend Amid Russell In...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim stock reflects a global building materials leader amid resilient deman...（庫存）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

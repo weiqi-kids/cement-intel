@@ -1,5 +1,45 @@
 [
   {
+    "id": "vulcan-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "How Investors Are Reacting To Vulcan Materials (VMC) Dividend Amid Russell Index Exit And Cost Pressures - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHNvc0VMajV2RGpIQ1ZfeW1HTl9NZk1ZU1hGUUNSd1lidWhWY2VySEI5eEt6RzEtN25oWGZPMG1SUGk0OXpoNG5Hd2NGNEZ0UkwtLUFJNnRtM01ndW5Ja0V0RjhNOHVNVTczcHczem",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHNvc0VMajV2RGpIQ1ZfeW1HTl9NZk1ZU1hGUUNSd1lidWhWY2VySEI5eEt6RzEtN25oWGZPMG1SUGk0OXpoNG5Hd2NGNEZ0UkwtLUFJNnRtM01ndW5Ja0V0RjhNOHVNVTczcHczemFZb01lRVBLQkV4eFA5VU5nVTVYdWRvOGFpMFBsZWdaZXRXNUI0TEVmNEFVUVN2N0pRX3kweWkyeGZ0X0J6aHFwTlRNSHBRcUk2dWx1VEJMNFFXZndrOUFYTWR6SmY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-12-002",
+    "date": "2026-07-12",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock reflects a global building materials leader amid resilient demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRE9YRVYxRzQwVHRaY2JiZ0RNVFpUcHdPb1JQdk42LWRWdEVULURaay1YLXRONk14VG5VcGNYd0tLV2ZwT21TX0RFVmt2NTdySWpUOHBTekp5MUU0OXZXbkVHSGhBeGsxLUZzenpoaW",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRE9YRVYxRzQwVHRaY2JiZ0RNVFpUcHdPb1JQdk42LWRWdEVULURaay1YLXRONk14VG5VcGNYd0tLV2ZwT21TX0RFVmt2NTdySWpUOHBTekp5MUU0OXZXbkVHSGhBeGsxLUZzenpoaWRyWU5nV2gydmxDQk45Y19hazV3Tm9KeWdudFFnMDZwbW5NdzdFRjJuZnZ6Y3hWMHN6X3IwRUx2QmJZZ1g2SXpDZ1RIREMxay1SYWp1TGhTSWVWS0ZFdnQzVVVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "heidelberg-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -36,6 +76,27 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWk1jMjMtU2FWdHBqM3BsdnVvTk50UEs4NVctMjN0bUhYSUtjZHlCTDVmWmFzRFBkN3BvTGlVZUZGUXhxYnRqOEIwMGNpWlE1c3l0anFLYVE3ek9mQ1ZYcmV0M1JWTWd0QjRyYTZfQTQyZzZaMU1vbnlYRk1fM1F2dnVyOTJFS3FzLW5vZjRPNVdZdmo1cnlnQV9iRXBkZEZjbEU0bVFObGc1aDVvbTFWVTFvRVZfLVQ2dkQ1aXpjZF8tbEJKWDUwZnI4cHFEX1dWTnYwRm5SSllPVE1QdzJtUVdIV1hYOHV4emVyQl9fM24?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-11-003",
+    "date": "2026-07-11",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex contributes to strategic highway projects across Central Europe - HUB-4.COM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPamJWaWtPcVhra3dkbUItU19JQWpjUllJMVRUeVJvNF94MmFSWFhxQWZfRG1vbndONFM2ZHZKcDRVSUQ2SlpaWWFPRVpiTm9Sb08wSnpaYlhSMTBHRUFpY2ZGOFd6VE9yak9Tb0RxNj",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamJWaWtPcVhra3dkbUItU19JQWpjUllJMVRUeVJvNF94MmFSWFhxQWZfRG1vbndONFM2ZHZKcDRVSUQ2SlpaWWFPRVpiTm9Sb08wSnpaYlhSMTBHRUFpY2ZGOFd6VE9yak9Tb0RxNjZPZU0yQmlCZ2t6U3JMcWpwVXFPX0ItX0dFSEtOOURfR2xWN0h3RS1R?oc=5",
         "type": "rss"
       }
     ]
@@ -538,6 +599,43 @@
     ]
   },
   {
+    "id": "unknown-2026-07-10-027",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Demolition of cement plant begins at historic Cupertino quarry - SiliconValley.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHR0OEZFUVRVUlYzSFhpMGJIWW5IUVFGOXRuWGs5Uy1xczlmbTVKYlB0Vk5Ld0FaM2ZjUXBhTWU2TkVacXJzSzFBNzBKby1CTXF4TUNDM212enp4V05FTVFCRUxaOXNNc3gwejlWbC",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHR0OEZFUVRVUlYzSFhpMGJIWW5IUVFGOXRuWGs5Uy1xczlmbTVKYlB0Vk5Ld0FaM2ZjUXBhTWU2TkVacXJzSzFBNzBKby1CTXF4TUNDM212enp4V05FTVFCRUxaOXNNc3gwejlWbC16THBMMUdCNERvajhIZ3hyZXlXZ3VISVluSWZxejM4b09lSi04YzNwbmd3TzFxZm81QlNXazJRRdIBrAFBVV95cUxPOG85cC05TW1TeGJWdlhJMzhUMEtnUVAtaXFqM0JpY2NJUmhBR0xOQy1NdkZORGlrWk1tV0FWS21mOU9pNmVSQUQ4akNZVTltZ0dzcS1xcHZ1U1ZnOFpfbHRhWGxVeHd4SG1qYnU5ekFaRFlnUEhBVXFNckVmRXZQcXJaekxoanJBYldHMTVqVGlkZDdmOFFRYlVOMkJZU2JOV243SE80dVIxc2ta?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-028",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Marley low‑carbon roof tiles: carbon capture and specification notes for engineers - Geomechanics.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVVnTnhxdDIxZUlTVG90R2JPNUhsdjFtWUs5bmJCVHhGZHRUdVBKVU9YNll0ZUZnbUM2X3ZVQUVpNzA0S1BaakNKUEVTMTN1cW5FUFZZXzdENXNDUVNDNnZtYWpHOVlsLUdTSjJNLU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVVnTnhxdDIxZUlTVG90R2JPNUhsdjFtWUs5bmJCVHhGZHRUdVBKVU9YNll0ZUZnbUM2X3ZVQUVpNzA0S1BaakNKUEVTMTN1cW5FUFZZXzdENXNDUVNDNnZtYWpHOVlsLUdTSjJNLU1SQXFkczktbkNTU3JtOFdwM3lmR1NRb2FJclpQN0U3Y1NoVG1NTVBFU0dWeUVEbE9GbmkzdnFVQ0doMmNqS0IyM25FNFJQalplRk1KdkF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "crh-2026-07-09-001",
     "date": "2026-07-09",
     "companies": [
@@ -813,6 +911,27 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/dot-infrastructure-2026-build-grants/824756/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-07-09-016",
+    "date": "2026-07-09",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Salzgitter Finalizes Acquisition of HKM From Thyssenkrupp - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTdGemZ4dDFRSXpHT0dLXzFSUi16NmFFUXlfdWZhb3BSa2ZSQlp6Z0ZiYnFOTE5acExhcVhjNVY5TnJSemwzUVF5cGZ0ZXpxcVRSRUExb2Z0MUYxSFMzMEtoQVVUNkk2QW90Q3lkb2",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTdGemZ4dDFRSXpHT0dLXzFSUi16NmFFUXlfdWZhb3BSa2ZSQlp6Z0ZiYnFOTE5acExhcVhjNVY5TnJSemwzUVF5cGZ0ZXpxcVRSRUExb2Z0MUYxSFMzMEtoQVVUNkk2QW90Q3lkb2N2cml0OC1jdjhzZEZkbXJnZkRWQTFtaVpJMjZmOEpwTHlTcFQyT1VoNnNPcUx6RVNlMm5GUTVFYXljUzJHU2s4YXNXaXJzdHc2anpCZm1IcnpJcjAyTzBReDRrMGlvNjg?oc=5",
         "type": "rss"
       }
     ]
@@ -1898,6 +2017,24 @@
       {
         "name": "anhui_conch",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHM4SUh0N0VsaU5XZE9FdWlobmVlQ3pycnoxOXJ1ck01UXZVVk1tWlJYRkJ2MEZFaHFHenZlUU91VzNLSDNud3NXZVlOTGU1RVZIVk1WNkh6cy1fN1ZYcy02OHdBYUVKWF9aN1ZrNUExeVRSTE5oWXdFd1lhZ09YUDV2RE9wQWNIOU80c0p5NnhpTzgwdnlweVZ5QVY5Ml9DbkE1bElyTFMyR09YdVloN3BDd1pJaFo0LXU1MGQzM2x1Wm1HanczbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-031",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canada awards Germany major submarine contract - dw.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmVyU1BrVXktZzVnRlM0OGYybDZxVkt0QnNOM016UGhYUXJuam1QVnFVbVdBWDUybFFaX2xuLTVBeFQzeHNMVHpUeVNJaDR6bnY3OEZaUkF5aGNELW9senAydlIxR2xvcjBJNEYwWW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmVyU1BrVXktZzVnRlM0OGYybDZxVkt0QnNOM016UGhYUXJuam1QVnFVbVdBWDUybFFaX2xuLTVBeFQzeHNMVHpUeVNJaDR6bnY3OEZaUkF5aGNELW9senAydlIxR2xvcjBJNEYwWWI0VDM4SHdlNXhmd0pkWHZOR01FWFlVZ9IBhgFBVV95cUxQclk3b0tvTmppZmNFZUVxaVBDUG41RTlHaTE5WnZfbzI4b1Q4WmFVX1VtS09ZeVZTOVgzYkxEOGtZY2ZNVXUyTHpWTTZpc0lfTUhjYl8zUVlXRXNGRnNqbE1KY3M2ZmtPd2RPVU8zcXRSY2VkS3FKSnBhZXFSVHQyOUVVd0Y4UQ?oc=5",
         "type": "rss"
       }
     ]

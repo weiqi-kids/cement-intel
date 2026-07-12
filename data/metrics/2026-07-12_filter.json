@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 9,
+  "gate2_fail": 13,
+  "passed": 7,
+  "gate2_samples": [
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+    "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+    "Canada selects Germany’s ThyssenKrupp to build new submarine fleet - Breaking Defense",
+    "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+    "Thyssenkrupp Nucera taps state-owned tech firm to set up Indian electrolyser making - gasworld"
+  ]
+}
