@@ -1,0 +1,292 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:01:28.948260Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-07-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp Aerospace debuts under new name tk accelis at Farnborough Airshow - Aerospace Manufacturing",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXlzRmdta2MzQ3dRR1FfckkyZEFOTENJRlJGb1FaYVUxbEZJOXZpbUwtNUU1QURwQm1vdUJsMDZ4ZG1vTmtuZjc4aC1odTlVSVNvNnk1ZnZYbFpCNjRNNnlMVjVHYzBDdE9XaVBqaHBoVXhCSVRpLXJBSmpwRGJLOGFaT3JEOFBudDN2VHk4M01jTDR3c285akVnZXA3Y0dqQXNEejBR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-07-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials UK secures North Yorkshire highway maintenance agreement - Highways News",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3dkQlk4a0tQUGFHdnI1MGxxNGlCXzVNcXlpdnJoS1BBcDktRUpoUFpGOG4zYXpDU2RMMlMwZVZZcjc4QTh0M0dsT0cwR2xRc2Q2WFVSTmdfQWpaWjRfTXBSX2hVSTNqc0p5MlRmY0lLMFhMM0NKWS13RUtteUpzbVBEdlJFVGZlM2w4Vm1FOTlWc1I0TkN4R0w3c0xUM3d4WktfNGQ4UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-07-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "15 Cement Stocks In Focus Ahead Of Q1 Results; Ambuja, UltraTech Among 'Buy', Ramco Rated 'Reduce'— Full List Inside - NDTV Profit",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOXJnRFd2dmNWS3lZdU5VZ1JETTdtWXVzOWFmNVNtRTh2d2N0TWxGdldFeXNYTkVEWFEtUkR2UzRwQWlSb3l3MDh4YVpnQWhKYXI3UHo3V3MzN0pkajY3bkYwRWFuR0xhMENTTmtROUIzRy05cGZKVWIyZmwxaDFFWGpETjFUa05rdldqeWpRVVBRZ3g3UE5xRHB5YjB4S3ZXT1RXTEp6Z1JFZEJPVG1HMGhiOEtkcHBHcmJzdjY4VVdmRXZVZG9PZHJKVzdSSlowd1ZnRU1YVUhVd2NBSUtvM3V5M2ZHeGtfWXpRdg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-13-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "GICA explores new cement plant project in Chad",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181674/gica-explores-new-cement-plant-project-in-chad.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-13-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Nuvoco Vistas inaugurates 2Mt/yr grinding plant in Gujarat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/20989-nuvoco-vistas-inaugurates-2mt-yr-grinding-plant-in-gujarat"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 183,
+    "too_old": 112,
+    "gate1_blocked": 17,
+    "gate2_blocked": 15,
+    "passed": 14,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+      "Canada selects Germany’s ThyssenKrupp to build new submarine fleet - Breaking Defense",
+      "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+      "thyssenkrupp - Salzgitter AG Acquiring 100 Percent Of HKM - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為海德堡材料、蒂森克虜伯、Holcim相關動態：「thyssenkrupp Aerospace debuts under new name tk accelis a...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "thyssenkrupp Aerospace debuts under new name tk accelis at Farnborough Airsho...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials UK secures North Yorkshire highway maintenance agreement...（基建支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
