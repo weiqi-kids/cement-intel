@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 24,
+  "gate2_fail": 13,
+  "passed": 15,
+  "gate2_samples": [
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+    "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+    "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+    "thyssenkrupp - Salzgitter AG Acquiring 100 Percent Of HKM - TradingView",
+    "HEIDELBERG MATERIALS : Receives a Buy rating from Bernstein - marketscreener.com"
+  ]
+}

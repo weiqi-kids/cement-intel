@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:58:35.668556Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-07-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Steel suspends shipping to Duisburg with own vessels, Rheinische Post says - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEJpM1FlaXNuZmhIQjhrU21ZNUVweDdKd3hqTk50T0t0d0VfSHpIV0xSS1Rvd0dBY3FIeVpvcXNlVHRDM1hsX0ZhVHJ6WUYzc2VMUGFUWFU3djNOdG1fWlpoQ3hna3c0UDQzQ21IeTlpWmRKdUNrakhUTWxjNVBOSWo3bWJPY1RtV3RnZE5kNzN2SkxLU0Q3X3Z6eVl0N3R1cG80MVFGakxXSmFxY2x1QWxoYjJiSE9ERlBXb0RRNXcwazZlSWF6WHltQW82QS1lLWZYaXFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-07-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials UK Wins 12-Month Asphalt Supply Deal with North Yorkshire Highways - IndexBox",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmtZb0E3X1o4Q1ZuNmhMUVFUdzRCQnFIcmNPQU1TcTB6THJYWm1lbG1ZTHlXMDFiWVNHTVV2Wkk1Q0NobUZReHFKVXlQV1VmOXNPZThCZk1nYXUtMjh0WnFtRDEtc2FwREdwc0tfVzRkalp2YXp1dnZHeHU3R1ZMdko2Y2pYVFVUeXFDd21wTUdpN1Y3TFVfRGRZSDNEVlVkREN0akU4emNybEtjUnRMY0hsLWdzdVFP?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-07-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials–North Yorkshire highways deal: asphalt delivery and QC notes for engineers - Geomechanics.io",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNckN4V0NkNHJIUXhqeVpVcWtMNndfWXVfMW10YWwzYUI0RFVBWVBqLS1uUFNqLTFSSVU4S2J4RHdxNzVtM3RhTG16U292c3BxQm5WZ2k1a0swOXg2aTdzZHNBSko4bTJIRnFibk1MSUZUSHNVUnBscXdrR0hYLVg1ZkhKeDVBWjRGS050NUpZNURLb0xYS0NDNWRtelQ1cDFqMlNvOFkxTFdhZVFXRk8xcTFFamk3QUlieEJXbUQ0elRFdDRLclc1VWNBekNLTTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Monsoon Dampens Cement Price Hike Amid Rising Costs - Devdiscourse",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cement_pricing",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkdBd1ZzRUZNc2cyZUs1RnBkM3k5alBpM0xGdzhYbXJ0cUNPNzN3NzZ2alNoa29ydS1HdGVFUWx0QlNVQlhCRUhQVDRBUURoRXZhVEQwRHBHZWFLQjQ2eUdFUzA2ZTBfWFZFVUFQYlMyRjR2STRsYzRLT2U2WkdYa3ZjR1BLSnN2VjZrUmU4TExwRXpka2lic3NkMFN3VGlZXzY1WXhnYUlSN24wUEHSAa4BQVVfeXFMUEpHQXdWc0VGTXNnMmVLNUZwZDN5OWpQaTNMRnc4WG1ydHFDTzczdzc2dmpTaGtvcnUtR3RlRVFsdEJTVUJYQkVIUFQ0QVFEaEV2YVREMERwR2VhS0I0NnlHRVMwNmUwX1hWRVVBUGJTMkY0dkk0bGM0S09lNlpHWGt2Y0dQS0pzdlY2a1JlOExMcEV6ZGtpYnNzZDBTd1RpWV82NVl4Z2FJUjduMFBB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "cement_pricing",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 171,
+    "too_old": 118,
+    "gate1_blocked": 24,
+    "gate2_blocked": 13,
+    "passed": 15,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+      "Canada selects Germany's ThyssenKrupp to build submarine fleet as it boosts NATO spending - Los Ange",
+      "thyssenkrupp - Salzgitter AG Acquiring 100 Percent Of HKM - TradingView",
+      "HEIDELBERG MATERIALS : Receives a Buy rating from Bernstein - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為海德堡材料、蒂森克虜伯相關動態：「Thyssenkrupp Steel suspends shipping to Duisburg with own...」。主要關注主題為財報、基建支出、水泥價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp Steel suspends shipping to Duisburg with own vessels, Rheinische...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials UK Wins 12-Month Asphalt Supply Deal with North Yorkshir...（基建支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "水泥價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
