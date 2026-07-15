@@ -1,0 +1,227 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:03:15.781377Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-15-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Raysut Cement returns to profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181688/raysut-cement-returns-to-profit.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-07-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp AG: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOVA4TS1ZSzVQT1hVZnY2SnIzQVBnOUU0TEtZY0xKaVlMVTh0c2hGZUtGSDlyMmxxdGlWSlZKMk5aRzJHX0JEajZDaUlNT0N0amtSaU1wTk9sQ1pxRXpmZlJsaVZNa2NIRnd4ZUtoT3NHVjZBYW1DdVJlbFJKdHFySlRsTnhqZWhYRURiQ2toWjFNWjhGMXJSa1YyUlNrc29ia1FTdHVYdWxIQTdxUHRXMGhhZVZ3WnBiLVpza05hdkVwWXlzMDRpczBpTWY0Smg5VHMydW1LR2NHTFBKSUc4UlJURlkxQWpkZ2tlLVEyWWVWS1VOXzdJQWoxR1JURWZVblpxSXB4a0M4aDE3Y3lZOE9reVZPVWdfSmF6a0RLOWlXUWVYRGJ0ZHJqMkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-07-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Bets Against The Cycle As India's Cement Industry Splits - thecore.in",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeklZajVHU2hvNzM2N0daZ2Z3WTByM2J0R2ZRM0hiaDdUQnM4SnNNRUVjT1J6ZEt6eVU2anVDRU5PQlgwWHpBVnAxMzl2UmoxaG5UQm1qUlY5Q2FBV0ttc2o5V0ZlS0xzaEljWTlqWjJMV1BLYUJjb0xaMGU1V1g5NG1vbVhicFZ2d0hSeg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-15-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Dalmia Bharat starts US$360m Kadapa expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181692/dalmia-bharat-starts-us-360m-kadapa-expansion.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-15-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Retail hikes drive Tajik cement shortage",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181690/retail-hikes-drive-tajik-cement-shortage.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 157,
+    "too_old": 118,
+    "gate1_blocked": 22,
+    "gate2_blocked": 15,
+    "passed": 27,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Vulcan Materials (VMC) After Iran Tension Selloff Is The Bull Case Still Priced In - simplywall.st",
+      "Low Rhine levels force Thyssenkrupp Steel to suspend own barges - marketscreener.com",
+      "thyssenkrupp - Salzgitter AG Acquiring 100 Percent Of HKM - TradingView",
+      "HEIDELBERG MATERIALS : Receives a Buy rating from Bernstein - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為蒂森克虜伯、Holcim、UltraTech相關動態：「Raysut Cement returns to profit」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Raysut Cement returns to profit（財報）",
+        "level": "red"
+      },
+      {
+        "text": "ThyssenKrupp AG: Release according to Article 40, Section 1 of the WpHG [the ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
