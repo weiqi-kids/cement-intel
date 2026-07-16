@@ -1,0 +1,181 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:11:17.992457Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Malayan Cement expects margin recovery as coal prices ease",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181695/malayan-cement-expects-margin-recovery-as-coal-prices-ease.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bangladesh Cement exports rise over 5% in FY26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181694/bangladesh-cement-exports-rise-over-5-in-fy26.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thailand exceeds clinker substitution target ahead of schedule",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "raw_material_energy_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181698/thailand-exceeds-clinker-substitution-target-ahead-of-schedule.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Olive pits to reduce asphalt CO2 emissions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181672/olive-pits-to-reduce-asphalt-co2-emissions.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 72,
+    "dup_title": 33,
+    "too_old": 15,
+    "gate1_blocked": 16,
+    "gate2_blocked": 1,
+    "passed": 7,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Conch Cement deploys electric vehicles at mine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為碳排放、原料能源成本、財報相關動態：「Malayan Cement expects margin recovery as coal prices ease」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Malayan Cement expects margin recovery as coal prices ease（原料能源成本、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bangladesh Cement exports rise over 5% in FY26（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
