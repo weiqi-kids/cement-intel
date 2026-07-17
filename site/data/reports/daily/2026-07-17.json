@@ -1,0 +1,290 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:57:50.199083Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-07-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades steadily as aggregates demand supports earnings outlook - ad-hoc-news.de",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVlKZnBoUTd2N1JWeVpXa0ExajhUOEFydEltLVNXVzlzOEowaUQyU0ViZ19rWkRRTWRrM0VsTjBYYlJ4Wi04eFFNbmpyQWRpZnM5bW5DTTltcFdsYjllVUNUNmlfNVFOM0tOeDVFV3NnVUI2YlAtZ0lMRG9RbmZ2OE5OalRLV3h5bGxFMzhzeTlOMGlwemM0QXdMWlFHNElEU0pKSDFndG1uZHFCTkhVaU5CWTB3ZEQ3ZnFra3RET09WWjVfSHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-07-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades steady as pricing and margins support earnings outlook - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUd3VFJWeEE4UTEycnpMMUI2Tm5EOWtNclV3TmxuMnBlek1LaFFYRlpkZERkaXVfNm04NnhjMVZyVC1sYlBOMWF2UHJYcm5JTUJNMVNneU9Edk9pTkk1TjZSdTBGS24xVmdpUTUtV0s1c2FGeU5yVU1GbVRISElIUHFPMG5SMlAydXctXzdSSWJMS1pCejMxU0FjN1RMQUIyU0JaaWduWlJhRmNQRjVoUy15VGswdG4xMy0zbHFQUU1fdm90UFlCTkRaeG94QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Low carbon road repairs in North Yorkshire - Global Highways",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ydGxqZXVhUEQ1bUpNNGpvN3UyV3BQb3lOR1U3TDMzSmRWR1VCa0tXZjgzTjdNeTNpdVNzZVJDYmJOZGlMbjA1MDdwcHoxUDFwT1loYldEYjMwVDN5TjJHb3NfdGRTR0U3Rnk5NnVCVVpKUV9qeVBNbjJ3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "asia_cement-2026-07-17-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Asia Cement (China) Warns of Interim Loss on Falling Cement Prices - TipRanks",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cement_pricing"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTl3WFJ4VHcyMjdXMmVNaXJ3SFNJd0daamZoTzFoMlJNQTRYMTBaejI2S1FXZHlHYTl6NWNqTTRfYlRKZUNYbm5fZG04OGdBbmpkWXpwNlFRNHpUUWp5QVhvNnJhSTg5SFVySk0yZ2ZManpCOWhuV0x5MkR3eTBYck83dWFnNEZ1dnJfUV9HTXY2RzNFRmVKRFhOTEhJQmRHWlEzT0pSbWdDalhRUHZMSE5NMmQxSEU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-17-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Çimsa commissions expanded CAC production at Mersin",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181704/-imsa-commissions-expanded-cac-production-at-mersin.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 158,
+    "too_old": 114,
+    "gate1_blocked": 18,
+    "gate2_blocked": 16,
+    "passed": 34,
+    "pass_rate": "18.7%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+      "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+      "Thyssenkrupp Polysius refines strategy - cemnet.com",
+      "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+      "Thyssenkrupp hält börsennotierte Töchter an der langen Leine - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Holcim、Vulcan Materials、海德堡材料相關動態：「Vulcan Materials stock trades steadily as aggregates dema...」。主要關注主題為財報、展望、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials stock trades steadily as aggregates demand supports earnings...（財報、展望、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim stock trades steady as pricing and margins support earnings outlook - ...（財報、展望、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

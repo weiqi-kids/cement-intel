@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 18,
+  "gate2_fail": 16,
+  "passed": 34,
+  "gate2_samples": [
+    "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+    "Mexico Seeks Permanent Halt to Vulcan Materials Mining Operations - Mexico Business News",
+    "Thyssenkrupp Polysius refines strategy - cemnet.com",
+    "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+    "Thyssenkrupp hält börsennotierte Töchter an der langen Leine - TradingView"
+  ]
+}
