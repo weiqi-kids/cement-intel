@@ -1,0 +1,247 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:25:18.672012Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-07-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades steady as 2025 earnings show margin resilience - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU28zVHg3VXhHRUJhLXVDODd3WV9rYkJSQ0wwTDFVLWVWZUZLSFJrNDlWMFFzLW5PdnNRWWlfSWtSclE2ZDZqM05kVlJOdDd5eVEzbnEtUDByVGJ4U0dNclFIYmpiSEp3MUkyNVY3SmR2U2RZdmljR3hIbDY1eW8yT3VTYkdLbkJlNGtscUJyYmZIT3BkRlFIWGZVdVh6NWhaSzU0cXVmUTB5aXFBemlaYTJGXzFETTdoLVB1RGota1Mwb2M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cemex-2026-07-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex receive €200 million to promote carbon capture capture project in Alcanar - megaproject.com",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG5qMlVfYjFJZHpsVlB1cmZMWFN2LVZTenMxcVBYc0ZZLUZtbjlzR1ljSld5THJtaHlfSEVoQ1hDUUJHbnN2RVBNdGFWMTZwd1IyX2p5OGhnUW9OVHdyRUE0WmZTRThabjVSSHQtX0x5NmxBNHpXOXEwTm9TQ0l3TjhtTGJ0ZVdZY3FTSDlkR0UzcG93eG10ajA5eFJLQkNSalgzamtuLTJEbHRtTkk0WGh1OWRFa2xU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-07-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock trades steady as cement demand supports earnings momentum - ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzhQb0wyeFZDT2FGWXBJcTgxQndOTkR5SWRuQW9kbmhpRko5SFpHelhJVVJrUUtCTXlNQXdqMzRrX3pHeTVvbFVOOWNUV19McUpQc0E5N0JkZFVtbndnbmdob3ZxZE1EaGF6REJXTGc4OEFFOUdfRFJldEhDcmJrTGtubVhHcVBVSWZkQlNzc2NIOHBVZkotQ1RmRHBCdjZnVzFCb0dMNHZlNl9KNUNoX0hSYnFETWc5cFA1VFFGR0lKY3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cemex-2026-07-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Self-sufficiency with Cemex - Global Highways",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9COTB4M0s4UkhnVWpEdkhWOV9xR2o5ZVh2cEQxMTZJOGNkbi1RMWZCSlBUQWlHbE5iY3F5dnE0Tm1oSUNyaVEwcGhpcWdFSWlRdm1Oc1lmekFSOW9NV1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-07-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Accelerating Workers’ Welfare: Chief Labour Commissioner (Central) Machinery Steps in to Ensure Settlement for Ultratech Cement Contract Workers in Baga, Himachal Pradesh - orissadiary.com",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNeFlwMFVJcGVaOC1wd01OU0VEQUtPQXFtYU0yZ0Y4YjBwSV9DdXJDcEp6TFNFZDctb1U1TTNRUnZxRjZ0UFdIMzFtWXFtWXRJTEdFbi0xWGh4emZyQ0xxd0w0MGJDMXM0N0JuZHRKeGdWMUVGMW9KdEtQdC1yYnAxaXVERjlEd28xbkRtOUY2TURHVlhhTlNNQ0l0QTYtNzR0OUw4NEEzMXJUcUJMS2tURERwUjUyNGNNMFBDYV9CWklrcEFvM0wxcFRndHJGQllZNDdRMFZKM2FBaTM3clpBa0FxWHc4OXNjWndfRy1yM0tzUjgyVE5aRHE5czlNVGlITUYyc1RtMkJqVnZOeC1lUHRSZTJubENHdUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 166,
+    "too_old": 120,
+    "gate1_blocked": 17,
+    "gate2_blocked": 12,
+    "passed": 26,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+      "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $325, Maintains Outperform Ratin",
+      "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+      "Thyssenkrupp Polysius refines strategy - cemnet.com",
+      "Thyssenkrupp hält börsennotierte Töchter an der langen Leine - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為CEMEX、Holcim、海德堡材料相關動態：「Holcim stock trades steady as 2025 earnings show margin r...」。主要關注主題為財報、庫存、基建支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Holcim stock trades steady as 2025 earnings show margin resilience - ad-hoc-n...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cemex receive €200 million to promote carbon capture capture project in Alcan...（碳排放、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
