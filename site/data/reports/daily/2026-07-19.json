@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:52:47.663817Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-07-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades near yearly highs as earnings and margin improvements support valuation - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb09TUTJjTVRwS0VZSk03cDdqUG1SMFJMSjBiSEozRUw3UHdHVnFZREZUT01MMzBwa2N6eW5pVWdKTnVTclUtWGp4VGV1TW5VYkVORW5TVmtISGFhR1kwQklNNVUwNHFwbkFneENhR2djcEVHZlZzNVJxX2EwcXAzUHpfWkppcmlaNzZJM18wVXUzUjNQdFpydGlwUkJ6eXZMSGt1ZTZuSE1BNDdwY3pUQ1lraG1hdkpZTFg1RzJNOHM0eWhwemZWLVQtTlI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-07-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades steadily as margin focus follows strong 2023 earnings - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0I4ZWJ2Vm1MUmN1Ynl0c0JLY1lhaGZNZFFTQ3hpaGdkUTBiUlczRWJNY0JmaXJXNU5zckE3Z0ZhSGpPYlp3eFBfdkwtTU1GVDBteFZnTjk1MUQzWGpLbXZhWkpoMHMzNTh0dU5GSXZCWGp4amFxT2hSUHVwZk92d1FtVkFvNFI1QXZ6MU1aLVd0cDJ5eDBqN3k0eGFWQUdiRmdNM1c5M2FDaWVjYjFLVS1ic3FpNnJUWGlsSkwwTnlHSkhhUzJ6ZzU3Z28?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-07-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock trades steady as earnings show resilient margins - ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGNjOTA0VTFaN1k0cjNWRzcyQ2lka3llSHRiVGVwWG9sejhiajdZNmNmR2I5NU84OEVLNzJaY0dOTC1idG4zelVnRmhEa2QtSzl6VnI0ZVdZUXJVVWNHc3pxV0k2eUh5Ynp6b21aY3Y4RDFlMlRINXQzbVlzX3NNeU00TmR2NGVSS0NpM3dwblJRd241TTZXenRFVUg1OGZrcTRwT2czV2lSS2ZLMkdyN25XRDI4a01BbG5xeVQ1Mkd2azQy?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-07-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Accelerating Workers’ Welfare: Chief Labour Commissioner (Central) Machinery Steps in to Ensure Settlement for Ultratech Cement Contract Workers in Baga, Himachal Pradesh - PIB",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaGRldzZvRjQ0LVlBaWhfclRmeDZpMlhOMEhSUkpuNldtMzExMWphWmY0X05ZTHJHU0t3VzV3dUV5MEhnd2VBUjV3R081WWlIVWwzQUVCbUlNS3VJT1FiVmlsS2FhTDVWZUJlUnZlMmI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 186,
+    "too_old": 114,
+    "gate1_blocked": 14,
+    "gate2_blocked": 12,
+    "passed": 14,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+      "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $325, Maintains Outperform Ratin",
+      "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+      "Thyssenkrupp Polysius refines strategy - cemnet.com",
+      "Thyssenkrupp hält börsennotierte Töchter an der langen Leine - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Holcim、海德堡材料、UltraTech相關動態：「Holcim stock trades near yearly highs as earnings and mar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Holcim stock trades near yearly highs as earnings and margin improvements sup...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim stock trades steadily as margin focus follows strong 2023 earnings - a...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
