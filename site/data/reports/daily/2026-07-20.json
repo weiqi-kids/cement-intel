@@ -1,0 +1,261 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:52:58.119230Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ultratech-2026-07-20-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ultratech Cement (UTCEM) Earnings: Q1 Net Income Surpasses Estimates with Strong Revenue Performance - Smartkarma",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckdhOFZkMEswQy1GdW02T055ZGVhd3piZkVIa1VNMXhQSmh4QkJoWlY5U2prblg1Wk5uZjNRYklTSUw0NnRaTzk2dlB4Mi0tLUJLbWdJc1gwdnVQLVVBODlXWElGc0swVkUyZ21UZFRCZU55bjBGeGFLUm42OXZDYThYamdUTkVYQ1dKeUFRR3hqX1NyREdydnpGSzVlNHFTX1NCempDWU56ZG5Wak9pYTBmdzMzYXV1bkpXWlN6eVN5dGNCX2FYSGFaM3F4NEQzTjVXckFLTkdwTmY5SzhrZGttdjY3bGF6Y0NZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-07-20-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "UltraTech Cement Q1 Consolidated Net Profit Reaches ₹26 Billion Amid Wires and Cables Expansion - Sahi",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmxzNjVSVzRLalNKcnI1YmVvWkNESzBtTXJjeHdBVkM5RmUyZi1UNEtqdWhvVlQteFBqanMwbVpmMzhaY3lBRTZGaVdrajF2SVU0V3hTc1Bvc09QM0FyeW9HU3JXNFp4ei15R1RQbVlMTEhGVXdnbU9GTUd0TkhNczJkSmdEeVc1cEczazVOWUhfdUNBVkFLZGJOdnFubjZHdXBxNURsbXB3U05sSDhGcl82YnFNX25pcFBHRVMtSU9VcUdEemNpQ01jczFHQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-20-022",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "India Cements returns to quarterly profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181716/india-cements-returns-to-quarterly-profit.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VMC4506867 Bond Risk Profile - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdGdmMm9rM0pmczVNMFdiRFZmTk5VVmRSWk1XVHBkNVhYNFpuODVaTUZpckR6VUpzODJqSjBDY1FYRFFTX2ZkSVZDUFU4WTF6bnZDN0Q1OWVzVnNyUlhOT1U2MHdoeDRCd2FUWDVHT3pmRzVfeHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan-2026-07-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades near recent highs as aggregates demand supports earnings - ad-hoc-news.de",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWdod0FBYzA1RS1EUkF2d2t1Vk9oNFpQYW1lck5EZUMwR01LRFNDQXhWaEFBc0FhTkFpQmZmN1Vmek5EYm54R3MxQkNpWlVqVzRwQU1jSnlOWk9Bc2VnNmRLX1pnUkc0bjVZN0NsUlR0NzBSX1lDYTNCRC1UamZmOTB5Q0kwRXZXcEpLN1JxV2V6bHYwM3ItcjdGZzJwckxUOHQ1bmR5RVdDUy02OWpXMExBVlo0MFNITDZNdmpnOEh6NGhCdmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 21,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 14
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 163,
+    "too_old": 113,
+    "gate1_blocked": 14,
+    "gate2_blocked": 15,
+    "passed": 32,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+      "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+      "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $325, Maintains Outperform Ratin",
+      "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+      "Thyssenkrupp Polysius refines strategy - cemnet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為UltraTech、Holcim、Vulcan Materials相關動態：「Ultratech Cement (UTCEM) Earnings: Q1 Net Income Surpasse...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ultratech Cement (UTCEM) Earnings: Q1 Net Income Surpasses Estimates with Str...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "UltraTech Cement Q1 Consolidated Net Profit Reaches ₹26 Billion Amid Wires an...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 14,
+  "gate2_fail": 15,
+  "passed": 32,
+  "gate2_samples": [
+    "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+    "Jefferies Adjusts Price Target on Vulcan Materials to $350 From $360, Maintains Buy Rating - markets",
+    "Raymond James Adjusts Price Target on Vulcan Materials to $320 From $325, Maintains Outperform Ratin",
+    "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+    "Thyssenkrupp Polysius refines strategy - cemnet.com"
+  ]
+}

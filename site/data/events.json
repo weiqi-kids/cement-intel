@@ -1,5 +1,510 @@
 [
   {
+    "id": "unknown-2026-07-20-001",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VMC4506867 Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdGdmMm9rM0pmczVNMFdiRFZmTk5VVmRSWk1XVHBkNVhYNFpuODVaTUZpckR6VUpzODJqSjBDY1FYRFFTX2ZkSVZDUFU4WTF6bnZDN0Q1OWVzVnNyUlhOT1U2MHdoeDRCd2FUWDVHT3",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdGdmMm9rM0pmczVNMFdiRFZmTk5VVmRSWk1XVHBkNVhYNFpuODVaTUZpckR6VUpzODJqSjBDY1FYRFFTX2ZkSVZDUFU4WTF6bnZDN0Q1OWVzVnNyUlhOT1U2MHdoeDRCd2FUWDVHT3pmRzVfeHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-20-002",
+    "date": "2026-07-20",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock trades near recent highs as aggregates demand supports earnings - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWdod0FBYzA1RS1EUkF2d2t1Vk9oNFpQYW1lck5EZUMwR01LRFNDQXhWaEFBc0FhTkFpQmZmN1Vmek5EYm54R3MxQkNpWlVqVzRwQU1jSnlOWk9Bc2VnNmRLX1pnUkc0bjVZN0NsUl",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWdod0FBYzA1RS1EUkF2d2t1Vk9oNFpQYW1lck5EZUMwR01LRFNDQXhWaEFBc0FhTkFpQmZmN1Vmek5EYm54R3MxQkNpWlVqVzRwQU1jSnlOWk9Bc2VnNmRLX1pnUkc0bjVZN0NsUlR0NzBSX1lDYTNCRC1UamZmOTB5Q0kwRXZXcEpLN1JxV2V6bHYwM3ItcjdGZzJwckxUOHQ1bmR5RVdDUy02OWpXMExBVlo0MFNITDZNdmpnOEh6NGhCdmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-20-003",
+    "date": "2026-07-20",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock trades steady as higher margins and cash generation support valuation - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjlkbWVTYmRDQy1sZGhHaFlpdl92STNpQTAtVnkzSkRubXpJOEtWWG5ma0hMaHVkLU14UmFaTzNkalhXdDgxQ195bHJ2WjR0Q2E4Q1FGX3hSMl9iYTlobmoyQ1l1cXFtQjY0Y0JuSD",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQjlkbWVTYmRDQy1sZGhHaFlpdl92STNpQTAtVnkzSkRubXpJOEtWWG5ma0hMaHVkLU14UmFaTzNkalhXdDgxQ195bHJ2WjR0Q2E4Q1FGX3hSMl9iYTlobmoyQ1l1cXFtQjY0Y0JuSDA5ejBnYko3SUdBT3FrU1BYRG1tNGFyTWZHX3dUTXpIbzdKMXp5eE9vZlFjeDFZUkQ4MDVfTk10anppUmdBVFRMS3RJeWdRSm9KdkdDRFA4RFRPZy1VdG43Z2prWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-20-004",
+    "date": "2026-07-20",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock is supported by solid earnings and a strong margin profile - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONVRLZE5jZnFnN0NGZy1hN3VrR1EzQThrQ0xYaEFGckdZQ3dLTnZUUzJUdHhQMmhjcV9fN0FfaXZNcDR1eEh5TE9xLTNvU3VTVDgtNUw5YmRpeVRRVjB6ZTcxTFNlSy1ic2hfN3FqRD",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONVRLZE5jZnFnN0NGZy1hN3VrR1EzQThrQ0xYaEFGckdZQ3dLTnZUUzJUdHhQMmhjcV9fN0FfaXZNcDR1eEh5TE9xLTNvU3VTVDgtNUw5YmRpeVRRVjB6ZTcxTFNlSy1ic2hfN3FqRDJaWlZGNWN4czE3UjZDTU9qcERsVm9qOW1nVzJMbUpsRmdaTHc5Z1NxVHVjUFZGS0J2M2M1aFRmdWJKa2pzeGptcDZ1cFR6c3hWY0tCSENRdGdBazl3NmZpX3pR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-005",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Same facility but new name - Quinte News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UFg3X290SnpBc0N0aFB1a1NuTFBDZ3FXYVFjMmhhMUY4V0FZZmxGWnM3VFlzR0JuNG5UVlBuUnA1N3VaV3l4UzNBOWFMU1lVYkRrcjRfRzZXVEdRQ1drRzR5VlVsZy1ST29yT191SH",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1UFg3X290SnpBc0N0aFB1a1NuTFBDZ3FXYVFjMmhhMUY4V0FZZmxGWnM3VFlzR0JuNG5UVlBuUnA1N3VaV3l4UzNBOWFMU1lVYkRrcjRfRzZXVEdRQ1drRzR5VlVsZy1ST29yT191SHJ0YW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-006",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India's UltraTech Cement profit rises in first quarter on strong volumes - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0N0SGh3NzZ4T0dTbDRQTFZKTEE5VUVlVXZWRjNFSHYtTU9nVDFzN2FCVTdNZGZpVldMV1Jrb0s4cXVwamVZVUlYeGd6a3VZbFNLNV9SandueU9PU2Z4T05nUGxNWFJTYlJaNVpOaG",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0N0SGh3NzZ4T0dTbDRQTFZKTEE5VUVlVXZWRjNFSHYtTU9nVDFzN2FCVTdNZGZpVldMV1Jrb0s4cXVwamVZVUlYeGd6a3VZbFNLNV9SandueU9PU2Z4T05nUGxNWFJTYlJaNVpOaGt4T05qeHZSbFZDZnM3NTdCOEhSdWdLbnBucGNucjRHam9Na2lVU3hQU21vSWh3SWJZYUdSYzZWWkt3bUcyUkZXdVhaTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-007",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "India's Ultratech cement tops cost pressures with strong demand - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1B0YjEwcTRSNFJmd19JMWRYeG5jcVVGT21XbDJoMzRhWVl0d2RZekY3LUJ5ZGx5TV9HbVU1djJydUo4LUR2VzRxWFBuZWhqN2VxRzNWZWNIbjRkbXUxbXhvMmw5UUJqQXo5RHpZb0",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1B0YjEwcTRSNFJmd19JMWRYeG5jcVVGT21XbDJoMzRhWVl0d2RZekY3LUJ5ZGx5TV9HbVU1djJydUo4LUR2VzRxWFBuZWhqN2VxRzNWZWNIbjRkbXUxbXhvMmw5UUJqQXo5RHpZb0t2RDFXLWhYWU16WW5NT2t6bDgzV3dZWWoweGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-008",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Leans On Scale As Fuel Costs Stay High - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm1sUU1UYnpUcjRwb0g0bk81cFFER2hvR3VRZ2VRTHNlVWlKRDZGTG9Hazh1SE4tb0piV3NfNXRRT0NYenI3OThFdDgtbEJoTVpDLTBRczdVRXlvaDF6S05uMXFFQ08wY1BQck9hSH",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm1sUU1UYnpUcjRwb0g0bk81cFFER2hvR3VRZ2VRTHNlVWlKRDZGTG9Hazh1SE4tb0piV3NfNXRRT0NYenI3OThFdDgtbEJoTVpDLTBRczdVRXlvaDF6S05uMXFFQ08wY1BQck9hSHJ3ZjZOb3A5N2ZjVW93SEZIWjRJSUNqTHFZVThnUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-009",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ultratech Cement (UTCEM) Earnings: Q1 Net Income Surpasses Estimates with Strong Revenue Performance - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckdhOFZkMEswQy1GdW02T055ZGVhd3piZkVIa1VNMXhQSmh4QkJoWlY5U2prblg1Wk5uZjNRYklTSUw0NnRaTzk2dlB4Mi0tLUJLbWdJc1gwdnVQLVVBODlXWElGc0swVkUyZ21UZF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckdhOFZkMEswQy1GdW02T055ZGVhd3piZkVIa1VNMXhQSmh4QkJoWlY5U2prblg1Wk5uZjNRYklTSUw0NnRaTzk2dlB4Mi0tLUJLbWdJc1gwdnVQLVVBODlXWElGc0swVkUyZ21UZFRCZU55bjBGeGFLUm42OXZDYThYamdUTkVYQ1dKeUFRR3hqX1NyREdydnpGSzVlNHFTX1NCempDWU56ZG5Wak9pYTBmdzMzYXV1bkpXWlN6eVN5dGNCX2FYSGFaM3F4NEQzTjVXckFLTkdwTmY5SzhrZGttdjY3bGF6Y0NZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-010",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Limited Reports Earnings Results for the First Quarter Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW1JMXZoeVNmMWJzbTlvTm1pLW8xZW9XM256djR4S1hfcVgwNF9DNDNBNUdhd1pnQW5MWEcyeDI2WW5TWlJ5SG5CRnBaUkdVeENsZWk4M254OHJaVkNrWGdwMS1xMUd5RWZINmFsWX",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW1JMXZoeVNmMWJzbTlvTm1pLW8xZW9XM256djR4S1hfcVgwNF9DNDNBNUdhd1pnQW5MWEcyeDI2WW5TWlJ5SG5CRnBaUkdVeENsZWk4M254OHJaVkNrWGdwMS1xMUd5RWZINmFsWXAtZ1ZXbTVXMmNPcW9OaUYzeC1XZm5yaVZvay1ETVN6VEVhaUh5SUxYdkpWc0xsRkRhaldGZkQ1TndHd21lZlA4MjdXd1REMXhjTUpiSm5naG8wRDZldllnLVVDczhZTmlZV2JEVW9PTXRkZlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-011",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement reappoints Vivek Agrawal as whole-time director and CMO - bestmediainfo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUdEb2ItbnRlQ2pIbVlmZTcxVF9RVE9VSFRGczEzeVgta2I3MS12VWNOUjE3NzEzSDh6c29CMXpPejlxNTRNOS1hUGswdTFodjVNaXFsZUh1bjBlbzYwNmU1eHdWUnpDQmFRbFRzdl",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUdEb2ItbnRlQ2pIbVlmZTcxVF9RVE9VSFRGczEzeVgta2I3MS12VWNOUjE3NzEzSDh6c29CMXpPejlxNTRNOS1hUGswdTFodjVNaXFsZUh1bjBlbzYwNmU1eHdWUnpDQmFRbFRzdlV0WlhINUdMcVVfV0huSFhmQnE1QWtYcXVfQmhFYzJhOFYzaDlSM0VJNzlrQ2lfSXV4MWEzM2tMZzJjbVY4U2toNThudFl3a0gxZ3VsMXZkTEcybkJfNE80bU04c21zaWo1ZUhv0gHTAUFVX3lxTE5xR0RvYi1udGVDakhtWWZlNzFUX1FUT1VIVEZzMTN5WC1rYjcxLXZVY05SMTc3MTNIOHpzb0Ixek96OXE1NE05LWFQazB1MWh2NU1pcWxlSHVuMGVvNjA2ZTV4d1ZSekNCYVFsVHN2VXRaWEg1R0xxVV9XSG5IWGZCcTVBa1hxdV9CaEVjMmE4VjNoOVIzRUk3OWtDaV9JdXgxYTMza0xnMmNtVjhTa2g1OG50WXdrSDFndWwxdmRMRzJuQl80TzRtTThzbXNpajVlSG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-012",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement Q1 profit rises 17%; shares climb over 2% as volumes drive growth - Fortune India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTZseTJ6cVo2cUladW9xYk54M0lJRlVQWTNPZkNJRXRqOFhLYmZhdW5CWFM2cDdHNmxvNHJWUVhfRTJVRWRJZ0hvY0wtUFJaZWRwVEZucG9kSUlqcDlkYUVvRHR5QWhERmp5ZW90OF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZTZseTJ6cVo2cUladW9xYk54M0lJRlVQWTNPZkNJRXRqOFhLYmZhdW5CWFM2cDdHNmxvNHJWUVhfRTJVRWRJZ0hvY0wtUFJaZWRwVEZucG9kSUlqcDlkYUVvRHR5QWhERmp5ZW90OFM1SG1UMXNxTTJLendvMXdIRHNyQ01IYWFDNHdxS0ZyajhoY1c4cy1rNHJobmdCYVJqT1pLdW1EeFA4SGNibGp3MVlMZkZyT2lHZWs3YkE3UDFzY1BVMTRhNdIB1gFBVV95cUxNSDU4UnJfYnFBX3M2Q3QxaFVEYlVWZERmTnRycWNVakpfYzNqYTZGLVhFMzZfZmU2NG1lN2hTWGk5dkowWlAycWtQUEFBZG84NFd0dThHbjlyUERHR3R1cXMtU3cwbGNVRGVoSXZrS0ZYTkllcXlYR0k0bDRWdEdfTlFueUF6Qm1QeXJEUmF5bm02T2N0ZXN5VTZyZHljbWhGR0pXRkR4NWJBb2hQRUVweWN0X1U0M0hPWTJHY1FLUVNkTzlVaGNFenRObnhCV05VWWNVcEpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-013",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ultratech Cement Q1 Consol Net Profit 25.99 Billion Rupees - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVBfZWNOV1A1Q2YzRjNBOFluaWx5THplS3U5bFMxZ2FCU3BvZU8xMWh5ekxNVnFwck1tRTVhTUtPcW5oUFRTU2JoYTJlTWFFZTZvX1RLdV93UURwSXl3VHRTdXNLeC1TdDRiZUVfaV",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVBfZWNOV1A1Q2YzRjNBOFluaWx5THplS3U5bFMxZ2FCU3BvZU8xMWh5ekxNVnFwck1tRTVhTUtPcW5oUFRTU2JoYTJlTWFFZTZvX1RLdV93UURwSXl3VHRTdXNLeC1TdDRiZUVfaVQzSmlKcVV5RmViQVZJUklpY29wUndxTnp2TjdfUGY1ZjJQdkswVWFhM2JLMjNRZVZOMTU4OFhIeFFNV0M5dUlqNmRLZGVtVkJYN0g5UEZqNk90UUhELTlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-014",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement first-quarter profit rises on strong volumes - BusinessLine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNaHNLR0ZrSWVGeEEwYlRHaFFUS2lHeC1xZ05YTUpvcGI3eGt2UHUxNEFnbWZsdmVDV0Q0cF9QRDZJdHVDQ253Qy1OeFE2ZGlDZ1JCdU92c0haNU9GcE0tQzY1YUlhdmVlcF84dEczdW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaHNLR0ZrSWVGeEEwYlRHaFFUS2lHeC1xZ05YTUpvcGI3eGt2UHUxNEFnbWZsdmVDV0Q0cF9QRDZJdHVDQ253Qy1OeFE2ZGlDZ1JCdU92c0haNU9GcE0tQzY1YUlhdmVlcF84dEczdW9UeFEzbk4wOW55Q0kwZzlNSEVqbTN6LXhNQWt6NTU3TjA3Y2d3MnBQZFdvNG9YbHRfU19yQlFMYmZKYU1qd3JROS1wTE5QWFJRRzhNcG13dHpneF81UjFF0gHOAUFVX3lxTE1VWDc5M0xXbVVhejJzV3RLbUswZlVPTnlNQVZzTzBfX0ptM0VmVDl0VmNuMXd4ZjI1ZUZfM1ZQdnNQNnQtMk5xY3JWSTVxRk5zRzd5YWpBMTFWWVlmdHozcjFfZmtGWUxIbU1zTVNqeGYzWnBGalRJUUt0TVg1XzRkU0xyUWVwblgzWHJYaWwxOFNKZkRRWm1saUFOZFNKTTJ0SjFUUDB2b29RM3hkejNmWHBFZFpQckdyNlotQVlQQ1RnM19KRkU1OVlZZTRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-015",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement reappoints Vivek Agrawal as CMO for two years - Exchange4Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXBTclNKNDV2OVJXMjhDZDlrZVNSc0xmZ1ZYd1BtQU1NM0RoWVlBZ284blQ4MlE2Wm84MWlweWRMTG9vcGxDeW5hN2FERnZyT3ZVOUs4bzRqUDBIbWZrMEE0SGZuRWFCenFRTkpUSX",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXBTclNKNDV2OVJXMjhDZDlrZVNSc0xmZ1ZYd1BtQU1NM0RoWVlBZ284blQ4MlE2Wm84MWlweWRMTG9vcGxDeW5hN2FERnZyT3ZVOUs4bzRqUDBIbWZrMEE0SGZuRWFCenFRTkpUSXBfUGZfaWhLMjhlOVptSzZWZGhNUzBIN092ekJ6RHBTVlpsTm50cHdaNGlkNkk1am1YTjVweng4bmJmSTJNQmlfcHpOeWl0SHlrMFdNa2FTSXI2S3U2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-016",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Q1 FY27 net profit rises 17% to ₹2599 crore - ET Manufacturing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQYWlSUlVHamtwZkQ2dUpIMy1IZU95WXVRTkpPSnhWUzVOb2ppaGlJaS0xRWhpajNmcElyU1VGakdqR2hHVmwxMVJORFAyUVk4TzViX0o5aWgwUkY3R2p1NnBCOXQ1Ulc5U3ZUOEItQ1",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYWlSUlVHamtwZkQ2dUpIMy1IZU95WXVRTkpPSnhWUzVOb2ppaGlJaS0xRWhpajNmcElyU1VGakdqR2hHVmwxMVJORFAyUVk4TzViX0o5aWgwUkY3R2p1NnBCOXQ1Ulc5U3ZUOEItQ1BDSmR2UGMtUVJSM3o0QzlNOW9QcGs1YnVOOFZjay1xakN4TnlydkpjeTlLWnA0UlJfRjZQMTZsOHRmMkFubHFueUowZ1d4b0hHWlh0RzlnRkQySWR1WUw1MGgxcUdwR1l6djRyVGZBT1pTMS1scjZteDV6U3N3dmRNZU51TVJuelA5cHFWT3B1OVk2ZTQyTmpuUjUxWUZxMNIB0AFBVV95cUxNVHBvYkx6cVlLWVhXZlNMb1lLZ2Q2d0ZzcW53bVhLb3RLTmJpUkc0R205U0w2cjhIY0p1eEZ1czJLUGdiVkpVYU03dWV4WUxLQXhsOWxyR2JCMjlKSEZFQ2JoUlVkeUxnS0k5TFcycG4yekpjdFR5d3E2ckRXSE1oRVZXUHJlVnZXXzU0STc1dlpNVTltSnFCcmhnQ0R1S3dGVksxckQzeFNUblNVTEZDMUpQeUZ6WDBPZzhnNkpwUWhVbEtMcXozLXZKTl9DUVJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-017",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q1 Results Today: UltraTech Cement, Paytm, Indian Overseas Bank Among 45+ Companies Announcing Q1FY27 Earnings - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1NsaDh1djlfZHZQZ0c1ZTZZalRDeUJwMWpqdEMyQWdpUFk5RVI3MHpSLVM2azJSMXFuak1IZEptazhiOEJrVHlJdmVYay1Mam1HSkhPY2ZKd3doZmF1TWZWOUIzcnhJYzJZNUNac2",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1NsaDh1djlfZHZQZ0c1ZTZZalRDeUJwMWpqdEMyQWdpUFk5RVI3MHpSLVM2azJSMXFuak1IZEptazhiOEJrVHlJdmVYay1Mam1HSkhPY2ZKd3doZmF1TWZWOUIzcnhJYzJZNUNac2s1b201MFFmb1ZUemlQRFItWWloSlBHSmZYR3dIQkswQXhHU3Y4WWk3U3dhYUpLVF9JV1J3dWZ3RjRoalVNRUtUT1lSN1JROTFXbWlJM3ZLYWVzVmJkVGtPcHBTMEhmQ0QxZHV6ckZKSXcwQjYxeUZCMUNLVGXSAewBQVVfeXFMTUhINzFSUFl5NnNMeHRPU25xVEpVT1haYUZDWXlaejJiRlVDWTBOeF9FdmFuS1JmTllRMnRhcDdsRS1Cb2dCbzJjSGxqWUxva1J0bmF2cnhqUVdNd2d3d2VSa2lySzVySUVabzZvUmdDYk8xaXE4ZG5xM0pEVTJYSTQ1eVFPc2ZhT2EzM251S25zZ2pGcEdIcFpBTXExRmR1RUlWc2ZiOWE5TF9vbmw3V1ZMZks5c2pZX3JUTnBYTW5MODN5UjJmVTgtRUh0b0RLVHNhYXhfU0dCR00temozU3RaNXB4dW1OU25rQVc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-018",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Q1 Consolidated Net Profit Reaches ₹26 Billion Amid Wires and Cables Expansion - Sahi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmxzNjVSVzRLalNKcnI1YmVvWkNESzBtTXJjeHdBVkM5RmUyZi1UNEtqdWhvVlQteFBqanMwbVpmMzhaY3lBRTZGaVdrajF2SVU0V3hTc1Bvc09QM0FyeW9HU3JXNFp4ei15R1RQbV",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmxzNjVSVzRLalNKcnI1YmVvWkNESzBtTXJjeHdBVkM5RmUyZi1UNEtqdWhvVlQteFBqanMwbVpmMzhaY3lBRTZGaVdrajF2SVU0V3hTc1Bvc09QM0FyeW9HU3JXNFp4ei15R1RQbVlMTEhGVXdnbU9GTUd0TkhNczJkSmdEeVc1cEczazVOWUhfdUNBVkFLZGJOdnFubjZHdXBxNURsbXB3U05sSDhGcl82YnFNX25pcFBHRVMtSU9VcUdEemNpQ01jczFHQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-20-019",
+    "date": "2026-07-20",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Q1 FY27 net profit rises 17.2%; net sales grow 16% - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMC1faUFMV0VwWlpnQjNPZmFTc0RjZzd3SGdtVFVpTU1WZ0tsNVgxVVJLMnpxMkV4X1pwWmoxaVpQVzY0NEg2b04xTm96eS1yNnR4anN5c1pWNGU0UWpBOTVPUy1nVWNDZ3ZfcmFOWH",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMC1faUFMV0VwWlpnQjNPZmFTc0RjZzd3SGdtVFVpTU1WZ0tsNVgxVVJLMnpxMkV4X1pwWmoxaVpQVzY0NEg2b04xTm96eS1yNnR4anN5c1pWNGU0UWpBOTVPUy1nVWNDZ3ZfcmFOWHVqcE5LVUktTWE3cWxWQk9rMVVISU9WSWNhZ2ljTmc3SlpPN0ZwYmNKdUdDMnR4SGFLNlRhcDFxQjJ6blAzVFdUcGJSQWxQZE5VMU0tNGZSd0w3N1lQTUt1OTdn0gHPAUFVX3lxTE5IOVRpcmhHRnhLUEdrMUhYX1lyRGpGNlpGZXFNejVpa0U3YzU5T2xlOUFuSjZVM25vaFhvOGFWSVlzRWxzNWhvYWN0SC00RWRRWFBGNnNpdG9ZLUplRFh4NzBfZEE3aVFtSGxJWnl5MjhoX2dBY1RESFg4NjFuZmRyakRsV3N6Y005cVlSVUxKUFV1TmJ6NmV5blB5N3BvSWlJM0Y0NEhkeWhkbEdxTjlEeFZoWTBReTdPM1Y4S0pzX2ZVWUUxRWV4NzlOMXdmaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-020",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "JK Cement reports lower profit despite volume growth",
+    "summary": "  JK Cement  reported a 14.5 per cent YoY decline in consolidated net profit to INR2.77bn (US$32.2m) in the first quarter of FY2026-27, despite a 20.3 per ce...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181717/jk-cement-reports-lower-profit-despite-volume-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-021",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Cement Europe welcomes EU ETS review and electrification action plan",
+    "summary": "  The European Commission has released a proposal for the EU Emissions Trading System (ETS) review and a new Electrification Action Plan, aimed at fostering ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181715/cement-europe-welcomes-eu-ets-review-and-electrification-action-plan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-022",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "India Cements returns to quarterly profit",
+    "summary": "  The India Cements Limited  (ICL) reported a net profit of INR266.2m (US$3.1m) in the first quarter of FY2026-27, compared with a net loss of INR75.3m in th...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181716/india-cements-returns-to-quarterly-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-023",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Ecocem achieves first industrial-scale precast concrete production with ACT low-carbon cement",
+    "summary": "A factory-scale trial with Belgian precast specialist C-concrete has shown Ecocem's ACT low-carbon cement technology can cut the carbon footprint of precast ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181709/ecocem-achieves-first-industrial-scale-precast-concrete-production-with-act-low-carbon-cement.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-024",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Coolbrook and ABB partnership delivers RotoDynamic Heater technology to Adani Cement",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/abb-coolbrook-agreement-1500.jpg\" /></p><p><strong>Switzerland/India: </strong>Coolbrook and ABB have announced the next phase of their partnershi",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21015-coolbrook-and-abb-partnership-delivers-rotodynamic-heater-technology-to-adani-cement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-025",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "JK Cement profit falls in first quarter of 2027 financial year",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/indian-banknotes-colorful-cash-pattern.jpg\" /></p><p><strong>India:</strong> JK Cement reported a net profit of US$28.8m in the first quarter of t",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21014-jk-cement-profit-falls-in-first-quarter-of-2027-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-026",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Vietnamese cement exports rise in June 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/vietnam-flag-1500.jpg\" /></p><p><strong>Vietnam:</strong> The country exported 2.9Mt of cement and clinker worth US$111m in June 2026, up by 9% in",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21013-vietnamese-cement-exports-rise-in-june-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "holcim-2026-07-19-001",
     "date": "2026-07-19",
     "companies": [
@@ -76,6 +581,127 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NaGRldzZvRjQ0LVlBaWhfclRmeDZpMlhOMEhSUkpuNldtMzExMWphWmY0X05ZTHJHU0t3VzV3dUV5MEhnd2VBUjV3R081WWlIVWwzQUVCbUlNS3VJT1FiVmlsS2FhTDVWZUJlUnZlMmI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-19-005",
+    "date": "2026-07-19",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Vulcan Materials (VMC) Undervalued As It Reaffirms Its Dividend? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjJYQ3V1QTVFMEtqTHpZN00xUG1MM29MaVUwU2FqZE0wNWU2QjJicDIxNWJ3SWdKQlRuU2JmNWJrLUhiT0ZTbzIwYnhEZ1o0VGR4M2xtTEZVR19meXRlVzlYN3VYcVJIanZyOVRhcm",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSjJYQ3V1QTVFMEtqTHpZN00xUG1MM29MaVUwU2FqZE0wNWU2QjJicDIxNWJ3SWdKQlRuU2JmNWJrLUhiT0ZTbzIwYnhEZ1o0VGR4M2xtTEZVR19meXRlVzlYN3VYcVJIanZyOVRhcmF3d2VMMFIzNWk0VnlsaFNtM01nTFA4bG1QX0t0SU5ocG1vaVRodXNaNldTV2hseEF4Z0dnQWE5eFlPakZibklranR1OWdrbDVJbWx5UVl6VHFWXzdDbXpfMHhmSExiSjFxWjU00gHTAUFVX3lxTE1KMlhDdXVBNUUwS2pMelk3TTFQbUwzb0xpVTBTYWpkTTA1ZTZCMmJwMjE1YndJZ0pCVG5TYmY1YmstSGJPRlNvMjBieERnWjRUZHgzbG1MRlVHX2Z5dGVXOVg3dVhxUkhqdnI5VGFyYXd3ZUwwUjM1aTRWeWxoU20zTWdMUDhsbVBfS3RJTmhwbW9pVGh1c1o2V1NXaGx4QXhnR2dBYTl4WU9qRmJuSWtqdHU5Z2tsNUltbHlRWXpUcVZfN0Ntel8weGZITGJKMXFaNTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-19-006",
+    "date": "2026-07-19",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "CEMEX supplying concrete for Mexican road project - Global Highways",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBrSlhjOVMyRkNlbjJKWHZObEFRNlNSQzB1SHFzZURIdjdneF9QRTZ2TWFoSTRTeHdYMFVUU0MwRDBOaTliWmdoMk1OTWZJWE5nQlc1YktZQW1GYW9JbkpmS212dDZUVU9TVHcxTDg1bn",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrSlhjOVMyRkNlbjJKWHZObEFRNlNSQzB1SHFzZURIdjdneF9QRTZ2TWFoSTRTeHdYMFVUU0MwRDBOaTliWmdoMk1OTWZJWE5nQlc1YktZQW1GYW9JbkpmS212dDZUVU9TVHcxTDg1bnh3OGpoc2I0RDVtSWhmUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-007",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Brno City tunnel project - Global Highways",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZTy05M0ZvRVI2cG1QV0UzeldPOU9Nc2hEaXRWMHMtckVrZFc3R2RjVjFNby1FRExlYUFZeTdqX09RaU1PM0ltLWtkZDhRNDZWN1JacGNVNWVxVU56U21CYWV3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZTy05M0ZvRVI2cG1QV0UzeldPOU9Nc2hEaXRWMHMtckVrZFc3R2RjVjFNby1FRExlYUFZeTdqX09RaU1PM0ltLWtkZDhRNDZWN1JacGNVNWVxVU56U21CYWV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-19-008",
+    "date": "2026-07-19",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of Asia Cement Co., Ltd – KRX:183190 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVRWWFdVUjR3ZG4tSUx0eVYtTkd5d3NuWnBHR1V0Q3ROS2FIQW9LY3Z0N2JQdXpiQ0Y5YWp1RXRVUFJlcWRUTU1nYzVMQnVPXzBRWFBLdHgtek9QNUtha3JFOTZxZmZwVWFYQVRSOD",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVRWWFdVUjR3ZG4tSUx0eVYtTkd5d3NuWnBHR1V0Q3ROS2FIQW9LY3Z0N2JQdXpiQ0Y5YWp1RXRVUFJlcWRUTU1nYzVMQnVPXzBRWFBLdHgtek9QNUtha3JFOTZxZmZwVWFYQVRSODYwLVNPSDNhZ0JUU1liZi1WcXVxbkdDNFR0TzVoSnVNd0xjdHZ3Um9pVk9EWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-19-009",
+    "date": "2026-07-19",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock steadies as earnings metrics and mainland business drive valuation focus - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxORlY3MHFxYzhsSUtkLTRUczZhaXp4NnAxcFpWT19xeU5odEpoaTVDMGZ5MWs4X2dvUTVYWXBkZGVvWmUydVptV0tDY25IbmRyN2xESENmdDR2czhlU1hiQTJ1eEUzNU42cnowd2w2MH",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORlY3MHFxYzhsSUtkLTRUczZhaXp4NnAxcFpWT19xeU5odEpoaTVDMGZ5MWs4X2dvUTVYWXBkZGVvWmUydVptV0tDY25IbmRyN2xESENmdDR2czhlU1hiQTJ1eEUzNU42cnowd2w2MHN1MGFRSmFXMFJFNjBGX1RaSVdJWHpMMndmX3NOWElRMEhfWHJiWnUtYWVWbWV5c29NOFM3bmYtWl9mcEJMRU44bkV0bndydDBpZmlzUThPNzlpcTZib2JoVjBvT1o4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-07-19-010",
+    "date": "2026-07-19",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement stock trades steady as earnings and demand trends shape outlook - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHdCWTFyazJWdllmVG9xcGlWNi1XZllDLWFUemF6Z1JwR1kzaXYtQ0x3R0RaWVhYQXdfRHZYQ3F0QXc1MUpwY0h0amk0YjRqOC0wR1RLQ2FGRE9FUExkdWNhYXp0d01GMjRqV21Hem",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHdCWTFyazJWdllmVG9xcGlWNi1XZllDLWFUemF6Z1JwR1kzaXYtQ0x3R0RaWVhYQXdfRHZYQ3F0QXc1MUpwY0h0amk0YjRqOC0wR1RLQ2FGRE9FUExkdWNhYXp0d01GMjRqV21Hem5hcDdEa2NvOWN4Z0d6dERwaVpWREJUanYyamZjemw3UFIwb0hJdi1NbnhBZmZGZDZIVXBSdXpZODkxRVF3b2RUMTJLbFBJVGk1ZDZidGp5dDVFRm1lYzdpU3h3?oc=5",
         "type": "rss"
       }
     ]
