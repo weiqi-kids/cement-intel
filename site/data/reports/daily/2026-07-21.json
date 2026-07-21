@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:26:18.553131Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-07-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades near recent highs as aggregates demand supports earnings - Ad-hoc-news.de",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFk4V28wWlpJRm9SUmhMTGVwSTJnVC1aQUdZM3dkakdMcjdWQnlJMk5BaVZaSDRqbGJ5bFNTWWFtT2ZQWXJBR3hlendOOUp0clVBVXFRbVFWaUN3eVBldzdDUTI4bWRJWGpXTG9kSTZoeW85V2VPVTJKOF9hVnNQdVh4dVhobngyalEzZjUtN3hab1hYYnJCc0dWRjNTTkZQOHBjT3E1YTZ6ekRWTDc2cWM4ZjU4QV9oaVFneEw2LWd1TzNaV0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-07-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock trades near 52-week high as earnings support valuation - Ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTVJLV2pXNklhbmxqZkZfWWd2elNpWGZLYlJ6ZHFZclJZOGJUU1JlclAxMVJMWmV0NWVwUVBUR3ZHQmR5TFczdzZ4U3hmV2tQQjBuNXhVaE1uTXlYbVg2UkFHTEpjTmd1WURUN3N3SVFLQlF3Wl9iOUxOTFVzNFAtMG42Y0pQVTBIYVB3VVRnaFZoRkRJVnZOSzRITTBOWHpwdVlhUWhmU2lDRElLT0EzU2ZiMG5yVVRZblQxbE0ydEhxUkZmMlZ4Vm9n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-07-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement stock gains 1% after Q1 beat; Jefferies, CLSA see over 16% upside - TradingView",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX29XaFRCY1dKakw2VmhRQW40c3pHT2JWbnBTYVVGUXJ0R3AxWm12SjM5TWJxZHdOQzlscXhhN25zcTJDYmNBUkJsUUdIbmpPRDQ0STNPcF80MHVvbmM4NjA3OGI4VzlZdTFmNUd2YXkzeHVOaTNZZlBlYzBoTmNKMHBCeGlSUG92Z0t4RHpKNGlxUDlTdmtoMG1nd016OC1QaVFEV29KUDBueXFKU0VCcTdHeW5WdHFXdkpkN2trYzdRNWJjWF9kSGxZOXN6VDVDR0NaR2pONEQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-07-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Q1 Review: Brokerages Raise Target Prices After Volume Growth, Stable Pricing Beat Estimates - NDTV Profit",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2N2Y3dHSlJiNm1LYkN5Sk9TeEFicmFnbGk0UkFWcktSTWZQWG1nR19pTnM1Z3Q0T2ZBN3hEZFdpTG5VRFROZHN4djRpeXl3cnE0VklfcjJlMjBBYTVmQUlWRXVxSGFTLUVWT3ROTm5hcjFNOHgzejhzMHEtSWhzS1lLZE9sem1iSmZtMjA2elAxbGx4SXY1T25PeVR2NWZHVy1lWDBvOWNpTV91ZUdsNnEtSXAwWmM3M1BteGp2bG1PbTZyRTRlcFVBeEVWc1ZiY1pPcFdLSjE2QV9LTzhQVFFkMjJBUdIB7gFBVV95cUxOWUZkdlFob1JpQV9uNEVpMnNTUjg5NEZpUFZLb0VGdnZMeXpPRExhcUV4TGw0Z3lEeGJLc19PMmhZUDVocmtkWHJSaG9aSlFTMjJyUGFfM3l2NGZRamFkUEJ6WThFZTEyUFVNdEFWX0czOHFobGx2TkpyZDQ0aXF1TFdTVjRpNV9faFJ3NE8wazV0RzQwSXhZSFVycTZTRER1MlNEUkJxN3NDUDg4VXhCcHhhaERObjNYTVF4clZnZF9jdTduSEU4SnFZeUNsYVplZG9hYzhsQzdISkpPZzJRQnp3NzJpYVZkRnpTenNB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-07-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement shares rise 2% post Q1: analysts see up to 14% upside - Business Standard",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTQ3MFpzV0F4M0NtT2tiaVFxWWtsR0ZJaUIzODY0TS0zdUZSYzBrQWNyMmhNV2s2VjJMV1RJX1pnd3lVTmR3NWQwUFA3a3FTUWZoS1pfT09GYjZGZkhMcjB3TV9XbWRQS2syVmVFZWxfb0RKQ0QxZ1dYbTh5RjFoY0NpdVkxLU9xT2laYnZYLUdFMWllSFlzMmFTR3NmZGxvYnNpblNVazdFYUxSMTc0N3FjSkU3UEVfd1MteUl1Y3dyZnlCTjJYSGJEX1RRRXlLUUROUmNR0gHbAUFVX3lxTE5Lam1WNV9xalBvYUExdDU1UUhlZlNMc3JVeDJERWs5VmMxa2U4WVdXM1VNOWZJWGlPblNJQmlacVJFMXk5TVpmNzh1Wnc5Mi12RXh2Slg3ZFRCSWJ2X0QxQmVEbGhscWFaaXZhSXdoUVhmbUowdnAxbVdxRGlFM1JjZ2ZMZ0hWajR5Q2NlR3l2REhRNHQ3U1B5bWFoZmFaZ25sT2ZpNXQ0S2VKSzM2SHlXR3I5MjN0UkFIRWVvanZwekdjYTluNnI0bmZGbXFIWnUtQnBMMjNoYWd2WQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 10
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 158,
+    "too_old": 116,
+    "gate1_blocked": 19,
+    "gate2_blocked": 15,
+    "passed": 29,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+      "Thyssenkrupp targets over 4% annual sales growth at tk accelis - Investing.com",
+      "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+      "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+      "Thyssenkrupp Polysius refines strategy - cemnet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為UltraTech、Vulcan Materials、蒂森克虜伯相關動態：「Vulcan Materials stock trades near recent highs as aggreg...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vulcan Materials stock trades near recent highs as aggregates demand supports...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials stock trades near 52-week high as earnings support valua...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

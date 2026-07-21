@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 19,
+  "gate2_fail": 15,
+  "passed": 29,
+  "gate2_samples": [
+    "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+    "Thyssenkrupp targets over 4% annual sales growth at tk accelis - Investing.com",
+    "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+    "Thyssenkrupp strengthens its presence in nearshoring - MEXICONOW",
+    "Thyssenkrupp Polysius refines strategy - cemnet.com"
+  ]
+}
