@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:26:14.639696Z",
+  "updated_at": "2026-07-22T10:27:25.460460Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -131,8 +131,8 @@
       "ar_qoq": "-14%",
       "ar_period": "QoQ",
       "inventory": 2750800000,
-      "inv_prev": 2741400000,
-      "inv_qoq": "+0%",
+      "inv_prev": 2832400000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
@@ -144,15 +144,15 @@
       "ticker": "HOLN.SW",
       "currency": "CHF",
       "ar": 1714000000,
-      "ar_prev": 2151000000,
-      "ar_qoq": "-20%",
+      "ar_prev": 2614000000,
+      "ar_qoq": "-34%",
       "ar_period": "QoQ",
       "inventory": 1716000000,
-      "inv_prev": 1729000000,
-      "inv_qoq": "-1%",
+      "inv_prev": 3117000000,
+      "inv_qoq": "-45%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
+      "alert": true,
       "quarter_date": "2025-12-31"
     },
     {
@@ -211,17 +211,17 @@
       "name": "台泥",
       "ticker": "1101.TW",
       "currency": "TWD",
-      "ar": 23557804000,
-      "ar_prev": 24752504000,
-      "ar_qoq": "-5%",
+      "ar": 23952360000,
+      "ar_prev": 23557804000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 19023915000,
-      "inv_prev": 19498463000,
-      "inv_qoq": "-2%",
+      "inventory": 20812552000,
+      "inv_prev": 19023915000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "thyssenkrupp",

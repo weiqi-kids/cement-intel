@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:27:28.851868Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vicem Ha Tien Cement more than doubles 1H26 profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181735/vicem-ha-tien-cement-more-than-doubles-1h26-profit.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alpacem Cement profit rises despite lower sales",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181733/alpacem-cement-profit-rises-despite-lower-sales.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nigerian cement prices continue to rise despite Huaxin takeover",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cement_pricing"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181732/nigerian-cement-prices-continue-to-rise-despite-huaxin-takeover.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "earth4Earth opens carbon-negative brick plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181711/earth4earth-opens-carbon-negative-brick-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cement_pricing",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 72,
+    "dup_title": 30,
+    "too_old": 15,
+    "gate1_blocked": 16,
+    "gate2_blocked": 2,
+    "passed": 9,
+    "pass_rate": "21.4%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "JK Cement to deploy over 150 electric trucks",
+      "AI data center growth could force US utilities to rethink generation plans, BofA says"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為財報、水泥價格、碳排放相關動態：「Vicem Ha Tien Cement more than doubles 1H26 profit」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vicem Ha Tien Cement more than doubles 1H26 profit（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Alpacem Cement profit rises despite lower sales（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "水泥價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,77 @@
 [
   {
+    "id": "unknown-2026-07-22-001",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vicem Ha Tien Cement more than doubles 1H26 profit",
+    "summary": "  Vicem Ha Tien Cement  more than doubled its net profit in the first half of 2026, reporting VND216.1bn (US$8.48m), up 109.4 per cent YoY, on net revenue of...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181735/vicem-ha-tien-cement-more-than-doubles-1h26-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-002",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Alpacem Cement profit rises despite lower sales",
+    "summary": "  Alpacem Cement , Slovenia's sole cement producer, has reported a seven per cent fall in revenue to more than EUR132m in 2025, while net profit increased by...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181733/alpacem-cement-profit-rises-despite-lower-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-003",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "cement_pricing"
+    ],
+    "impact": "positive",
+    "title": "Nigerian cement prices continue to rise despite Huaxin takeover",
+    "summary": " Retail cement prices in Nigeria continued to increase in July 2026, with 50kg bags now selling for between NGN12,000 (US$7.80) and NGN15,000 (US$9.75), depe...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181732/nigerian-cement-prices-continue-to-rise-despite-huaxin-takeover.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-004",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "earth4Earth opens carbon-negative brick plant",
+    "summary": "Building materials developer earth4Earth has opened its first UK manufacturing facility in Sheffield, UK, marking the next stage in its plans to scale up pro...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181711/earth4earth-opens-carbon-negative-brick-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-07-21-001",
     "date": "2026-07-21",
     "companies": [
@@ -256,6 +328,99 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181724/ultratech-cement-reports-strong-1qfy27-earnings.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-21-014",
+    "date": "2026-07-21",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cementos Pacasmayo announces financial results for the first half of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/peru-currency-1500.jpg\" /></p><p><strong>Peru:</strong> Cementos Pacasmayo, a subsidiary of Holcim,&nbsp;announced today its consolidated results ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21021-cementos-pacasmayo-announces-financial-results-for-the-first-half-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-015",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Cimaf to expand grinding capacity to 1.8Mt by September 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/approved-licence-construction-1500.jpg\" /></p><p><strong>Gabon: </strong>Cimaf is preparing to commission its third US$43m cement grinding line, s",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21020-cimaf-to-expand-grinding-capacity-to-1-8mt-by-september-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-016",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Alternative fuels trial at Adbri prompts backlash",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/australia-south-1500.jpg\" /></p><p><strong>Australia: </strong>Adbri’s cement plant in Adelaide has received approval to burn more plastic waste a",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21018-alternative-fuels-trial-at-adbri-prompts-backlash",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-017",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Generation Toolbelt: Don’t make Gen Z construction workers pay for their vacations twice",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/G9M1Z9zYzszSoJFSe6IXsPtQRn4_TH8-aot6CMx4RkI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzkzOTQ3MTQzLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/gen-z-construction-attitude-vacation-benefits/825608/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-018",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "2 GCs win $83.8M BWI Airport runway upgrade contract",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_GwEVZlMAsUKqNpgf8Ajl4e01Amheya32JFXWsyS_EA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4NTg0NTU4LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/bwi-airport-runway-upgrade-contract/825799/",
         "type": "rss"
       }
     ]
