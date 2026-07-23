@@ -1,0 +1,251 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:23:51.979977Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-23-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "GT3 in landmark supply deal - The Australian",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVVBtMmpXaWg4VXRxUHVrWVlEdDhyNEE0UXdUdUhmS21ERjdVazBsVUdIaC1kSjBCaTRvQTZtUEJIcC1GNjhONF8wZl95VFFDY3J2WnBzRXpxVnRYWVF1RHIwTE5YVXpOaWpEZlpTZFp5akRsOXRBNl90WUxJNkM5enhUYTFoc2JjOHdGWlU0bWNCcXlqdUFUUnczNm80NHdGYlRaYWVzQWNCVHVFa2M1WUlxdmkwcXhEaEtFLUU2SWJsLV9pd0M4YmE2eFBvbW1LZXAyV2FNampEdXRzaVRfaEx6MGY1TWxnWE93dnI3YjFLYnRxQWt0MDd4aEhnSWJnXzBhc1hOTzd3WE52TUHSAY4CQVVfeXFMTVVQbTJqV2loOFV0cVB1a1lZRHQ4cjRBNFF3VHVIZkttREY3VWswbFVHSGgtZEowQmk0b0E2bVBCSHAtRjY4TjRfMGZfeVRRQ2Nydlpwc0V6cVZ0WFlRdURyMExOWFV6TmlqRGZaU2RaeWpEbDl0QTZfdFlMSTZDOXp4VGExaHNiYzh3RlpVNG1jQnF5anVBVFJ3MzZvNDR3RmJUWmFlc0FjQlR1RWtjNVlJcXZpMHF4RGhLRS1FNklibC1faXdDOGJhNnhQb21tS2VwMldhTWpqRHV0c2lUX2hMejBmNU1sZ1hPd3ZyN2IxS2J0cUFrdDA3eGhIZ0liZ18wYXNYTk83d1hOdk1B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-07-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades steadily as earnings and portfolio changes shape outlook - Ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTllLUpFT3VsSEtsUjNMSDRsT2kxaWxKX2o2V2Q0NkZnUTVuaFNmV3R4bG1MbG8zamo1d3F5WWJMcmxnUy1wZzBxUjV6dktoRVFPYTU2RWNYTVpuNC1CeHg1dXZDeTlfdDFGN252YXZGSEI1SDZPSHV3eEFYM3VlODQzdEg0NS1CM2I1ZWpLcXdJWHhibkhpcS0waWV3S21pR0pZcnBtWU5nWEpCTC1PTXZlNEtyQ0RkM2haQi1LWnNJQmJoWFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cemex-2026-07-23-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex Lifted Its 2026 Earnings Outlook After A Strong Quarter - Finimize",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHFfay1MVVZfU0FVTjhQT3AzMDRETTRjblIzT3JWVlJ4Y2xTLUZfLVhsVEtCLVZ5YzVXM25YeXJnLXNtQ01WSzNTWExfNmxndjM1b2JHYW10a3h6LWlzOHBXYXNpYVQxdGZ5V0M3ZWFrMXZFeUtGZUI0RU5BZFlYbU5uQ1VQcVdibmNoNmEzTWtHd3Zs?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-07-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Approves Rs 5,000 Crore Fundraise Via NCDs; Here's What It Means - NDTV Profit",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXhsSXhOMUFQTUdOb3ljU3BTVjExZkdYZDNjajRaUkt6OFdRRHZHYkROczhIdDI1Z0pwd2pZNVZzZ3drbm1ZeDU5MWFxXzJoQzBjcnZNVGNIWFJjLWJ3Ull6UXRrc3lmblRRa01XSkhxSDZmVjM5QlBINlE2WFdRdUtONnNXU0U5TU1PTk9KenBiNFNjdXRLcDE4dGowYVhmLWx1cnRrQ3dQQWFwM0ktQm10TWg3VDZvY2tnSmJpUW_SAcgBQVVfeXFMT3BTNGRYcFZzTjdybERqSmJYLVZXOHNiZlVGX05Ib3l5a19aR2EtSXdaZW5WNmNmQnNaR1liQXYtVUJoSW9BbU92TVdrUXhmeG9OZENlYk9GR2taZjdVNlIwVUlWRlk5RDFpSGFTNE1MaFVfSGVNbTVLTEJmNTVGUE1XVHk3NXF2akF1czZ6UGlrQW8tck1XbW5RaFVQcXVOUWlMek1fa2RKbmFJbzNsUG4ydXpSVjQwZTRMdG13UFNpN0JVZzk1WWo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-07-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement to Raise Rs 5,000 Crore via NCDs - Rediff MoneyWiz",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1ZTR2lEcDJzT1RkZTBqcFZvbnZWVF9fdnB1empQNDYwZWw1c3g3c1ZJVm0wX2NMcDJtLWRJUzE0S202eVBLWTBtRWg5a2lraHBZZnF1aWwzelFUdHROcUlYZkFrb0FzNXBYbkQ0SG9UZ3h3UFBmOXpuMS04NzRKdUg2SHktZi03cFZOSlBZRGRRaC1qQ3laRk5EYUZlQTRkcEow0gGoAUFVX3lxTE9qX0NsQVlnYjBJMlFEa0s0Sllmb1VWR3hWSzV3RXJIdVZPUTJwWGt2SWQtbnFrcGg3RWcxQnZsZU9HenBSdjIzSDNFdFZoOXc0YjlldjNVUmZ2ZjVjMXJuX0VYR2lROXEtakV5VGJFVkU1M1I0Z0dhYnhHYTdfVWxpd1BSVWhrTGtWY3NwLUlWNDNnT0ZJRm02VE5jdVhsaW9DMzRhZHFmNg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "siam_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 156,
+    "too_old": 105,
+    "gate1_blocked": 12,
+    "gate2_blocked": 14,
+    "passed": 39,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+      "New Buy Rating for Vulcan Materials (VMC), the Basic Materials Giant - The Globe and Mail",
+      "Morgan Stanley Maintains Vulcan Materials(VMC.US) With Hold Rating, Maintains Target Price $321 - Mo",
+      "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+      "Thyssenkrupp targets over 4% annual sales growth at tk accelis - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Holcim、UltraTech、CEMEX相關動態：「GT3 in landmark supply deal - The Australian」。主要關注主題為財報、展望、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "GT3 in landmark supply deal - The Australian（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim stock trades steadily as earnings and portfolio changes shape outlook ...（財報、展望、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
