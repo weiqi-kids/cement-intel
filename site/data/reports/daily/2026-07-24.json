@@ -1,0 +1,258 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:17:11.183619Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-07-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Company (0LRK) Q2 2025 Earnings Report - Results, Call & Slides - TipRanks",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SLUV5aEdSMTN5OHRWd3RUa0FrTE1hNnlHS2tjRVI4WXBBMnhwakgyMDJOaWd4ODJrNGt0MEpKUlo1UUd0ZkFWNDBKTVlVVDc2aVItTTFPRzgxRjQ3VVhDSUtaZk5HeHBxQm40X3pqZmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-07-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades steadily as aggregates demand supports earnings - Ad-hoc-news.de",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2pQc2o5bkpEb19teGxhRjZZMW55TWZXcHB0LUdRdzRvRjQ2d1dLSzdhUmZlZU96d2YzRVpzTUs4QXVyaDhpUW9NN09COV9ZVlhIczduQnVGY1VNWlVRRW1tamQ0cWt3OERYWWVvYzRBT0hRcmNEUFJkTm8zRzhBUEdSUEVZQ015Qnl2eXBVbjZPY3BlWF9BVm5RTFRoQzdvWnpld1FNalFIbmF0SEpDalpKT0lwMmtKeW1oRk1saXFpYURJemc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-07-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock trades steady as restructuring and marine systems drive long term story - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQlk0X2NEeEc3TGdrWUt0T1ZVSWEwYVpRUGZnZmRSMUJieUFwY3hXQWswZ2dlcFpMMm5iUWo4UmttTnFOX09QMDduWTZHdmVmR3BnM3VLZk9wSlJYYnFBc0xydUI0U0lmQ19JYmwxODVtdERDVV8wSWxVZUJ0bVFFSUlYMl9janNSTmROSC1qN0pnWlF4T3ZVQ0xPRkNlYWh5ZzNxMFNWQ0Jld1ZnOXhSVXQ5emg3eE9HUzN2Sks3QXJwQXBMcTQybUxwWUdVUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-07-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Green360 Lands Holcim Supply Deal in Major Low-Carbon Cement Milestone - Kalkine",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMUpQWXZLTjFmcnlwdDZhbTBERXVQd0tuRlJmUV9SRGJwNURlSlA2ZjItM2g5X1kxVFlUbGtaOEd3TERXSmhwVWdtemZQZUJrRkQ3TEo0ekJaR3ludmlvZzRZRkVSVDZkeUMtWHVOZkl4R2VQZ0ZnazBRNHVOSnd6b25JOERKQ2s2SHVJRlRrZ2luNmY1cC1ocmJRNDFCZFJndUxjWW9IMjFEY0xYVlZr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-07-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Holcim low-clinker ECOPlanet cement. How construction sites cut CO? with every truckload - Ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjUwbnZjWjZUcUgtNkF1UHFoZ0laY1AyMDBRdllTemRCRGNaTHpEaEtlUDNTQmhvZHhSLUxRWjV0eVNiUzJBWnVKRXFhXzJJVXBZOHdYajNqcHVqbkxibk1rNHdPcUx5WHRIY0dEbWU1NVVVaUc4NVlkZmk0Y1N5c19lZzRPbTV6UzhieXF3OHFZM1dlS0RDT2R1UlRXeWNySHJMNTN5Q29qLXYwR3poNk1ZN3VQam80RXJMOGR5WjVJeTB4RFh6YjhqMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 3
+      },
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 171,
+    "too_old": 108,
+    "gate1_blocked": 12,
+    "gate2_blocked": 11,
+    "passed": 34,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+      "New Buy Rating for Vulcan Materials (VMC), the Basic Materials Giant - The Globe and Mail",
+      "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+      "Thyssenkrupp targets over 4% annual sales growth at tk accelis - Investing.com",
+      "Jefferies Maintains HEIDELBERG MATERIALS(HLBZF.US) With Buy Rating, Cuts Target Price to $333.33 - M"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Holcim、Vulcan Materials、海德堡材料相關動態：「Vulcan Materials Company (0LRK) Q2 2025 Earnings Report -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vulcan Materials Company (0LRK) Q2 2025 Earnings Report - Results, Call & Sli...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials stock trades steadily as aggregates demand supports earnings...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
