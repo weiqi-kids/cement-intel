@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 12,
+  "gate2_fail": 10,
+  "passed": 27,
+  "gate2_samples": [
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "New Buy Rating for Vulcan Materials (VMC), the Basic Materials Giant - The Globe and Mail",
+    "Thyssenkrupp targets over 4% annual sales growth at tk accelis - Investing.com",
+    "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+    "Price to sales forward of Heidelberg Materials AG – BX:HEI - TradingView"
+  ]
+}

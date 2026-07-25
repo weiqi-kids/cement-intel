@@ -1,0 +1,223 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:47:13.642462Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-07-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades steady as margin focus follows strong Q1 2025 earnings - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRThoZm1UR25SOS16ZHo5ODJYdVd3QjRvd2ZOUTZhVkwwbS10aUFJVEF2MlhReXhVTlZGODZIc0sxTFR6QXJXaEJhOVJ1bFJoeVBzMFd3Y2JSbVRleG1FQXdxRmV0c0FWRmxxbGdaQzVpOVRQbzctdUVhTUp1aS1lQW1aa01sVUZLanpaRkJfRDdIQkpSR1FGa0llOTNNWmNZSHVDeUlWd2RRNHNMX2s1YldvekVONVhPY19NQjRkN2V4TXI4Y19CdjRWNEhxZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "cemex-2026-07-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex release second quarter 2026 financial results - megaproject.com",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0lJeFJ2MlZvbU9aUTlFQVBiRnBiUXc1Ul93QU1Oa1hDT1oyRUd6RjR2c1JDczVvNFF0bTRnM3I5Mk92eXQ3TWFRZ2FhWmdwMjE0c29QQjJCOGF4MVJNajdrNjEzcXg1MFFsVjlmRmNNXzJYUFhBSWUwb05BcnQ2enV2blpDOFh5bHhuNjlqazk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-07-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech sets Aug 17 for AGM, opens remote voting on Aug 13 - scanx.trade",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWTg5NFZJZElHMDNHRGUzVC1hdkg2Vm1kbUxtVDZDYnlyWndzMENpRXA3R0RkQ1ZHRWcxT0tzdWEyTklTejVHRDY3Q2NnNEJZallQTWJ1aThsYWV6SGtTTF9mdkR4V3NYYmdXcjhTMmxhaURhSE15M0xsSHJicWlyNTM5SHpRVnNyMEtSaTBvRHppUDlnbjg2QnF6Z3JjY0hVOG1HT0s5Z2FwbUZFelJ5NVR3amhSZmxJV25KN3hqSFVCS0RJNC1BeFZxaG5xZURSMGp1S1NCYlJVUlpCNmdkRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "siam_cement-2026-07-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Siam Cement PCL (SCVPY) Q2 2026 Earnings Call Highlights: Strong EBITDA Growth Amid ... - Yahoo Finance",
+      "companies": [
+        "siam_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWZ4Qlp6eGdnWHdNblhMYWRwSjNoSllrd3RjOXNvbF9HeE04YXpFRElSUHhKY2lPR0E5OE9CMUpqdVh1M1FGZFJwQ0ZvemNQaFk1ZkRmRkY4bGR5ZFJDVS1sMDRkYmtfYjh6QmJMamNvN2taTWlmaENtVm5fSmFQeHJ5SzB5eTVaS1lOQ0xrUlR0aGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vulcan Materials Co (VMC) Risk Assessment: Volatility, Financial Risk & Investment Risk - TradingKey",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaVm95VmtoOVVXeXJ1eHVQWVRlbThfNGM5aGpmcFpSemFKSy01ZHg1RWpRSFNkeWJnQXRVVkdZdThJMzNjN2pObnJVV2NDM0JoR3dQRzRzUTF6Tk9QLWdTRkRneVBweTN3N3FIZg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      },
+      {
+        "id": "siam_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 186,
+    "too_old": 102,
+    "gate1_blocked": 12,
+    "gate2_blocked": 10,
+    "passed": 27,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+      "New Buy Rating for Vulcan Materials (VMC), the Basic Materials Giant - The Globe and Mail",
+      "Thyssenkrupp targets over 4% annual sales growth at tk accelis - Investing.com",
+      "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+      "Price to sales forward of Heidelberg Materials AG – BX:HEI - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Vulcan Materials、Holcim、CEMEX相關動態：「Holcim stock trades steady as margin focus follows strong...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Holcim stock trades steady as margin focus follows strong Q1 2025 earnings - ...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Cemex release second quarter 2026 financial results - megaproject.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

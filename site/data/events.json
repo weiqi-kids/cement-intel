@@ -1,5 +1,104 @@
 [
   {
+    "id": "vulcan-2026-07-25-001",
+    "date": "2026-07-25",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co (VMC) Risk Assessment: Volatility, Financial Risk & Investment Risk - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBaVm95VmtoOVVXeXJ1eHVQWVRlbThfNGM5aGpmcFpSemFKSy01ZHg1RWpRSFNkeWJnQXRVVkdZdThJMzNjN2pObnJVV2NDM0JoR3dQRzRzUTF6Tk9QLWdTRkRneVBweTN3N3FIZg?oc=",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaVm95VmtoOVVXeXJ1eHVQWVRlbThfNGM5aGpmcFpSemFKSy01ZHg1RWpRSFNkeWJnQXRVVkdZdThJMzNjN2pObnJVV2NDM0JoR3dQRzRzUTF6Tk9QLWdTRkRneVBweTN3N3FIZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-25-002",
+    "date": "2026-07-25",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock trades steady as margin focus follows strong Q1 2025 earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRThoZm1UR25SOS16ZHo5ODJYdVd3QjRvd2ZOUTZhVkwwbS10aUFJVEF2MlhReXhVTlZGODZIc0sxTFR6QXJXaEJhOVJ1bFJoeVBzMFd3Y2JSbVRleG1FQXdxRmV0c0FWRmxxbGdaQz",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRThoZm1UR25SOS16ZHo5ODJYdVd3QjRvd2ZOUTZhVkwwbS10aUFJVEF2MlhReXhVTlZGODZIc0sxTFR6QXJXaEJhOVJ1bFJoeVBzMFd3Y2JSbVRleG1FQXdxRmV0c0FWRmxxbGdaQzVpOVRQbzctdUVhTUp1aS1lQW1aa01sVUZLanpaRkJfRDdIQkpSR1FGa0llOTNNWmNZSHVDeUlWd2RRNHNMX2s1YldvekVONVhPY19NQjRkN2V4TXI4Y19CdjRWNEhxZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-25-003",
+    "date": "2026-07-25",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex release second quarter 2026 financial results - megaproject.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0lJeFJ2MlZvbU9aUTlFQVBiRnBiUXc1Ul93QU1Oa1hDT1oyRUd6RjR2c1JDczVvNFF0bTRnM3I5Mk92eXQ3TWFRZ2FhWmdwMjE0c29QQjJCOGF4MVJNajdrNjEzcXg1MFFsVjlmRm",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0lJeFJ2MlZvbU9aUTlFQVBiRnBiUXc1Ul93QU1Oa1hDT1oyRUd6RjR2c1JDczVvNFF0bTRnM3I5Mk92eXQ3TWFRZ2FhWmdwMjE0c29QQjJCOGF4MVJNajdrNjEzcXg1MFFsVjlmRmNNXzJYUFhBSWUwb05BcnQ2enV2blpDOFh5bHhuNjlqazk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-25-004",
+    "date": "2026-07-25",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech sets Aug 17 for AGM, opens remote voting on Aug 13 - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWTg5NFZJZElHMDNHRGUzVC1hdkg2Vm1kbUxtVDZDYnlyWndzMENpRXA3R0RkQ1ZHRWcxT0tzdWEyTklTejVHRDY3Q2NnNEJZallQTWJ1aThsYWV6SGtTTF9mdkR4V3NYYmdXcjhTMm",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWTg5NFZJZElHMDNHRGUzVC1hdkg2Vm1kbUxtVDZDYnlyWndzMENpRXA3R0RkQ1ZHRWcxT0tzdWEyTklTejVHRDY3Q2NnNEJZallQTWJ1aThsYWV6SGtTTF9mdkR4V3NYYmdXcjhTMmxhaURhSE15M0xsSHJicWlyNTM5SHpRVnNyMEtSaTBvRHppUDlnbjg2QnF6Z3JjY0hVOG1HT0s5Z2FwbUZFelJ5NVR3amhSZmxJV25KN3hqSFVCS0RJNC1BeFZxaG5xZURSMGp1S1NCYlJVUlpCNmdkRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-07-25-005",
+    "date": "2026-07-25",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Siam Cement PCL (SCVPY) Q2 2026 Earnings Call Highlights: Strong EBITDA Growth Amid ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWZ4Qlp6eGdnWHdNblhMYWRwSjNoSllrd3RjOXNvbF9HeE04YXpFRElSUHhKY2lPR0E5OE9CMUpqdVh1M1FGZFJwQ0ZvemNQaFk1ZkRmRkY4bGR5ZFJDVS1sMDRkYmtfYjh6QmJMam",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWZ4Qlp6eGdnWHdNblhMYWRwSjNoSllrd3RjOXNvbF9HeE04YXpFRElSUHhKY2lPR0E5OE9CMUpqdVh1M1FGZFJwQ0ZvemNQaFk1ZkRmRkY4bGR5ZFJDVS1sMDRkYmtfYjh6QmJMamNvN2taTWlmaENtVm5fSmFQeHJ5SzB5eTVaS1lOQ0xrUlR0aGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-07-24-001",
     "date": "2026-07-24",
     "companies": [
@@ -266,6 +365,260 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181753/terra-co2-appoints-pete-lyons-as-ceo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-24-015",
+    "date": "2026-07-24",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co (VMC) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9HenVaOUFGc3VRS1pueThsZG9Sd09ueW9CSXJkTDBvbHByUWJrdkZaOWUtTnNKdm5qcS1WUmd6Y2pSYU1tOE1zMnkydlRWWVhxYzFoUHR6NEFwSDctU2xDUG0zZWZPSXlzSFhBWmVn?o",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HenVaOUFGc3VRS1pueThsZG9Sd09ueW9CSXJkTDBvbHByUWJrdkZaOWUtTnNKdm5qcS1WUmd6Y2pSYU1tOE1zMnkydlRWWVhxYzFoUHR6NEFwSDctU2xDUG0zZWZPSXlzSFhBWmVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-07-24-016",
+    "date": "2026-07-24",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Low Rhine levels put pressure on the German steel logistics as thyssenkrupp adjusts hot metal output - EUROMETAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3hMV1dXMms1dzZySFdtQmZSNjBQOHZfd2hiSXRFYldfMWFHT3BPS0owTm45TWNtaWo2ZmFTU01PR1h3SnhxX2JIOWZaUVk1b20xclhya3JBM3JHcENKc29TeGltVEpPMS1hMnQ2Ym",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT3hMV1dXMms1dzZySFdtQmZSNjBQOHZfd2hiSXRFYldfMWFHT3BPS0owTm45TWNtaWo2ZmFTU01PR1h3SnhxX2JIOWZaUVk1b20xclhya3JBM3JHcENKc29TeGltVEpPMS1hMnQ2YmNSSnJJWWFmT19fS0hHaHRqa3l1UGhtQVphZzk1RXRydVNURGs4WTQyR29hbFV3Vkp6d1I4MjY1OVZ4VGZkQVNDSzZtRzRDUjN3SXhyYWZLNmY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-24-017",
+    "date": "2026-07-24",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Cemex Boosts 2026 EBITDA Growth Forecast to 16-17% After Record Quarter - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTl9ONGVGclM3SzVfNGhjN2VNVUFJVG5ZMHhha3NQMTFLVXowRlBWaGIyY2tRanhXZWR4T1JGLXVaWXJJRUFxXy16YlVIdGp4RGh5YXhsQUJsaWZLQ0dBaEllaVh0cHVFU0I3LXpLTF",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTl9ONGVGclM3SzVfNGhjN2VNVUFJVG5ZMHhha3NQMTFLVXowRlBWaGIyY2tRanhXZWR4T1JGLXVaWXJJRUFxXy16YlVIdGp4RGh5YXhsQUJsaWZLQ0dBaEllaVh0cHVFU0I3LXpLTFdFZTdqTHNpUTFfUE12Y2YyV0MwNEpqT0M3dWU4NVVyT2EyVUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-24-018",
+    "date": "2026-07-24",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Teamster drivers go on strike at Heidelberg Materials plant - The Militant",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHZ1TW1ROEt5dXUxTTZmN3BYNkpQOWhyVHloejNJRUZvQ3c0dGVSRTYtbnM2b2dsSUh3VDhaQ0VoQ1ItQlBJcVNOaERIdkpsQThwd0kwc3JYU3BFamU1WXRRS0N2X3VlMWJOMzBmX1",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZHZ1TW1ROEt5dXUxTTZmN3BYNkpQOWhyVHloejNJRUZvQ3c0dGVSRTYtbnM2b2dsSUh3VDhaQ0VoQ1ItQlBJcVNOaERIdkpsQThwd0kwc3JYU3BFamU1WXRRS0N2X3VlMWJOMzBmX1o3TUFUQ3VUb3NIR1BGLWRFaWlVcGRqQ2xCSXg3SndZRmp2QTR5TmFkOUNQaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-24-019",
+    "date": "2026-07-24",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG (HEIN.MX) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FSUxBckRQZ1pVY3VzdDlwNmFrR1pXdmR5M2lBZ3BkbVc4cGdyN0F0ZGhIQTVnVjk3cHJGZHlHLVljbk1jaUJxTHNxbExmSi1hbEo1Z1hOUDNJOEhmQ3kwRzFPSjNPQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FSUxBckRQZ1pVY3VzdDlwNmFrR1pXdmR5M2lBZ3BkbVc4cGdyN0F0ZGhIQTVnVjk3cHJGZHlHLVljbk1jaUJxTHNxbExmSi1hbEo1Z1hOUDNJOEhmQ3kwRzFPSjNPQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-24-020",
+    "date": "2026-07-24",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials UK secures highway maintenance agreement in North Yorkshire - HUB-4.COM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVI0cnRwai0tb0wxRThJclBrdGlpZGdEc3k3Qmo1UjQyekNaTDRBbDkxLTROc1lJQ0FBYXFZVmlrZzBHX0NhNmpXUERaVUtVR0w3MkRRRkl2S3RKMjBvNEU0UVc2MGxnSGtMM0lhR2",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVI0cnRwai0tb0wxRThJclBrdGlpZGdEc3k3Qmo1UjQyekNaTDRBbDkxLTROc1lJQ0FBYXFZVmlrZzBHX0NhNmpXUERaVUtVR0w3MkRRRkl2S3RKMjBvNEU0UVc2MGxnSGtMM0lhR2RsMHZ0QXBYQ3pDd25ZTnVqQVNQLU9mc0xmdXFqMy05YXN4cFhSeV9jd19MOVhxMmxVNDN2Y3dB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-021",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "TCC stock holds steady after strong earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXE0SUNyamJpSWdfdHp2a3hBSWRhN2xCSy1CU1hVX081S0JuUUhqWnQ3SXBHOVM1ZG1TZVBBRmpad0hSS2M1Wlh0d0VMRHBVYnREOUVvaU1GMDlwRnhxR1JQQTBwcVRQQkF3RjJTWW",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXE0SUNyamJpSWdfdHp2a3hBSWRhN2xCSy1CU1hVX081S0JuUUhqWnQ3SXBHOVM1ZG1TZVBBRmpad0hSS2M1Wlh0d0VMRHBVYnREOUVvaU1GMDlwRnhxR1JQQTBwcVRQQkF3RjJTWWtnRTNoMnNwS2ZmQVFweGpLVWRkTFAwRVRSZDYzV1pZOG5Id2FFNWxqY3IwM3ZFV1N4cGpyQThB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-24-022",
+    "date": "2026-07-24",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Asia Cement Co., Ltd – KRX:183190 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWi1VQnpUY3hpV2Y0WjFPcXV6MkktWTJwSFFqMmxKNUpRNlU0Z2pGSk5QMGpSSDJiQUdEeGd1aTdxcHpxZDNFQl9nX0FlbTJkT0VaeGdmRmp3X0g1MWRzem83TlhnNnpzWjduRWloS3",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWi1VQnpUY3hpV2Y0WjFPcXV6MkktWTJwSFFqMmxKNUpRNlU0Z2pGSk5QMGpSSDJiQUdEeGd1aTdxcHpxZDNFQl9nX0FlbTJkT0VaeGdmRmp3X0g1MWRzem83TlhnNnpzWjduRWloS3JrMHNyRWFDN1VxVE5hR1BUOEZsOVZTQVl1S2NSaVdxNmZhanJ3eUZoejkxMFc5S2l1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-24-023",
+    "date": "2026-07-24",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cemex reports second quarter 2026 financial results",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/cemex_truck_front-1500.jpg\" /></p><p><strong>Mexico: </strong>Cemex has reported earnings before interest, taxation, depreciation and amortisation",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21040-cemex-reports-second-quarter-2026-financial-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-024",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Altamur cement plant construction to advance",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/construction-site.jpg\" /></p><p><strong>Afghanistan: </strong>Deputy governor Sheikh Enamullah Salahuddin has met with Tariq Mahmood, the CEO of S",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21039-altamur-cement-plant-construction-to-advance",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-025",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Chui region produces 1Mt of cement in first five months of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/kyrgzstan-map-1500.jpg\" /></p><p><strong>Kyrgyzstan: </strong>Cement plants in the Chui region produced 1Mt of cement during the first five months",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21037-chui-region-produces-1mt-of-cement-in-first-five-months-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-026",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "FlatironDragados names 2 US C-suite members",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Zc-H6xGwTmuWX011Vmn6gyLEX5wrMwD5uFweEUnzIaI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZXNpbGllbmN5LS1mbGF0aXJvbmRyYWdhZG9z",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/flatirondragados-names-us-c-suite-ceo-coo/826115/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-027",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Maryland issues RFQ for Key Bridge main span",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D_Xbfc1j3GTZpuOItwG4E8RlADHga3wk4IzZAn5QC8s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81NTEyNjg1NzM5Nl8yNGQ4MzRlNTVhX28uanBn",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/maryland-rfq-francis-scott-key-bridge-main-span/826108/",
         "type": "rss"
       }
     ]
@@ -795,6 +1148,45 @@
     ]
   },
   {
+    "id": "anhui_conch-2026-07-23-028",
+    "date": "2026-07-23",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in Anhui Conch Cement Company Limited Class H Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jNm5nQV9tX0NtS3hTajNLUXdyT0NkV1BkcHBhSnZyR0dCaU9Rb0ZsLWpxVmIySGJnSkNWS2xWQWtQczBLY2xVUE81aWtaT2lEVU1qZl84a0NpN3RfU0JKUw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jNm5nQV9tX0NtS3hTajNLUXdyT0NkV1BkcHBhSnZyR0dCaU9Rb0ZsLWpxVmIySGJnSkNWS2xWQWtQczBLY2xVUE81aWtaT2lEVU1qZl84a0NpN3RfU0JKUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-029",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Conch Cement stock trades steadily as earnings and market position support valuation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEVTVE90Ty1HVTJEUGtSWTFXRnF3RzFKLXVwclgtMU1PSjJHYl9RaDIzYlE5X3prcU9Yc1pTQUdPZkhMT25nR2cxNDgtNm1wLWdUekFldWhsQk1YY2JjUVl3Z2FVeC1zNE1FeUwydU",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEVTVE90Ty1HVTJEUGtSWTFXRnF3RzFKLXVwclgtMU1PSjJHYl9RaDIzYlE5X3prcU9Yc1pTQUdPZkhMT25nR2cxNDgtNm1wLWdUekFldWhsQk1YY2JjUVl3Z2FVeC1zNE1FeUwydUtGY0tocC1BclJ0VndzdmN0WXhOUmtBZDFZTjBhSDNIWkNXNE93bkhVeDFodW04M0JPTEdBbFlLZm93S2NPVHNwa1dJaWpRUDYteVRHZC1zNmljeDk0MjZfeHRRenRwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [],
@@ -1214,6 +1606,46 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21026-new-cement-plant-commissioned-in-vietnam",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-22-023",
+    "date": "2026-07-22",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVRtU29ZcnZBMmdXNGFmcnB6UzYzMFRDekNYSWhvcUhUZUdzbEQyLU9IOXEwRlRxVF9fRkpFUkhTbzJkRF83ZzhSSE16YjVLTkV4c2ZkdFV0Tkd3TVdMR3NkazNCcllFclVGNmE0c2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVRtU29ZcnZBMmdXNGFmcnB6UzYzMFRDekNYSWhvcUhUZUdzbEQyLU9IOXEwRlRxVF9fRkpFUkhTbzJkRF83ZzhSSE16YjVLTkV4c2ZkdFV0Tkd3TVdMR3NkazNCcllFclVGNmE0c2VGTjFDQzRGUUR5QnN3UHVKUFoxdmJtTUF0V3VaeU8xb0pmWThrN3VpbjlPTkVoZzh3OEsydWlEeWg5OFRNLWJJVDZXUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-07-22-024",
+    "date": "2026-07-22",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corporation (TIE) Q2 2025 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE14ZkxUMTF3aElVVXFKcHBUbTA3dEQ0V2JWYUowUkF5R1V5OUhFT0RHNE1KWmtlaUNEWkNoTDNuTXhGWHkxY0NNeFBnZzV1WU03b3ktaDIzTExlSmNTRVRFNlkwSEkyMnJacGdQV19aaw",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14ZkxUMTF3aElVVXFKcHBUbTA3dEQ0V2JWYUowUkF5R1V5OUhFT0RHNE1KWmtlaUNEWkNoTDNuTXhGWHkxY0NNeFBnZzV1WU03b3ktaDIzTExlSmNTRVRFNlkwSEkyMnJacGdQV19aaw?oc=5",
         "type": "rss"
       }
     ]
@@ -1745,6 +2177,42 @@
       {
         "name": "taiheiyo",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdkpZTGZ5bFo1VlNJSlBwT054T0VQVExtLUplbnBNNWtKQ1hoNFh0ckFhQ25FV3daczIwMGVWc0hBemxnOVdsamU4S2dEaFE4UVphSllrZUd5U0xpRUo2RjA2SmJLbDExTlhZV0IwOEJhbDVQel84eFduMEcwMGgyU3h1OVFidEVOVlJicTJuM1ZuNlpMOGJhRzFmUXBtR1FzRFR5eUFNWlBzWW9DX21rU3NnYTdMcEJsTE40NzF6SUNoWElmR1Etc0xubw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-07-21-028",
+    "date": "2026-07-21",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is thyssenkrupp nucera KGaA (XTRA:NCH2) Undervalued On Its India Green Hydrogen Deal? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXVPTGd4RWxwd1RvSUR5NlFhb0QtUm9ydXNCbEM5alB0Y2xYZnE5WmdDTDFkM0R3TUpwWm1MZUZxQVZUQldwdFRwQjVWczNsTjVLVTR5cTlkNWNXSU5HWXZxQU5YSS03YkJMUWUtWm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVXVPTGd4RWxwd1RvSUR5NlFhb0QtUm9ydXNCbEM5alB0Y2xYZnE5WmdDTDFkM0R3TUpwWm1MZUZxQVZUQldwdFRwQjVWczNsTjVLVTR5cTlkNWNXSU5HWXZxQU5YSS03YkJMUWUtWm1vRnk4blBBTU5NSWNzanpESDFfaFhOQm9jOXIyNi14eTNhUC15LWczQWJid2dCdUQwNjI0NjhSM0ZIUURBVVFRQkNKZXRUNjVzcEMyR0xmSkszc2lFaFpkVy1URl8tem1nSjFtbENOZ0FIRlFLWEI3R0pSTWlzU2vSAewBQVVfeXFMTUR3TWtiUGIxWWlWZm1YODFzNWI2TnoyMnZUbjRjZ2hJMmxQV0hPYWNMWVAxMlMzc2JYM0tSZjJFem1NVUtlc1owaklPTklzYnR0SXllZ19UaWV1ZkxtamVRTWpFaXp4QTRhanRoM3dqaWd0THE5WFFBd1JWV3Fld0UtMWh5UWNZa0N6bjcwaHYtWWJxbHd5Y1VkRlhOV3ljTWEtQldfRlJUOWI2alhQdDJ4d3FGWTRXbnBub2QwV0hicWxOUm5zMGdqZWtQRWh4bUVRbXlUeGVmX2dPbHVXNzhlT2N0WXhHU1VxT2E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-07-21-029",
+    "date": "2026-07-21",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Goldman Sachs lifts Thyssenkrupp voting rights to 7.23% from 5.83% - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3OC0wSkxIZjVTUW1oaVlITmFfeE04THA1T2Fta0xYN2RRdlNFY3BnaHg5ZGl0WnZfMTRJUlZkZW9Oa05YWHN6YVgtVlFNN01nZERxTllFVVVRLXNLSTNoSkF6ONIBY0FVX3lxTFA3OC",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3OC0wSkxIZjVTUW1oaVlITmFfeE04THA1T2Fta0xYN2RRdlNFY3BnaHg5ZGl0WnZfMTRJUlZkZW9Oa05YWHN6YVgtVlFNN01nZERxTllFVVVRLXNLSTNoSkF6ONIBY0FVX3lxTFA3OC0wSkxIZjVTUW1oaVlITmFfeE04THA1T2Fta0xYN2RRdlNFY3BnaHg5ZGl0WnZfMTRJUlZkZW9Oa05YWHN6YVgtVlFNN01nZERxTllFVVVRLXNLSTNoSkF6OA?oc=5",
         "type": "rss"
       }
     ]
@@ -2829,6 +3297,69 @@
       {
         "name": "cemex",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PQzg1MmpmRVc0VE9KV01YLXpldlNZSU00UWpOclFRZ19oejFVc01TaUNoRXdpenpVN0R6aHc1Zm96NXA3V0hLT1poVDJXcGxCZDhoSFl5R3ZfXzdjTGx4TFd1SDVWZG9MbHhoNXJ2QXBTajdlQjdsNENDN3o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-19-015",
+    "date": "2026-07-19",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG (HEID.XD) Stock Forum & Discussion - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UWVJaLWo1TUtvTUFjc2RRMkpkV1M5UnB5aUIyN3p3b0ltNHd4ZGVGNm1YZi1SS0pVRzRoTktYSDg4MU0tYnpuc3QyM1NpX1kwbi0tQWxraUZXNmV0MmlmYnV5dw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UWVJaLWo1TUtvTUFjc2RRMkpkV1M5UnB5aUIyN3p3b0ltNHd4ZGVGNm1YZi1SS0pVRzRoTktYSDg4MU0tYnpuc3QyM1NpX1kwbi0tQWxraUZXNmV0MmlmYnV5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-07-19-016",
+    "date": "2026-07-19",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock steadies as earnings metrics and mainland business drive valuation focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxORlY3MHFxYzhsSUtkLTRUczZhaXp4NnAxcFpWT19xeU5odEpoaTVDMGZ5MWs4X2dvUTVYWXBkZGVvWmUydVptV0tDY25IbmRyN2xESENmdDR2czhlU1hiQTJ1eEUzNU42cnowd2w2MH",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORlY3MHFxYzhsSUtkLTRUczZhaXp4NnAxcFpWT19xeU5odEpoaTVDMGZ5MWs4X2dvUTVYWXBkZGVvWmUydVptV0tDY25IbmRyN2xESENmdDR2czhlU1hiQTJ1eEUzNU42cnowd2w2MHN1MGFRSmFXMFJFNjBGX1RaSVdJWHpMMndmX3NOWElRMEhfWHJiWnUtYWVWbWV5c29NOFM3bmYtWl9mcEJMRU44bkV0bndydDBpZmlzUThPNzlpcTZib2JoVjBvT1o4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-07-19-017",
+    "date": "2026-07-19",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement stock trades steady as earnings and demand trends shape outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHdCWTFyazJWdllmVG9xcGlWNi1XZllDLWFUemF6Z1JwR1kzaXYtQ0x3R0RaWVhYQXdfRHZYQ3F0QXc1MUpwY0h0amk0YjRqOC0wR1RLQ2FGRE9FUExkdWNhYXp0d01GMjRqV21Hem",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHdCWTFyazJWdllmVG9xcGlWNi1XZllDLWFUemF6Z1JwR1kzaXYtQ0x3R0RaWVhYQXdfRHZYQ3F0QXc1MUpwY0h0amk0YjRqOC0wR1RLQ2FGRE9FUExkdWNhYXp0d01GMjRqV21Hem5hcDdEa2NvOWN4Z0d6dERwaVpWREJUanYyamZjemw3UFIwb0hJdi1NbnhBZmZGZDZIVXBSdXpZODkxRVF3b2RUMTJLbFBJVGk1ZDZidGp5dDVFRm1lYzdpU3h3?oc=5",
         "type": "rss"
       }
     ]

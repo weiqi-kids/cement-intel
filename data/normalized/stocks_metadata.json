@@ -1,23 +1,27 @@
 {
   "vulcan": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678
+    "latest": "2026-07-24",
+    "count": 6679,
+    "history_complete": true
   },
   "martin_marietta": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678
+    "latest": "2026-07-24",
+    "count": 6679,
+    "history_complete": true
   },
   "eagle_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678
+    "latest": "2026-07-24",
+    "count": 6679,
+    "history_complete": true
   },
   "thyssenkrupp": {
     "earliest": "2000-01-03",
     "latest": "2026-07-24",
-    "count": 6787
+    "count": 6787,
+    "history_complete": true
   },
   "holcim": {
     "earliest": "2001-05-23",
@@ -27,28 +31,33 @@
   },
   "crh": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678
+    "latest": "2026-07-24",
+    "count": 6679,
+    "history_complete": true
   },
   "cemex": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678
+    "latest": "2026-07-24",
+    "count": 6679,
+    "history_complete": true
   },
   "heidelberg": {
     "earliest": "2000-01-03",
     "latest": "2026-07-24",
-    "count": 6787
+    "count": 6787,
+    "history_complete": true
   },
   "taiwan_cement": {
     "earliest": "2000-01-04",
     "latest": "2026-07-24",
-    "count": 6603
+    "count": 6603,
+    "history_complete": true
   },
   "asia_cement": {
     "earliest": "2000-01-04",
     "latest": "2026-07-24",
-    "count": 6603
+    "count": 6603,
+    "history_complete": true
   },
   "anhui_conch": {
     "earliest": "2002-02-07",
@@ -65,12 +74,14 @@
   "taiheiyo": {
     "earliest": "2000-01-04",
     "latest": "2026-07-24",
-    "count": 6627
+    "count": 6627,
+    "history_complete": true
   },
   "siam_cement": {
     "earliest": "2000-01-04",
     "latest": "2026-07-24",
-    "count": 6579
+    "count": 6579,
+    "history_complete": true
   },
   "cnbm": {
     "earliest": "2006-03-23",
@@ -86,14 +97,14 @@
   },
   "etf_igf": {
     "earliest": "2007-12-12",
-    "latest": "2026-07-23",
-    "count": 4681,
+    "latest": "2026-07-24",
+    "count": 4682,
     "history_complete": true
   },
   "etf_pkb": {
     "earliest": "2005-10-26",
-    "latest": "2026-07-23",
-    "count": 5216,
+    "latest": "2026-07-24",
+    "count": 5217,
     "history_complete": true
   }
 }
