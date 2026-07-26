@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 13,
+  "gate2_fail": 12,
+  "passed": 18,
+  "gate2_samples": [
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "Thyssenkrupp targets over 4% annual sales growth at tk accelis - Investing.com",
+    "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+    "Holcim ECOPlanet cement by Holcim Ltd - lower CO? concrete for everyday builds - AD HOC NEWS",
+    "Cemex Way Designation Recognizes Company's Longstanding Presence in Miami-Dade - Construction Owners"
+  ]
+}
