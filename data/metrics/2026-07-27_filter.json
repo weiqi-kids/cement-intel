@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 14,
+  "gate2_fail": 8,
+  "passed": 25,
+  "gate2_samples": [
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+    "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+    "Cemex Way Designation Recognizes Company's Longstanding Presence in Miami-Dade - Construction Owners",
+    "Cemex denies participation in alleged European additives cartel - megaproject.com",
+    "Heidelberg Materials slips into loss in H1 on margin squeeze - The Business Standard"
+  ]
+}

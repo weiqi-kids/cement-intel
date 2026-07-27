@@ -1,5 +1,315 @@
 [
   {
+    "id": "vulcan-2026-07-27-001",
+    "date": "2026-07-27",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock trades steadily as aggregates demand supports earnings and outlook - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNbERsdW1JVTExci1ZTlB6VjFBYXcxaHpWNFdaMUNNS2R4ME13ODZERkFsdlVzUmx5SVE1MnVhSGFkczdZcDFZNC1pTUVqb094WW5NWWxrTHA1NktTUU56Rlc5bHpISVplRE9vTVNIUl",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbERsdW1JVTExci1ZTlB6VjFBYXcxaHpWNFdaMUNNS2R4ME13ODZERkFsdlVzUmx5SVE1MnVhSGFkczdZcDFZNC1pTUVqb094WW5NWWxrTHA1NktTUU56Rlc5bHpISVplRE9vTVNIUlZaVldpNEVwR2JmMTlEdDhRXzMxSndrVXM5UGlDM0UzSnBmUFYxSUVvQTFBaUNocEVZMWJZMktEcFhQMEhFcVlESG5xczdGVHVJTTFncTVmbzdISWdGdFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-07-27-002",
+    "date": "2026-07-27",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "German steelmaker Thyssenkrupp has officially reduced its hot metal pr - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWdWZGhKU0llcEJEZzFNaEl0X00wbW5YanZBQjNlb2lXQ25EeVM4WWk2VDdTYmZGbzFxdGhSaXZOTUZweUZwOEt4cEp0SmQteGpVOUlTUTN0Zy1NWk1LdXdteXA1VzlRb1ZHNTRMbU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWdWZGhKU0llcEJEZzFNaEl0X00wbW5YanZBQjNlb2lXQ25EeVM4WWk2VDdTYmZGbzFxdGhSaXZOTUZweUZwOEt4cEp0SmQteGpVOUlTUTN0Zy1NWk1LdXdteXA1VzlRb1ZHNTRMbUdobmd5MHlJZEZJUVNpb2d6MzV1QVhVeG8xb1JBdFY1REU0dkxhZ1BNWV9GTGJfazViRm5KWUNrUTJOR3c4MDEyWTdzVkd6OEFTbHlWS3BYTy1Rd2JjdWJOdGV6SWhHNzlKRUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-27-003",
+    "date": "2026-07-27",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock trades steady as earnings metrics and portfolio shift draw investor attention - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGNWWnBhWTRZdW1nVnNFTWltMHJMUk94dkFINWEwZndDY0dUYXZoZGc5ZFg2aHNVRGdrOXhRTk9VM2FNcmY3TTBjdHR1YmIybXZzVm0wTW53ZE8tWDNhVWFCQXdYaWtHREt0NS1Ebm",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGNWWnBhWTRZdW1nVnNFTWltMHJMUk94dkFINWEwZndDY0dUYXZoZGc5ZFg2aHNVRGdrOXhRTk9VM2FNcmY3TTBjdHR1YmIybXZzVm0wTW53ZE8tWDNhVWFCQXdYaWtHREt0NS1EbmFJMVg4bUxsdFllN3RzU3J2NG1RWUtfY3E5SXRGNHRBNFZ6Q3ZEbG5rbHdBc0VtNVdyRERXUE5QMld2LXNyU3RpUGgyQUxwUUVkSXVfLUNNVElJYW54dHhBSGlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-27-004",
+    "date": "2026-07-27",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock trades steadily as earnings and dividend frame valuation - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQU1JjdEZHSEZiOGgzMkdFTzZldXBXM2ZzR2toM2tKaEd2N2VKN0dCZWNDVXJfNHJibXBzZVZYVGFMSGxZRzRsMEx4ZHR6TjE0VmY3QXhVUlUxcWZteUllNjlZUVlUN3YwZmVsTVdwZU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU1JjdEZHSEZiOGgzMkdFTzZldXBXM2ZzR2toM2tKaEd2N2VKN0dCZWNDVXJfNHJibXBzZVZYVGFMSGxZRzRsMEx4ZHR6TjE0VmY3QXhVUlUxcWZteUllNjlZUVlUN3YwZmVsTVdwZUE5blprVDlDMDNSM0cyY2NTWjJQdWJTRzBSTGN0eTFtTVF0VWJSWGp6Rlh1elQ2NHZwM3NScjZIVnVpN0xJcERhYl9GYXhwSDJjMTF3MXRMMFFtbTBpYnNHWHF6eUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-27-005",
+    "date": "2026-07-27",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "India's UltraTech Cement plans its biggest rupee debt funding, bankers say - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWFJV0RqTXRmS3hocU95VXpMVHYxcEs0TVkxS09iMTRINDM0NGhYWU8wRWdXaFk4YmM4TDZVMXctaFpkY2ZJeEpXWUJMd0dRUHA0ZG1XTHltVnVTN2pwZXRSNFBIa1pFaXc4T3hSbF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVWFJV0RqTXRmS3hocU95VXpMVHYxcEs0TVkxS09iMTRINDM0NGhYWU8wRWdXaFk4YmM4TDZVMXctaFpkY2ZJeEpXWUJMd0dRUHA0ZG1XTHltVnVTN2pwZXRSNFBIa1pFaXc4T3hSbFBvZ195V244a2NYeENBUmZKTmF6dUE4MzBTcWs0Zko3SVNlUUktMGNGekZ3T28xQjhhbmxGUUJuOUdCSGxoaTgzUkRmcVlQWFV0SmJseA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-27-006",
+    "date": "2026-07-27",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India's UltraTech Cement plans its biggest rupee debt funding, bankers say - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3N2NW1OZ25SeFRMbVlYYW1UM3VOR1JRMDNpV1ZYWFYzakpwVVhzM0Q0QU5XQ2VLNEpfT1l5Q2hkODkzazl3WjdUdzFyQ3BtcXVCOHN1WERma0tfZ1RqQmNxUlZrc1MwTTRhcGpZYn",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3N2NW1OZ25SeFRMbVlYYW1UM3VOR1JRMDNpV1ZYWFYzakpwVVhzM0Q0QU5XQ2VLNEpfT1l5Q2hkODkzazl3WjdUdzFyQ3BtcXVCOHN1WERma0tfZ1RqQmNxUlZrc1MwTTRhcGpZYnhGWDRnOWowOW1rU3lJSmRwaTVvc3BNcERvb19qRFVPeDlveG9oRWxiSURQSkZEVThZcmRVZmh5ZU94X0l0VElXa21nZ1EybEw4M3NSR21Jc3IycEhicFo0Nkh5QWdUeERSVFlfeGZXOXN4TEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-27-007",
+    "date": "2026-07-27",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement eyes its biggest rupee bond raise at ₹5,000 crore - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWpLNXFOcEVHMDJVVkxLZm9XNGg4dnZBb2xXR0J1RXhMbFg3WThVTm1aem9rWUkxMm80RWNBeGUyUHMxTWhFWGh5S3RlVks1Uzdra3c1Y0xndXlyTlRhN1RRRlEzanlaX2FINWpqUm",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWpLNXFOcEVHMDJVVkxLZm9XNGg4dnZBb2xXR0J1RXhMbFg3WThVTm1aem9rWUkxMm80RWNBeGUyUHMxTWhFWGh5S3RlVks1Uzdra3c1Y0xndXlyTlRhN1RRRlEzanlaX2FINWpqUmRzUFZ3TVVHblhwbnJGcjRFSVltRXNJcVUtSUlpdFdTRXp4clFPekJBTHVzeWNWOGlFUWxqejA3Ym9wd081dlZaNmp0S2taWFlWa3dGVjIyXzFUYWdzemYxM0xobmk1U2_SAdQBQVVfeXFMUEJhV0dJR2ZmQmZiNFlaUFRRTTZVRnNKMzMyN1dNZ01kZ2dmcy13dFU4cW1mbk92ejc2ZmRaSU1vUFVmSldxOWUxcUp0dXY0T1NzMVdSb2NGa2tFUG5EM3JCVU9iRGlpZUlfYkd0cWFRTDNRT1dYZXFBVzVFMkhDTmpYVE45WlBXdXBCYWo1aGtRcjRpZFFQZWhKWU5qOFdBM3Fpb2p6bnNQbXFjSG8tbDJ3enhmRnFhckpnRGJQakxmbTVaa0kwNjhQdXlrRnd3b0kxQUo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-27-008",
+    "date": "2026-07-27",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement To Raise ₹5,000 Crore Via Bonds, Declares ₹240 Dividend - outlookbusiness.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFpKOWJXWGt4WkpiMW9wT2wtTndjYWJZTDdSX3ZCMkQwaDlDaVVnVG9GSGI2NWZTTUdoUTBfbjZsSXpxR0NOekdrdVdDWUNMTDY1TWNKSzJJQU0zelFUMGtkRHRCV0ZjeUZCQ3c2el",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaFpKOWJXWGt4WkpiMW9wT2wtTndjYWJZTDdSX3ZCMkQwaDlDaVVnVG9GSGI2NWZTTUdoUTBfbjZsSXpxR0NOekdrdVdDWUNMTDY1TWNKSzJJQU0zelFUMGtkRHRCV0ZjeUZCQ3c2elRrUVBKdE5XeTZQTUVfem9HcEJFVkM4WVZVTlBPVXZmdHF3RVJWbUR0N2JSYnJja3k1eGlZTVJwRktGWVV6R2tz0gG8AUFVX3lxTE5pV3IzWWM1Ml9uOXpPeERfVWxhMGt1R0oxeVg5ZHlsRVZTOVY4YzROSUtKWk82M1lFUHZFc3dSWU44VzMtR2twSndfVW40bmJ2LWw5bENkQXhlWTB3MHR2U1l1ZVVFNF8ydXA1UXJoUTh0RDNiUS0takpQWU1RZzN2OXR2UHVCZVpoUmZ1LXF4N3ZwVlBxajgtVW1ydzc0SHpLLVlnYWYxTU5Qc2FfNlpvSkp3WkhYLWFQYURz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-27-009",
+    "date": "2026-07-27",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement plans its biggest rupee debt funding, bankers say - BusinessLine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWWhTWWs3SzA3a2pCNGJFMk5OZHZzeS1HaWJZNGFvVzM0cnk4ZFl0VVprNlBWWFJfMFhWWGRtRlhBdFhkVlVRRkE3MEZramNDS3VvRHBVZ0YxUDlTQ2xGQ01NaE9LbHl0VHowX3hmUU",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWWhTWWs3SzA3a2pCNGJFMk5OZHZzeS1HaWJZNGFvVzM0cnk4ZFl0VVprNlBWWFJfMFhWWGRtRlhBdFhkVlVRRkE3MEZramNDS3VvRHBVZ0YxUDlTQ2xGQ01NaE9LbHl0VHowX3hmUUdDMXA5TE55UTk4NU1fUXlhR3NhcXhCclE5UFFGV3NHUHVYWElLcjczZ0h3Z09JYnpLamR5ZHJsN0hQbE5mS3ZJbTA4c1c4SG5yRHdOYTd1VlI5WUVvbXE3SE9URm3SAdMBQVVfeXFMT213REJ4UktKMUhkYW92a1k0MkxEcmFmVnMxLXVSVUdWNldqdVBscEdjTVBNTDJFRW8yQ2RqTlRBUEdKOEdOdEt4N2FPTFJUZzZXamFJMGxWZVNYWERZZHZyWENMMTRmU21jZHRhQ1VvOEtQUkdSdFFiQmYzNUhnSE1tanJHTENlYWU0WE5tUWNUZFc2WmIwR1FHNnU0RERQa0lwMlppUTZzbGZ3NDU2azJfazBUYmR0bVd4dHpCdEZYdzNDbVBGVHdWNkNjN1U5dUFnVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-010",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Cameroon’s key cement producers sees 12% fall in sales",
+    "summary": " Total sales by  Cimencam  and  Dangote Cement Cameroon  declined 12.1 per cent in the 1Q26 as the two companies sold a combined 677,392t of cement in Camero...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181758/cameroon-s-key-cement-producers-sees-12-fall-in-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-011",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Eastern Province Cement posts 10% increase in 2Q net profit",
+    "summary": "  Eastern Province Cement Co  (EPCC) reported a 10.6 per cent increase in sales revenue to SAR344m (US$0.27M) in the 2Q26 from SAR311m in the year-ago period...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181757/eastern-province-cement-posts-10-increase-in-2q-net-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-012",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ACC net profit drops 61% as costs increase",
+    "summary": "  Adani Cement Industries -owned  ACC  reported a 60.8 per cent drop in net profits for the quarter ended 30 June 2026 (1QFY25-26) to INR1.470bn (US$15.32m) ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181756/acc-net-profit-drops-61-as-costs-increase.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-013",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Carthage Cement’s domestic revenue slips in 1H26",
+    "summary": " Tunisia-based  Carthage Cement  saw a four per cent decline in domestic revenue from cement and clinker to TND128m (US$43.25m) in the 1H26 when compared wit...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181755/carthage-cement-s-domestic-revenue-slips-in-1h26.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-27-014",
+    "date": "2026-07-27",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials secures Westdown final planning agreement",
+    "summary": "Heidelberg Materials UK has secured the final planning agreement needed to reopen its Westdown limestone quarry near Frome, Somerset, clearing the way for si...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181750/heidelberg-materials-secures-westdown-final-planning-agreement.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-015",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BUA Cement releases six-month financial results for 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/nigeria-money-1500.jpg\" /></p><p><strong>Nigeria:</strong> BUA Cement has released its six-month financial results for the period ending 30 June 2",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21042-bua-cement-releases-six-month-financial-results-for-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-016",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "negative",
+    "title": "Hyesan cement plant increases production",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/North-Korea-1500.jpg\" /></p><p><strong>North Korea:</strong> The Hyesan cement plant has increased its production. According to Korean News, the p",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21041-hyesan-cement-plant-increases-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "holcim-2026-07-26-001",
     "date": "2026-07-26",
     "companies": [
@@ -100,6 +410,66 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQkhIZm92czN4bm5SNDN1Y1BjQmlDdS16bFlZbXh0QzZWVlIyRi1CeDRJMW5BbWpTTEFvWkJNcDdFc1VBaml6bl83cWROTVNIUzl6Vm9HRDFlNUp0cTJwcjBiQ2JyellsUjBYWUY3U2gyU3hlRXhmNWpEN1VPMzFJSDg1UGlTRkh4RE5qdzRpNVp1NGEtNlVxN2tqTVlYbHAtTXcyd1U3TUNLSHZzb1g3d2lxQk1WYnZ1QnZ0dF9sbzFXMEdWY2NxNDl3YnQ0enJKcWxXaU5WUzVUTkR4bDFNekRlS0FBVWV5WXRRYjI5cEc1bkduRDZ0cUFEN0FvQlNxbXdpNHVERUwzQjBkTUg5SdIBlgJBVV95cUxPa05pd29xS3BNNkkxSFN4eUVOVjZuTFpjcWp0eVRaOWhGZ1gzM1Fnd3ZqalZDNkVTUy13MWRVM1JoYnFUMzN3WnNMbWtfUlNiRnVtRFdxT0FYYzZrR0pscTZ3cWIwMXptbGVUa0NJaGhmbng5OHZUMVlld3ZrbmFLZ3NBNTk3LW9zeXhsTVlJR05id2xpWkdpT3JQbEx5YkV3aFZncXlLR3RHSmVmWElKcDJjcGt6MXNISFh2Z2tLc3NZdC1nbUlxaUxUTmZaN1FfbkpDWUxfbGtha2thd0gtZUdjYlNoVE0wa2N0bXNTc3JuZkJlZzJmNHltS1QxQnJFUlFaNlIxUFp0Q1FzRksydTBFdGhIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-26-006",
+    "date": "2026-07-26",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Rising Efficiency And Free Cash Flow Altering The Investment Case For Vulcan Materials (VMC)? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUEwzYWZwSnlGU2l0alR1UkxIMjh2c3RZSFp1anpoSzlqNXZvQjBfNG1xaEVGalpRbDVhcWZLd0FDdldlOEc0YWdJZkxWaktsaXRvZFczdFBaSUhSQ1hpTFgtUVZXM242d2g2RHRqZT",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUEwzYWZwSnlGU2l0alR1UkxIMjh2c3RZSFp1anpoSzlqNXZvQjBfNG1xaEVGalpRbDVhcWZLd0FDdldlOEc0YWdJZkxWaktsaXRvZFczdFBaSUhSQ1hpTFgtUVZXM242d2g2RHRqZTZuQVkwU3NEd3d1eHB2U25GY1ExSkh4WldVSDM2cDhQdHg0cHBSblBhLVg2MURWSmZaTFhjQTB4VjIycW54bkVVUmtqUzhSODlaRUlNMkZpZEdxcmVrOGlON0FNR0w1NDVVUEI00gHTAUFVX3lxTFBQTDNhZnBKeUZTaXRqVHVSTEgyOHZzdFlIWnVqemhLOWo1dm9CMF80bXFoRUZqWlFsNWFxZkt3QUN2V2U4RzRhZ0lmTFZqS2xpdG9kVzN0UFpJSFJDWGlMWC1RVlczbjZ3aDZEdGplNm5BWTBTc0R3d3V4cHZTbkZjUTFKSHhaV1VIMzZwOFB0eDRwcFJuUGEtWDYxRFZKZlpMWGNBMHhWMjJxbnhuRVVSa2pTOFI4OVpFSU0yRmlkR3FyZWs4aU43QU1HTDU0NVVQQjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-26-007",
+    "date": "2026-07-26",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co (VMC.SG) Analyst insights, Price targets and Recommendations - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBOWlVzRkQwTjlUWXBkdHZuV2FPcERTX2NlU2EtbHFranYzcmdpM1l1amdEVXV0V1ZTZE9zNHVNa29zdlhHbzEyT0tBdnNsN3ZFVDBUaWJoQ2Nvd251WE52SnU4eXctc2hCQzZv?oc=5\"",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOWlVzRkQwTjlUWXBkdHZuV2FPcERTX2NlU2EtbHFranYzcmdpM1l1amdEVXV0V1ZTZE9zNHVNa29zdlhHbzEyT0tBdnNsN3ZFVDBUaWJoQ2Nvd251WE52SnU4eXctc2hCQzZv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-07-26-008",
+    "date": "2026-07-26",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Material Technology Co. Ltd. Class H Revenue Breakdown – HKEX:2560 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRkpCcHEteDZOZ1Z2bWlRdld1N0NNbTBCTU5qZjYxMmNNVWxDUml2TXRRdUxoN216MHI3dlpvMWNEVXNEV3F4SWdrQXJFWk5KcXc0c2pjOVJDbmtOd2xxMkJJdk8xXzl0QTg1WUY2VX",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRkpCcHEteDZOZ1Z2bWlRdld1N0NNbTBCTU5qZjYxMmNNVWxDUml2TXRRdUxoN216MHI3dlpvMWNEVXNEV3F4SWdrQXJFWk5KcXc0c2pjOVJDbmtOd2xxMkJJdk8xXzl0QTg1WUY2VXpfU3lv?oc=5",
         "type": "rss"
       }
     ]
@@ -361,6 +731,66 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ja3ZHZjBpcHV3OUNka3BaYzRxeTRBV08wSHlLbzJ6UnBzeG9rNUFEOXRweHRmOC1WVWhrREFXX2ItcHV2bkJxMnlvN0ItUG1FWjBURFBjUUdUUE8zbExiSTZBQzRVWVVCSGFhREw3WnBYM1Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-25-014",
+    "date": "2026-07-25",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (0LRK) Q4 2025 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5kWlR5QmM3akg5RWE2SUpXQVRpbXJkSlBiOFg1WjFaMnAzaHdHdklBZG9rMk5WWXdURGNHSlh0MEgwanZYT19wLU9QeFZvWm5KaFl5d19lTnlCTEZVLWN5NlZXVlRNNXUxWXlMNVZYOE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kWlR5QmM3akg5RWE2SUpXQVRpbXJkSlBiOFg1WjFaMnAzaHdHdklBZG9rMk5WWXdURGNHSlh0MEgwanZYT19wLU9QeFZvWm5KaFl5d19lTnlCTEZVLWN5NlZXVlRNNXUxWXlMNVZYOEI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-25-015",
+    "date": "2026-07-25",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Limited Sponsored GDR 144A Revenue Breakdown – LUXSE:ULC14 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB6azRtQzUwV2ZnSFZmLThfRExtZ0JyYW5xc2k1Sy00dV9UdWVQTHprRlNWeGZXZ0JtM3dBa2c2ancxZ3lGOTU4MVUtWU5pWExRVUs5WHlRSDdQdWdYYnE3cERUeUp4Ylo4MDQ5MmVaMV",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6azRtQzUwV2ZnSFZmLThfRExtZ0JyYW5xc2k1Sy00dV9UdWVQTHprRlNWeGZXZ0JtM3dBa2c2ancxZ3lGOTU4MVUtWU5pWExRVUs5WHlRSDdQdWdYYnE3cERUeUp4Ylo4MDQ5MmVaMV9SazM1ZUVj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-07-25-016",
+    "date": "2026-07-25",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement Public Co. Ltd.(Alien Mkt) Revenue Breakdown – DUS:TCM1 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5hVXEzcnQ0QlVyTUxSUnJnaVJCenYtVHhIaEdoMWZRT3d5R1A4Nmh4Zkt6cnBVSGhWQV8wMG0zVzAtLWVxQXJ0VkJKb0VkVHVLYzlHS19XdkVlVVJZVzFVSXF2d1lvclA1WmVxRjJ1Rj",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hVXEzcnQ0QlVyTUxSUnJnaVJCenYtVHhIaEdoMWZRT3d5R1A4Nmh4Zkt6cnBVSGhWQV8wMG0zVzAtLWVxQXJ0VkJKb0VkVHVLYzlHS19XdkVlVVJZVzFVSXF2d1lvclA1WmVxRjJ1RjB5UUk?oc=5",
         "type": "rss"
       }
     ]
@@ -886,6 +1316,25 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/maryland-rfq-francis-scott-key-bridge-main-span/826108/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-028",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "TCC stock holds steady after strong earnings - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXE0SUNyamJpSWdfdHp2a3hBSWRhN2xCSy1CU1hVX081S0JuUUhqWnQ3SXBHOVM1ZG1TZVBBRmpad0hSS2M1Wlh0d0VMRHBVYnREOUVvaU1GMDlwRnhxR1JQQTBwcVRQQkF3RjJTWW",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXE0SUNyamJpSWdfdHp2a3hBSWRhN2xCSy1CU1hVX081S0JuUUhqWnQ3SXBHOVM1ZG1TZVBBRmpad0hSS2M1Wlh0d0VMRHBVYnREOUVvaU1GMDlwRnhxR1JQQTBwcVRQQkF3RjJTWWtnRTNoMnNwS2ZmQVFweGpLVWRkTFAwRVRSZDYzV1pZOG5Id2FFNWxqY3IwM3ZFV1N4cGpyQThB?oc=5",
         "type": "rss"
       }
     ]
@@ -1959,6 +2408,24 @@
     ]
   },
   {
+    "id": "siam_cement-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Siam Cement Pcl Declares Interim Dividend Of 3.5 Baht Per Share - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaG9UVWpMM2k2NFZHS1FGQUZMbFdHN0F3anl4TjJNeDh1N05fNnZzb21Vb184dVpzWi1YRTNCQl9oXzdTa0xkNWhMc1NCbm1lU3dZQUtoa19XV2FiTUdrcHFVZERsb2FHXzU3WmRGX0",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaG9UVWpMM2k2NFZHS1FGQUZMbFdHN0F3anl4TjJNeDh1N05fNnZzb21Vb184dVpzWi1YRTNCQl9oXzdTa0xkNWhMc1NCbm1lU3dZQUtoa19XV2FiTUdrcHFVZERsb2FHXzU3WmRGX0ZpUGlPWEpOek1Dd2hKZ25QeTdzbGlqTzlVTXpOaEtPdE44VlZKdTdSc0p0RkM1N0gyREJNdE16V0Z1R1hXenVXOEN4aFhEUVhlZ21MN2Zqbk9zdkJzQWRzc3JVN0FsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-07-21-001",
     "date": "2026-07-21",
     "companies": [
@@ -2541,6 +3008,26 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc2JBei12VjVfWHJrMjdtYWlJaUVLakdTemcxemd6SWlaaFpnTDJwLXpQSnpNaXhROFZ6MUJKUFE2b2x0VWRCZ0EtN2U1Ty1MRHFEZnYyQ2JjeEVVQ0xydEpzX1ptUFRNU2RoOThWRWtVTFZHbnFUc1JobTZYTzhRblQ1bkk1c21hQXhVUFlKQXVrcFAwX1E1cVFSakhmalo5NVAzVW96eFRfejVIdG9PdkxxWks3ZzBxVU8tb2RPT2pic1BPaEE2Rml1VEJ0VHQyS0d2RmFESDVqNy1keXZOUUtDRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-07-21-031",
+    "date": "2026-07-21",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement Public Company Limited (SCVUF) Analyst insights, Price targets and Recommendations - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5DNTlfMDQ3Mm02Q3JlbWpCT2ZkNk5HX2oxdG5pZXltVkNYcG1qU0NGNXE0dHI4QmpCdzlyQ3FSOEEzR2p0WVRvd1U0eV93akxTbnJ6OXRMSzFHdVIyc2NnSnJEXzFxRnNiR1E?oc=5\" ",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DNTlfMDQ3Mm02Q3JlbWpCT2ZkNk5HX2oxdG5pZXltVkNYcG1qU0NGNXE0dHI4QmpCdzlyQ3FSOEEzR2p0WVRvd1U0eV93akxTbnJ6OXRMSzFHdVIyc2NnSnJEXzFxRnNiR1E?oc=5",
         "type": "rss"
       }
     ]

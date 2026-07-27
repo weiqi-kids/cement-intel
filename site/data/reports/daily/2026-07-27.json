@@ -1,0 +1,268 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:20:53.997754Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-27-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cameroon’s key cement producers sees 12% fall in sales",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181758/cameroon-s-key-cement-producers-sees-12-fall-in-sales.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-27-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Carthage Cement’s domestic revenue slips in 1H26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181755/carthage-cement-s-domestic-revenue-slips-in-1h26.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-27-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "BUA Cement releases six-month financial results for 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.globalcement.com/news/21042-bua-cement-releases-six-month-financial-results-for-2026"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan-2026-07-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades steadily as aggregates demand supports earnings and outlook - Ad-hoc-news.de",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbERsdW1JVTExci1ZTlB6VjFBYXcxaHpWNFdaMUNNS2R4ME13ODZERkFsdlVzUmx5SVE1MnVhSGFkczdZcDFZNC1pTUVqb094WW5NWWxrTHA1NktTUU56Rlc5bHpISVplRE9vTVNIUlZaVldpNEVwR2JmMTlEdDhRXzMxSndrVXM5UGlDM0UzSnBmUFYxSUVvQTFBaUNocEVZMWJZMktEcFhQMEhFcVlESG5xczdGVHVJTTFncTVmbzdISWdGdFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-07-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "German steelmaker Thyssenkrupp has officially reduced its hot metal pr - Shanghai Metals Market",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVWdWZGhKU0llcEJEZzFNaEl0X00wbW5YanZBQjNlb2lXQ25EeVM4WWk2VDdTYmZGbzFxdGhSaXZOTUZweUZwOEt4cEp0SmQteGpVOUlTUTN0Zy1NWk1LdXdteXA1VzlRb1ZHNTRMbUdobmd5MHlJZEZJUVNpb2d6MzV1QVhVeG8xb1JBdFY1REU0dkxhZ1BNWV9GTGJfazViRm5KWUNrUTJOR3c4MDEyWTdzVkd6OEFTbHlWS3BYTy1Rd2JjdWJOdGV6SWhHNzlKRUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 5
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 186,
+    "too_old": 102,
+    "gate1_blocked": 14,
+    "gate2_blocked": 8,
+    "passed": 25,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha",
+      "Thyssenkrupp cuts output on Rhine supply disruption - EUROMETAL",
+      "Cemex Way Designation Recognizes Company's Longstanding Presence in Miami-Dade - Construction Owners",
+      "Cemex denies participation in alleged European additives cartel - megaproject.com",
+      "Heidelberg Materials slips into loss in H1 on margin squeeze - The Business Standard"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為UltraTech、海德堡材料、Vulcan Materials相關動態：「Cameroon’s key cement producers sees 12% fall in sales」。主要關注主題為財報、庫存、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cameroon’s key cement producers sees 12% fall in sales（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Carthage Cement’s domestic revenue slips in 1H26（原料能源成本、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
