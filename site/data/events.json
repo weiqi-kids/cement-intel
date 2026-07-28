@@ -1,5 +1,96 @@
 [
   {
+    "id": "unknown-2026-07-28-001",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Birla Corp reports lower 1QFY27 profit",
+    "summary": " Birla Corp reported consolidated net profit of INR1.16bn (US$13.4m) in 1QFY27, down by 3.2 per cent YoY despite a 7.8 per cent increase in revenue to INR26....",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181762/birla-corp-reports-lower-1qfy27-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-002",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Capacity tripled at Mozambique's Nacala plant",
+    "summary": " Cimentos de Moçambique, a subsidiary of  Huaxin Cement , has tripled production capacity at its  Nacala  plant in Nampula Province to 1.2Mta from 390,000tpa...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181760/capacity-tripled-at-mozambique-s-nacala-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-003",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "positive",
+    "title": "Amrize expands Texas footprint with Rapid Redi-Mix acquisition",
+    "summary": "Amrize has agreed to acquire Rapid Redi-Mix LLC, a ready-mixed concrete producer serving the northern Dallas-Fort Worth metropolitan area, strengthening its ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181751/amrize-expands-texas-footprint-with-rapid-redi-mix-acquisition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-28-004",
+    "date": "2026-07-28",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials’ Mitchell plant reaches 11 years without lost-time injury",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/heidelberg-materials-mitchell-1500.jpg\" /></p><p><strong>US: </strong>Heidelberg Materials’ Mitchell plant in Indiana, US, has reached 11 years wi",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21047-heidelberg-materials-mitchell-plant-reaches-11-years-without-lost-time-injury",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-005",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Lebap Cement plant increases production",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Cement-bags-many-1500.jpg\" /></p><p><strong>Turkmenistan: </strong>The Lebap Cement plant produced 0.94Mt of cement during the first six months of",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21045-lebap-cement-plant-increases-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -305,6 +396,26 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21041-hyesan-cement-plant-increases-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-017",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Google hikes capital expenditures to $205B, citing demand growth",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/CKIthfmpmMd_YxSzL0CHsUUY1IC5U05zPG-DULJl8BY/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMj",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/google-hikes-capital-expenditures-citing-demand-growth/826234/",
         "type": "rss"
       }
     ]
