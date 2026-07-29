@@ -1,5 +1,187 @@
 [
   {
+    "id": "eagle_materials-2026-07-29-001",
+    "date": "2026-07-29",
+    "companies": [
+      "eagle_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Eagle Materials Reports First Quarter Results",
+    "summary": "DALLAS --(BUSINESS WIRE)--Jul. 29, 2026-- Eagle Materials Inc. (NYSE: EXP) today reported financial results for the first quarter of fiscal 2027 ended June 30, 2026. Notable items for the quarter are ",
+    "sources": [
+      {
+        "name": "eagle_materials",
+        "url": "https://ir.eaglematerials.com/news-releases/news-release-details/eagle-materials-reports-first-quarter-results-4",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-29-002",
+    "date": "2026-07-29",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ultratech Cement invites bids for its largest-ever rupee debt sale, bankers say - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHFHcFRpQUpiZ0ZLSUI0emdzdlZkMjctR203RDJZaUs0MklaRkktbllDeVdPak1QNVJOVnlLbFdDZDFINXNtYVk2U1R0bW50RjZ5WWNfWjV5NDNScUtIaUtVT3RDak51YjEtamJ2cF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHFHcFRpQUpiZ0ZLSUI0emdzdlZkMjctR203RDJZaUs0MklaRkktbllDeVdPak1QNVJOVnlLbFdDZDFINXNtYVk2U1R0bW50RjZ5WWNfWjV5NDNScUtIaUtVT3RDak51YjEtamJ2cFVmZVJWcXZYdlN2SC0yOGxQTkVlaTFPdlF3RERqRnBxZ2V4TEJQUC1ZX2xJR2V6SHNQMWtMVms3a0dQVkxwaHFhSTYwUmljTUd0dGtfQUZhVWcwODRELVduSUwwRUV3b3VpU3VSdnBwSEtJcnctbHlpRGdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-003",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Breedon maintains 2026 outlook as revenue rises",
+    "summary": " Breedon Group has maintained its full-year 2026 guidance after reporting higher 1H26 revenue, supported by growth in Ireland and the US despite continued we...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181767/breedon-maintains-2026-outlook-as-revenue-rises.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-004",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ambuja Cements reports lower standalone profit in 1QFY26-27",
+    "summary": " India's  Ambuja Cements  reported a standalone net profit of INR5.04bn (US$52.7m) in the quarter ended 30 June 2026, down 36.6 per cent from INR7.97bn in th...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181769/ambuja-cements-reports-lower-standalone-profit-in-1qfy26-27.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-005",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Thai cement producers launch new Net Zero implementation strategy",
+    "summary": " The Thai Cement Manufacturers Association (TCMA) has launched a new implementation strategy to accelerate the decarbonisation of the country's cement indust...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181766/thai-cement-producers-launch-new-net-zero-implementation-strategy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-006",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Titan America reports higher revenue in 2Q26 on Keystone acquisition",
+    "summary": " Titan America reported revenue of US$470.6m in the second quarter of 2026, up 9.6 per cent from US$429.2m in the year-ago period, supported by the acquisiti...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181768/titan-america-reports-higher-revenue-in-2q26-on-keystone-acquisition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-007",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Pioneer Cement reports strong FY2026 earnings and approves PKR4bn investment",
+    "summary": " Pioneer Cement Ltd announced its annual financial results for the year ended June 30, 2026, showing significant improvements in profitability and revenue gr...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181765/pioneer-cement-reports-strong-fy2026-earnings-and-approves-pkr4bn-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-008",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "C-Crete publishes EPDs for clinker-free cement",
+    "summary": " US-based C-Crete Technologies has published two independently verified Environmental Product Declarations (EPDs) for its clinker-free cement products, repor...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181770/c-crete-publishes-epds-for-clinker-free-cement.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-009",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Indocement and Saint-Gobain strengthen partnership at Citeureup plant",
+    "summary": "PT Indocement Tunggal Prakarsa hosted the board of directors of Saint-Gobain Asia Pacific and Saint-Gobain Global at its Citeureup cement plant as the two co...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181752/indocement-and-saint-gobain-strengthen-partnership-at-citeureup-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-010",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Les Ciments de Bizerte reports declining production in 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/les-ciments-des-bizertes-1500.jpg\" /></p><p><strong>Tunisia: </strong>During the second quarter of 2026, Société Les Ciments de Bizerte began impl",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21052-les-ciments-de-bizerte-reports-declining-production-in-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [],
@@ -86,6 +268,310 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21045-lebap-cement-plant-increases-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "crh-2026-07-28-006",
+    "date": "2026-07-28",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "CRH CEO Jim Mintern speaks to CNBC’s Jim Cramer",
+    "summary": "<p>They discussed CRH's leadership position in aggregates and roads, the value of our connected portfolio and the golden age of capital investment in infrastructure.</p>\n<p>The post <a href=\"https://w",
+    "sources": []
+  },
+  {
+    "id": "vulcan-2026-07-28-007",
+    "date": "2026-07-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mexico gets favorable ruling in Vulcan trade accord violation case — but it’s far from over - Mexico News Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmd6RDVYLXR4RjgtR25Gc1R1M1E4aF9ncDRsNjZRbFJlQVp1TW9ScWN6RjlZTWI2UVZfLU16NlVyM0daaWV5SDZwb2RFY2htUzJySUVRODgwV1ZmXzQ2Wko2Q0M5X0NaRFU2dUJtOE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmd6RDVYLXR4RjgtR25Gc1R1M1E4aF9ncDRsNjZRbFJlQVp1TW9ScWN6RjlZTWI2UVZfLU16NlVyM0daaWV5SDZwb2RFY2htUzJySUVRODgwV1ZmXzQ2Wko2Q0M5X0NaRFU2dUJtOEVrOWJ1TWZ1NnpWZUdlVlp2c2o5TE1aRTJyUnpoQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-28-008",
+    "date": "2026-07-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What To Expect From Vulcan Materials’s (VMC) Q2 Earnings - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjYzSzU4V05rVU16NF9qWTJwVHZrVXFKdmxKNlI2dW1vVXpoQUYzTWQ5YzI2cHBPZVdlUGtfVUZIZ1hRejJvTXJZR2JWMGE0Yl9abTg1YjUyM0R1MTlFV2QtRTJ0Z292ZnhFZ0V0eE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjYzSzU4V05rVU16NF9qWTJwVHZrVXFKdmxKNlI2dW1vVXpoQUYzTWQ5YzI2cHBPZVdlUGtfVUZIZ1hRejJvTXJZR2JWMGE0Yl9abTg1YjUyM0R1MTlFV2QtRTJ0Z292ZnhFZ0V0eEVxSm5DTWFER0ROTFYyYXA0MlI2QmxTT0h3czk4OERBWW1fVEszQkNSU21TZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-28-009",
+    "date": "2026-07-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mexico to pay Vulcan Materials less than 1% of arbitration claim - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlFRTjRsSm5UVkNQNVVYdzlKMUI2UFdvam1iZVdwSDYzZTlQOTlnQ3c3X2U2YXBQenU2WDNrUVlCX1lTNmhSdEdReng0OEltWjIteXFLM0dyT3dnUkFkbWo2U2dPN0lOSjZUYWFJYU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlFRTjRsSm5UVkNQNVVYdzlKMUI2UFdvam1iZVdwSDYzZTlQOTlnQ3c3X2U2YXBQenU2WDNrUVlCX1lTNmhSdEdReng0OEltWjIteXFLM0dyT3dnUkFkbWo2U2dPN0lOSjZUYWFJYU9jM3NNRHh5ZjFKZzNLQUFRMHBmV2k0aDlyX3hDQUxFY1VTTlNlLTV5SGR6b0cwaFRoOHBTN1dObVR5QnczQWR4T0hRNnBiRWlCVktrNi00ajJxbnU3ZWo0d1RRbFZLUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-28-010",
+    "date": "2026-07-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mexico to pay Vulcan Materials $15M in arbitration case, less than 1% of total claim (VMC:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUZtUGp5bWlaTE94RlZRQmhkUXNKamg2dFQ2cjVRYzZ5NWVVeFc0WXlTemdQc2hkOFYxNlpDSWhuNjhpWmpqbDYtc0FwekVhOTlJMW9JbEpHeEVRbDJZbmZDdjFnUEpCWUx4ZlplSF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUZtUGp5bWlaTE94RlZRQmhkUXNKamg2dFQ2cjVRYzZ5NWVVeFc0WXlTemdQc2hkOFYxNlpDSWhuNjhpWmpqbDYtc0FwekVhOTlJMW9JbEpHeEVRbDJZbmZDdjFnUEpCWUx4ZlplSFNwV0daaTUtcl9FNGxrVVFtc1hlbFpLdkY5bzFHd0JtZGd2aVZWM2dEZnA0LU9YaDc4cjFTM0pkeGJRWnptUWRlQkdHbGpTdGZ1ckxV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-28-011",
+    "date": "2026-07-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials faces earnings test as pricing power questioned - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW5EUFpzcFlETVBoRFc3Yk9oNDFORDBkcWtDUDh3U2JRanU5X3hSY3QzZUd0WmNxTjJJamtKczVUNUZGaDdVanBsNTZRbk5mVUFDOHpZVEF4UEtyNy1FMzlSWmlhN0VvWXU4T01kRm",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW5EUFpzcFlETVBoRFc3Yk9oNDFORDBkcWtDUDh3U2JRanU5X3hSY3QzZUd0WmNxTjJJamtKczVUNUZGaDdVanBsNTZRbk5mVUFDOHpZVEF4UEtyNy1FMzlSWmlhN0VvWXU4T01kRmZvcXVtR0o4V2hJTjBXZ0hRT18zNkFrejVuRXRXZ2pNUUpJRVh3Mko4by1yYWRvU05HY3pxZlM1OGRud0JfcGZFd0FiaWQ2c05hOTBPNjBiZVhMSmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-28-012",
+    "date": "2026-07-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Faces Limited NAFTA Arbitration Award Impact - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlhtS2RHUlNtVThVR0dMMlc4a3p0dHRhdWtNb0x2SGx0cVBfV0R3SU9LcXhERnI0VTY4Qm5ueVRKUnBzSWV6bnprNnRxcHd4dHdyNTh4dFdrY2JHZHM1OXd0c0RLZEFvcVhJVnBEMX",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRlhtS2RHUlNtVThVR0dMMlc4a3p0dHRhdWtNb0x2SGx0cVBfV0R3SU9LcXhERnI0VTY4Qm5ueVRKUnBzSWV6bnprNnRxcHd4dHdyNTh4dFdrY2JHZHM1OXd0c0RLZEFvcVhJVnBEMXo5aHVHSHVzcXhQR3V1WllmWVJ5OGtpbjFaRTZXSHBSd1BYUGY5eWtrampoQzdRZkdTMElWS3R2Q3UtcTc2TlZaVEhITFk4TFdOcE5iVnlLSWJfdGpDQkZ5VmxlVXoxMmFfOTNEUURVdGZlZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-28-013",
+    "date": "2026-07-28",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "imi, Cemex veteran Lyons takes the helm at SCM developer Terra CO2 - Concrete Products",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGxaQWNhcU1sU3lDcnNITFNzV2F4YlplaGdxZFZZV29nVVBUWjIyQXVtbVNfU3hvN2Q0cjBycnhCZ3JhNG1TNjBUSzhGU3Ftbl9xbTBaZWlSQUZvQUo2SDE4eWlVTkpsM2R2TmFKMm",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGxaQWNhcU1sU3lDcnNITFNzV2F4YlplaGdxZFZZV29nVVBUWjIyQXVtbVNfU3hvN2Q0cjBycnhCZ3JhNG1TNjBUSzhGU3Ftbl9xbTBaZWlSQUZvQUo2SDE4eWlVTkpsM2R2TmFKMmFqZHpZZDFwWmlPeUd1QnpxSlF4MWRDUjBTaDZmZVFpOHlkdGVHY3lOYzNuY1M5Wi0wNURScGJMbzI2S3FGTWhWcVltQXkyVUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-28-014",
+    "date": "2026-07-28",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock trims Heidelberg Materials stake to 5.21% from 5.24% - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1LeFZEMGVKY1FCckRNYnlldVJXRFpoX1hKQS05SUtpeGpzNXdONVd5NmhWbFdlR3FkVHlrWjFxbXM4eHU4Wnd5bHZsZ1liYVI5OHhmMUpRUGZpR19FdDBFNkdJWjRuNXV3Q3fSAWpBVV",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LeFZEMGVKY1FCckRNYnlldVJXRFpoX1hKQS05SUtpeGpzNXdONVd5NmhWbFdlR3FkVHlrWjFxbXM4eHU4Wnd5bHZsZ1liYVI5OHhmMUpRUGZpR19FdDBFNkdJWjRuNXV3Q3fSAWpBVV95cUxNS3hWRDBlSmNRQnJETWJ5ZXVSV0RaaF9YSkEtOUlLaXhqczV3TjVXeTZoVmxXZUdxZFR5a1oxcW1zOHh1OFp3eWx2bGdZYmFSOTh4ZjFKUVBmaUdfRXQwRTZHSVo0bjV1d0N3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-28-015",
+    "date": "2026-07-28",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Super 4's Twenty20 Tournament 2014 Photos | Latest Match Pictures & Action Shots - Cricinfo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2ZvMUtILU5CQUFCMUhndUJMNmVfd19ZTUdTS1Qyc2JLXzg3V0JHYW10bU9TUVE4bWRlU2c4ekRMUXdUWXVVaktmd0dmenBRR0JvcjhmaVJvTHBZN3BpNmJNODZZZlBNOEhURFJ4Ql",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2ZvMUtILU5CQUFCMUhndUJMNmVfd19ZTUdTS1Qyc2JLXzg3V0JHYW10bU9TUVE4bWRlU2c4ekRMUXdUWXVVaktmd0dmenBRR0JvcjhmaVJvTHBZN3BpNmJNODZZZlBNOEhURFJ4QlBQaEtMQk9vSHdhSkxnckhrQ2FjVnZqZWhmMHZzazRna2VIQldUV0FKVFdVZVM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-28-016",
+    "date": "2026-07-28",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement sends report access link to unregistered shareholders - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkI0d1hTdWdoNlhob0ZDVTZjYWtzMy1NNTF2YnRUdVJuWVhsd0lGRUxfLUNaN3pnODhDV2xsN0wwcUJlSWYweHd2WlB6bXBpVi00eVlxX3dpQllhUkY5Z1FCeUM4eURtczRNY05kc3",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkI0d1hTdWdoNlhob0ZDVTZjYWtzMy1NNTF2YnRUdVJuWVhsd0lGRUxfLUNaN3pnODhDV2xsN0wwcUJlSWYweHd2WlB6bXBpVi00eVlxX3dpQllhUkY5Z1FCeUM4eURtczRNY05kc3JZX09xb0h5REFKWnMzWlVFLXZQMVJNVW02cTVVM1JVcW9NUThEc2JLZmZ6SW11cDBhZVdhWXExaHFDN0FtSmZkdlRkb2dzSjFwMDlVc3puUjV1di02R2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-07-28-017",
+    "date": "2026-07-28",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corp. Revenue Breakdown – OTC:THYCF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE56TG9ua25pUmJWMDdHcUY1bmJ6VEdsbVJWeG1ZaGhLdEpmSEhGc3JJcjNRTTBiMW1GOVFOdlFrNXFVN3hicXJkS0E2UVQyM09UWHhLLUdPbVdqNXhZTXVlM3JZNkd2dkpaa3ROazhtZ0",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56TG9ua25pUmJWMDdHcUY1bmJ6VEdsbVJWeG1ZaGhLdEpmSEhGc3JJcjNRTTBiMW1GOVFOdlFrNXFVN3hicXJkS0E2UVQyM09UWHhLLUdPbVdqNXhZTXVlM3JZNkd2dkpaa3ROazhtZ0JNU1o4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-018",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Cimentos de Moçambique triples capacity at Nacala plant through US$110m expansion",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/mozambique-expansion-1500.jpg\" /></p><p><strong>Mozambique: </strong>Cimentos de Moçambique, now owned by Huaxin Cement, has tripled the productio",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21049-cimentos-de-mocambique-triples-capacity-at-nacala-plant-through-us-110m-expansion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-019",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Ambuja Cement reports financial results for first quarter of 2027 financial year",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/indian-banknotes-colorful-cash-pattern.jpg\" /></p><p><strong>India: </strong>Adani Group subsidiary Ambuja Cement reported a consolidated net prof",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21048-ambuja-cement-reports-financial-results-for-first-quarter-of-2027-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-020",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Granite wins $50M California dam project",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/q309MdN-kCBql3ypvX_T3VZK5ObV3Ah8QtZ6n8_9zA8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XZWJzaXRlX2ltYWdlX2Jhbm5lcl8xNDQweDUy",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/granite-construction-PGE-california-dam/826374/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-021",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "US hotel construction pipeline down in Q2, but higher-tier segments saw growth",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/vfnLt207ADgspqFzLOHgOyTzQwn_GFHW2vCfDmG7ZUc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTM1MTU5NDI0LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/hotel-construction-pipeline-q2-2026/826324/",
         "type": "rss"
       }
     ]
@@ -421,6 +907,149 @@
     ]
   },
   {
+    "id": "vulcan-2026-07-27-018",
+    "date": "2026-07-27",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Provides Update on NAFTA Arbitration - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOamtRdnRvSWJBVnZOUUNTUkRJWnVSc0VmY2ttNVMzUFJYOHVKV2p3aDFmYWtiVEE1dVBUMlRlOVVST09kVWREQ1Z6QVB2VDFlNTdOYW5GbFpDMjhta0JyNmI2S2VHWS1iSjhKU0plMW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamtRdnRvSWJBVnZOUUNTUkRJWnVSc0VmY2ttNVMzUFJYOHVKV2p3aDFmYWtiVEE1dVBUMlRlOVVST09kVWREQ1Z6QVB2VDFlNTdOYW5GbFpDMjhta0JyNmI2S2VHWS1iSjhKU0plMWpnUThJZjBEWkxrNTIzY2xUV0FIQ21WcmNqWmQzSC1ZS3ZYLVYyUUF2MTBlcjVtaDZv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-27-019",
+    "date": "2026-07-27",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Rises As Infrastructure Story Tests Whether The Stock Is Fully Valued - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQcU9OSUhqMjd3LWx5SGJ3X05kdVJtWlpKaEVXZ2hyTTR1dnhaUnBNZ3NTOTR0S3RTS3c1UEg0UndQd1phVmR6T0NxWG5DYVp1dm55emtlaHBjQktENnlpRnpfTFl5b241WElkdFpSR3",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcU9OSUhqMjd3LWx5SGJ3X05kdVJtWlpKaEVXZ2hyTTR1dnhaUnBNZ3NTOTR0S3RTS3c1UEg0UndQd1phVmR6T0NxWG5DYVp1dm55emtlaHBjQktENnlpRnpfTFl5b241WElkdFpSR3ZXTUlrb1h5MXlPbnVMYkxMdVU4cWJ6Wml4TjVhVTRReUNjbG9CQ25RY1NzUDQ0b0c5ejdvMXEyWFZqRFA2b3pleWpvZXYydGlqRmZ0alBqcTdHOG8tek5WbjVwcWprd9IB0wFBVV95cUxNaXpxU19ycWd6TS1LN0pnUTBhNGFWZmRJYmV1VmE5NURmUXlmMkljWklxOTdEbDkzcG1YS0pUaGlZb0l4RDIxQkdEbzFjZThmT2xJUzY1N1liTUpyRGY5WEZhajZMVG0xVUNDRzlqVU1XdUhyQ2NXcXZQcG1VOEVxTGtxcmdNS3J4S1dwX0hFTlgtU2xQT0poTXhVbHhUanRPOGVVanJsTFZibGMzSnlCeG5GOTQtNUNja2d2dlNZZHEtMmk4ZjJRTWVvbDRVY3VUVmxZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-27-020",
+    "date": "2026-07-27",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR000ck5sVGhwaWFOeXMzQndRWGNZeFMySGZVZE1mZjdVU1NTeDQ5WGJyQ3BvVERBT1l1eWJCODVlZm5OQlJwTzJWbGNMWVRqYXZDVnRYa3AzNkxoVl82dzloS3d1NW9WbDRNeGs2dD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR000ck5sVGhwaWFOeXMzQndRWGNZeFMySGZVZE1mZjdVU1NTeDQ5WGJyQ3BvVERBT1l1eWJCODVlZm5OQlJwTzJWbGNMWVRqYXZDVnRYa3AzNkxoVl82dzloS3d1NW9WbDRNeGs2dDdmMkhHN2pVNTVGczhDR2RrSkZ4NGt2UFlpaThYYldsQjhvSU94Zk5hMkhDNnl3bnE1ejBmaXVaU21DYmRzNGxNTXFwa2RjZ3RQRDB3My0tdUV3VGJycFBXTXY0c2dZLXg1TkZsQ0VOMWRFTW9Wd0FEREZyQ1JDZ0ZKa3dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-27-021",
+    "date": "2026-07-27",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan to Report Q2 Earnings: Here's What to Expect This Season - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2R3cURUZVFBUFpkaVl0dnlSb2t2Z1BKR2NsbUxKRmp1em50amVSWHp2aHk0UTBQenJXS2dpems4OURjWkNCX2hQOC0tX1ZrMFE2LUYxMFA5LTNVaFJ6T0d1U0NEWUMteFZaVkxvNl",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2R3cURUZVFBUFpkaVl0dnlSb2t2Z1BKR2NsbUxKRmp1em50amVSWHp2aHk0UTBQenJXS2dpems4OURjWkNCX2hQOC0tX1ZrMFE2LUYxMFA5LTNVaFJ6T0d1U0NEWUMteFZaVkxvNll4RUFuM0RULU5jOUFPUTYxT0xFNFRIMDNlMUxGMnBlM3hBeW9iZXV5WGdpSHZqSGJoNFlYM2Qwa3RBUWZxWGlPWDVneVhrQ29vUlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-27-022",
+    "date": "2026-07-27",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock raises Heidelberg Materials voting stake to 5.24% - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hbWlTS2tabjZxMTJjWFNNY0k2ZktnS1NsU3Vjc0ZfcVRfZUpVX0tvMkdfVE9SZkRDQ3U4dDRlZzY1NlFmaTctSUFMV25XYWh2enRsOXlrblVld0hSbE9IY3RNVdIBY0FVX3lxTE5hbW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hbWlTS2tabjZxMTJjWFNNY0k2ZktnS1NsU3Vjc0ZfcVRfZUpVX0tvMkdfVE9SZkRDQ3U4dDRlZzY1NlFmaTctSUFMV25XYWh2enRsOXlrblVld0hSbE9IY3RNVdIBY0FVX3lxTE5hbWlTS2tabjZxMTJjWFNNY0k2ZktnS1NsU3Vjc0ZfcVRfZUpVX0tvMkdfVE9SZkRDQ3U4dDRlZzY1NlFmaTctSUFMV25XYWh2enRsOXlrblVld0hSbE9IY3RNVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-07-27-023",
+    "date": "2026-07-27",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock lifts Heidelberg Materials voting rights stake to 5.24% from 5.2% - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Pa1Z0Sy1FZGwyWkVQQ2JaT2tmVkg0Ul9zbXF4MXBhemYtNmh0NGU1Zks0U1lfdkxJVVpWQUtMSUhhWXhRSnVfOVNMX2luMTFnUmp5LVZ4b25PbmRnWk1UQmdWUdIBY0FVX3lxTE1Pa1",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Pa1Z0Sy1FZGwyWkVQQ2JaT2tmVkg0Ul9zbXF4MXBhemYtNmh0NGU1Zks0U1lfdkxJVVpWQUtMSUhhWXhRSnVfOVNMX2luMTFnUmp5LVZ4b25PbmRnWk1UQmdWUdIBY0FVX3lxTE1Pa1Z0Sy1FZGwyWkVQQ2JaT2tmVkg0Ul9zbXF4MXBhemYtNmh0NGU1Zks0U1lfdkxJVVpWQUtMSUhhWXhRSnVfOVNMX2luMTFnUmp5LVZ4b25PbmRnWk1UQmdWUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-07-27-024",
+    "date": "2026-07-27",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement climbs Monday, underperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2xPRGJ4aGRnaWd1NjFaU0ZTc3dNQ2pWVmM2SnlRbjkxSmVfRVVGUHNQclhrWUliVlFkWnFhU1dReVc2TUEtaW9uZ3lCR3psRE5tZUhLSnhUdDB0dktJYU9aQ2RvSjRlQk1hZXpZWE",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2xPRGJ4aGRnaWd1NjFaU0ZTc3dNQ2pWVmM2SnlRbjkxSmVfRVVGUHNQclhrWUliVlFkWnFhU1dReVc2TUEtaW9uZ3lCR3psRE5tZUhLSnhUdDB0dktJYU9aQ2RvSjRlQk1hZXpZWE1jLXlwcG1oZGZuOUNtYW5jSGpnVmhFTnotUEZYRG44MldGdkR6dU5PMGlrcDNJRm0zenV3OWdzZ3hXYUxzNGtBV2FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "holcim-2026-07-26-001",
     "date": "2026-07-26",
     "companies": [
@@ -581,6 +1210,46 @@
       {
         "name": "anhui_conch",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXRkpCcHEteDZOZ1Z2bWlRdld1N0NNbTBCTU5qZjYxMmNNVWxDUml2TXRRdUxoN216MHI3dlpvMWNEVXNEV3F4SWdrQXJFWk5KcXc0c2pjOVJDbmtOd2xxMkJJdk8xXzl0QTg1WUY2VXpfU3lv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-07-26-009",
+    "date": "2026-07-26",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here's Why We Think Vulcan Materials (NYSE:VMC) Is Well Worth Watching - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTzJCNDVNUmo0eGZOMm9tWnAxd0RYemh1N290MGhNeTZpdE1DVXpLZHF4UjUzbUNzbjE5REFmdXJic0dKWktscTRQeWF0a3BKQ2ttQlYwTk9hNGRYQkxFRGRHeVo0b19yUzhDYWFSNU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTzJCNDVNUmo0eGZOMm9tWnAxd0RYemh1N290MGhNeTZpdE1DVXpLZHF4UjUzbUNzbjE5REFmdXJic0dKWktscTRQeWF0a3BKQ2ttQlYwTk9hNGRYQkxFRGRHeVo0b19yUzhDYWFSNUQzY3RZQnlpUngtNVFiRmNYanJhU2s3bnY3SDVGQkFRTkw5UGw2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-07-26-010",
+    "date": "2026-07-26",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement Public Co. Ltd. NVDR Revenue Breakdown – FWB:NVAQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQmxkWUZCeWxpdElGTWdpVThGTWRPbDVWdG5JTThBRlRGRldzQ0s3YVhhTFNBeXZXaFEweG5Zd3hkTU9wV05tbkRpa3h5cTM5WTlDV19Wd2hQLWlKTDlVa1NBb0UyTGh0V3kwYUNJdk",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzQmxkWUZCeWxpdElGTWdpVThGTWRPbDVWdG5JTThBRlRGRldzQ0s3YVhhTFNBeXZXaFEweG5Zd3hkTU9wV05tbkRpa3h5cTM5WTlDV19Wd2hQLWlKTDlVa1NBb0UyTGh0V3kwYUNJdkRJSk0?oc=5",
         "type": "rss"
       }
     ]
@@ -2034,6 +2703,26 @@
     ]
   },
   {
+    "id": "siam_cement-2026-07-23-031",
+    "date": "2026-07-23",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q2 2026 Siam Cement PCL Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2QWhLM0JDRHBRVlJBNFVNcE1RaGFiNUJmQXlxRjhueUlqZWk2UDlTeGkwNHpiaGJBLXJaQ3lrUU9rQjdLczJ0X09fUzdudHFTRkxOenR5V18tTjFxc1Q4eGRlZ01mYXll?oc=5\" tar",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2QWhLM0JDRHBRVlJBNFVNcE1RaGFiNUJmQXlxRjhueUlqZWk2UDlTeGkwNHpiaGJBLXJaQ3lrUU9rQjdLczJ0X09fUzdudHFTRkxOenR5V18tTjFxc1Q4eGRlZ01mYXll?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [],
@@ -2532,6 +3221,26 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaG9UVWpMM2k2NFZHS1FGQUZMbFdHN0F3anl4TjJNeDh1N05fNnZzb21Vb184dVpzWi1YRTNCQl9oXzdTa0xkNWhMc1NCbm1lU3dZQUtoa19XV2FiTUdrcHFVZERsb2FHXzU3WmRGX0ZpUGlPWEpOek1Dd2hKZ25QeTdzbGlqTzlVTXpOaEtPdE44VlZKdTdSc0p0RkM1N0gyREJNdE16V0Z1R1hXenVXOEN4aFhEUVhlZ21MN2Zqbk9zdkJzQWRzc3JVN0FsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement to Grant Restricted Treasury Shares to Executives - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb0ljNG16WFFRdVZVQkZ4SHRwOHVEQ1FfVDVnX2V2dTZIVW1rWGdvR3ZPX2RHSHhJa2tKQ0RUV2p6cGlmSDZJak9kU0hqRlBFQ2tXV2tYaWhzVlNhSGgyOVlHMTdIYlJ2RzI1VHRIYn",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb0ljNG16WFFRdVZVQkZ4SHRwOHVEQ1FfVDVnX2V2dTZIVW1rWGdvR3ZPX2RHSHhJa2tKQ0RUV2p6cGlmSDZJak9kU0hqRlBFQ2tXV2tYaWhzVlNhSGgyOVlHMTdIYlJ2RzI1VHRIYnBUd3MzXzdsX3hGMmM4Sk9ESkxOMXJuMl9rSFhxOWphTHd2VUNWT2xyLXE3MmNhMjBNQ3A3bHowcjk2aVNHelcxa21PSXpaaFB1Njl2TFBQTFYwcUh1dDFQbTdTZ1RFYVlOemtkVEdfMVRHZGpUVGp3?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 336,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 10,
+  "gate2_fail": 17,
+  "passed": 37,
+  "gate2_samples": [
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+    "Mexico Awards $15 Million to Vulcan Materials in NAFTA Mining Dispute - News and Statistics - IndexB",
+    "Vulcan Materials / Phone Line Registry Advances - Mexico Business News",
+    "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha"
+  ]
+}

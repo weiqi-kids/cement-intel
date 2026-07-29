@@ -1,0 +1,258 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:39:03.484385Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Breedon maintains 2026 outlook as revenue rises",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181767/breedon-maintains-2026-outlook-as-revenue-rises.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ambuja Cements reports lower standalone profit in 1QFY26-27",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181769/ambuja-cements-reports-lower-standalone-profit-in-1qfy26-27.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Titan America reports higher revenue in 2Q26 on Keystone acquisition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181768/titan-america-reports-higher-revenue-in-2q26-on-keystone-acquisition.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-29-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pioneer Cement reports strong FY2026 earnings and approves PKR4bn investment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181765/pioneer-cement-reports-strong-fy2026-earnings-and-approves-pkr4bn-investment.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-29-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Indocement and Saint-Gobain strengthen partnership at Citeureup plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181752/indocement-and-saint-gobain-strengthen-partnership-at-citeureup-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "eagle_materials",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 336,
+    "dup_title": 161,
+    "too_old": 111,
+    "gate1_blocked": 10,
+    "gate2_blocked": 17,
+    "passed": 37,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+      "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+      "Mexico Awards $15 Million to Vulcan Materials in NAFTA Mining Dispute - News and Statistics - IndexB",
+      "Vulcan Materials / Phone Line Registry Advances - Mexico Business News",
+      "Vulcan Materials: Great Potential, But Not For Shareholders (NYSE:VMC) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Eagle Materials、UltraTech相關動態：「Breedon maintains 2026 outlook as revenue rises」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Breedon maintains 2026 outlook as revenue rises（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ambuja Cements reports lower standalone profit in 1QFY26-27（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
