@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 13,
+  "gate2_fail": 12,
+  "passed": 53,
+  "gate2_samples": [
+    "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - reuters.com",
+    "Vulcan Materials / Phone Line Registry Advances - Mexico Business News",
+    "Cemex Way Designation Recognizes Company's Longstanding Presence in Miami-Dade - Construction Owners",
+    "Heidelberg Materials UK to roll out MixPilot fleetwide - Agg-Net"
+  ]
+}
