@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-31",
+  "total_events": 15,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "cemex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity_consolidation": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "carbon_emissions": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

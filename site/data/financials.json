@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:25:11.503135Z",
+  "updated_at": "2026-07-31T10:38:45.790075Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "Eagle Materials",
       "ticker": "EXP",
       "currency": "USD",
-      "ar": 228573000,
-      "ar_prev": 208511000,
-      "ar_qoq": "+10%",
+      "ar": 293818000,
+      "ar_prev": 228573000,
+      "ar_qoq": "+29%",
       "ar_period": "QoQ",
-      "inventory": 408391000,
-      "inv_prev": 384879000,
-      "inv_qoq": "+6%",
+      "inventory": 379573000,
+      "inv_prev": 408391000,
+      "inv_qoq": "-7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "heidelberg",
@@ -131,8 +131,8 @@
       "ar_qoq": "-14%",
       "ar_period": "QoQ",
       "inventory": 2750800000,
-      "inv_prev": 2832400000,
-      "inv_qoq": "-3%",
+      "inv_prev": 2741400000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
@@ -144,15 +144,15 @@
       "ticker": "HOLN.SW",
       "currency": "CHF",
       "ar": 1714000000,
-      "ar_prev": 2614000000,
-      "ar_qoq": "-34%",
+      "ar_prev": 2151000000,
+      "ar_qoq": "-20%",
       "ar_period": "QoQ",
       "inventory": 1716000000,
-      "inv_prev": 3117000000,
-      "inv_qoq": "-45%",
+      "inv_prev": 1729000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
+      "alert": false,
       "quarter_date": "2025-12-31"
     },
     {
@@ -262,17 +262,17 @@
       "name": "Vulcan Materials",
       "ticker": "VMC",
       "currency": "USD",
-      "ar": 965600000,
-      "ar_prev": 887700000,
-      "ar_qoq": "+9%",
+      "ar": 1100300000,
+      "ar_prev": 965600000,
+      "ar_qoq": "+14%",
       "ar_period": "QoQ",
-      "inventory": 695800000,
-      "inv_prev": 680500000,
-      "inv_qoq": "+2%",
+      "inventory": 688700000,
+      "inv_prev": 695800000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     }
   ]
 }

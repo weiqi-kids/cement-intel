@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-31",
+  "date_range": {
+    "start": "2026-07-25",
+    "end": "2026-07-31"
+  },
+  "generated_at": "2026-07-31T10:38:49.374032Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-27-010",
+      "date": "2026-07-27",
+      "title": "Cameroon’s key cement producers sees 12% fall in sales",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 54,
+      "last_week": 57,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.02
+    },
+    "inventory": {
+      "this_week": 11,
+      "last_week": 16,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 16,
+      "last_week": 2,
+      "week_over_week_change": "+700%",
+      "sentiment_this_week": 0.06
+    },
+    "raw_material_energy_cost": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": -0.11
+    },
+    "capacity": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity_consolidation": {
+      "this_week": 6,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "infrastructure_spending": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "carbon_emissions": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "vulcan": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "holcim": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "cemex": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ultratech": {
+      "event_count": 12,
+      "sentiment_avg": -0.17,
+      "rank": 2
+    },
+    "siam_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "heidelberg": {
+      "event_count": 24,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "thyssenkrupp": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "eagle_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "crh": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 180,
+        "last": 187,
+        "change_pct": -3.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-25",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 25,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 26,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 41,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 47,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 15,
+      "sentiment_avg": 0.13
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-25 ~ 2026-07-31）共 180 則事件，重點為「Cameroon’s key cement producers sees 12% fall i...」。Siam Cement、CRH plc表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Vulcan Materials",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Holcim",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "UltraTech",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,268 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:38:49.225413Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-31-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Maple Leaf Cement posts 18% YoY rise in quarterly profit, driven by PIOC Integration",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181782/maple-leaf-cement-posts-18-yoy-rise-in-quarterly-profit-driven-by-pioc-integration.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-07-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Stock Faces Valuation Questions After Resilient Margins - simplywall.st",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWpkNk9ERzZ6eldpYzNJWV9LYWk4VHI5dDNneWRLbmtWTWItZDhnSnBaVzhvY0RJSDFGN3pCbEg1MFdNRUR3X0c0OUNJWGFybGphZkZDaG9VME9BQVVUS0JDRHVJT1VkT1JYVWQyakZZSlVTTXdCQ0t5MTFpM05xakJTb0lIVE04ZDFOZXc5TUh2OFhQQzQ2RVNWcGdHUlVoQU1ETEpSazl2d0N5RmpVYjlOQnMzNEI3WGlDX2MwMG1DcjFmMHFmRGpvTjc2UdIB0wFBVV95cUxNVUdQeUlpVjlCckhoRjViLVB6NE5fVHNGMF9za0p6XzNCZzl1UTJLRFdia0o0QV9ZR1FPOW9jTE04Q0plcTdOSWZQcDFtemM1al9xT1V2VElEdjZKT3hrOEVYUHNsaUh5emliMHJzMnlXVDZYa2hmRnp2Ry04aXhYbFV1UnVQaVdDZ3AyS0tERXU3QXZLOUNPcmNfUWxjLVBzMnN4d1VieXZPdU9ZSmlWS010OW1BTlFJYlV2MTNDMDBJa1hwdzZVcXhQR0EzRjhyTEcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-07-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp’s López is new chair of Hydrogen Europe - enlit.world",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnIwamF5ZDB5V3lQMG41bW1VSnp5eGUxSlBvLXItcmFmcWR2ZV81UDUtTThxR0dlS1djSFNqdDdHZDRXT09EbEd5NTFTRThRd3BybVJMS0lWRWdQcU5CZ1Q4NE9tUXRFMGhYb1pKNXpRUGt1SElCbXd0TTZQamRGT21JNkM2aXFWMmhZYVgxbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-07-31-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Nucera posts revenue decline and loss - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0pUY205ZVNZX2NSaDBqbmdVZmZvMkRnejYwM01MSzltbjdhbExGeU03bkZtaWYzS1d4ZzZZRC1HSzU3ZmIwR0Zyd1VoYlU0VWpKdFFFSkdFcXdsWmI0SUpSX0JMWlduUmNzUGNneno4ejRXV3o2NW9aZHFRVWsxZGRYam50RE15SEgwVncydVR3SkM0X1Q4S1RJQlhoTHJURFZOcm93?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cemex-2026-07-31-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Inter-American Development Bank recognises Cemex road safety practices in Latin America - World Cement",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeFlIZVBkSk9ZQ2wwVlhRcVF5Y09Ga3FFYkIzZTU3a3k0WDhUckJZUkRIN1ZBUXIxcEdrQTY2dWxwMkRqYnM5TzVGaTRESTluSW1rRjBlc3ZhTXhiMkxlNDd4bTAzWk9ublhJajM1aUxRLV96bEtVMXFQQkQyZWZkRjFwdHc0U3lpZGdNYnBfUHBmWTR6R3dqVE91ZmI1aktJM21uZXVoUzNRbnJfTUlHNkk5Y0hxSjVkWUExLXRLZVpMTnlwY3Jfb3poNUVDa1lKTEJDTEJqMDhRQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 5
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 159,
+    "too_old": 108,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 46,
+    "pass_rate": "25.7%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+      "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+      "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+      "Vulcan Materials / Phone Line Registry Advances - Mexico Business News",
+      "VULCAN REPORTS SECOND QUARTER 2026 RESULTS - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為海德堡材料、蒂森克虜伯、Vulcan Materials相關動態：「Maple Leaf Cement posts 18% YoY rise in quarterly profit,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Maple Leaf Cement posts 18% YoY rise in quarterly profit, driven by PIOC Inte...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Vulcan Materials (VMC) Stock Faces Valuation Questions After Resilient Margin...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 11,
+  "gate2_fail": 14,
+  "passed": 46,
+  "gate2_samples": [
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Vulcan Materials / Phone Line Registry Advances - Mexico Business News",
+    "VULCAN REPORTS SECOND QUARTER 2026 RESULTS - PR Newswire"
+  ]
+}
