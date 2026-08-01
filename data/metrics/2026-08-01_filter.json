@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 6,
+  "gate2_fail": 14,
+  "passed": 29,
+  "gate2_samples": [
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Vulcan Materials / Phone Line Registry Advances - Mexico Business News",
+    "thyssenkrupp Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+  ]
+}

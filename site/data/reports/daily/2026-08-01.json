@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:59:00.090684Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-08-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Company (VMC) Q3 2024 Earnings Report - Results, Call & Slides - TipRanks",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14NHVsU2trYk9pVzAyVlRsVzRNckZHLTJpS0JBM25iQXJ0dDZrWW93M0dyRENZNWlrQzBuX1lxRVpxdTBEeDh1SzhtblJnbnpRVmhsMlpkbjVOSXM3bEdlNFZ6S3loOVgwa2Vv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-08-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials report second quarter financial results - megaproject.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDV0UGxybWg0UVkxTERVSWE3dm5xNW1ZNEpiX002dTRSYXZSQ3pISnZEWHNUWUJ3bVEzMy03U0FzeHM2WDNYQmdUMkptOUw0MURaSWx2bjZJcTdTYkdUekhjRWd2RVFnNm83bkZqRHh2aGtCdGJxanBiX1k0SHRMWXRPOHVSVUpNRVIxMW9Mb1V5a25aWjZocllJM2k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "More milestones reached in the development of Heidelberg Materials' Padeswood CCS project - megaproject.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWmM3cG1FMmNONmtueEtzOVlqVFBfNFNBTE9ISG54SV9FTGJBUmxIX21PRUdtM0YyM2tYaUhDSUpvMnQycVloaUUtUjhuRkpVaVdHOFg5bXA2OWdmWjRhZVNDbUxUNE1QOFZRZGRBODlLN0t2OFBFd0NBaW92b01GbHBFcXFxZmxCdmhTbUY5N0lQV0FfeWY1UGhHRzVpczNvcEtwWGdSUHR2R0JkemRITDIzQzVGMy1EUERmdmR0ZjRZQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 181,
+    "too_old": 109,
+    "gate1_blocked": 6,
+    "gate2_blocked": 14,
+    "passed": 29,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+      "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+      "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+      "Vulcan Materials / Phone Line Registry Advances - Mexico Business News",
+      "thyssenkrupp Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為海德堡材料、Vulcan Materials相關動態：「Vulcan Materials Company (VMC) Q3 2024 Earnings Report - ...」。主要關注主題為財報、碳排放，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials Company (VMC) Q3 2024 Earnings Report - Results, Call & Slid...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials report second quarter financial results - megaproject.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
