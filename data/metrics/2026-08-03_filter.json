@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 10,
+  "gate2_fail": 21,
+  "passed": 34,
+  "gate2_samples": [
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+    "Vulcan Materials / Phone Line Registry Advances - Mexico Business News"
+  ]
+}

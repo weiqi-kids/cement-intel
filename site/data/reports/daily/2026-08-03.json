@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:22:25.292152Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-03-007",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Dangote Cement Cameroon sales decline as expansion plans await detail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.cemnet.com/News/story/181789/dangote-cement-cameroon-sales-decline-as-expansion-plans-await-detail.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Euro zone factory output near 4 1/2-year high in July but demand still weak, PMI shows - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWh6RGxabHZsWkJKOEFqN1ljbUduSWxkOW5LVG05bnJBVEdnd3Jodno1Zlh2Yy1seXV3YVJFSzA3UWdvZlFuZ1RBTVVWeUZTRmc5TDJPSmRlX3ltNFBJSzNzZXdWOFFoN3VHdTNmUDRLOHo5NHYweE5qZDhFbnUtUTkzV1N6S0VNV0o5bVoxQjlxTGVZaEdOSmt5YW4teUhhVkh1ZExzMEZrRi1BQ2sxdlVBRC1zS0xCVUZ2YUxvUFRjeVBH?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-08-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim signs agreement to divest its business in the Philippines - World Cement",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnQ2SzV3M1B2Q0VGWjJod3pzcDNnZ3QyN1VSRGdvUjI0UmRaOGdSLWl1NHQ2QmFteTltdXRaakNaWjl4em9pNHkyT0Y1WFI3RzhoZHR1RlBFWnl2MVdXYUpZVG5MMUtzYVBJSkVURDdnU1d2SUJSak9uWEZyZWNWLWFWdzJXd0kwNlhvdGZnSnhqZHhIUFBJVFUwV0MwNHFGejRzTzEzREFyXzY4Q01vQ195UUZBZUNfTkdv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-08-03-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Huaxin Building Materials Agrees to Acquire Cement Maker Holcim Philippines in Two-Stage Deal - marketscreener.com",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMnc0SldjSHlwQ3RsSERCZEdwVUdpdm9LTDAtMUgyTHMyVUxmQTVsd0NaSmVYZXRzbUhtcV9vNkV3ZDhta19JTk9CQU9EbDUxS2tpSlpWOW9YN0VGVzRmUzJVQXdCNGR0bHpleWw3TE9RWlFyYWtnTmNPZGVrS0RydUlmRlR5QXRsWGxOaTRZNGVLaGVhNndOVG9IMHhaR29xNTIzMFBDN1NUVldxd0xfR0RaLXA3cmZGNFcwRklhSkNIWVJYczl5UnZSRGRWN0NXVkl2SFNFMl8tMGdWZzVz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-08-03-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cement giant Holcim exits PH after China’s Huaxin acquisition deal - Cebu Daily News",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzJkbXh3UzItdHdLTEVUakxqYVUxX0ExVW0zZkVhRThyVGlkeEVNbm5BLVdwQ2RYbExHTU5CMEZleDROelVHbnBMQ09Lc1NyOV9pdHlyUDJQT3JCTmRQQ0VRWXJLcVdNaVoyU0V5Vi1zT09id0JLV3loMzFkaDYzMTQ0bzhlWkd2YnpETFI0dzhWQldGRkROVXlMTUcyM08yd0hDLUJGbkxLNjjSAbABQVVfeXFMTWtTOWo2SWhaN0lwSjVFb19KbGUwdDdqUlh5azBXeW5uUnpmWEpxeFBka1hHNGZPZFRaU3pmRmc1N2xGeEVINmgxLWx4c0s2Q3U1SG9aRmZTSUs4dEoxbGtGT0FEN05JY2gzc3gxVlZtOWxmeWlIUzJid1lSbmVWUWJDNFo0TjFTNERKNjdWUXR5Y2FRQklRajBNN0UwVUZuZ25IV1pXZnRMN1ctblRqY0k?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.62,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 5
+      },
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 169,
+    "too_old": 106,
+    "gate1_blocked": 10,
+    "gate2_blocked": 21,
+    "passed": 34,
+    "pass_rate": "19.9%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+      "Mexico Wins Case Against Vulcan Materials - Mexico Business News",
+      "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+      "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+      "Vulcan Materials / Phone Line Registry Advances - Mexico Business News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Holcim、CRH plc、海德堡材料相關動態：「Dangote Cement Cameroon sales decline as expansion plans ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Dangote Cement Cameroon sales decline as expansion plans await detail（產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "Euro zone factory output near 4 1/2-year high in July but demand still weak, ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
