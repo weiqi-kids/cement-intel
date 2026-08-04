@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 14,
+  "gate2_fail": 22,
+  "passed": 27,
+  "gate2_samples": [
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Mexico to pay Vulcan Materials less than 1% of arbitration claim - Reuters",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+    "Mexico Wins Case Against Vulcan Materials - Mexico Business News"
+  ]
+}
