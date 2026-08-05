@@ -1,5 +1,102 @@
 [
   {
+    "id": "holcim-2026-08-05-001",
+    "date": "2026-08-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Mexico invests in biomass plant to cut cement emissions - CemNet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNY204YnF4MGUxWmpwQzdqRlBjbUlPdklKdGlINWwxRGxMNDdMazFIa3U2SVlLZXVkelpyN3RReDg5TnptdVBfanU5dlRrZkNjOHFqYXg2enlzU3BkUmpzeFhLd0JxaktkeDdURmRteX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY204YnF4MGUxWmpwQzdqRlBjbUlPdklKdGlINWwxRGxMNDdMazFIa3U2SVlLZXVkelpyN3RReDg5TnptdVBfanU5dlRrZkNjOHFqYXg2enlzU3BkUmpzeFhLd0JxaktkeDdURmRteXBzZ2tRcnpLT2h6Q2xIWmhhNWZVc3ZWZk90TVpLRjA4QmRlVVZmREtkWVF1b1FHNnlLeVlaU1dKODR6aDJt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-05-002",
+    "date": "2026-08-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Mexico invests in biomass plant to cut cement emissions",
+    "summary": " Holcim Mexico will invest MXN200m (US$10.7m) in a new biomass processing plant in  Tecomán , Colima, as part of its strategy to accelerate the decarbonisati...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181805/holcim-mexico-invests-in-biomass-plant-to-cut-cement-emissions.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-003",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Unacem reports higher revenue in 1QFY26 despite EBITDA decline",
+    "summary": "  Unacem Group  reported consolidated revenue of PEN1.79bn (US$502m) in the first quarter of 2026, up 7.1 per cent YoY, driven by higher cement volumes and p...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181804/unacem-reports-higher-revenue-in-1qfy26-despite-ebitda-decline.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-08-05-004",
+    "date": "2026-08-05",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "positive",
+    "title": "SCG promotes low-carbon cement as growth strategy",
+    "summary": " Thailand's  Siam Cement Group (SCG)  has reaffirmed its commitment to carbon neutrality, positioning low-carbon products and clean energy investments as key...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181803/scg-promotes-low-carbon-cement-as-growth-strategy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-005",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Oman Cement reports strong 1H26 performance",
+    "summary": "  Oman Cement Company (SAOG)  informed the local stock exchange last week that its Board of Directors approved the unaudited financial statements for the six...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181802/oman-cement-reports-strong-1h26-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ultratech-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -124,6 +221,65 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21072-illegal-drugs-seized-by-police-from-shipment-of-cement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-04-008",
+    "date": "2026-08-04",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) On Strong Earnings And The Case For A Higher Valuation - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHBKeEJZanRQTGJSZHh5ZmN5RDMxOFhIZ19faEhVSmtZbzdQZlI2OHlKcUFkYzRYN3Y0ZGZ2SmVYZ2ZVNXJMS3RFQzdmbWZZTWhSenJmRFNBZzlVT0MwTnMwTWwzQWhwWWM5c0czaU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHBKeEJZanRQTGJSZHh5ZmN5RDMxOFhIZ19faEhVSmtZbzdQZlI2OHlKcUFkYzRYN3Y0ZGZ2SmVYZ2ZVNXJMS3RFQzdmbWZZTWhSenJmRFNBZzlVT0MwTnMwTWwzQWhwWWM5c0czaUFlYjgyWHRpN2NHanBGTWIzaHZ6eVBHTGpGclF5aFJpeTE3XzVuWVgzVjQ0Ul9YdExiWWtOaTRBdG5FTDliLTZBcDNfeFUzRWZTb3lnYU5CeVo5c0VXOUVfbVNscmVNQdIB0wFBVV95cUxQT3FRZWhzVUlVekhvel9rQjZ4NXZxem02c3Y4Z2VUZXV5djJrbEJ5Z2M0THY1d1Q2Y3dHWlpqUG11Y29oakUySGQ1OXo0OF9pQm5kNVg4TkNWWkNhZ25LcTg1V1hOa01VODJUdkM3V3ZjRDQySy1Ram96b0Q4TVJheFhYTDBRdGVfUlNtUVNlOVlrb0ZwMmJ2eDZkcm5qUnM0bzZQSHhWUy1Qa3dRYThCRDZHWmJkaC1BclBiaHBJRWpHTTFHQmVmdWQyUVN6VFJoMG9N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-04-009",
+    "date": "2026-08-04",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp: The Conglomerate Discount Is Being Distributed Back To Shareholders - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUFvR2E1S1lsbHM1ZWV6dTJWcGppX0JISjNsVXdSeTZZVkl0QXdBQ09RQmF3RllfQ1BNUEJSNmo4NXF4cHdJTV9BNDNmME5wTTlDUnFSYnJMcUh5VDRxWllVMGhydmkydFNNdzN3S0",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUFvR2E1S1lsbHM1ZWV6dTJWcGppX0JISjNsVXdSeTZZVkl0QXdBQ09RQmF3RllfQ1BNUEJSNmo4NXF4cHdJTV9BNDNmME5wTTlDUnFSYnJMcUh5VDRxWllVMGhydmkydFNNdzN3S09ra1BxeFFaUW15bnhjM3oxRllPeFRsZHdSazlYUTZ6dEtNanJMa3Q1Tk9pSC16czFsZVQ1SXU1MmlDaFNJN2dyYlEyRE5nUHc1akZQdUZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-010",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Thailand and Canada partner for mobile carbon capture unit in Saraburi",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/tcma-canada-mccu-1500.jpg\" /></p><p><strong>Thailand/Canada: </strong>The Thai Cement Manufacturers Association (TCMA) has advanced its collaborat",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21076-thailand-and-canada-partner-for-mobile-carbon-capture-unit-in-saraburi",
         "type": "rss"
       }
     ]
@@ -468,6 +624,104 @@
     "topics": [],
     "impact": "neutral",
     "title": "UltraTech Cement Approves Allotment Of Non-Convertible Debentures Amounting To 50 Billion Rupees - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1qeXRSZnJmdmFuR1hmU1VhR2hYUFpiRnZxS21IT1FZYXZtOVAyd0JBdk8wMjhzeTl5eDRZd295dEctSGpaVG5zQnVTMC1INGthVThubkxjcUtZMUlKWVJEQ0dGY1gyVDBLRWJRYzFuVV",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qeXRSZnJmdmFuR1hmU1VhR2hYUFpiRnZxS21IT1FZYXZtOVAyd0JBdk8wMjhzeTl5eDRZd295dEctSGpaVG5zQnVTMC1INGthVThubkxjcUtZMUlKWVJEQ0dGY1gyVDBLRWJRYzFuVVlzWDJtOXU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-03-019",
+    "date": "2026-08-03",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is It Too Late to Buy Vulcan Materials Co (VMC) After 5.6% Rally? GF Value Says Undervalued - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gJBVV95cUxOQzZNOTJyMURUdGhyRDViNVF6S0JXVC1LZWtJM2RLR0JLOHJfLTVxbURwcEduazM0SngwZFVPSzhrMG9Ncnl3dERMak53WEJ1OGk2cDVrbmNpQjVqbC1DVEs5ajJTRDdweFpnQVVyQ3",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOQzZNOTJyMURUdGhyRDViNVF6S0JXVC1LZWtJM2RLR0JLOHJfLTVxbURwcEduazM0SngwZFVPSzhrMG9Ncnl3dERMak53WEJ1OGk2cDVrbmNpQjVqbC1DVEs5ajJTRDdweFpnQVVyQ3hqM2VqeEJxc0lLeFhIWlhPSzlnYk1qMWxLVEUwTTZ0NU9fa0NIQTFXa0J5NEcxS0E5dXQ1M0t5UGdaUHBjSDV2dl9XTjJKazFfd1VpdklsbnotUENLR3FKdzB3Q3docERFbFdWalNMZWE5SkFtU09wbmhNZkEyWnFUc0dabHg4NHVtai0tTFpwTU9DdUtmZ0tzVDVKYU42VWllTkhCZkpqTUlKb1BpV3lxbmJHdnFsdk91VEhqMnRmbmFhaVR2YjVxNlJJYjdiM0M2X0M4VnpucXh5eGNKQ0xia1Y3SWhLRmF5WE0wc1lzVWVnYnFKX2xrWFVkZzhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-03-020",
+    "date": "2026-08-03",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Germany's Steelmaker ThyssenKrupp Plans to Lay Off 2,000 to Cut C... - Industrial Info Resources",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTjNkYWZoaVA2LTZNbzNTOFVLSFlLQ1kwcGhsZWhKeHVKMThHalJDbFVMZFJkbHhhUlZYMjVOQy1objBLeTZ2Y2FFVzhIdVR1cTBDcHpwNFFnR2w4R2liYlQ3NFQ1a2NEYXdxRklPYk",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTjNkYWZoaVA2LTZNbzNTOFVLSFlLQ1kwcGhsZWhKeHVKMThHalJDbFVMZFJkbHhhUlZYMjVOQy1objBLeTZ2Y2FFVzhIdVR1cTBDcHpwNFFnR2w4R2liYlQ3NFQ1a2NEYXdxRklPYkw0aFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-03-021",
+    "date": "2026-08-03",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim signs agreement to divest its business in the Philippines - worldcement.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnQ2SzV3M1B2Q0VGWjJod3pzcDNnZ3QyN1VSRGdvUjI0UmRaOGdSLWl1NHQ2QmFteTltdXRaakNaWjl4em9pNHkyT0Y1WFI3RzhoZHR1RlBFWnl2MVdXYUpZVG5MMUtzYVBJSkVURD",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnQ2SzV3M1B2Q0VGWjJod3pzcDNnZ3QyN1VSRGdvUjI0UmRaOGdSLWl1NHQ2QmFteTltdXRaakNaWjl4em9pNHkyT0Y1WFI3RzhoZHR1RlBFWnl2MVdXYUpZVG5MMUtzYVBJSkVURDdnU1d2SUJSak9uWEZyZWNWLWFWdzJXd0kwNlhvdGZnSnhqZHhIUFBJVFUwV0MwNHFGejRzTzEzREFyXzY4Q01vQ195UUZBZUNfTkdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-03-022",
+    "date": "2026-08-03",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim agrees US$807m sale of Philippine business to Huaxin - CemNet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjZsOE5maGtpOThMRUFVaFUzSjJUXzgtNWVGWUlWTUc1SnBQdFd4dGF5cl9SQzNQWmQ1cTJ4MWRlMnh4WWdaak9zZUNKVERDck1FNGthcEFXaHpfUGlkV1I5VzhoU0NQcWRIT2ZJek",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYjZsOE5maGtpOThMRUFVaFUzSjJUXzgtNWVGWUlWTUc1SnBQdFd4dGF5cl9SQzNQWmQ1cTJ4MWRlMnh4WWdaak9zZUNKVERDck1FNGthcEFXaHpfUGlkV1I5VzhoU0NQcWRIT2ZJek1wZDkySEFfc3lzdlBxZnRxRElKc25xWWZ2Z2ZINENadXlqZ0lMc0kxWlRFd0lYdElJcWUtMU5DRnE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-08-03-023",
+    "date": "2026-08-03",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech Cement Approves Allotment Of Non-Convertible Debentures Amounting To 50 Billion Rupees - TradingView",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1qeXRSZnJmdmFuR1hmU1VhR2hYUFpiRnZxS21IT1FZYXZtOVAyd0JBdk8wMjhzeTl5eDRZd295dEctSGpaVG5zQnVTMC1INGthVThubkxjcUtZMUlKWVJEQ0dGY1gyVDBLRWJRYzFuVV",
     "sources": [
       {
@@ -828,6 +1082,47 @@
       {
         "name": "anhui_conch",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDdKdzBRSGx0UVl2S1ZicExYb19LLXlMbVFhYXAyRWUzY1NsR2dNbmtXVElvenZ0MkxpaFllbExvMmFwSGxlaGJKLThzTnNwSERhZjFRcjRkcmQ3STVpRU5Tdk1MZzJFTW5pWFRuRWg2bXpVQm9SMVE4TGdDMUQ0WnZyTzJZNlVNbHpKMmlrREpkY05xekQzbVIyeWJIbHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-01-009",
+    "date": "2026-08-01",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnNVbVp5ZXJNc0xlc3ZFc1JWbERlS0RveFpfODhyMklSeEx5djllME5CTXduaWFzMkUwUkZYX1hKbDJTdk12NjZIUmhCbUs5ZDBLaXkxbVJnUkhfWGdEN2E4a0lJSllPVWU1SU1LVH",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnNVbVp5ZXJNc0xlc3ZFc1JWbERlS0RveFpfODhyMklSeEx5djllME5CTXduaWFzMkUwUkZYX1hKbDJTdk12NjZIUmhCbUs5ZDBLaXkxbVJnUkhfWGdEN2E4a0lJSllPVWU1SU1LVHA0VmZnR2NkUEFSalF0Wi1oZjJJNzBiQXlPTWh5LXpBanl2Z2k4RTVYZjZHSUFyTjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-08-01-010",
+    "date": "2026-08-01",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials (XTRA:HEI) Stock Price Hinges On Cheap Valuation After Profit Drop - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoYjBpTUFaVnB3SWNkdXViUzhOd1ZiZlFTVnR3MHVaa0FWemlVZTlKdjc3bDFzMHY1R1I0MFVnX0RaNGlFeTd2c21jSUNBbmFNN2U1S1RRR3E?oc=5\" target=\"_blank\">Heidelbe",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoYjBpTUFaVnB3SWNkdXViUzhOd1ZiZlFTVnR3MHVaa0FWemlVZTlKdjc3bDFzMHY1R1I0MFVnX0RaNGlFeTd2c21jSUNBbmFNN2U1S1RRR3E?oc=5",
         "type": "rss"
       }
     ]
@@ -1647,6 +1942,44 @@
       {
         "name": "taiheiyo",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oamZyVDJqNlZnN1NsOVVkbE5ZMDNvSndyN0tBRTJqQVREUERIUFpfTHBWb3Q4aFNndzloRG1KUGR4YXpjUFZjUTRCdlFMS2xXemZqUk5fTm5vU0dLWlpWV1ZnT3U1b0R4dlFBUFZkNVA3Vmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-07-31-043",
+    "date": "2026-07-31",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Nucera mit Umsatzrückgang und Verlust - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE93NDA2aFYyYXIzMDcxOWRpNW85LWthWTYxNXRKS2wxRmdJYWxnU3J4anpPdzd4dnRTVUJMdUFuS2ZsMV8zVDhqdzZyYTlBVTZXS2hCZ3lldHdjVms4S2pYUllwT3JCZU1veGRNVUhuUU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93NDA2aFYyYXIzMDcxOWRpNW85LWthWTYxNXRKS2wxRmdJYWxnU3J4anpPdzd4dnRTVUJMdUFuS2ZsMV8zVDhqdzZyYTlBVTZXS2hCZ3lldHdjVms4S2pYUllwT3JCZU1veGRNVUhuUUotNjQtY2p3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-07-31-044",
+    "date": "2026-07-31",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Inter-American Development Bank recognises Cemex road safety practices in Latin America - worldcement.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSExLU3ExTEhQTDNlOXhmM1gzOFBSRlgwYWpOandJSTU5QWVJaUtjWnBjemlUejN1TTNhWEY1VWtGYWxLeFZWX3hRdjJOeWI0VVpMZnRFU1c2cEdWQ0ZGVVdEWlBybUo5YlFnNFltdX",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSExLU3ExTEhQTDNlOXhmM1gzOFBSRlgwYWpOandJSTU5QWVJaUtjWnBjemlUejN1TTNhWEY1VWtGYWxLeFZWX3hRdjJOeWI0VVpMZnRFU1c2cEdWQ0ZGVVdEWlBybUo5YlFnNFltdXY3clVjNGtKM2t3cnI3eklUbHY2aUxKLVR6QXpLYmhOMmVadHZPZ1ZMMWNLSVFRVm9uQTNpMlg2QjllTUhGeUdpYlQ2T05PZjFEWTgxc2tkdjl2WlRNMmVBR1JCb0ZVMDNTSTUzTg?oc=5",
         "type": "rss"
       }
     ]
@@ -2745,6 +3078,26 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GUkhTamNIUUhqZk5YOFhuaVJvQzFCZlNMSXY1c1MtUnJzVERLLUpVeWhiTGM3bWJNbklsSkk1Vnd4THlQbDRwYVlHRTEtenNseThKRjRIdEVXVU5CQ3RwSHM1SFJWN1ZzR1N2enNLZjZvTXFyZmpIRUhqSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-07-30-056",
+    "date": "2026-07-30",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim launches new international academy to accelerate sustainable construction - worldcement.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1F2QTRRQXgzS2ctV29iYXFBLXpjU3ZvQWNoQmlsSzR2ZE9qbEJzUWtxUmhuSFlIeHhiSGlLRGNiTTlBblh0ZGE4c0V1Vzk0SklueTMwYkVEeG50U2tFYXNCUHFCNlpRbkR1Tk53bU",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1F2QTRRQXgzS2ctV29iYXFBLXpjU3ZvQWNoQmlsSzR2ZE9qbEJzUWtxUmhuSFlIeHhiSGlLRGNiTTlBblh0ZGE4c0V1Vzk0SklueTMwYkVEeG50U2tFYXNCUHFCNlpRbkR1Tk53bU0xd1BSbmwyektPaGNxUEgzQU5YU1pNOGNUWURJZ1VyNldjQ3o0VHI2Zm9ZTGhRVFhEci04X0x5MzREVDN3ZWs2YnFZSU1ET0VrUUEtTWdaTnZiT3dOSUNsNA?oc=5",
         "type": "rss"
       }
     ]

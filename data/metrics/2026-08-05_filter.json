@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 21,
+  "gate2_fail": 19,
+  "passed": 18,
+  "gate2_samples": [
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+    "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+    "Thyssenkrupp targets late October for materials unit spinoff - Investing.com",
+    "Thyssenkrupp targets end-October completion for spin-off of materials trading unit - TradingView"
+  ]
+}
