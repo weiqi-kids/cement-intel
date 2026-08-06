@@ -1,5 +1,212 @@
 [
   {
+    "id": "cemex-2026-08-06-001",
+    "date": "2026-08-06",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex UK announces opening of new Swindon dry mortar and sprayed concrete plant - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUF2Q251dHQ2RklzeFVWVm53U0VxdEdkaEs3OHBoajFOMnNHRDVELWYyWkNwNVU1Mlg3cnpPdHRnaV9Gd0tiam9VUmZIWHpYNm9DVUN1YTdaUXg5d2E5NVVNRElicEtENzQzLVlIYU",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUF2Q251dHQ2RklzeFVWVm53U0VxdEdkaEs3OHBoajFOMnNHRDVELWYyWkNwNVU1Mlg3cnpPdHRnaV9Gd0tiam9VUmZIWHpYNm9DVUN1YTdaUXg5d2E5NVVNRElicEtENzQzLVlIYUdncGQxN2k3VnZJUGcxWjZYUlJVV2FabE94bVRtaE02S1JWa0FFMXQtMFZadGdvOThrcXZpTFNwb2ZGdHZTbWxmMFJMdWxhUFpKMkktUXI3WVFNZklaNFBz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-002",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TCC reportedly favours London for European IPO - CemNet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzI2WllsUEE2OE9oS05HeXVhS2prQm1CR2psb0M2NzFlMnZ2R2kteC03dDdaSWFEWGpEcmdoS1h1RkdHTDRldy1YRjJFZ2h6WEE0YU4wUi0tSDlzTWJma3YyMWVEMGhvdU1ldm10Nl",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzI2WllsUEE2OE9oS05HeXVhS2prQm1CR2psb0M2NzFlMnZ2R2kteC03dDdaSWFEWGpEcmdoS1h1RkdHTDRldy1YRjJFZ2h6WEE0YU4wUi0tSDlzTWJma3YyMWVEMGhvdU1ldm10Nl9zcUl0VTZZbnVjQ2d5ZFo5dGlRVlRwUzJKbTlMRlB4MTc4T3JHNFVv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-08-06-003",
+    "date": "2026-08-06",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement reports higher 1Q26 earnings and maintains FY outlook - CemNet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3VUNS1pQkFsWFVPNTUtQW1peDd3S0JiUHYzbWMxRUEyQngxTjNHSG1MSk9lZzJtM2M3VG9YeDd5a2g1U2hjd2hGLWZOZFFaVGRuXzBYdlcxSW9pRGkxQ0x3ajc4STFnOXB2QU9pVU",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3VUNS1pQkFsWFVPNTUtQW1peDd3S0JiUHYzbWMxRUEyQngxTjNHSG1MSk9lZzJtM2M3VG9YeDd5a2g1U2hjd2hGLWZOZFFaVGRuXzBYdlcxSW9pRGkxQ0x3ajc4STFnOXB2QU9pVUhIX3ctblhpMVVQZzRnelByRk5FU3QwWUhsVXZ4dHBfRmd0UXQ1cW5mVWI3TXM2Rkc5RTVRd2FyNTk2QTA3eDVoUG9jRURkZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-004",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "ACA revises US cement outlook upward despite delayed recovery",
+    "summary": " The American Cement Association (ACA) has raised its 2026 US cement consumption forecast, despite lowering its outlook for construction spending, as improvi...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181814/aca-revises-us-cement-outlook-upward-despite-delayed-recovery.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-005",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Iraq's Al-Qaim cement plant reaches full production capacity",
+    "summary": " The  Al-Qaim cement plant  has reached its full design capacity of 840,000tpa, increasing domestic cement supply while expanding exports to neighbouring Syr...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181813/iraq-s-al-qaim-cement-plant-reaches-full-production-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-006",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "TCC reportedly favours London for European IPO",
+    "summary": " Taiwan's  TCC Group Holdings  is reportedly leaning towards listing its European business on the London Stock Exchange, according to Bloomberg, although the...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181812/tcc-reportedly-favours-london-for-european-ipo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-08-06-007",
+    "date": "2026-08-06",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Taiheiyo Cement reports higher 1Q26 earnings and maintains FY outlook",
+    "summary": "  Taiheiyo Cement  reported a 5.1 per cent increase in first-quarter revenue to JPY221.9bn (US$1.5bn) for the three months ended 30 June 2026, while operatin...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181811/taiheiyo-cement-reports-higher-1q26-earnings-and-maintains-fy-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-008",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Yanbu Cement reports lower 2Q26 profit on weaker sales volumes",
+    "summary": "  Yanbu Cement  reported 2Q2026 sales of SAR233.3m (US$62.2m) and a net profit of SAR31.3m (US$8.3m). \n The Saudi company said results were affected by lowe...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181810/yanbu-cement-reports-lower-2q26-profit-on-weaker-sales-volumes.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-009",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Al Qaim Cement expands exports to Syria",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/al-maysarah-al-qaim-cement-1500.jpg\" /></p><p><strong>Iraq/Syria: </strong>The Iraq-based Al-Qaim Cement plant has reportedly reached its full pro",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21087-al-qaim-cement-expands-exports-to-syria",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-010",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Rohrdorfer Zement doubles carbon capture volume at pilot plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/rohrdorfer-zement-1500.jpg\" /></p><p><strong>Austria: </strong>Rohdorfer Zement has increased the capacity of the pilot CO₂ capture facility at it",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21086-rohrdorfer-zement-doubles-carbon-capture-volume-at-pilot-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-011",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Cemento Yura inaugurates 3D printer at cement plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/cemento-yura-1500.jpg\" /></p><p><strong>Peru: </strong>Cemento Yura has inaugurated what it says is the first 3D printer for cementitious material",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21085-cemento-yura-inaugurates-3d-printer-at-cement-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "holcim-2026-08-05-001",
     "date": "2026-08-05",
     "companies": [
@@ -92,6 +299,183 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181802/oman-cement-reports-strong-1h26-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-05-006",
+    "date": "2026-08-05",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) On Strong Earnings And The Case For A Higher Valuation - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUjRmbjltRmlKSEE1SmxzbmVhcTduWUo0STJfRXZGdWxua1JXMXZiNHFjN2Fhc21hbFkwRmJrQW0yX2FpNV9KVUQwQVctZ3dNdGl2dlZaM0RocVBMNTU2UkZXWU1uLWVQLUZ2MlBiS3",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUjRmbjltRmlKSEE1SmxzbmVhcTduWUo0STJfRXZGdWxua1JXMXZiNHFjN2Fhc21hbFkwRmJrQW0yX2FpNV9KVUQwQVctZ3dNdGl2dlZaM0RocVBMNTU2UkZXWU1uLWVQLUZ2MlBiS3JqUVVwRFBTLTgxRHVVOUpaekt1Y0JuVHg2clJPYXBXREc5TnJhUTZwS0VsM3JDRUprR3BsTHlHazVodkhIcGxHOVoweTI4YldNSFBlVzhBb2JPdnNtQ1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "martin_marietta-2026-08-05-007",
+    "date": "2026-08-05",
+    "companies": [
+      "martin_marietta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Martin Marietta Receives Regulatory Approvals for Lhoist North America Transaction",
+    "summary": "RALEIGH, N.C., Aug. 05, 2026 (GLOBE NEWSWIRE) -- Martin Marietta Materials, Inc. (NYSE: MLM) (Martin Marietta or the Company), today announced that it has received all necessary regulatory approvals f",
+    "sources": [
+      {
+        "name": "martin_marietta",
+        "url": "https://ir.martinmarietta.com/news-releases/news-release-details/martin-marietta-receives-regulatory-approvals-lhoist-north",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-05-008",
+    "date": "2026-08-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim reports strong first half, divests Philippines business - Construction & Demolition Recycling",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmhPVTlwTl9mZXNyQ1JaeEViNUFtNmRsTVJjV0loekRQYTFfbTFNaVc1RENDaVBoOTBReENmalktYTFONGczUWZLLTdjdEl1ZERvSy1QN2JIUnU0QW8zT0c0WjgtYzdXQ2dtd2xUU2",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmhPVTlwTl9mZXNyQ1JaeEViNUFtNmRsTVJjV0loekRQYTFfbTFNaVc1RENDaVBoOTBReENmalktYTFONGczUWZLLTdjdEl1ZERvSy1QN2JIUnU0QW8zT0c0WjgtYzdXQ2dtd2xUU2RTTU9mTXA3Q3BsU04wamZZT1N1Yi0zb29GMEJDWHdyUHdyNHlFZEZoWll1MXAtam9P?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-08-05-009",
+    "date": "2026-08-05",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "More milestones reached in the development of Heidelberg Materials’ Padeswood CCS project - HUB-4.COM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFI5WGFnWkhZZ04ydDhUcmtvaDU1ck1mR1J4UGNOTW8xeThvckpWenpRcGEweFJyX01hMF8zamw5UGNwMFVlNFNRUlJaakticnBpZWNXZHhrQXdJOUtDVmxMQ19fWkR2RUdVOS1EYz",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFI5WGFnWkhZZ04ydDhUcmtvaDU1ck1mR1J4UGNOTW8xeThvckpWenpRcGEweFJyX01hMF8zamw5UGNwMFVlNFNRUlJaakticnBpZWNXZHhrQXdJOUtDVmxMQ19fWkR2RUdVOS1EYzUtRWZMbEZNNXAyUlB6emxodDFzWmRyT29sU0lPRFpSel94SzNqY1U0MG1GcklvYjBjdzVOcWhCNmRwMm1GQmVLaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-08-05-010",
+    "date": "2026-08-05",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Technical Analysis of Anhui Conch Cement Co Ltd Futures (HKEX:ACCZ2026) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXg0UE1La3hqWk4wZ3pNMXljcGVKd1lqZ1FWUDI2UWx3UFBoVGd1Q0RlVnFCbkM1dzB2a3JKRWZDYVp1ZUttT2ppd1ZjdzdGVjlJRjI4RGlpMWU2S0NXSVFrelV3V3JjM2hpb0hpQ3",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXg0UE1La3hqWk4wZ3pNMXljcGVKd1lqZ1FWUDI2UWx3UFBoVGd1Q0RlVnFCbkM1dzB2a3JKRWZDYVp1ZUttT2ppd1ZjdzdGVjlJRjI4RGlpMWU2S0NXSVFrelV3V3JjM2hpb0hpQ3g1TkY1WXh6c0t2Mmc3VzFXYkM2LWk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-08-05-011",
+    "date": "2026-08-05",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement rallies Wednesday, outperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPcV9seHY5UWhSdElKdnBxQWRUZmlPLTY1eFZJdW5hQ3pKclF6QnR4cFQxQmJDMlB1ZFhuWnBYWE4xTGV0MlpVZXRvbldPSjczTVJrMTViMy1uVDRJYjZLdV8yYkF5UmVRRnBRTFBNUU",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcV9seHY5UWhSdElKdnBxQWRUZmlPLTY1eFZJdW5hQ3pKclF6QnR4cFQxQmJDMlB1ZFhuWnBYWE4xTGV0MlpVZXRvbldPSjczTVJrMTViMy1uVDRJYjZLdV8yYkF5UmVRRnBRTFBNUUQzTW9fYVZZcTJvMDllaHJYbXlFcVQwakRYaVNISzNxWUp6TFZVWXdMQ3U5a3k4OFNjNnNJNmZUZlVIWlJKaEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-012",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Buzzi reports first-half financial results for 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/euro-banknote.jpg\" /></p><p><strong>Italy:</strong> Buzzi has reported that its cement volumes increased by 5.4% in the first half of 2026, report",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21083-buzzi-reports-first-half-financial-results-for-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-05-013",
+    "date": "2026-08-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Mexico invests US$11.6m in circular economy",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/sugar-cane-bagasse-1500.jpg\" /></p><p><strong>Mexico: </strong>Holcim will use technology developed by Geocycle in Colima to process 45,000t/yr of",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21081-holcim-mexico-invests-us-11-6m-in-circular-economy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-014",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi UBE Cement plans IPO for December 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/mucc-logo-1500.jpg\" /></p><p><strong>Japan: </strong>Mitsubishi UBE Cement is reportedly planning to list on the Tokyo Stock Exchange as soon as D",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21079-mitsubishi-ube-cement-plans-ipo-for-december-2026",
         "type": "rss"
       }
     ]
@@ -280,6 +664,61 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21076-thailand-and-canada-partner-for-mobile-carbon-capture-unit-in-saraburi",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-011",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "2 Reasons to Like VMC (and 1 Not So Much) - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQem5iSFNoSHhEdFJUTXJ2WG1jNVZvOE5xLXpqZElMbUVkY0RqalY5dG9fbWszUkhyT2drQUxnR2MtVmxfWlFMVVpKVHVMUFFBQldySFV1SHcxMWNLLTJfaDREREVXcmNsSkpSNlZKN2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQem5iSFNoSHhEdFJUTXJ2WG1jNVZvOE5xLXpqZElMbUVkY0RqalY5dG9fbWszUkhyT2drQUxnR2MtVmxfWlFMVVpKVHVMUFFBQldySFV1SHcxMWNLLTJfaDREREVXcmNsSkpSNlZKN25GUGNWQWtyNWZ5b09WTE1vc01ONE51MDVRcGRNSW44ZnU0VHJnTFFhczBiVDhNSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-012",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Command Alkon Announces Acquisition by Francisco Partners from Thoma Bravo - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdzU1UGwzbTRkUGpxM1pmSDMwWGo4ajduX0dRY1Jwc3BXcEFkd1ZXZEVSdFI5VE15d3RzTVUzUWVMRGdRcnV6S2lKQVQxanpENDVpU2hudU5pcnBTSzBmNjR2VS1kZkFMejNFMHpxV2",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdzU1UGwzbTRkUGpxM1pmSDMwWGo4ajduX0dRY1Jwc3BXcEFkd1ZXZEVSdFI5VE15d3RzTVUzUWVMRGdRcnV6S2lKQVQxanpENDVpU2hudU5pcnBTSzBmNjR2VS1kZkFMejNFMHpxV2VVb3RNVHZrVWpFR3pZYmg2a3RfY0lELXVHdm4ta21peGRSazNSMEpRNUF2bzUyaXpJQ1l0Z1htVDRINmtrdkJ1M3poTVNKNThFblJINjZLSnFGc1lTa2pTSWRPXzd4ZWVoZDVUM2ZIZ29tekNjQlZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-08-04-013",
+    "date": "2026-08-04",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SIAM CEMENT CO THB1 (NVDR) To Go Ex-Dividend On August 5th, 2026 With 0.10398 USD Dividend Per Share - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdCRDVtdF9NQXlVSVc2dUFNdEtNUUhDYU13VWdnU0ZxZGZoQWpnei1mdUxENlE1ZnoxUzFtZkpKOW1CZkRaQWpWb3l6N3J4dkx5WGJscEIwM3J0elk0NFBzU0VRZWpBWlZVQzdfRk",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdCRDVtdF9NQXlVSVc2dUFNdEtNUUhDYU13VWdnU0ZxZGZoQWpnei1mdUxENlE1ZnoxUzFtZkpKOW1CZkRaQWpWb3l6N3J4dkx5WGJscEIwM3J0elk0NFBzU0VRZWpBWlZVQzdfRkxvUVMxel9DSEFrc0FobFpiNkw2UUp3Z2IyS3JwOHhMelY?oc=5",
         "type": "rss"
       }
     ]

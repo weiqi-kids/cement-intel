@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:38:37.346324Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cemex-2026-08-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex UK announces opening of new Swindon dry mortar and sprayed concrete plant - World Cement",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUF2Q251dHQ2RklzeFVWVm53U0VxdEdkaEs3OHBoajFOMnNHRDVELWYyWkNwNVU1Mlg3cnpPdHRnaV9Gd0tiam9VUmZIWHpYNm9DVUN1YTdaUXg5d2E5NVVNRElicEtENzQzLVlIYUdncGQxN2k3VnZJUGcxWjZYUlJVV2FabE94bVRtaE02S1JWa0FFMXQtMFZadGdvOThrcXZpTFNwb2ZGdHZTbWxmMFJMdWxhUFpKMkktUXI3WVFNZklaNFBz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TCC reportedly favours London for European IPO - CemNet.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzI2WllsUEE2OE9oS05HeXVhS2prQm1CR2psb0M2NzFlMnZ2R2kteC03dDdaSWFEWGpEcmdoS1h1RkdHTDRldy1YRjJFZ2h6WEE0YU4wUi0tSDlzTWJma3YyMWVEMGhvdU1ldm10Nl9zcUl0VTZZbnVjQ2d5ZFo5dGlRVlRwUzJKbTlMRlB4MTc4T3JHNFVv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "taiheiyo-2026-08-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiheiyo Cement reports higher 1Q26 earnings and maintains FY outlook - CemNet.com",
+      "companies": [
+        "taiheiyo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3VUNS1pQkFsWFVPNTUtQW1peDd3S0JiUHYzbWMxRUEyQngxTjNHSG1MSk9lZzJtM2M3VG9YeDd5a2g1U2hjd2hGLWZOZFFaVGRuXzBYdlcxSW9pRGkxQ0x3ajc4STFnOXB2QU9pVUhIX3ctblhpMVVQZzRnelByRk5FU3QwWUhsVXZ4dHBfRmd0UXQ1cW5mVWI3TXM2Rkc5RTVRd2FyNTk2QTA3eDVoUG9jRURkZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "taiheiyo-2026-08-06-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiheiyo Cement reports higher 1Q26 earnings and maintains FY outlook",
+      "companies": [
+        "taiheiyo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181811/taiheiyo-cement-reports-higher-1q26-earnings-and-maintains-fy-outlook.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-06-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yanbu Cement reports lower 2Q26 profit on weaker sales volumes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181810/yanbu-cement-reports-lower-2q26-profit-on-weaker-sales-volumes.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "taiheiyo",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 160,
+    "too_old": 124,
+    "gate1_blocked": 15,
+    "gate2_blocked": 17,
+    "passed": 23,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+      "SEMARNAT Blocks Mining in Protected Areas; Vulcan Materials Case - Mexico Business News",
+      "Thyssenkrupp targets late October for materials unit spinoff - Investing.com",
+      "Thyssenkrupp targets end-October completion for spin-off of materials trading unit - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為太平洋水泥、CEMEX相關動態：「Cemex UK announces opening of new Swindon dry mortar and ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Cemex UK announces opening of new Swindon dry mortar and sprayed concrete pla...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "TCC reportedly favours London for European IPO - CemNet.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
