@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:38:33.759645Z",
+  "updated_at": "2026-08-07T08:59:22.653393Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "亞泥",
       "ticker": "1102.TW",
       "currency": "TWD",
-      "ar": 10584802000,
-      "ar_prev": 10835977000,
-      "ar_qoq": "-2%",
+      "ar": 9826962000,
+      "ar_prev": 10584802000,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 7330618000,
-      "inv_prev": 7008974000,
-      "inv_qoq": "+5%",
+      "inventory": 7196154000,
+      "inv_prev": 7330618000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "asia_cement_china",
@@ -131,8 +131,8 @@
       "ar_qoq": "-14%",
       "ar_period": "QoQ",
       "inventory": 2750800000,
-      "inv_prev": 2741400000,
-      "inv_qoq": "+0%",
+      "inv_prev": 2832400000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,

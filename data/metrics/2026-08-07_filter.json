@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 14,
+  "gate2_fail": 12,
+  "passed": 23,
+  "gate2_samples": [
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Analysts Are Updating Their Vulcan Materials Company (NYSE:VMC) Estimates After Its Second-Quarter R",
+    "Thyssenkrupp Investors Vote On A Tk Accelis Spinoff - Finimize",
+    "Thyssenkrupp targets late October for materials unit spinoff - Investing.com",
+    "Thyssenkrupp's Elevator Test Tower Reaches New Heights - Monocle"
+  ]
+}
