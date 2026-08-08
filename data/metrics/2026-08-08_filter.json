@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 14,
+  "gate2_fail": 10,
+  "passed": 16,
+  "gate2_samples": [
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Thyssenkrupp Shareholders Back A 49% Tk Accelis Spinoff - Finimize",
+    "Thyssenkrupp targets late October for materials unit spinoff - Investing.com",
+    "Holcim Mexico invests nearly 200 million pesos to accelerate the circular economy - World Cement",
+    "Holcim sold to China firm as it exits PH - Inquirer.net"
+  ]
+}

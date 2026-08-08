@@ -1,0 +1,131 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:40:07.860118Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-08-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp Rasselstein installs 8 MW photovoltaic system to advance decarbonization goals - EUROMETAL",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa3JTMW5reHRVdG1iRk01X2g4WTNYdGw3M05VVHlHUnlyZThPNGs4M1ZUQVl6OUEyd3pUaHFHZ1JMdG84MlBQbkwwaE15U0lXQ25SNDNfVXd1UmNCQ2dzQ0lMWDBSZ0F5Nm5DOUNGQmpvSm9ReXVmakVSOTRtOWpzNVNLZmU2Q1dqcVNVdDBxTjBZVUVaSWp0NnVGY2l0aml0M1Ntbm14SENZME9vVjItbkZRd3I?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp's Materials Spin-Off Clears Its Final Hurdle — Now the Hard Part Begins - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdnhJSlhiYWhIaERmT3M3Y2NJemR2LU5qaFJTNXVsclVqenlHa1dfdkJmR1I5RUlPMW01YnFPWnZ1aFhQZTk1TWVCNFUxR1R3UHZHdlk3UHZ2WVpCSjVuZWZZTTZ5UGVnb1piUXNQb3g0VFBFWWZVV2QzTVR3VDR4NkxvX2lWTEdmQkVaMk5LS2xoRHY4Y2dhb2RHWlFEYUpyYk05bjZRZmpmcXFscDVsOVlCeFlkdEpwVkVrYlk4eWtsbENwcnkwa1J5RHVQMWp6cWtoTzRrbFpqdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 175,
+    "too_old": 125,
+    "gate1_blocked": 14,
+    "gate2_blocked": 10,
+    "passed": 16,
+    "pass_rate": "9.7%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Thyssenkrupp Shareholders Back A 49% Tk Accelis Spinoff - Finimize",
+      "Thyssenkrupp targets late October for materials unit spinoff - Investing.com",
+      "Holcim Mexico invests nearly 200 million pesos to accelerate the circular economy - World Cement",
+      "Holcim sold to China firm as it exits PH - Inquirer.net"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為蒂森克虜伯相關動態：「thyssenkrupp Rasselstein installs 8 MW photovoltaic syste...」。主要關注主題為碳排放、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "thyssenkrupp Rasselstein installs 8 MW photovoltaic system to advance decarbo...（碳排放、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Thyssenkrupp's Materials Spin-Off Clears Its Final Hurdle — Now the Hard Part...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
