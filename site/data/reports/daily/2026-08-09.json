@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:42:24.607106Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-08-09-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Asia Cement (China) Holdings (SEHK:743) Profit Squeeze Deepens After Swing To Loss - simplywall.st",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc1RZWjJBS3h2ZHdMdHFFUDZqS201d050LXlRcGcxYTVaMzczYld6VFRwbkxOV1RTdnlmbndrTmNQNmNMUDI0ay1CWkVvRV9GTG5Lb0VUcUo0aEV6Y1RUUEtkTlRja0NvYVEwbUkyWWp2eGJXT1lFVGdkV3NCRG1MRUtFTlMxNEdhUmVNTkJ3QWRPZnczVXo0aGR1TkpvVXV4WThwaDZOX29yRVpHOGpwMDlnc0NNel9RdkZld0prOG42eXhZQmhGRjhGaDl1ZUNTTXBKM1h3bGQ3MVllRWFzTk5yc9IB6AFBVV95cUxNNDA1eFVVWGVFNVNtX0U2SmI3dkIzQnJLVmhmRFk3ZHhnaU9JUzctY0t3NXZFS0Q2SXBCa3Q2RTJEZWdjeE9nMW1BWXZWeldSRTRkNDlCdjJVUW1TZVJiNV9RRi0yRGVZc21HdmR3a3VjWUVYRGxkQTFHNGFyNm5MQ0pzTGRuOWxlYVNqNExhV1dUdHF1aWxQdGFwSHYtYU10VExxdmEtS1c5UzNEUnhfcmt1alpfdFNfbDlRTWc5V09RU0E5M3A2bmRTSURpYmN3UjdfVG14S05aX3ZQcnEzbTF6TzlRS213?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-08-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assenagon Asset Management S.A. Sells 42,752 Shares of Vulcan Materials Company $VMC - MarketBeat",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHJyaUdpc3ctbjI2YTV1ZHNoZFYtNFI4NWVITWpzQnZNQjU5aGZuUWRUaE1CWE1MMmgyWWZiVDlVaFdSc2pfbC1idVFMUzhpQ2xXcFNwenhRR1VEdlM3c1k1QU02OHMxajJicFhvTlVsMFJkRVNnUk5ycExVMUJaSlpSVU42VWVGWldHWnQ3dU01X0xOOU83Z19rb2d2R3hKNUJmTG8tUUVJdmdWbmtfUEF1cl9EMjVkWTc1Q2Q1ZmloalRkdnNEVFZ5MGJid05PQkQ3RmpNNGU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 164,
+    "too_old": 135,
+    "gate1_blocked": 11,
+    "gate2_blocked": 10,
+    "passed": 10,
+    "pass_rate": "6.0%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Thyssenkrupp Shareholders Back A 49% Tk Accelis Spinoff - Finimize",
+      "Thyssenkrupp targets late October for materials unit spinoff - Investing.com",
+      "Thyssenkrupp investors approve planned spin-off of materials trading unit - marketscreener.com",
+      "Thyssenkrupp: Allocation of Shares Will Be Proportional - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Vulcan Materials、亞泥相關動態：「Asia Cement (China) Holdings (SEHK:743) Profit Squeeze De...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Asia Cement (China) Holdings (SEHK:743) Profit Squeeze Deepens After Swing To...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Assenagon Asset Management S.A. Sells 42,752 Shares of Vulcan Materials Compa...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

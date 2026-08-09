@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 11,
+  "gate2_fail": 10,
+  "passed": 10,
+  "gate2_samples": [
+    "Vulcan Materials wins decision against government - The Business Journals",
+    "Thyssenkrupp Shareholders Back A 49% Tk Accelis Spinoff - Finimize",
+    "Thyssenkrupp targets late October for materials unit spinoff - Investing.com",
+    "Thyssenkrupp investors approve planned spin-off of materials trading unit - marketscreener.com",
+    "Thyssenkrupp: Allocation of Shares Will Be Proportional - Moomoo"
+  ]
+}
