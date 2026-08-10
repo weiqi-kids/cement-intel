@@ -1,5 +1,133 @@
 [
   {
+    "id": "ultratech-2026-08-10-001",
+    "date": "2026-08-10",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Primer: Ultratech Cement (UTCEM IN) - Aug 2026 - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWhyWHlnMjhpMVY3LXZUUFpRdzBjVkVFdEh5YU1VN0JUc0JqQU9nZ3RWNEY1VTk0blZiN25MZ1VqelVUOTY3b3NpRFlPejRQWmlnSFQwVXdnYklrYmVUWGEwVEZUZ3I0ekZienlWT2",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWhyWHlnMjhpMVY3LXZUUFpRdzBjVkVFdEh5YU1VN0JUc0JqQU9nZ3RWNEY1VTk0blZiN25MZ1VqelVUOTY3b3NpRFlPejRQWmlnSFQwVXdnYklrYmVUWGEwVEZUZ3I0ekZienlWT253V21jdjNJQ3pBaXBaSjV0d1d3RFo3QWVJOFNvZWJGLWdXQURRQmxxQk16STNraUNXOTJ1MlpTUFQ3Q3FT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-002",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Cement sector joins race for FESCO privatisation in Pakistan",
+    "summary": " The Privatisation Commission (PC), Government of Pakistan, has received 12 Expressions of Interest (EOIs) for the acquisition of Faisalabad Electric Supply ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181822/cement-sector-joins-race-for-fesco-privatisation-in-pakistan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-003",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Gulbahar Cement breaks ground on US$143m Herat plant",
+    "summary": " Afghanistan’s Gulbahar Cement has begun construction of a new US$143m cement plant in Zinda Jan district, Herat province. \n The foundation stone was laid b...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181827/gulbahar-cement-breaks-ground-on-us-143m-herat-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-004",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Dinson to start cement production in Zimbabwe in October",
+    "summary": "  Dinson Iron and Steel Co (Disco)  plans to begin cement production at its Manhize industrial complex in October 2026, with an annual capacity of 400,000t. ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181826/dinson-to-start-cement-production-in-zimbabwe-in-october.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-005",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "West China Cement expects 45-50% profit fall in 1H26",
+    "summary": " West China Cement expects profit attributable to shareholders to fall by 45-50 per cent YoY in the first half of 2026, reflecting weaker performance in its ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181825/west-china-cement-expects-45-50-profit-fall-in-1h26.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-006",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mangalam Cement profit falls 38% in 1QFY27",
+    "summary": "  Mangalam Cement  reported revenue of INR4.55bn (US$52m) in the first quarter of FY26-27, up 0.8 per cent YoY. \n Profit before tax fell 37.9 per cent YoY t...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181824/mangalam-cement-profit-falls-38-in-1qfy27.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-007",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Lucky Cement reports strong earnings despite quarterly decline",
+    "summary": "  Lucky Cement Ltd  (LUCK) has announced its financial results for 4QFY26, reporting an unconsolidated net profit after tax (NPAT) of PKR9.9bn (US$35.7m). Th...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181823/lucky-cement-reports-strong-earnings-despite-quarterly-decline.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [
@@ -35,6 +163,107 @@
       {
         "name": "asia_cement",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc1RZWjJBS3h2ZHdMdHFFUDZqS201d050LXlRcGcxYTVaMzczYld6VFRwbkxOV1RTdnlmbndrTmNQNmNMUDI0ay1CWkVvRV9GTG5Lb0VUcUo0aEV6Y1RUUEtkTlRja0NvYVEwbUkyWWp2eGJXT1lFVGdkV3NCRG1MRUtFTlMxNEdhUmVNTkJ3QWRPZnczVXo0aGR1TkpvVXV4WThwaDZOX29yRVpHOGpwMDlnc0NNel9RdkZld0prOG42eXhZQmhGRjhGaDl1ZUNTTXBKM1h3bGQ3MVllRWFzTk5yc9IB6AFBVV95cUxNNDA1eFVVWGVFNVNtX0U2SmI3dkIzQnJLVmhmRFk3ZHhnaU9JUzctY0t3NXZFS0Q2SXBCa3Q2RTJEZWdjeE9nMW1BWXZWeldSRTRkNDlCdjJVUW1TZVJiNV9RRi0yRGVZc21HdmR3a3VjWUVYRGxkQTFHNGFyNm5MQ0pzTGRuOWxlYVNqNExhV1dUdHF1aWxQdGFwSHYtYU10VExxdmEtS1c5UzNEUnhfcmt1alpfdFNfbDlRTWc5V09RU0E5M3A2bmRTSURpYmN3UjdfVG14S05aX3ZQcnEzbTF6TzlRS213?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxON2cwbkdwYTRBTE80cy1qOEZIWUxkU3RWZ0JCQjVHWlE0aHhjRFJrcFRkVDQzNzd0Yzl3N0pnbVdHZkJfM1hKelFOMV9GTzBSRTN2dDFJOHNkZkNGSVRodHlnTllIVE84Q3JuUkVqT3",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON2cwbkdwYTRBTE80cy1qOEZIWUxkU3RWZ0JCQjVHWlE0aHhjRFJrcFRkVDQzNzd0Yzl3N0pnbVdHZkJfM1hKelFOMV9GTzBSRTN2dDFJOHNkZkNGSVRodHlnTllIVE84Q3JuUkVqT3BmaFFsbGV6TzYtQkN5OUN2STVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-09-004",
+    "date": "2026-08-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why You Might Be Interested In Vulcan Materials Company (NYSE:VMC) For Its Upcoming Dividend - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2FnNU1nWG9Pd0dkOTloSDZkNmdHY0h1OXQ4SjU3Wl9pX0FaTGZYMFdicFduTUwwa3JkODhfeG55Rmo4eEg1UzB4S2hPQVdPUUd1NzdCNF93TDdjSnh1U2ltQ2VRcXpMeENUVkctdV",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb2FnNU1nWG9Pd0dkOTloSDZkNmdHY0h1OXQ4SjU3Wl9pX0FaTGZYMFdicFduTUwwa3JkODhfeG55Rmo4eEg1UzB4S2hPQVdPUUd1NzdCNF93TDdjSnh1U2ltQ2VRcXpMeENUVkctdVdYckg2MmZ2dFJaMDhpd0NSdURQSDB6YXkyckNXZHpEeEZIQmlxUGJPaDNwQmZxVFFOaW5nMnlOTTRvdlN5VHdrMEE4eUpMcjBpVmczZ2t4R3VITDJxRWliQmxLUXpOd9IB0wFBVV95cUxQUzhQbVl0QWw3TnVROUZLQXRLc1Bzc3pyRnJvaDlWb3p3OWFPMkRuTnRzZ25HQUtSMjE0VUZYZGZEQU1EMDktSjBrOUhnRjFfSS05RDBJZUVFNlRNOUFkTlAwWG9icUtwQ0xncEZ0RzNXeFNUZE1RcEdnNFZTczFuSld4S19UeXc1bktSVC1vZ3E5UTcwVWt4X1BScEQwTEdUc1lWbEliZ0ltQmFoS1FZYmdKaVNEZURGd3lvM1NaRGZkQUM2Unk2a05jVzNxdjZlSlhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-09-005",
+    "date": "2026-08-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (VMC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WOEFZNDYxYjZweGM3Y215TnJDU0p3N0NnVGt0cWVzQV90RTVxOEhSS0hvLUpuWU9jUlFwZWx1UjlvejY5V1R6NjlaSzNBdTJkUm9FbUlpQ1ZYQkM2X25adA?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WOEFZNDYxYjZweGM3Y215TnJDU0p3N0NnVGt0cWVzQV90RTVxOEhSS0hvLUpuWU9jUlFwZWx1UjlvejY5V1R6NjlaSzNBdTJkUm9FbUlpQ1ZYQkM2X25adA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-09-006",
+    "date": "2026-08-09",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp CEO Miguel Lopez to Lead Hydrogen Europe Until June 2029 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONjdpQV9vLWE2cTAyd01HWlVrRmsyUnJ6LTI2MllBYWNFTko3b1BmWVJxS2FMWjRpVUhnTVRDb2g1SEFONGo4QWU3RHJ6V1NNeElSNkZRWjFzYi1vMm12S19iVDdUOFVpNWQ4cEJrQU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjdpQV9vLWE2cTAyd01HWlVrRmsyUnJ6LTI2MllBYWNFTko3b1BmWVJxS2FMWjRpVUhnTVRDb2g1SEFONGo4QWU3RHJ6V1NNeElSNkZRWjFzYi1vMm12S19iVDdUOFVpNWQ4cEJrQUFXT19hMk5LU21wbGNCaWJuN2c2U3Z1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cnbm-2026-08-09-007",
+    "date": "2026-08-09",
+    "companies": [
+      "cnbm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CNBM Extends Non-Competition Commitments to Listed Cement Subsidiaries - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnl4WlJmdE0yNUdRNjhsd2RzXzQyeThTMnhIZVVtRVFKUURCeU9MeFduanozSWRWR1pRTmFWb3ZMME82VVFjNjNmcFQ5SU5vbkgwLVdHdndqbm5VWXFXcWVGVTRFajVwbzM1Q0R4YU",
+    "sources": [
+      {
+        "name": "cnbm",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnl4WlJmdE0yNUdRNjhsd2RzXzQyeThTMnhIZVVtRVFKUURCeU9MeFduanozSWRWR1pRTmFWb3ZMME82VVFjNjNmcFQ5SU5vbkgwLVdHdndqbm5VWXFXcWVGVTRFajVwbzM1Q0R4YUk4bTV0am5lS1V1RUpER0oyeFRPekZfVkRBRnVhM2FEcWlhamlkS1MtWm1oSTl0NVYzRkV1R0NvVUQ2djZvZGY4bm9CaGVvVG1qZld5bFd4OA?oc=5",
         "type": "rss"
       }
     ]
@@ -114,6 +343,66 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2NDZlY2Z0dFbnlPb0o3ZVRXWWpuRktUQ2JsVG1yYlZaWnVUMzhxdWRpWXNLN21yTGV0SXVZWG10bTEyLVhSNU1mdDlodjNkOENFQzh0U2NQemhzc2J0UkZVVTA2WXkzaUN1TVpBSXliQXVTUzBXRUpIWFNRMGdaX2lwOEVPNzhzQTAtOTB4cjl1WEZocVA1OGl1OUI5RVVFdTlKVGhDX0ROQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-08-005",
+    "date": "2026-08-08",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Q2 2026 Earnings Call Transcript - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMEItcWtSQkUyYzNIMVBlQnQwMDduT3U5Y1hzZm1DY2tpYU90VVBjbEJhdUNua0llVWJrNHQtZDh2bHptXzFqc0VmT2xudVNBcGJaY092NHhVeWh5eTg0dVFOeHFpamlSa3dXN0hmUU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMEItcWtSQkUyYzNIMVBlQnQwMDduT3U5Y1hzZm1DY2tpYU90VVBjbEJhdUNua0llVWJrNHQtZDh2bHptXzFqc0VmT2xudVNBcGJaY092NHhVeWh5eTg0dVFOeHFpamlSa3dXN0hmUUJIQW0xd0NtVjJUTnNFUUt1bzJLT0pZdUJ6UzNDMzJvSzh5NjNKMnVjUWg0MVU3LVM3SldPYUxKMjFRcFlDbVZnWnI2Qk1WOHZRVmlKQnF3TXVmWGlWMU8zMVg4dHpQMjRBRlQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-08-006",
+    "date": "2026-08-08",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Shareholders Approve Planned Spin-Off of Tk Accelis - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2NDZlY2Z0dFbnlPb0o3ZVRXWWpuRktUQ2JsVG1yYlZaWnVUMzhxdWRpWXNLN21yTGV0SXVZWG10bTEyLVhSNU1mdDlodjNkOENFQzh0U2NQemhzc2J0UkZVVTA2WXkzaUN1TVpBSX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2NDZlY2Z0dFbnlPb0o3ZVRXWWpuRktUQ2JsVG1yYlZaWnVUMzhxdWRpWXNLN21yTGV0SXVZWG10bTEyLVhSNU1mdDlodjNkOENFQzh0U2NQemhzc2J0UkZVVTA2WXkzaUN1TVpBSXliQXVTUzBXRUpIWFNRMGdaX2lwOEVPNzhzQTAtOTB4cjl1WEZocVA1OGl1OUI5RVVFdTlKVGhDX0ROQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-08-08-007",
+    "date": "2026-08-08",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HEIDELBERG MATERIALS (HEIN.MX) Q1 FY2026 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbDg5QXVmMTRTSnJKeUhGOUJGRVhVZGpKS1h1STU2R3V4WFFEMTVqdGtRM3lHN21sLUt4T3VpQmxDc0ozemJpSzBSR0I4MExpVjdLcEdiM212RldzRl9CMndiU3R2cXFISGJOTnlzY2",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbDg5QXVmMTRTSnJKeUhGOUJGRVhVZGpKS1h1STU2R3V4WFFEMTVqdGtRM3lHN21sLUt4T3VpQmxDc0ozemJpSzBSR0I4MExpVjdLcEdiM212RldzRl9CMndiU3R2cXFISGJOTnlzY2ZXUkJMUngzQzRjWUFaZk9abTA5d3B1Q2ZXSVZPWm9RSXkxbFdW?oc=5",
         "type": "rss"
       }
     ]
@@ -661,6 +950,66 @@
     ]
   },
   {
+    "id": "thyssenkrupp-2026-08-07-029",
+    "date": "2026-08-07",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp: 49% of Shares in Tk Accelis Will Be Transferred Directly to Thyssenkrupp Shareholders - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1FaelJxeHJJeHIzRDc1d2dzLVppX0hxVm0wWmttM1pPRGN5V3YxSi1sQjZaeVJRNUFLM2dCT3RzLTFqcWlTQ0tfbWs5RVZiM29hYzk3NktGLTIzVTdCSDMyQW90M0Y5T0hCWGlycE",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1FaelJxeHJJeHIzRDc1d2dzLVppX0hxVm0wWmttM1pPRGN5V3YxSi1sQjZaeVJRNUFLM2dCT3RzLTFqcWlTQ0tfbWs5RVZiM29hYzk3NktGLTIzVTdCSDMyQW90M0Y5T0hCWGlycEYyWG9CYWRtSTNJdm5fUXR6WkpBbXZOZ0I2Mi1BZWpKQkUtOFR3YjFYeGNOU3FLXzNVU3ZwaEVfOHUycGdMTGNXbXJORHFXb2FHUGxYYlE3TFp6YWtlWFlZVTJoNmdzZzNPNFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-07-030",
+    "date": "2026-08-07",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp: Tk Accelis Is a Materials Distributor, Supply Chain Service Provider - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWZDaHV6YXVHSGM1SmdKQWlvdlBBeGFmQmFwbXZsMTVwYmNtSU9zWmdhQ25QOE5CSV9kZEN1OXpUNmlSem5fLVJRRDBUNmd3MWc4WXlRcDNyeUNHREprbklxQThyVUJYc1hQNm9tVD",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWZDaHV6YXVHSGM1SmdKQWlvdlBBeGFmQmFwbXZsMTVwYmNtSU9zWmdhQ25QOE5CSV9kZEN1OXpUNmlSem5fLVJRRDBUNmd3MWc4WXlRcDNyeUNHREprbklxQThyVUJYc1hQNm9tVDNVQ3ltQ2lmWGtWQ0c0bzJjUjV0YXdHUWxBaERGcHl1YTZLSWxsSTE5QWs2VnVMSkpKdkwzYmJlRk1xRU9vQTlQcE8tTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-07-031",
+    "date": "2026-08-07",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Will Remain the Majority Shareholder With 51% Stake - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3RodVNrYV9YaThiSXY2N1RtemNqYTJfMENDbjVDblBuN0JqcC1mbDJCWjJSWVRGUlAzaWxIOVRZajZvMnVnbjltcklmME91TGRmT1kyZGIxZnVCWXFrblNYRHZXUHBhdC14WTRubn",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3RodVNrYV9YaThiSXY2N1RtemNqYTJfMENDbjVDblBuN0JqcC1mbDJCWjJSWVRGUlAzaWxIOVRZajZvMnVnbjltcklmME91TGRmT1kyZGIxZnVCWXFrblNYRHZXUHBhdC14WTRubnJoNkJLTGZYZGM3RXZOeFBVNmRzRjFReE5WR1laRXZpMnlVV0RDcC1YVy1xSThhQkZDdEMxRFVqQ1NKaXg3S3FTSGJXTlhscXBiampXRUxOQUxzaUt0TEZ2LVJEZUljeXFxcF9aOWw5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cemex-2026-08-06-001",
     "date": "2026-08-06",
     "companies": [
@@ -1018,6 +1367,47 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ITUtMczNPQWhFekdvX21QOFhQdHE4cVNSNHR0VS1nWUpLbF9VclFjWmdXR1RvcTNsdmJQSjdscGlzNTMtbkhuR1NXbDJ4Q3VXUmwweTh0bjNhY0xzWlNOeVZ2TXJYWW02MGlZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-08-06-020",
+    "date": "2026-08-06",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Co Ltd (AQE.MU) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EOEJteldPbmN4QWtXa1NWUzB4dFlXM1NKOGx0MEIwSi1KU05KQWp6MFBEamJnV0RQLXBrQktyRE5za3RkR2oxeEt6TmJ6LTlRbEh1V01uRW1wd0E4VmxFTUVn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EOEJteldPbmN4QWtXa1NWUzB4dFlXM1NKOGx0MEIwSi1KU05KQWp6MFBEamJnV0RQLXBrQktyRE5za3RkR2oxeEt6TmJ6LTlRbEh1V01uRW1wd0E4VmxFTUVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-08-06-021",
+    "date": "2026-08-06",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Taiheiyo Cement: Profits and sales increased, with treasury share buybacks and a higher dividend forecast - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxORlFRaXVOVmt5LXFucmhZUmp4UnN3M2h3cXJteFhkMFlraFJySXZjS2YyMEFPLWlrbFdDUkpaaFVBanFjUlZwU0Nzc2NfMEhERWpFcVluaUk3SGtsVGhYNkRYNmk4SnYzM3ZDellOUk",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORlFRaXVOVmt5LXFucmhZUmp4UnN3M2h3cXJteFhkMFlraFJySXZjS2YyMEFPLWlrbFdDUkpaaFVBanFjUlZwU0Nzc2NfMEhERWpFcVluaUk3SGtsVGhYNkRYNmk4SnYzM3ZDellOUkd4N09vZWtQTkNuUDNrUThJSTY3YjRzLTRmX3JaR09CUWZ0OF9BazR2d2NudHM5MDRTc3VueDYtSUFCVGllZVdjZ2lyRmFZd0xDNk9RWmVIbVFTZFFQbU03RXFDcVJ2MjFDXzZ3Z2QxbkhhbnI0TnItbi0tSHBERHhuOXBDZkdXbTFZVGh5anpxTXVncWdBWGljcXVaM1N4bGdfZENvdTZybVlMWkg?oc=5",
         "type": "rss"
       }
     ]
@@ -1594,6 +1984,24 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDdCRDVtdF9NQXlVSVc2dUFNdEtNUUhDYU13VWdnU0ZxZGZoQWpnei1mdUxENlE1ZnoxUzFtZkpKOW1CZkRaQWpWb3l6N3J4dkx5WGJscEIwM3J0elk0NFBzU0VRZWpBWlZVQzdfRkxvUVMxel9DSEFrc0FobFpiNkw2UUp3Z2IyS3JwOHhMelY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-015",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Command Alkon Announces Acquisition by Francisco Partners from Thoma Bravo - Thoma Bravo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmY2dWZEZVBidndkaUlNMGFGc0VYMG5tb3Z1UzFSanZUUDF1VU9YeGdOMnZPV2tlUVFFdGhEZlpkRGUxN0J3NlZlZV9ObUw1VFlfak9obUFXTHhyM3M2NEwwbm9FdHJpVmlSUTA2c1",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmY2dWZEZVBidndkaUlNMGFGc0VYMG5tb3Z1UzFSanZUUDF1VU9YeGdOMnZPV2tlUVFFdGhEZlpkRGUxN0J3NlZlZV9ObUw1VFlfak9obUFXTHhyM3M2NEwwbm9FdHJpVmlSUTA2c1Q5NHVkZHVkbGtMTjB1MHczRmZNaHV4a3JkYWgyWG9qdGhEcGZiNV9lVXZYRGphLWJtRG5xOU9IOGlnTkFSM3h2dF9fWTg1MEk?oc=5",
         "type": "rss"
       }
     ]

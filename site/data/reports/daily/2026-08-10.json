@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:19:48.928773Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-10-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lucky Cement reports strong earnings despite quarterly decline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181823/lucky-cement-reports-strong-earnings-despite-quarterly-decline.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-08-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Primer: Ultratech Cement (UTCEM IN) - Aug 2026 - Smartkarma",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQWhyWHlnMjhpMVY3LXZUUFpRdzBjVkVFdEh5YU1VN0JUc0JqQU9nZ3RWNEY1VTk0blZiN25MZ1VqelVUOTY3b3NpRFlPejRQWmlnSFQwVXdnYklrYmVUWGEwVEZUZ3I0ekZienlWT253V21jdjNJQ3pBaXBaSjV0d1d3RFo3QWVJOFNvZWJGLWdXQURRQmxxQk16STNraUNXOTJ1MlpTUFQ3Q3FT?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "West China Cement expects 45-50% profit fall in 1H26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181825/west-china-cement-expects-45-50-profit-fall-in-1h26.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-10-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mangalam Cement profit falls 38% in 1QFY27",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181824/mangalam-cement-profit-falls-38-in-1qfy27.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-10-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Gulbahar Cement breaks ground on US$143m Herat plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181827/gulbahar-cement-breaks-ground-on-us-143m-herat-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 164,
+    "too_old": 129,
+    "gate1_blocked": 14,
+    "gate2_blocked": 11,
+    "passed": 21,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Vulcan Materials wins decision against government - The Business Journals",
+      "Thyssenkrupp Shareholders Back A 49% Tk Accelis Spinoff - Finimize",
+      "thyssenkrupp Miguel López named new Chair of Hydrogen Europe - Hydrogen Central",
+      "Thyssenkrupp: Allocation of Shares Will Be Proportional - moomoo.com",
+      "Thyssenkrupp targets late October for materials unit spinoff - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為UltraTech相關動態：「Lucky Cement reports strong earnings despite quarterly de...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lucky Cement reports strong earnings despite quarterly decline（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Primer: Ultratech Cement (UTCEM IN) - Aug 2026 - Smartkarma（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
