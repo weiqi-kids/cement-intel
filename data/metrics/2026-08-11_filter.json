@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 14,
+  "gate2_fail": 17,
+  "passed": 28,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+    "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+    "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center",
+    "Thyssenkrupp Shareholders Back A 49% Tk Accelis Spinoff - Finimize",
+    "Thyssenkrupp’s distribution spin-off to propel it beyond traditional warehousing business - EUROMETA"
+  ]
+}

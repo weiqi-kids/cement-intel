@@ -1,0 +1,234 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:55:00.230684Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-11-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stock markets decline in early trade as elevated crude oil prices weigh on sentiment - The New Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYVdVd05XdWhob3o0MURla1g2R1BJemQ0TXhtb1JtWEVqQzRoWU1vdFpGTjZZMDVnc090anlSV09WSHNMSDA2dDJKYkhpeFdPamlkZVJORUszaWkyWTE4VFRYdEo3RVhLS3I5akxCYkQwSFhrcy1JcFp5TlQwa256dVMyYXVacHFxZGdHVVVCVG1salExUUptd0dGcTd2U0x5aFVTS29HYjZncUhzZ3hsMFE1bE4weW92TVFCbVowbmlZUWlpN1NNaHlWWjNDd3BYekRwNtIB4gFBVV95cUxPZVA1S3lTVVdyMzdGQXpER2VOcW90RTdDVkpIeXppQ3JxRmRUWU1qMzNPVllrbkZUeDF0d281YlF4YXFrY1BHUW1BOVZJckQ0VlI0ZVp0UV9DcGZkNERubm9jY05mZ3ZnNmN1LVZqZ291UWdIRXRwWUt5M1kyazNZa09MVzFTRkJkV3c2ZnE0YzlJLXZtcnJ0djNhMUh6RGRCMXc5cV9ENmlHY18wV1V4QjRRcFhab0hqUThnOHVhRDhDYTlGdU1OZUgzVThYNi1mQTJkOG5veFZIZ2dpUEtDc3BR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley Thinks That Cement Stocks May Have Weathered The Worst — Here's Why - NDTV Profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaFhNZWdMRG5lMHF1RXRlOUdpSllsWEEteEg2Z01wU3RkR2xhamxiSGpNc3BvOVp0S29ONmk4RnRPVkZoN0tqZUNaN3VYZzJtU2hkbk9iLU5GNlZKYXA5Q2l4VTVuMzBsM05IcDRua1JqQUxSaW90TXBJZjJnRDlzcmotTzVKUDZkLVBxLXRXYTFOcklIV2hnUEN3eHlSMkkzRU9NUVlXM2NCUGxBam5SR0c0TG5KV0g3ZjNaUW5KdkJ1RENyMGg5dkhvWTBrXzZoTF92TnE1SExxdGlITVk4Vmt2LXBiZ9IB7gFBVV95cUxNU3paT2Nwa2FweDZWc1dHY2VRTTl2WmxDWTJCXzI4RXh6ZDFxLXhNdGsxMHF1X0lUU1BMT29KbkI0SW9ORmlkMVYyRjhoQ01mUXAtVHFYbmlSWEZQOUhkbWFfSnNRNUN1U0s5YVNZTm53SVFwQ2pSaV8zS0lCR0Z3RGZhUFllVlBEVjMtX3hPQzcxZUtlelRoUXo1QS1iSTFham9yVHBMTnNUM0dQNEM5ckdRNklueGtlRi15M0cxY3RlbUNQektla01LZXBmamlibjA4enpRbnd0Slc0S0JIdkNTZlkxQ3lIc2o0bTJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-08-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement shares fall 2.02%; stock among top losers on Nifty 50 - Moneycontrol.com",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeDE4b3pSNG5rRmU2N1Z5R0ZBS1hucmVwdi1GYUY4N2dya1BRSnR4algyZlhvNWt3Q3FGYlRUNnd4YW1qbGgyemR4V3gwWmw2NnRVMlMxbllKRnlwWWdpYnNoMlo1dERyWUd5ZDM4eFhFTUNLc1g4N0hqdjFJQWJtUUxlUVg3SVhjNV9aTW16N1JTR0VwXzJQUEdQUlg1UjdJN1JVZE9GdzBYeHFHRDhUWUlGVkxsakVZQ2NEX2c5QlBuQWlmZmIwMU5UQXJaUkx6MDlYX0xkYWVWQTdabXFKeGhqYVnSAeQBQVVfeXFMT3gxOG96UjRua0ZlNjdWeUdGQUtYbnJlcHYtRmFGODdncmtQUUp0eGpYMmZYbzVrd0NxRmJUVDZ3eGFtamxoMnpkeFd4MFpsNjZ0VTJTMW5ZSkZ5cFlnaWJzaDJaNXREcllHeWQzOHhYRU1DS3NYODdIanYxSUFibVFMZVFYN0lYYzVfWk1tejdSU0dFcF8yUFBHUFJYNVI3STdSVWRPRncwWHhxR0Q4VFlJRlZMbGpFWUNjRF9nOUJQbkFpZmZiMDFOVEFyWlJMejA5WF9MZGFlVkE3Wm1xSnhoamFZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Southern Province Cement returns to profit in 2Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181831/southern-province-cement-returns-to-profit-in-2q26.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-11-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Ambuja Cements adds 1.2Mta grinding capacity in Gujarat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181829/ambuja-cements-adds-1-2mta-grinding-capacity-in-gujarat.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 161,
+    "too_old": 120,
+    "gate1_blocked": 14,
+    "gate2_blocked": 17,
+    "passed": 28,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+      "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+      "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center",
+      "Thyssenkrupp Shareholders Back A 49% Tk Accelis Spinoff - Finimize",
+      "Thyssenkrupp’s distribution spin-off to propel it beyond traditional warehousing business - EUROMETA"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為UltraTech相關動態：「Stock markets decline in early trade as elevated crude oi...」。主要關注主題為財報、庫存、碳排放，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stock markets decline in early trade as elevated crude oil prices weigh on se...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Morgan Stanley Thinks That Cement Stocks May Have Weathered The Worst — Here'...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
