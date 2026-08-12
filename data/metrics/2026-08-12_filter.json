@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 12,
+  "gate2_fail": 14,
+  "passed": 33,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+    "VSB partners with thyssenkrupp Rasselstein for solar energy project - Yieh Corp.",
+    "Thyssenkrupp shareholders approve spin-off of materials trading division - gmk.center",
+    "Thyssenkrupp Nucera Shelves SOEC Scale-Up Plans - Finimize",
+    "Thyssenkrupp Nucera Ag Expects EBIT In A Range Between Eur -155 Million And Eur -135 Million For FY "
+  ]
+}

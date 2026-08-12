@@ -1,0 +1,267 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:11:23.065707Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-12-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Stock markets decline in early trade amid rising crude oil prices - The New Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1hhZzFUTXBfUHFGcW9HdTE4RDVta1lDSHYwMUtxZnZlekhsV0FiS1NEamxZTmF6OVRhNXEwSllfY1UxVjJNYThTcEZEekd0WFBaZlRSeHVPVXRzRjd4THlXSk5aOVNCTlUtTGI0bWtidTZrN2h4eE5la0RsbTF5ek5PdVVpN0s2aVNiZmxsVW5tOXVCUmZXZDVsRlE0ZGh3OWVoOHQtcGRyU3dRdy1Kc25vM25tb2FYa3BNVVp30gHLAUFVX3lxTFBHb2t1VFhXRG14SWJUZGxjNVJCM2t0VXB2MVdHOGFuOFRkMzBaejdkY3VqTURQV3dsYWRMbjZJVFpWLWlzV19qYUxveG01QzctQ2duSE1nclZxem9hcGJZeXluUWdNcEZCckJXRFc0N0h3RTBMMG1ObThaU0NBaF9fY3BWNWJLZlVmZG9kVlpaNlFrSWZnTW43bjBNWFVleU1RdGw0SXQ0TTI0eE9DeDNhYXppU1NYeGNlbWVKRnNucFZUZU1DaE5zWHBF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Nucera scraps SOEC production plans, downgrades hydrogen sales - gasworld.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDdTYUhsc1ZRMXdhbFFZMGxVNGFveHNldWlVdXl6RGRzTkpqenRreXZocnYweDhJVU5ZUlFaa3BOcjBsVTVST2l4elZ5QWNGR1hFYzE2SHM3aEJVWmh3X1Q3LVNqdUI3cEJfZ3RDMEZob0tSVlBCUlFKdFE1Z3pTMFcyYnpRaGx2cElUcUJOanVpMjJLNWhzb3gyZDEzSk5lazBWQkhnQ0JSYUJBQlk2ZHlXeGRRVTBtYmtrd0hocw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-08-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp nucera: Chlor-alkali strength and disciplined strategy offset green hydrogen volatility; outlook remains solid - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQMEhoNzZ2WUpvNzd0QlJMNHRrTjFUUFZRMnFjWndSWTJRSHRaQnl4UEUyamN4Umg4MWRNOWxQczZnSm1KLWJUSDJkQXNEcmdqRzU4M2RaYUVyTlBEN1BvM2VVamlWNWNDdWV1VGRPNHkwOS11RGg3Zk5kZWVhMDNoSF93U0lMTTlpdl9lX0NRQ2I3eG1qSXdwUUc0SjZvdDRHb1JyUnZtdXpST2htRUhQV0puS1VPLVBBRHlHRFBhSGZtNzl6dm0wQllLUm9tcWFCamNld3F4UEd3QnF4WTFLeTNMc0RmUjYzSVZoYU92WW9OWE40VGtTcUNjclVhdHpTWnFiMmo2Z3gxYkJ6eHZTX08yV3NJRXpCNlRMTXZoWUFyMG1ONU5PakxWSlUtSGxLN2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-08-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Transcript : Thyssenkrupp nucera AG & Co. KGaA, Q3 2026 Earnings Call, Aug 12, 2026 - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGhrbEtEVWpEVVVyUDdwSlZrcW1JQ3pFQnZ1TWFXYXBUM29GcXRiZm1xMWVSVjdJOHk1UDFzdDc5SDF5NUZiTHQwbWVUUGNxOGhCYWxGWlVFZGQ4SEI0Qkh1WVF0c1NNWDlkTV9Hc05IRWRhbmV5VlR5bmNrVGhDV0dPbVZpUEJoUGxabjZvazJDZl92WHNlZ2xPMmVXaUI3cVRub2ZETjR2STJzNFQ2ak5GMG5YVTY0dlFoczJvQ055TFp6VjBF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-08-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Nucera Q3 revenue falls as green hydrogen sales drop - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR01fSXk3ZV8xcnBpUkdWS3UtclpoTldsWG1ORS1mc3NkeVdOYS1RNC1TcXFiUnBHa09DQ052aTcwWF9uR3U5b2RoVGcxMWxoOXFJdGJyeHN2ei1hWl80TkFCZDZ3THQ2ZkRIUnhzOUd2NU1BRG9vNzd3NktrZ0QtTlhuRHZ4bGFTbjhQYjNYZ3g1ek53SU9jeDByN2U1SVJpMHJrNlpQaTZrNlVyRFhzeWt2UktPRW15SEdOZTVIS3BvWW9idE84b09HRElCQi1w?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 10
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 152,
+    "too_old": 130,
+    "gate1_blocked": 12,
+    "gate2_blocked": 14,
+    "passed": 33,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+      "VSB partners with thyssenkrupp Rasselstein for solar energy project - Yieh Corp.",
+      "Thyssenkrupp shareholders approve spin-off of materials trading division - gmk.center",
+      "Thyssenkrupp Nucera Shelves SOEC Scale-Up Plans - Finimize",
+      "Thyssenkrupp Nucera Ag Expects EBIT In A Range Between Eur -155 Million And Eur -135 Million For FY "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為蒂森克虜伯、UltraTech相關動態：「Stock markets decline in early trade amid rising crude oi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Stock markets decline in early trade amid rising crude oil prices - The New I...（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp Nucera scraps SOEC production plans, downgrades hydrogen sales -...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
