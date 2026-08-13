@@ -1,0 +1,283 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:11:51.141901Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-08-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp in advanced talks to adjust funding for €3 billion green steel plant - Reuters",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcmxzZVdsclNWTjV4TEdUVXo2dk1BeGY1VjRyTzE0aGNKbnN3b3Voem8yQ2ZfcUpNNlQ1TUxPcF90RWN6NTJkZmR0bEdnTGRfbG1vRWhZZEdkZmZIOGdPTU5ZN0p5a2ZyeElWNU93cUFtMGtWR25kMm9UWXlzQmsyTFhkTDJoSFhNS3Z3ZC1iejNvUmRaUWg3ZGxEaWV1ZnRFaUNQYTU0ZUprZ3F0UVpoRE1zcHFYTll4TVR1SlFmaTJUYXNPMGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp narrows 2026 outlook higher as restructuring continues - Investing.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGxBSzIyTnhISkNlc1NwazRmemRnM1RiSE8tZHdzMkNnSUlOYlRrWVQzQTFtWV9WZG1qUW02dlFqUkFoN2J3WVI2a2hkcmIxQ1FiQUtvODNpVnk1S3RHYWl3Z1RIMDB2dm9KdWhkUTlUWm1vODNyQlNNSmFuQlNsZW5ra3JabWdrR01SWnNoVU5ZVHczenNEdjlQVkRrZTRPMFBXYWhHZ0xzRWdJNlMzRW1hb0pxTHQtUmNwRWNLMmk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-08-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp raises its profit forecast for the 2025/2026 financial year - GMK Center",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVQ5eU9WWS1uTE5QZXc3VEJlcF9FV1BFSmpZUHZWSlhEeUJVaXU4QXFlajUtM2dLczlSakxIdHlMMFF0YllTUkpVZFVsVmUyaWFqWUI2V3N2dVkyNG55R2toWkVqYkl4Zkl3SFFmQWtkbUN4MlFlWHpGQkdXTFNFZDFSazBKcmhTVDVRS0lueGpKS1gwQVRyOEFlNEc5N1NjVEHSAacBQVVfeXFMTnVRTFpLY29TSVkyejUxS2dmU0hsOFdpRjk1SmVZRjBRRlQzekV2eUJzaFVobjlORG9sUUNKZnhadWJRN29FajZHQmpNT1JvWDgwNXJRTDdZRGUtT1VTMUpKZG92anZNbmxtTEc1NmxwN1JDQzREZ2dpWkhKT3Ruc0NvdHZ0c3lyNWRpN3d2ZDdhZEU5bzM5bVVCeWVNUUhhUE9IQlM5aTA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-08-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp in advanced talks to adjust funding for €3 billion green steel plant - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM3JkRnR1dG5FLTNhRTVaM1NIVHBibVY4U2tWMnpUWXZfdFRNLWdRNi02Q2UzcEdQWTg4ZWVGc212b3ZvaTYtX3lvVlpJMEJNbFVkVFRPVFFiMWJoY1F4QmR0d2cwUHFZZVdteFJ0UzJjWEU4ZmVpejdvdVFBREJSNWNmdkhJc0U5c1FmRmxEWVVydzlsaDZfeXFjMEdSaXJhbldZSDVpNEhGU1lvX0dHYVlTLW1Cb2FHNEFNWThLS0F0Nzg1N3ljaUNINTFxTWhHcjh1eWZzWWpoanY0OUtwOTJHUzM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-08-13-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Raises Profit Outlook on Strong Steel, Materials Demand - Global Banking & Finance Review",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjdaNDRJOUFkendYaTE1VERGV2szMzUxTUtGTkdpX2R4UzdoUXg5cVdSS0ZsRXZ2SHpJUEJLdTVIYmotd1V4eDhtd1ZkV19KLTNJNl9hUzdIVnpIcktIT1Q4OFFFbXlvV1kyalc0Ry1KRDMzcEpGNDBCaU1XWG43LWFvT2dOUGR1WHFsSWxheUdJZU9vS0dLMnRWUjFIN05WQU9N?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 14
+      },
+      {
+        "id": "ultratech",
+        "count": 8
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "guidance",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 131,
+    "too_old": 132,
+    "gate1_blocked": 14,
+    "gate2_blocked": 20,
+    "passed": 44,
+    "pass_rate": "21.0%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+      "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+      "Thyssenkrupp AG : Jefferies remains its Buy rating - marketscreener.com",
+      "thyssenkrupp nucera KGaA (XTRA:NCH2) Reported Lower Sales And A Loss, Is It Still 28% Undervalued? -",
+      "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為蒂森克虜伯、UltraTech、Holcim相關動態：「Thyssenkrupp in advanced talks to adjust funding for €3 b...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp in advanced talks to adjust funding for €3 billion green steel p...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Thyssenkrupp narrows 2026 outlook higher as restructuring continues - Investi...（財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

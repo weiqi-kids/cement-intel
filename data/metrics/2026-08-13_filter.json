@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 14,
+  "gate2_fail": 20,
+  "passed": 44,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+    "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+    "Thyssenkrupp AG : Jefferies remains its Buy rating - marketscreener.com",
+    "thyssenkrupp nucera KGaA (XTRA:NCH2) Reported Lower Sales And A Loss, Is It Still 28% Undervalued? -",
+    "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center"
+  ]
+}
