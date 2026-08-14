@@ -1,0 +1,268 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:07:37.286723Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-08-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock steady as tender offer and half-year figures shape outlook - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcW9KZmZLQWdpeEZyREUzNEdsTjhqcUN0VWJkdWhUUE9WU2E0SzJ0S1Q2RzhJa1RaejRiRmlEYTZlTDExYkY0enJYakFNbjRtR3pZRlhuWXZWUE9YMFJCRkFJaDktYy1OazV5NmdpczVKYzRsQUN6UGQ3ZXVJRWVmcnlaUFNzWTMyRW1HZU4yQmZ1MGlIMDBMTVNvWWZIV3U3WFh4eTRrZ21EU0xYMHMzeXdRSmtEQjB0VVRWUnY4VUhrYzBxTGxJMldKeWhUbGM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-08-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock trades quietly as investors watch post-half-year outlook - AD HOC NEWS",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM09zeUpOUFB2OWprTm53SkZvSnR4WVowV2tDQmV5bDhkQnU3MTVmcEdQc0hGZ3VMLUs5T0FjUFFMU0ZmQ3EwcmhTWGlkV2Nvc09LdElpU194OVlQcGd4Qi02bWNQckFWb2tTZFh1M2tqRHFnSDhaeEQ2VjlrWF9tRk13N2xzR25LYzdpSXpPTVFMUk9xZTZDcThMM01VOC1WTmFqWmlyOEpDVjRLdGFSLVdFX01yempaQjFFY0RwbXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-08-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement promoter sells 0.85% stake for ₹2,896 crore - BusinessLine",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWlA0VEVDSnNyVE9KQmVzbGN4dzBhY3dvczZ1WncyQTJlUGdiT2IxNTUxUVhFVFpfTl91bTQ1a0ZNdEhqVkx0WC04aFo4dkR0d2c1UWJlRUsyVngwSnpHUFB6MDhkY1FHbDg2MjVmMlZVV3hBa1hnV3BsUjFhTzk0WWJBck51T3dudllNSWU0Qk5kWjJ2NHpFUjUzaF9fLURGRkpkUTB4eVBsdWFOSEpCRlZabTZFamRHcjJ6Ul9TRVlkYWJ0NDFzamI3LUtGWUxWYWg4RXdGekF3NFExTUpuNlZUbTBFcFlZ0gHvAUFVX3lxTE9Wd2V1bkNzR0k4TkNqcmVEeEJuU2FLNFJqX0Q0eFVwOVE1QS1GeXhmLTJXX0p2ZmdINVN0cnhXV1pjc1pmVV9sRkwwT3lZNUpiUVZDdHA1ZGpEUzNnZDJ3YTB1VEZWc1JFS0h2Wmh5OW5yeG80YzRjT2U2WWRaaURmdFlkT1VXZmkzdks5Y2tuZDhlOUZzSjhzcUZZR0J5ZHhaLWJSaXhIZUVaQXdpUGpqcVhvODhzNzFYYUI4MU5zSTVrZEZPeHpfbzVMd2pHSWZhUVM1b3pzdFlzM1VDblR2OUE4aTg1QndhdEZwUlRJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-14-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Votorantim Cimentos reports  EBITDA growth in 2Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181853/votorantim-cimentos-reports-ebitda-growth-in-2q26.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-14-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "National Cement Co's earnings improve in 2Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181852/national-cement-co-s-earnings-improve-in-2q26.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 145,
+    "too_old": 135,
+    "gate1_blocked": 12,
+    "gate2_blocked": 11,
+    "passed": 38,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - finance.yah",
+      "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+      "Thyssenkrupp AG : JP Morgan reiterates its Neutral rating - marketscreener.com",
+      "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+      "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Holcim、UltraTech、Vulcan Materials相關動態：「Holcim stock steady as tender offer and half-year figures...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Holcim stock steady as tender offer and half-year figures shape outlook - AD ...（財報、展望、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials stock trades quietly as investors watch post-half-year o...（財報、展望、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

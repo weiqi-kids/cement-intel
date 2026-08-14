@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 38,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - finance.yah",
+    "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+    "Thyssenkrupp AG : JP Morgan reiterates its Neutral rating - marketscreener.com",
+    "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+    "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center"
+  ]
+}
