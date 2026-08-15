@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 8,
+  "gate2_fail": 13,
+  "passed": 31,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+    "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+    "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+    "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+    "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center"
+  ]
+}

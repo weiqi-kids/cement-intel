@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:27:48.062431Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vulcan Materials Company (VMC) Latest Stock News & Headlines - Yahoo! Finance Canada",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wZU1OU1ZId2pxelktOTBicXlYdUFEVHItQ0tpV19pcG1Mb1NZZzhjcUV3dnBodTI2ZElzTGk2TGdIOGFORnRhMkNXckU0N29kSC1EdEFnaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 341,
+    "dup_title": 152,
+    "too_old": 137,
+    "gate1_blocked": 8,
+    "gate2_blocked": 13,
+    "passed": 31,
+    "pass_rate": "16.4%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Vulcan Materials (VMC) Senior Vice President David Clement Sells 2,000 Shares - GuruFocus",
+      "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+      "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+      "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+      "Thyssenkrupp shareholders approve spin-off of materials trading division - GMK Center"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Vulcan Materials相關動態：「Vulcan Materials Company (VMC) Latest Stock News & Headli...」。主要關注主題為庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials Company (VMC) Latest Stock News & Headlines - Yahoo! Finance...（庫存）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
