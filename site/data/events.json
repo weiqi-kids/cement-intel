@@ -20,6 +20,47 @@
     ]
   },
   {
+    "id": "holcim-2026-08-15-002",
+    "date": "2026-08-15",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Materials Processing Institute-Holcim UK trial shows recycled concrete fines as clinker replacement - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTdrb213aXk3bXU3M0psekpqMGtlajN6d3ZseXZlYnRwUmVfdUxaUHFwZ2F5LWRaY2h6dktFSk5tSkV0Y1JuckRsVnYwcVBIa2h5cUdsR3Q2am9BZUdRMnc2aDZzUXQxa01ENjhHYV",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdTdrb213aXk3bXU3M0psekpqMGtlajN6d3ZseXZlYnRwUmVfdUxaUHFwZ2F5LWRaY2h6dktFSk5tSkV0Y1JuckRsVnYwcVBIa2h5cUdsR3Q2am9BZUdRMnc2aDZzUXQxa01ENjhHYVV3a2FjSThhS3RsV1JZR002aGFTVk9nS3hJcTdFUzR4c0ZXNTVqU296dTI2a1U5Rm5UZmo4Vlk5X29FY2lWbjNIWDFVekpjLV90c2NKNEctNFg2MFJld3ZBT1N6dU5iNUFUQmFoNEtfbGJQWkpYZHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-08-15-003",
+    "date": "2026-08-15",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Ag - HEI - Stock Price & News - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9takUzT0FuQk5NR1Q5QnNZTEpydjJtODQ0eVJQRGtwVzdTVm5sR1IzdnFMWWs0Q0xheHlKYzhVRWhBZW5RYkxNc1REUQ?oc=5\" target=\"_blank\">Heidelberg Materials Ag -",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9takUzT0FuQk5NR1Q5QnNZTEpydjJtODQ0eVJQRGtwVzdTVm5sR1IzdnFMWWs0Q0xheHlKYzhVRWhBZW5RYkxNc1REUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-08-14-001",
     "date": "2026-08-14",
     "companies": [
@@ -656,6 +697,106 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/skanska-small-business-opportunity-dbe-lax/827888/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-14-034",
+    "date": "2026-08-14",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Diversified Marine Completes M/V Edwin Rider for Vulcan Materials - maritime-executive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVBTYzR5ZHpZNXJwSzJZeWlscE9JOFZIUDlHRUxwM1N6RnRqdmdrTkdqWDU2U1dpbXV0TUlFVzFuUXBVRHRSSmdSWk84QzZ5cm1hakxNODNwRFlWbzRKcXYxZU9TaWM5cmtDM0J3WW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVBTYzR5ZHpZNXJwSzJZeWlscE9JOFZIUDlHRUxwM1N6RnRqdmdrTkdqWDU2U1dpbXV0TUlFVzFuUXBVRHRSSmdSWk84QzZ5cm1hakxNODNwRFlWbzRKcXYxZU9TaWM5cmtDM0J3WWlOa0JKMHlsNzdNS1NGQjFfUHFJanJJVzRLdVBDQTRYdnk2R244VGQySlZvbnYtRTFsN0lZa0Y2YTB6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-14-035",
+    "date": "2026-08-14",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp is finalising new financing terms for its €3 billion green steel plant - gmk.center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhka3A2WGV4X2R5Si1fTlhqLXA4ZUN2Wmo5VTNJTU9wZzEydk8tSTNsLW82eEwzUno5a1NvLXRIekVkT3g2MURNZEViZzNvWmJyZGF2NHlXSWVDV25uVS1HRDZyV3ZWYnVMaGhJR2",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDhka3A2WGV4X2R5Si1fTlhqLXA4ZUN2Wmo5VTNJTU9wZzEydk8tSTNsLW82eEwzUno5a1NvLXRIekVkT3g2MURNZEViZzNvWmJyZGF2NHlXSWVDV25uVS1HRDZyV3ZWYnVMaGhJR25NZ2hBbUo4YmluU0VfUlhvYjNScjYtS0lHd0xpY2FvZnNoVnNjYjY2dWI4OHFRQTZPQnI2V1VuTE9ja1JvaXhoUtIBtgFBVV95cUxPeFdLdloyeXhEem52SEFnQzRFRk15YV9Sc0dXc3gtLTlJUDYzc19SN29QQ1lxbDRwWVQ5bVhBNGd5M3QtT1hGUmJXQU9hNWNyN3FSSGxVaUFtNi1QeWRQUWY2U0piYXBtajJodTMzMllrSkcxTmg2SklHOWhVN1NiMkszQjRrN0dLX21vSVRaQVdTc0xxZTYzd2NKSmw3V29ySUNuOTdFVklVSU5yVVJDYVRKWVRIdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-14-036",
+    "date": "2026-08-14",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp: Q325/26 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTdWZk40UjhzYU5xN2k5Zm1ZMmNsb3pVMVdXaC12czMwcmNTX1RIa2Z4YmhnaUlPMlhQM1ZQTFFJdUtGX2J6RkhfSzhtNHlkMHNKQm4zZHZZRHhxbklrQ3ZQUDN4Z2JzVXVuRUtpYm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTdWZk40UjhzYU5xN2k5Zm1ZMmNsb3pVMVdXaC12czMwcmNTX1RIa2Z4YmhnaUlPMlhQM1ZQTFFJdUtGX2J6RkhfSzhtNHlkMHNKQm4zZHZZRHhxbklrQ3ZQUDN4Z2JzVXVuRUtpYmk5dGlKdEgydkZnaG5RamJfWEptTHNXNlkwTGg4Rnd0U0NXZy10OGh3eW9Rc01TTi1vQkVWVEplUVBLdTQ4NTh5Uzh2cUY3WnN6QUEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-14-037",
+    "date": "2026-08-14",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim UAE starts cement carbon capture pilot project - gasworld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTRVQ3JrMnQwc21NaWV3dzJZOEdYSGxkVFhOOTJHd1ZEd1BJN3ZmUXhvQko5eTZua2p2TldPTk0tXzFNUVBFT0gwRTY3SHFXc3B5TmJVZTc2S2VfSW1oMGRDSHBNVnFMeTJESjIzUE",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTRVQ3JrMnQwc21NaWV3dzJZOEdYSGxkVFhOOTJHd1ZEd1BJN3ZmUXhvQko5eTZua2p2TldPTk0tXzFNUVBFT0gwRTY3SHFXc3B5TmJVZTc2S2VfSW1oMGRDSHBNVnFMeTJESjIzUEx5U0tWVGpsalhfRE52eFNWTFh1S193bGNqbmtwU3JicDZZaWl3RU1hVzhCY09MV3RHd0Nz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-14-038",
+    "date": "2026-08-14",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim UAE begins CO2 capture and mineralisation pilot - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUJablNtU0NXYlp5WUhkT1M3NFR2UDBrWVBRbkotYnNqQlg2aDRodkRTM0Q2Tkx4MVdFT0lVdlpZVEM1NFVDN3hsR2RuUzc2QlItczdsaTBuckM0MlBTelpMbWVXQTVDTkozZXhjZ2",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUJablNtU0NXYlp5WUhkT1M3NFR2UDBrWVBRbkotYnNqQlg2aDRodkRTM0Q2Tkx4MVdFT0lVdlpZVEM1NFVDN3hsR2RuUzc2QlItczdsaTBuckM0MlBTelpMbWVXQTVDTkozZXhjZ2NmMGtzWmJRcTJxLVRyQWl3MVpDdVZzMXIyV0VCZ0RtN0tiWW0wT0tCZ3diVEgyR05JUEE?oc=5",
         "type": "rss"
       }
     ]
@@ -1730,6 +1871,27 @@
     ]
   },
   {
+    "id": "thyssenkrupp-2026-08-13-055",
+    "date": "2026-08-13",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp raises its profit forecast for the 2025/2026 financial year - gmk.center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVQ5eU9WWS1uTE5QZXc3VEJlcF9FV1BFSmpZUHZWSlhEeUJVaXU4QXFlajUtM2dLczlSakxIdHlMMFF0YllTUkpVZFVsVmUyaWFqWUI2V3N2dVkyNG55R2toWkVqYkl4Zkl3SFFmQW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVQ5eU9WWS1uTE5QZXc3VEJlcF9FV1BFSmpZUHZWSlhEeUJVaXU4QXFlajUtM2dLczlSakxIdHlMMFF0YllTUkpVZFVsVmUyaWFqWUI2V3N2dVkyNG55R2toWkVqYkl4Zkl3SFFmQWtkbUN4MlFlWHpGQkdXTFNFZDFSazBKcmhTVDVRS0lueGpKS1gwQVRyOEFlNEc5N1NjVEHSAacBQVVfeXFMTnVRTFpLY29TSVkyejUxS2dmU0hsOFdpRjk1SmVZRjBRRlQzekV2eUJzaFVobjlORG9sUUNKZnhadWJRN29FajZHQmpNT1JvWDgwNXJRTDdZRGUtT1VTMUpKZG92anZNbmxtTEc1NmxwN1JDQzREZ2dpWkhKT3Ruc0NvdHZ0c3lyNWRpN3d2ZDdhZEU5bzM5bVVCeWVNUUhhUE9IQlM5aTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -2368,6 +2530,26 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdE8tYlcyQ1BQbzhNWU9DTlkwRVMyM1FLTURfVll5aUpIendsdlhFZkE1ZDNDdnJwRHN0d1owY0xQaWgwdnBFclYtejRtX3kyQUlHZml0N2tBSDZEOGtJU1pDTFBValdRTG52RllTUXJiNlZhVTR6MlBvbmJtMXViM3c5aW1DaW92LWh0c1hEejdSc1h4ZkhRSzhaaXFTTms1SDB5WGVXSTJ6N09oQjc3TFB2VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-08-12-034",
+    "date": "2026-08-12",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Block Deal: Promoter Pilani Investment To Sell Stake Worth Rs 1,909 Crore - ndtvprofit.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGFteGVsaUFmQnU0cFRxR1JDQXF0UUdxYm1sX3lESlQ3OHBMN3lxR3VueHZub0NSd3diSVI2NmRuVDM5THc3c2I3eHJ2aFVVUnZfS2lVLUVfMTNiaEFlV3cwZW1aQXprMVhPWmlXNk",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGFteGVsaUFmQnU0cFRxR1JDQXF0UUdxYm1sX3lESlQ3OHBMN3lxR3VueHZub0NSd3diSVI2NmRuVDM5THc3c2I3eHJ2aFVVUnZfS2lVLUVfMTNiaEFlV3cwZW1aQXprMVhPWmlXNkZyZ2JYS1paWW90aDdLWXd2TlF3c0VJN01tQ2dMY2xUQWlOTlVNYjJyOU1fNDltTUF4U24wQTVSdDJwS3Z5aXkxUjFDUzhOa1lxdnd6Vkt4YmhTcUZKT0Y4RlNsMUtiQdIB1gFBVV95cUxQdjlNWDQyWlUxUnVTQ2xCQVBuc2JVbmtWY2IzZk9fRFVRSktxVGRnb2ZMUWo2cGl4cjM1SDJhRFFydnlwOGVZN213VVhKdjZaYlNPUFY2ZDVPbWtsdF9zckwzcExTTjh2U2VNYUF0OVVBTGNWWVZlYVFndmFEQlhUNTc4QjZtQmhtTWVyb0IyR2Q4QjFTUkowbjFld1JMMVZDdjNnckY3ZUpTYzM2Rmt1emxraG5iYTVCSUFqNU9TNGh3RklmX1RIWm5xNTMzNFVRQTlCQVFB?oc=5",
         "type": "rss"
       }
     ]
@@ -3324,6 +3506,24 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDJMX2p2UTJjQXAyc1NyU2NQVkFqV1RVdDRneHZaaDdrU3NiYlBoRHRVemR6QkNsQTdEX01fdUZXV2NtaFlzQW1ZT0U1TDZvS1dtQ19VNklVMldWM25qV09jMjNwQXBVVnAxUTRtVXJad25rSGhuWVhKQzhCcENkdWpuLUhQOUo4QXJHOE1veDVMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-028",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Culture Rebounds After the Earthquake! The 5th \"Taroko • Mountain Market\" Takes Place August 15-16 - The Malaysian Reserve",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYzVKSnhjaFlUV21VcVRGV0hyMzdKU3lUbjdKRzk4dllBQlNvMGdfSHpacEM0Yjh0bVpFRFpKNjZ5MHFwUW5MWElTeHdMVlBjZDFfZEpPTEsxazNiUnVnT25NcmhZanZQUVl5TnRFeW",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYzVKSnhjaFlUV21VcVRGV0hyMzdKU3lUbjdKRzk4dllBQlNvMGdfSHpacEM0Yjh0bVpFRFpKNjZ5MHFwUW5MWElTeHdMVlBjZDFfZEpPTEsxazNiUnVnT25NcmhZanZQUVl5TnRFeWdOeXpwempkdnUtVU11eGFXQjZSWGdMZWF2TVhHZXpaZ0otSzJKbHFwRHJFTHV1YkpPOGRFWExvUVMzbXFrRTJWajJRUVExYTloRDc5YkQ4QWxYUGF6eThhZnpDOUp5SUt3cWhQY3dZNDd4d0VMSDlZeA?oc=5",
         "type": "rss"
       }
     ]

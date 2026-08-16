@@ -1,0 +1,16 @@
+{
+  "total_raw": 341,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 7,
+  "gate2_fail": 9,
+  "passed": 10,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) vs. MLM and EXP: Can Its Aggregates Shift Keep Lifting Margins? - Yahoo Finan",
+    "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+    "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+    "Thyssenkrupp shareholders approve spin-off of materials trading division - gmk.center",
+    "Cemex: A Strong Rally Leaves Shares Overvalued, Facing Margin Pressure Risks (NYSE:CX) - Seeking Alp"
+  ]
+}
