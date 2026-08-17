@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 9,
+  "gate2_fail": 10,
+  "passed": 10,
+  "gate2_samples": [
+    "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat",
+    "German steel giant Thyssenkrupp weighs options as Rhine drops - france24.com",
+    "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+    "Cemex: A Strong Rally Leaves Shares Overvalued, Facing Margin Pressure Risks (NYSE:CX) - Seeking Alp",
+    "Jamaica leads Cemex’s regional division amid divestments - Jamaica Gleaner"
+  ]
+}
