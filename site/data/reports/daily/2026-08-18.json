@@ -1,0 +1,175 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:36:04.469079Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "heidelberg-2026-08-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock holds at €160 as steady earnings and dividend support valuation - AD HOC NEWS",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGxDWlhGeE52Q000anYxazN6X2tua2ZkaE44QjEtbkxEMlhVeFFQcUFYVFRMaGhYeF9VMUd0WXozYTk1OWFQdy1oTDZKSGlZWHdTb3NZVm1EOFBBYm1Mbk1KYWNKa0JzZHExbjNiUWxwVDFyTUE3LVVMdV9JYldIdVZ0N3hRNGI4Y1NVYVNOYUU0aHdoaFNmX0lqcDJXMTRGb08yX3RiOEZsMUdsY0dHTVcxelJVVHJFVU1WTkhOektXXzZMLXNKYkhZRzVXQk0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-18-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Caribbean Cement eyes September export restart",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181870/caribbean-cement-eyes-september-export-restart.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-08-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pilani Investment To Sell UltraTech Stake Worth Rs 19.09 bn - Construction World",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXlVR0Z1a1RiVG5TNkYyUHRBWEJkX0g4blluODRFaS1zeDlTVWJkSEg3TWljeXBaOHpvZkdqd0ZKYnc2SDBZSGgwR1piYmdLUHVHSjY1bDJ5dEdxRnhXR01hOUxhWXNRZGdUd281RkQxeFdlYjdvZkhKWTQycnlWTFF2RmZHTzk1cU1yLUg1b0J4WkhWcXdUNF9WZ1BKYW4tUjVhT0QySi1QRUFWZ09YN1N6Z3Y3WmV6REYwY1g3MHBtNWdwLXFRRHFXOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 175,
+    "too_old": 128,
+    "gate1_blocked": 11,
+    "gate2_blocked": 11,
+    "passed": 13,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat",
+      "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+      "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+      "Cemex supplies specialty concrete solutions for M99 Tower in Marseille - worldcement.com",
+      "Jamaica leads Cemex’s regional division amid divestments - Jamaica Gleaner"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為海德堡材料、UltraTech相關動態：「Heidelberg Materials stock holds at €160 as steady earnin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Heidelberg Materials stock holds at €160 as steady earnings and dividend supp...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Caribbean Cement eyes September export restart（產能）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

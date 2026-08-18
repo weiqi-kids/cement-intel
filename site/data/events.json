@@ -1,5 +1,62 @@
 [
   {
+    "id": "heidelberg-2026-08-18-001",
+    "date": "2026-08-18",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock holds at €160 as steady earnings and dividend support valuation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGxDWlhGeE52Q000anYxazN6X2tua2ZkaE44QjEtbkxEMlhVeFFQcUFYVFRMaGhYeF9VMUd0WXozYTk1OWFQdy1oTDZKSGlZWHdTb3NZVm1EOFBBYm1Mbk1KYWNKa0JzZHExbjNiUW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGxDWlhGeE52Q000anYxazN6X2tua2ZkaE44QjEtbkxEMlhVeFFQcUFYVFRMaGhYeF9VMUd0WXozYTk1OWFQdy1oTDZKSGlZWHdTb3NZVm1EOFBBYm1Mbk1KYWNKa0JzZHExbjNiUWxwVDFyTUE3LVVMdV9JYldIdVZ0N3hRNGI4Y1NVYVNOYUU0aHdoaFNmX0lqcDJXMTRGb08yX3RiOEZsMUdsY0dHTVcxelJVVHJFVU1WTkhOektXXzZMLXNKYkhZRzVXQk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-08-18-002",
+    "date": "2026-08-18",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pilani Investment To Sell UltraTech Stake Worth Rs 19.09 bn - Construction World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXlVR0Z1a1RiVG5TNkYyUHRBWEJkX0g4blluODRFaS1zeDlTVWJkSEg3TWljeXBaOHpvZkdqd0ZKYnc2SDBZSGgwR1piYmdLUHVHSjY1bDJ5dEdxRnhXR01hOUxhWXNRZGdUd281Rk",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXlVR0Z1a1RiVG5TNkYyUHRBWEJkX0g4blluODRFaS1zeDlTVWJkSEg3TWljeXBaOHpvZkdqd0ZKYnc2SDBZSGgwR1piYmdLUHVHSjY1bDJ5dEdxRnhXR01hOUxhWXNRZGdUd281RkQxeFdlYjdvZkhKWTQycnlWTFF2RmZHTzk1cU1yLUg1b0J4WkhWcXdUNF9WZ1BKYW4tUjVhT0QySi1QRUFWZ09YN1N6Z3Y3WmV6REYwY1g3MHBtNWdwLXFRRHFXOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-003",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Caribbean Cement eyes September export restart",
+    "summary": "  Caribbean Cement Company  (Carib Cement) could resume regional exports as early as September 2026 following increased production capacity at its Rockfort p...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181870/caribbean-cement-eyes-september-export-restart.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "holcim-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [
@@ -129,6 +186,155 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181859/materials-processing-institute-holcim-uk-trial-shows-recycled-concrete-fines-as-clinker-replacement.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Diversified Marine Delivers Second Towboat To Vulcan Materials - Ocean News & Technology",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQem04THktOXR3bjlGaE51Y1lNNzBibEJYT3JFNFo2QTRPdHBKS0FGc04xc0wwOFZNVHBaT04xVzhlelVYMlh4bnQzZjBxMTh5d3VvSV9McUlGbXNQcy1LZUxLeHpBOUI1REc4Wmw0V0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQem04THktOXR3bjlGaE51Y1lNNzBibEJYT3JFNFo2QTRPdHBKS0FGc04xc0wwOFZNVHBaT04xVzhlelVYMlh4bnQzZjBxMTh5d3VvSV9McUlGbXNQcy1LZUxLeHpBOUI1REc4Wmw0V01GaGpRMmdhSThRU1dCSzlpc2NsWGlRWXk1U1d4ZHZ3X3plZ1RNLWplWkxzT0NjWjB0UFdN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp’s Duisburg DRI plant could initially operate without hydrogen - EUROMETAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUZWMnlnYnlHREl0WHZtMi1Lc3VxaVhuZ1M4SDU0TXpEQW84cUZJX3poeXNmSFFaRDBsd0xYYUNSZGZuTnhhd1RrV1JZX3ZlTTFjSklIUFhLVjl2TkNOZTUwd29SMVZtR0JRZ0I5dD",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUZWMnlnYnlHREl0WHZtMi1Lc3VxaVhuZ1M4SDU0TXpEQW84cUZJX3poeXNmSFFaRDBsd0xYYUNSZGZuTnhhd1RrV1JZX3ZlTTFjSklIUFhLVjl2TkNOZTUwd29SMVZtR0JRZ0I5dDFzcWRoVEc3c0pCRUxBWHRlTldEc1VJSzFycHRibVV5VnJ6cElHRXFuclg0M3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "[Asia Cement FY2026 H1 Earnings Call] Core Business Weakens Yet Profit Surges 66%! Asia Cement Posts H1 EPS of NT$2.01, with Non-Operating Gains of NT$7.1 Billion Carrying Half the Load - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRSWVlaDZ4VTZ6T2RlTFJ0bmlXTkY5SzVIR3ZBSWhqRDF6ZTZoOWk0V3lVWlR2by1mUDJjblljNWI0MlJ0WkZVYlJWU2FaaDE3ZjN6a2JXX3ZLM1BjR21OMjd3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRSWVlaDZ4VTZ6T2RlTFJ0bmlXTkY5SzVIR3ZBSWhqRDF6ZTZoOWk0V3lVWlR2by1mUDJjblljNWI0MlJ0WkZVYlJWU2FaaDE3ZjN6a2JXX3ZLM1BjR21OMjd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Qassim Cement signs financing agreement for fourth production line",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/qassim-cement-1500.jpg\" /></p><p><strong>Saudi Arabia: </strong>Qassim Cement&nbsp;has signed an agreement with the&nbsp;Saudi Industrial Developm",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21129-qassim-cement-signs-financing-agreement-for-fourth-production-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim UAE and 44.01 launch carbon capture and mineralisation project",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/holcim-uae-mineralisation-1500.jpg\" /></p><p><strong>UAE:</strong> Holcim UAE and carbon storage developer 44.01 have launched what they call the ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21128-holcim-uae-and-44-01-launch-carbon-capture-and-mineralisation-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "California high-speed rail project could run out of money by end of 2027, inspector general says",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NEGSS-zqqyyxxbt1pWUIN4dzU0bsF6TBTFnFpKtXdzA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI2LTAxLTEyLUhhbmZvcmRfVmlhZHVjdC0w",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/california-high-speed-rail-inspector-general-finances/827998/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Skanska-Stacy Witbeck JV wins $1.9B California light rail segment",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3P1ivh5D5yqhWklFBLh3cJNRq8_2Blt76habllRWN60/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDgtMTdfMDkxNjMx",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/skanska-stacy-witbeck-win-california-light-rail/827992/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI helps contractors insulate against profit leaks",
+    "summary": "<p>Contractors are using connected job data to spot margin risk before closeout.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/spons/ai-helps-contractors-insulate-against-profit-leaks/827876/",
         "type": "rss"
       }
     ]
@@ -2075,6 +2281,46 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVQ5eU9WWS1uTE5QZXc3VEJlcF9FV1BFSmpZUHZWSlhEeUJVaXU4QXFlajUtM2dLczlSakxIdHlMMFF0YllTUkpVZFVsVmUyaWFqWUI2V3N2dVkyNG55R2toWkVqYkl4Zkl3SFFmQWtkbUN4MlFlWHpGQkdXTFNFZDFSazBKcmhTVDVRS0lueGpKS1gwQVRyOEFlNEc5N1NjVEHSAacBQVVfeXFMTnVRTFpLY29TSVkyejUxS2dmU0hsOFdpRjk1SmVZRjBRRlQzekV2eUJzaFVobjlORG9sUUNKZnhadWJRN29FajZHQmpNT1JvWDgwNXJRTDdZRGUtT1VTMUpKZG92anZNbmxtTEc1NmxwN1JDQzREZ2dpWkhKT3Ruc0NvdHZ0c3lyNWRpN3d2ZDdhZEU5bzM5bVVCeWVNUUhhUE9IQlM5aTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-13-056",
+    "date": "2026-08-13",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Q3 Earnings Call Highlights - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGgxT2VPZy1CZDhEX2NVbWpvVnNMSWltYktsYWY5YVczWmJWZHBQWE9SVlk3UGlHQmRxejBfdnRSMkd5ZUxUc0twYlJHU2RINmo5RjZyMDA1U1J5b21yTS0xN0d4V01HLXVnZEZrSl",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGgxT2VPZy1CZDhEX2NVbWpvVnNMSWltYktsYWY5YVczWmJWZHBQWE9SVlk3UGlHQmRxejBfdnRSMkd5ZUxUc0twYlJHU2RINmo5RjZyMDA1U1J5b21yTS0xN0d4V01HLXVnZEZrSlFrVUk2QUh3ZzRKdGJtaXZEa19uajBIWVNPWi1IMnJiSUVDaUlsOEFoVWt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-13-057",
+    "date": "2026-08-13",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp in advanced talks to adjust funding for €3 billion green steel plant - 101 WIXX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRExrTkM4a2RneFJEYk1DOTBlZ3R5dk1PMVRaRnhYbXd2OHBRcGtQY1hIcnBmNVNZdkI2cTFZVEoxRkV2SVg2TVpzY1ViSWJuaVZ3QW5ERG55dFpDeU03ZkRlbnBLQzduM05vZE5TSX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRExrTkM4a2RneFJEYk1DOTBlZ3R5dk1PMVRaRnhYbXd2OHBRcGtQY1hIcnBmNVNZdkI2cTFZVEoxRkV2SVg2TVpzY1ViSWJuaVZ3QW5ERG55dFpDeU03ZkRlbnBLQzduM05vZE5TSXJfaGk2R0ljdzFOQVBia05SRlgxdU5acGQ1aVBQYnJFSmk2UjdRWVNZYzVQMGdmUFFaMFJJbUlhNW1RTmVXVjZ3?oc=5",
         "type": "rss"
       }
     ]

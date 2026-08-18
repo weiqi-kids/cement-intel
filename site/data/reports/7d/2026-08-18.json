@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-18",
+  "date_range": {
+    "start": "2026-08-12",
+    "end": "2026-08-18"
+  },
+  "generated_at": "2026-08-18T08:36:04.583066Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-12-013",
+      "date": "2026-08-12",
+      "title": "Stock markets decline in early trade amid rising crude oil prices - The New Indian Express",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 48,
+      "last_week": 25,
+      "week_over_week_change": "+92%",
+      "sentiment_this_week": -0.01
+    },
+    "inventory": {
+      "this_week": 12,
+      "last_week": 6,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.08
+    },
+    "guidance": {
+      "this_week": 11,
+      "last_week": 3,
+      "week_over_week_change": "+267%",
+      "sentiment_this_week": 0.0
+    },
+    "infrastructure_spending": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "raw_material_energy_cost": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.2
+    },
+    "capacity_consolidation": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "carbon_emissions": {
+      "this_week": 2,
+      "last_week": 8,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.33
+    }
+  },
+  "company_7d_summary": {
+    "thyssenkrupp": {
+      "event_count": 25,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "ultratech": {
+      "event_count": 13,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "holcim": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "vulcan": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "heidelberg": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "asia_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 153,
+        "last": 143,
+        "change_pct": 7.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-12",
+      "event_count": 34,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 57,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 39,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-12 ~ 2026-08-18）共 153 則事件，重點為「Stock markets decline in early trade amid risin...」。財報、庫存、展望為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "UltraTech",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Holcim",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
