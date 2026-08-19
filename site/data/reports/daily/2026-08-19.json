@@ -1,0 +1,269 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:37:00.457647Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-08-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank AG Invests $208.67 Million in Vulcan Materials Company $VMC - marketbeat.com",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYURHZ1VwS1ROUFhPd2NCWURzbDZVQ3BaQjRRd1A3SDQxSnZPN1pScDc5Y0hMYjRTVk9WbUlFZ1h4SmJGNnBnZ2dIaDF0T09PWDg0b001cklrbzF0RWRyTjRPNG5VS1NJNzlMaW1lLUF4clBndjctWGZVVGZKTFNSVzVyME0tcExVZnM3MWcwam4zWUhVaEs0VGFLMFdDS0lNWU9oQzU5X1FqN1V0LWVaTFBMSVQyTGRmTW5jOWhtZkV5U0drVG1qdVVpVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-08-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim ups electric mining equipment fleet investment in Poland - International Mining",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzdlcnU1aEZic21jZWFnSzViYWZ3RmQ0Y0l0RFEza2Jvb0JfVEh0VWFLMnhENnJuLVJjMHhMOEh3NUNwOVRwMFl6TUd1Vy1IYWRHdHNqeldOX3JKOFRSOUZ3MzU0aVYyZHJuS09yM09GQ01FTHkzTkhpOTVQMC12RllXT2Zsb2RHSm13VGQ2T0E0UTJLNjJsSmNmaFZYUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-08-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim electric mining fleet in Poland: charging design lessons for quarry engineers - Geomechanics.io",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFIxUDhrX3FRa05aaHlZTXlPZkRiSFhKU1N3ZU1Xck5Rc291b3FxUE5MMU1uQ25hdVItWFc0b2Q4WWlpUWxldFBHeFJYUTNubDBld1hzUGU1blhOY0V3Q29GX0hsNTNRVi1INnFsMkx4RlFmbVhuOFNpenYzR1hoZURnTjFldUVHSXp4bllGLU1CbVlzQjBJcW83X3ZxcktWenlBbWFrRmx0NVZ3S29zZGQ3MmRxenJQUHJYLUIxMWNxdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-08-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials delays Edmonton CCS project - CemNet.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWNXajY0Y05leXBnVUNwS1phQVZ3YUM0QkVQTHRmM2t2NFBtX0tXRnl2Umh4Y1FKOEFsaGxhX3h1YUMzbGRMYnlqZXU5cWlPbVNHOHd3QkpHRGtDVjRMeDhSWjRzX0MwczFJQ1pmTm9FZnRLanczUEdRa1YyMXBGRGNHVXZjcUlJQXZobGFCR0ZrSHl1UFRCcTlR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-19-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Unacem profit rises 66% in 2Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181912/unacem-profit-rises-66-in-2q26.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "cement_pricing",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 163,
+    "too_old": 133,
+    "gate1_blocked": 10,
+    "gate2_blocked": 8,
+    "passed": 24,
+    "pass_rate": "13.7%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - marketbeat.com",
+      "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+      "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+      "Cemex supplies specialty concrete solutions for M99 Tower in Marseille - worldcement.com",
+      "Heidelberg Materials' Vermaat: AI Is a Rear-View Mirror, Human Judgment Decides in Chartering - News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Vulcan Materials、Holcim、海德堡材料相關動態：「Deutsche Bank AG Invests $208.67 Million in Vulcan Materi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Deutsche Bank AG Invests $208.67 Million in Vulcan Materials Company $VMC - m...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim ups electric mining equipment fleet investment in Poland - Internation...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "水泥價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

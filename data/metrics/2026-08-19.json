@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-19",
+  "total_events": 12,
+  "by_company": {
+    "vulcan": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "carbon_emissions": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "cement_pricing": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

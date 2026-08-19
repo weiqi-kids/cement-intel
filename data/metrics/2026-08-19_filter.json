@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 10,
+  "gate2_fail": 8,
+  "passed": 24,
+  "gate2_samples": [
+    "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - marketbeat.com",
+    "German steel giant Thyssenkrupp weighs options as Rhine drops - France 24",
+    "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+    "Cemex supplies specialty concrete solutions for M99 Tower in Marseille - worldcement.com",
+    "Heidelberg Materials' Vermaat: AI Is a Rear-View Mirror, Human Judgment Decides in Chartering - News"
+  ]
+}
