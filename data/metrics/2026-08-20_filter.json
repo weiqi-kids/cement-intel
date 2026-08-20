@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 13,
+  "gate2_fail": 7,
+  "passed": 21,
+  "gate2_samples": [
+    "Cornerstone Advisors LLC Buys Shares of 32,410 Vulcan Materials Company $VMC - MarketBeat",
+    "SCS Capital Management LLC Acquires Shares of 66,533 Vulcan Materials Company $VMC - MarketBeat",
+    "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+    "UltraTech Cement slides Thursday, underperforms competitors - MarketWatch",
+    "UltraTech Cement: How a Contested Takeover Built India's Largest Cement Company - MarkHub24"
+  ]
+}
