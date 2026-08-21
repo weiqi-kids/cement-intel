@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 15,
+  "gate2_fail": 6,
+  "passed": 22,
+  "gate2_samples": [
+    "Cornerstone Advisors LLC Buys Shares of 32,410 Vulcan Materials Company $VMC - MarketBeat",
+    "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+    "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+    "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+    "Tanzanian cement producers given eight days to reduce prices and improve supplies"
+  ]
+}

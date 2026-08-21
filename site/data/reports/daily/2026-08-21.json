@@ -1,0 +1,231 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:40:04.825403Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-08-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Danske Bank A S Makes New $18.70 Million Investment in Vulcan Materials Company $VMC - MarketBeat",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDh1dDEtbVV6eFFvV3loM2o2WkpGSktUQnRUNDFGYk93eDNyZTlGUW5DOWdYMDlKc08tRm5IVHlTOGt1dzBoN3dXTF83M055dk5CVXhjdGRlSHFSZlZoal9UaHJyOUVDSkNITkVrbVdZQ3NmYnQxblJSeHA1QlVQaXJLU1ZyRlRJNEpvSl94ckIzdWNfQVNEaUVBWC1iVm9MZGE4amRLcTdFR3hUbUJpcTFkZ1RpNUFGSS1nblRLNGRqNFZqYVNpbTBHQkpXWEg3TXBBMlRidWZzQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China boost lifts basic resources stocks, Citi raises Thyssenkrupp target - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUtQZnMwU2hBaDVxVkdhNHdVcGhDNlg1bXZBdkticDR3dkxFTmN5SnQ4czZmWXVvcFROSFZTVVMxTFpEU1lzY3BNdk1IYjlveHFBTDFwa2drc2tqM2x0c01JTlRJWEw4SXNQU2NKSUxfT1BVWGxxYlFZcWRuUV9QMTQtNFJwSEtYSV9PSjRCS3J0WEhOeF9fb1NlRENxbjFidTBsWEt1QTFRbkVMeHdGWWZWcGZGYnpIa2ZHQTlmbVNDam8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-08-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Steel Re-Rating Collides With Post-Rally Profit-Taking - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPblMyQ1BINkF2Tk9GX0NGX1ZVY05KRGZIMXU3WGE0azBJQ0RrUll4bGxvcVNxX1ptdkZVQnhFd04wWkg5aDNUa3ByMU1kYnlYRE9fZWpmWHU1TjI0T0ZyT040WnZiWDN2a1RTWmROMVhfc3VlMk5SSUZTNXNhS0JXTjluUm1zZmNlNFZWNGJMbzREZlRqVmowbDNIZUVPdktlYTExUTZWdlVEQmtaUm03LXlaVTNjMHlGTnZwS05tYXo5aU5HeWN1YkRqUVYxazZtS1Vja0VOa3k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Malayan Cement FY26 net profit rises 34%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181933/malayan-cement-fy26-net-profit-rises-34-.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-08-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SaltX advances electrified cement technology with Holcim - CemNet.com",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVlveGVUQ0dCanBLbkNJeHlkYTJrZmxYdFM3MWpBSzljNWpaWUw2V1dLM3k4WmgzdFdLamdUeU13QUo3ZC1iS0pFUmtQem9IYlAxcUY0bUctVXZHMUYzU2xpOTY1ejBQNHNxZC1kSXVuYkJHcGxvc2x5bDJTQmFjazJ5NmFaWjVYMVE0dnJDTUJQUExUNWkzN2V6RkV1b01oeW9scA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 161,
+    "too_old": 133,
+    "gate1_blocked": 15,
+    "gate2_blocked": 6,
+    "passed": 22,
+    "pass_rate": "12.5%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Cornerstone Advisors LLC Buys Shares of 32,410 Vulcan Materials Company $VMC - MarketBeat",
+      "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+      "Thyssenkrupp monitors Rhine levels as steel logistics face strain - EUROMETAL",
+      "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+      "Tanzanian cement producers given eight days to reduce prices and improve supplies"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為蒂森克虜伯、Holcim、Vulcan Materials相關動態：「Danske Bank A S Makes New $18.70 Million Investment in Vu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Danske Bank A S Makes New $18.70 Million Investment in Vulcan Materials Compa...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "China boost lifts basic resources stocks, Citi raises Thyssenkrupp target - m...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
