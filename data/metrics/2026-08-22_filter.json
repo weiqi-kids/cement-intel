@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 17,
+  "gate2_samples": [
+    "Wealthfront Advisers LLC Takes Position in Vulcan Materials Company $VMC - MarketBeat",
+    "Silvant Capital Management LLC Buys New Shares in Vulcan Materials Company $VMC - MarketBeat",
+    "Ceredex Value Advisors LLC Takes Position in Vulcan Materials Company $VMC - MarketBeat",
+    "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+    "Building NextGen Geneva : Inside Quai Vernets - Holcim"
+  ]
+}
