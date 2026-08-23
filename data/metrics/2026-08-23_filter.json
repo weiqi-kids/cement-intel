@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 12,
+  "gate2_fail": 7,
+  "passed": 4,
+  "gate2_samples": [
+    "Silvant Capital Management LLC Buys New Shares in Vulcan Materials Company $VMC - MarketBeat",
+    "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+    "Thyssenkrupp's Steel Breakup Blueprint Takes Centre Stage as Shares Touch Multi-Year Highs - Ad-hoc-",
+    "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+    "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam"
+  ]
+}

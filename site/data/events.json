@@ -23,6 +23,26 @@
     ]
   },
   {
+    "id": "thyssenkrupp-2026-08-22-002",
+    "date": "2026-08-22",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DZ BANK AG upgrades thyssenkrupp (0O1C) to a Buy - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQYk5Ha2tPbldpd3VYaHlUbnk2c1FIendOQ0FxU3pfOWdDblE3NkNyZXNKaXNycl9xY3p1VkxHN0lJRTEwYy1nNWcxYk9JY2x1cXA1aXhOR0Z5SmE2RXFDT0JyLWdsSExpLVdnSkdsX1",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYk5Ha2tPbldpd3VYaHlUbnk2c1FIendOQ0FxU3pfOWdDblE3NkNyZXNKaXNycl9xY3p1VkxHN0lJRTEwYy1nNWcxYk9JY2x1cXA1aXhOR0Z5SmE2RXFDT0JyLWdsSExpLVdnSkdsX1hJdVJiYVhPV2ZjcXdQbjdYQ1l3LUloTzNCYnZDMzhHdmlndzlzV2sxZlhaTml2bkFMelpGOXRDSEdBYkdDeS1rSy1KQm9YcmhJalE0T0hEUkdNTEt2ZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-08-21-001",
     "date": "2026-08-21",
     "companies": [
@@ -422,6 +442,46 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/global-hotel-construction-pipeline-q2-2026/828482/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-21-022",
+    "date": "2026-08-21",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "James Hardie ditches Europe, selling out to Holcim in $1.38b deal - AFR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFRQcUdMR3M5ek1zRVNod0lja05WTlVYNXNkRjRBT0c2Y0J5MlFCQ1BfckNQbXZYWTc5LTV6ZW0zd3ktSmxPc0ZUbm54NUp6TDNZT2F5MldmWWlCOFJlTGJHVnQzUTY2eG4wb01Hbj",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVFRQcUdMR3M5ek1zRVNod0lja05WTlVYNXNkRjRBT0c2Y0J5MlFCQ1BfckNQbXZYWTc5LTV6ZW0zd3ktSmxPc0ZUbm54NUp6TDNZT2F5MldmWWlCOFJlTGJHVnQzUTY2eG4wb01HbjRGV216VWV2VnNWczROWTNfYy1OX0syNUZxRy0xZzIzcGZ4SFJ6MEl0QldyRVpvYjJ5N3Z5enRsRTl2S3pDSTFpRVFZTUJNdzFTdUhvRE5jOHY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-21-023",
+    "date": "2026-08-21",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Swiss Cement Giant Holcim To Acquire German Firm Fermacell In €840M Deal - Menafn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFpcWhVTUMyOGx5d0h0TTNUOTVuQ0xTNEk0clFhT3FkZG0wOUhCZ3hSTkZQa2JWN2xubkNZRTdtVUpzLXhSZGRrbFB0VGxVUHNBc2NiY2NHb1QtaW1GSzFmeEhHeHlQTWQ1SjYzSW",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFpcWhVTUMyOGx5d0h0TTNUOTVuQ0xTNEk0clFhT3FkZG0wOUhCZ3hSTkZQa2JWN2xubkNZRTdtVUpzLXhSZGRrbFB0VGxVUHNBc2NiY2NHb1QtaW1GSzFmeEhHeHlQTWQ1SjYzSW5hajZEMnY4MkhhX3prMXNJVWZySGZ4c2dVX2NkNkl6Z0ZOR2pudnJ2dzJ3Sng2UTJoQjJn?oc=5",
         "type": "rss"
       }
     ]
@@ -855,6 +915,26 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVobkM0aDNwcEtWOUN1Z3VmVFJuZjhHajhNbmRTWmlNSmtEWkxPQllMTTlvUjBvT3N6N3d3c3dJVUZ5d1cwa1NuQlE4ZlNFenoyenJ5Skc0QVlaLU5vdlpuN3VKajFXeXZGdlBsbHNLbFFGczcxMGpFOXliWWk2a29tQ2xNTHNjNV9wLVN5MVVQWVQ3b2RjSmJtVlI2NmxadDgyc0ZMaGVyQ0NOTkxQQVhvTmVONWpOdEtQQWZpMzhPV2NCX1Fnb2JNUEpfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-08-20-023",
+    "date": "2026-08-20",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement | SCC TB - Research, Discussions, Announcements, Analytics, SmartScore & News - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjNwb0pMRUQtMEptNUdWQ1B0eElBXzVMR0JjUFE0a3ZFMTVVY1FDYWgzVzJTNEllUmFhTGV1YnRwQXNFb1VsQUdnd2JoaEt5STA2bmoxMS13d3RCM0VDWVN6aGVXalVBWnR1bnBVUF",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjNwb0pMRUQtMEptNUdWQ1B0eElBXzVMR0JjUFE0a3ZFMTVVY1FDYWgzVzJTNEllUmFhTGV1YnRwQXNFb1VsQUdnd2JoaEt5STA2bmoxMS13d3RCM0VDWVN6aGVXalVBWnR1bnBVUFZaUHM2U3ZqQWZoZ3BNeG52MXNLRQ?oc=5",
         "type": "rss"
       }
     ]
