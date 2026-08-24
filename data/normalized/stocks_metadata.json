@@ -19,14 +19,14 @@
   },
   "thyssenkrupp": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-21",
-    "count": 6807,
+    "latest": "2026-08-24",
+    "count": 6808,
     "history_complete": true
   },
   "holcim": {
     "earliest": "2001-05-23",
-    "latest": "2026-08-21",
-    "count": 6398,
+    "latest": "2026-08-24",
+    "count": 6399,
     "history_complete": true
   },
   "crh": {
@@ -43,56 +43,56 @@
   },
   "heidelberg": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-21",
-    "count": 6807,
+    "latest": "2026-08-24",
+    "count": 6808,
     "history_complete": true
   },
   "taiwan_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "asia_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6623,
+    "latest": "2026-08-24",
+    "count": 6624,
     "history_complete": true
   },
   "anhui_conch": {
     "earliest": "2002-02-07",
-    "latest": "2026-08-21",
-    "count": 6031,
+    "latest": "2026-08-24",
+    "count": 6032,
     "history_complete": true
   },
   "ultratech": {
     "earliest": "2002-08-12",
-    "latest": "2026-08-21",
-    "count": 5963,
+    "latest": "2026-08-24",
+    "count": 5964,
     "history_complete": true
   },
   "taiheiyo": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6646,
+    "latest": "2026-08-24",
+    "count": 6647,
     "history_complete": true
   },
   "siam_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6598,
+    "latest": "2026-08-24",
+    "count": 6599,
     "history_complete": true
   },
   "cnbm": {
     "earliest": "2006-03-23",
-    "latest": "2026-08-21",
-    "count": 5032,
+    "latest": "2026-08-24",
+    "count": 5033,
     "history_complete": true
   },
   "asia_cement_china": {
     "earliest": "2008-05-20",
-    "latest": "2026-08-21",
-    "count": 4502,
+    "latest": "2026-08-24",
+    "count": 4503,
     "history_complete": true
   },
   "etf_igf": {

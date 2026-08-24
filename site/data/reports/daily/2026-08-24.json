@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:46:59.146026Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-08-24-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Kiln Inlet Transition Fittings Market Growth Driven by Asia Cement Expansion Through 2035 - News and Statistics - IndexBox",
+      "companies": [
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkZrNFhkYkE2WjN6SWZwQUkyQjFVTU5RNjBUTUZ2UUJxNWxvU2laRU5MempCeERRMy1uYzRKYVNVMFpFaGRpYzJTdzZrYjZFaVpFQ1FEYmFleXhfYm5iTG1LYnViZ0FZeVV6X0pnMHktSDJUVGxzMUpxNTdtWTdoREJjbVZCZjdMOUdfX1pTb0ZXa1NoYUdHTjV3cUlpb1k5UDVmekQ3dmpvMnNVMC1SOUxUeUd5b1IyYllEN0RCTEt5TENxTnJj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Dual Engines Fire as Analysts Turn Bullish and Shares Close In on 52-Week Peak - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGcyak5tdzI1cFNoeWlSZ1cxQkM0TWVPNVBpWTF5QzdsX2F2OEVaanVjT1VQdzF4X0p1N2UzNjMweWMxZ3dTU19tQS0xd1pPXzVuM0JqZzBSQ2FuMzlkLTJ6MGVubE1xMUNkMUU1SmZKbEk0R0JoWlpFOHc4Vmg3eWdZMDQ2UFN6MHhDSXBpZkV6b2VacVBadTRnTzlXTWVHaUYxLXBkRmljNmFnMnVKR0pOTXJCeE1zNF9jS0VUSktMQXY3Y1M5Z25BWWFfRjJBTzFfSWZaWDlRb3RlbTZj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-08-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock trades well below early 2026 levels as ADR remains under pressure - Ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRzJHdnp6MEdGeEZ1REw3aWN2ZmtuNEFibDg1VVNyYXdnekhMY3h4NTFoME9EX2F6a0pKa3AxMWpxS2dhaGhOeWUtSzNSUUxkMjJCOUdEYWI1Ul9lRmtXYVRkNXhxb05YZ3N1SUJGMmNRZ1hmYUM2TEhnWl9LUUpuZ3pReE1heFQ4b3FoWDE0dXp4VFJtNl9ISFZoV09SQmRXQjVINnZTOU9od00tOTNOTUpDSkF1U0F6Nm1WNzlOLXROcXJRQ0VRUjdPeko?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cherat Cement posts mixed FY26 results, announces dividend",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181945/cherat-cement-posts-mixed-fy26-results-announces-dividend.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-24-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Soboce develops alternative fuel project at Viacha plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181946/soboce-develops-alternative-fuel-project-at-viacha-plant.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 181,
+    "too_old": 127,
+    "gate1_blocked": 12,
+    "gate2_blocked": 8,
+    "passed": 7,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Silvant Capital Management LLC Buys New Shares in Vulcan Materials Company $VMC - MarketBeat",
+      "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+      "Thyssenkrupp's Two-Pronged Turnaround Story Gains Traction With Investors - Ad-hoc-news.de",
+      "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+      "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為蒂森克虜伯、海德堡材料、亞泥相關動態：「Kiln Inlet Transition Fittings Market Growth Driven by As...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Kiln Inlet Transition Fittings Market Growth Driven by Asia Cement Expansion ...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp's Dual Engines Fire as Analysts Turn Bullish and Shares Close In...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
