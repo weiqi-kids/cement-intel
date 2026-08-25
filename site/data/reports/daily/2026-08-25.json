@@ -1,0 +1,246 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:41:18.377346Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-08-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Berenberg keeps Thyssenkrupp Nucera at 'Hold', target €9 - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlZiZkY3RFkxMEpUM1djQlp6eS0ydlZ0eUFTeFFyNENoZXoxVlB5ZktyUFZoZ1JZYnU0S2h1eDhHUnRqU2pvbVYwNHJLRFJOa0lYU3YwQUljMC03Z0lzOEYydkwwR3ZtVVMzVEY5Q3g3Y1g2c1NMTE5hWGllRERGemhqRk5oX19uNnJZUWRVQlRZNXBzSU1peHVWZDVXT0FQMEJnSGhxV09zWWFlWHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp nucera AG & Co. KGaA : Berenberg gives a Neutral rating - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkdnMndOVzBEcW9mWDJIN1dBblJjYzhWamhHWlFWLXNXNUZtUTM2djQ5ZXZPNHhaNEtFbE11UEJMekVweWlfODk5d1dtckE1WWFTYmQ4Mk1wWV9lTWc0QzhneGNhMEJfNjc4cE84Y3EwQmVBUzJRSDI4YUhwT2lJeXF5ZGFORzdnWWQ0cjJPSkk1eWFnM0s4dDlJa1lMY3lMdjNJNXRFWFo4b0VIaWF4RXZUeG1hX28?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-08-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials and MND progress Czech CCS project - CemNet.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0xsZFFhSDlDSTFVZWRqSl9hQVJnb19vdHFJQ3M0X24xZHh3c28tMnFnNUtHNWxXY01ZQnU5RUpJS3lKYWNEMGptblp6aG5oSFdQUzVOY0h5bnc4aHg3cXlhazBhdlRKc3pUenFKcGR4TVpkRkR3UlRwYW55Slh3RFVJcEg3Q3dKeC02Y25leXZTbmEzUWllV1MyWXdIRmJRdnQw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-08-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock faces climate setback amid limited fresh data - Ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUW96N1JGRHB5ZGZ5YjVFRHBNMGdTVXhmdnJXSTlrYll3U2M2ZmJYTmQ4THVtdHJkSWQ4OVdWdEhGbDVUQWRjWFlSYTZLMGJ0UXlOZTUxbDJpVHJMY0I5ZzJjbHM3aTF0Q2xfOFJWREJpRlQ2akZ2VmhNcWlYa2swZXh1d1VKWThraEsxWjlJZ1FKLWp3VXgwYk0xUmFFVnBrOFpfd0FPLTVWTElNWjdZRkNvcHdTZHlvSWMwZTVXQk82a0U1cWpLVS1jTUdrSFN5?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-08-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cement sector outlook: CLSA prefers UltraTech, Shree; sees H2 recovery - CNBC TV18",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVdHYkVzVWNOTmJFeGczZTRzSktRdm8xbmc4NzVmaGd1YjJOZ3VHRzM1OHZ2RUxfZkpXSE9ybmFiR1lUdW55TzlCTGNVbmx2QkhLMDFkYzk5LXZyM2EzcTJpN1pZM0t3dHFiUG1MSXlQLUZQYzB2eWxDYkV4TTNtdzNuMHgyb3pGTHd2b0JrZ2JSejZrdXE1Y3U2TzY5UkItblh1cmRWdUJHZnRmcDB2OHBIS1p1NXV4NkVfVmllc3RaTjFoOVNrUUJiUlpNNnJjR1dheNIB2gFBVV95cUxNVU9ialpZeUd6eC0xTThub2ZVUF9wOTJpUHNEb1BseVNBODZMMGcyS3QtQkhLdDNhak5GVjdfRGVQVncteGx5YWVCWlU0bmUxcmdKcEZVdmx3WHFsLUpYbFFrZE90YWJKQ0xPeGVpMFNsSWtpNmowVGVUUEwyWTA1QVo4UXFDWHhsbEtjbXUzVkFUNEJUVHkzVk11YWoyZFkzZFBMQm9mQ3hBYlhtM0xEQW96d1Z5TGdfLW5EZUNfUEJVNTlLNUlBQTZrWjBSdGR5SFpHTU9wOVMzUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 171,
+    "too_old": 128,
+    "gate1_blocked": 11,
+    "gate2_blocked": 7,
+    "passed": 21,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+      "Building NextGen Geneva : Inside Quai Vernets - Holcim",
+      "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+      "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam",
+      "Heidelberg Materials AG: Spohn Cement Beteiligungen GmbH, Granting (sale) of European put options on"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為海德堡材料、蒂森克虜伯、UltraTech相關動態：「Berenberg keeps Thyssenkrupp Nucera at 'Hold', target €9 ...」。主要關注主題為財報、碳排放、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Berenberg keeps Thyssenkrupp Nucera at 'Hold', target €9 - marketscreener.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Thyssenkrupp nucera AG & Co. KGaA : Berenberg gives a Neutral rating - market...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

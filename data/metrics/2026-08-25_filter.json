@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 11,
+  "gate2_fail": 7,
+  "passed": 21,
+  "gate2_samples": [
+    "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+    "Building NextGen Geneva : Inside Quai Vernets - Holcim",
+    "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+    "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam",
+    "Heidelberg Materials AG: Spohn Cement Beteiligungen GmbH, Granting (sale) of European put options on"
+  ]
+}
