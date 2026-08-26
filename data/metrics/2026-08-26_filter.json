@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 14,
+  "gate2_fail": 10,
+  "passed": 22,
+  "gate2_samples": [
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+    "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+    "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam",
+    "Heidelberg Materials AG: Spohn Cement Beteiligungen GmbH, Granting (sale) of European put options on"
+  ]
+}

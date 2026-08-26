@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:42:14.520589Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-26-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Capsol Technologies strengthens cement pipeline despite lower 1H26 revenues",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.cemnet.com/News/story/181976/capsol-technologies-strengthens-cement-pipeline-despite-lower-1h26-revenues.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-08-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock steadies above recent lows as Turkey deal offsets US funding setback - Ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXE0Q2tEc1oxYXdHaFh5OXRfNjZlUHNlcmZpa3RHZUYxSHhhTGZ5NkJKMjR4ek1OaFl0ZEhJWGp0NlNLZDRiVk0xOXpDYUljNUhGblFPa1JFOGIwb2NFem16MVdsNUlDQldMWUNGX3pRbGNHSWt0SE5VcElPdlpHV0ZhRU1tbURIZnVLTVo1dEtqNUdVNms2X1EwTEdCQ3AtdmN6aVdXeE1faUcwYjl0eTR1NXFsVXFEYkxJWGVtdzBWSk9mcmxsS0J0dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-26-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Meghalaya to review Shree Cement plant hearing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.cemnet.com/News/story/181978/meghalaya-to-review-shree-cement-plant-hearing.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp's Steel Suitor Emerges as Shares Ride a Multi-Week Winning Streak - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOVpfZlRRQWdxaEwxd2hIWU10MV9fcHFVNi14bUs3aFlSbnJqeHJidnJld3pWNGpvVWVtZVo0eXF0YUJvdzdiR1U0bUIxSkY2LXJFUWVSbkF3T2pjV1Z2N3ZQMEtldnI0TVBDYVpnaVNVOExvWU9pRU5tdmMwUzJzZDVZV1A5dGJibUpVVWJ6QnBHUGFOeDlaT1Awb3FMNG9OV015Ukl0M0ctZVZld0E1N3FnWktVX3J2Z2xWTDI0OFpoTzEzZ0g4Ml96cXpYTXJiN0JYamw1UG9MRnM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dangote plans vessel acquisition to support regional exports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/181977/dangote-plans-vessel-acquisition-to-support-regional-exports.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.38,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 165,
+    "too_old": 127,
+    "gate1_blocked": 14,
+    "gate2_blocked": 10,
+    "passed": 22,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+      "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+      "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne",
+      "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam",
+      "Heidelberg Materials AG: Spohn Cement Beteiligungen GmbH, Granting (sale) of European put options on"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為蒂森克虜伯、海德堡材料相關動態：「Capsol Technologies strengthens cement pipeline despite l...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Capsol Technologies strengthens cement pipeline despite lower 1H26 revenues（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Heidelberg Materials stock steadies above recent lows as Turkey deal offsets ...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

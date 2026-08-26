@@ -1,5 +1,98 @@
 [
   {
+    "id": "thyssenkrupp-2026-08-26-001",
+    "date": "2026-08-26",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Steel Suitor Emerges as Shares Ride a Multi-Week Winning Streak - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOVpfZlRRQWdxaEwxd2hIWU10MV9fcHFVNi14bUs3aFlSbnJqeHJidnJld3pWNGpvVWVtZVo0eXF0YUJvdzdiR1U0bUIxSkY2LXJFUWVSbkF3T2pjV1Z2N3ZQMEtldnI0TVBDYVpnaV",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOVpfZlRRQWdxaEwxd2hIWU10MV9fcHFVNi14bUs3aFlSbnJqeHJidnJld3pWNGpvVWVtZVo0eXF0YUJvdzdiR1U0bUIxSkY2LXJFUWVSbkF3T2pjV1Z2N3ZQMEtldnI0TVBDYVpnaVNVOExvWU9pRU5tdmMwUzJzZDVZV1A5dGJibUpVVWJ6QnBHUGFOeDlaT1Awb3FMNG9OV015Ukl0M0ctZVZld0E1N3FnWktVX3J2Z2xWTDI0OFpoTzEzZ0g4Ml96cXpYTXJiN0JYamw1UG9MRnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-08-26-002",
+    "date": "2026-08-26",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock steadies above recent lows as Turkey deal offsets US funding setback - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXE0Q2tEc1oxYXdHaFh5OXRfNjZlUHNlcmZpa3RHZUYxSHhhTGZ5NkJKMjR4ek1OaFl0ZEhJWGp0NlNLZDRiVk0xOXpDYUljNUhGblFPa1JFOGIwb2NFem16MVdsNUlDQldMWUNGX3",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXE0Q2tEc1oxYXdHaFh5OXRfNjZlUHNlcmZpa3RHZUYxSHhhTGZ5NkJKMjR4ek1OaFl0ZEhJWGp0NlNLZDRiVk0xOXpDYUljNUhGblFPa1JFOGIwb2NFem16MVdsNUlDQldMWUNGX3pRbGNHSWt0SE5VcElPdlpHV0ZhRU1tbURIZnVLTVo1dEtqNUdVNms2X1EwTEdCQ3AtdmN6aVdXeE1faUcwYjl0eTR1NXFsVXFEYkxJWGVtdzBWSk9mcmxsS0J0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-003",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "negative",
+    "title": "Meghalaya to review Shree Cement plant hearing",
+    "summary": " The Meghalaya government will establish a fact-finding committee to examine concerns surrounding the public hearing for Shree Cement’s  proposed plant  in t...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181978/meghalaya-to-review-shree-cement-plant-hearing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-004",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Dangote plans vessel acquisition to support regional exports",
+    "summary": " Dangote Industries is planning to acquire its own vessels to transport products from Nigeria to markets across West and Central Africa as shipping constrain...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181977/dangote-plans-vessel-acquisition-to-support-regional-exports.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-005",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Capsol Technologies strengthens cement pipeline despite lower 1H26 revenues",
+    "summary": " Capsol Technologies reported continued commercial progress in the European cement sector in 1H26, despite a sharp decline in group revenues as slower market...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181976/capsol-technologies-strengthens-cement-pipeline-despite-lower-1h26-revenues.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-08-25-001",
     "date": "2026-08-25",
     "companies": [
@@ -117,6 +210,254 @@
       {
         "name": "cemnet",
         "url": "https://www.cemnet.com/News/story/181961/heidelberg-materials-and-mnd-progress-czech-ccs-project.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-25-007",
+    "date": "2026-08-25",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (NYSE: VMC) director sells 14,000 shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXB0RjZIM1BRZjc1djZVX0FJVjhWUWU2a1l4QlZwdVBlbTNPejNYOUNKbjZQa2ZoWTBUVGZWNmdxNG4wS3p5WmJDMWlhTFlpX0lZeUVpc1BSSk11V0tWS2wtRzhWYnpxZjJIeG5mR1",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXB0RjZIM1BRZjc1djZVX0FJVjhWUWU2a1l4QlZwdVBlbTNPejNYOUNKbjZQa2ZoWTBUVGZWNmdxNG4wS3p5WmJDMWlhTFlpX0lZeUVpc1BSSk11V0tWS2wtRzhWYnpxZjJIeG5mR1o1ODBJbU80ZHgyaDlHbUMyb3EtU3l3ek9mRHpYajA1blhXX0gxeDB4V3dFMFA2Z0xoNVhXZXJ1UVZSOThEd0pnZHZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-25-008",
+    "date": "2026-08-25",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Insider Sold Shares Worth $3,866,404, According to a Recent SEC Filing - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdm1xdUhvc2Q4RkRwMEwwbF81eXJ2VEdFckR4X2lQX3hVUXpSTHBrdndGNzdSYjkzclUtNkNNQnRCc2x6RXQ3RlBzajh4SU5tNWRwUnYyd0FsbUd2cXlWeVdEcW9kRHNsWFJRWHBvTE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdm1xdUhvc2Q4RkRwMEwwbF81eXJ2VEdFckR4X2lQX3hVUXpSTHBrdndGNzdSYjkzclUtNkNNQnRCc2x6RXQ3RlBzajh4SU5tNWRwUnYyd0FsbUd2cXlWeVdEcW9kRHNsWFJRWHBvTEtzSkluTV9OYjNtTXlqbXkyNjdHbXlIbEVMQ0dKWFFmVUFWZUxGeWpmYlV3WE8tM1ZBdHZhQ0tKOEJUYmdaWkJ4cVFqZ250V2MzNXlQbmJ4elY3cmJCcEp5M2ZqeU1HMU5CWVJjdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-25-009",
+    "date": "2026-08-25",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VMC Initiates Coverage On Vulcan Materials -- Rating Set to Buy - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWJsZlBpQWZ4OTlZZi1KMFZEYXVxV2NyeFFIcjlkUkRfcmNpV1ZrQ2xVMUotZVBDWm5QTHp3NXUwVUtESWJSOWFyMjhBbWprOGZnclY1NDNxQTNsZUFKZUI4Q0U0LVJnSjZvUVFvdH",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWJsZlBpQWZ4OTlZZi1KMFZEYXVxV2NyeFFIcjlkUkRfcmNpV1ZrQ2xVMUotZVBDWm5QTHp3NXUwVUtESWJSOWFyMjhBbWprOGZnclY1NDNxQTNsZUFKZUI4Q0U0LVJnSjZvUVFvdHB4LXpONHJaVHZrSWR2dy13bnYtbDNxNXBmZXpXTmdwRFNpOXRXd0MzM3VBSTcyeC1V?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-25-010",
+    "date": "2026-08-25",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company donating $50,000 for community projects in Lexington - WKYT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHZzOE5Uc0s2aHNEaHdfdXQzWWxRX1lRZ0pqcno5Q2UxMlZvYV9CWjFMYVR1VFVDZmpWWTcwVnFzd09nbThxZk14N29oNjM1bUpwdDgwZmFhcE85U1dKSk5sUVc4QTZEUmdubEZtS0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHZzOE5Uc0s2aHNEaHdfdXQzWWxRX1lRZ0pqcno5Q2UxMlZvYV9CWjFMYVR1VFVDZmpWWTcwVnFzd09nbThxZk14N29oNjM1bUpwdDgwZmFhcE85U1dKSk5sUVc4QTZEUmdubEZtS0ZCbnpLaHVqRUlJRE1aTFNSS29Uei1XdnhFOGl4QWdhanNfd3M1cWhZd19qcHIwSk9GeEFnWkhLT203bDNQUE5UWEZKY0p0Y1BEM0pwZ2xQVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-011",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Man charged after allegedly stealing tools from Rockcastle County garage - WKYT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNNGZkdUQ0N211VjlvRnNTeWc1cjlDYVlnWHh2U3IxNkJDckJQUmk1YVR5dTFXRnpSTVRNUjVuODFJLTYtY1JYRy03YkhCeFlrMVJkSGdDRFlsQkMwMndOeUt0YnVHN0JnOXd3TVM2dW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNGZkdUQ0N211VjlvRnNTeWc1cjlDYVlnWHh2U3IxNkJDckJQUmk1YVR5dTFXRnpSTVRNUjVuODFJLTYtY1JYRy03YkhCeFlrMVJkSGdDRFlsQkMwMndOeUt0YnVHN0JnOXd3TVM2dWhQdVlKNjlFSVFyMklnbUQ3NDlYbWU2MTFhcEVXS202UkkxdU1iUkFaVmp3MTBTeldwOENIQWRsR1J5d0YtSmg2RkFhN1V6dlR2ZGtteExB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-08-25-012",
+    "date": "2026-08-25",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Berenberg Stays Cautious On Thyssenkrupp Nucera’s Order Story - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0lOOXlpR2plNWduSWdqU1JScC1fd18yVDB0Y01ESEhXR1k0NUl1cGVCdFE3NUFUVjZUV1FSWWJ1TjVQVUl2cmc3VXJPQkQ2X09zUkY5czEzZldjYzgwcy1CWlNOVkhxZnpEbmlWWj",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0lOOXlpR2plNWduSWdqU1JScC1fd18yVDB0Y01ESEhXR1k0NUl1cGVCdFE3NUFUVjZUV1FSWWJ1TjVQVUl2cmc3VXJPQkQ2X09zUkY5czEzZldjYzgwcy1CWlNOVkhxZnpEbmlWWjEwVjJWMFJJTTF6MDhyVmx2MGc5OURqREdJV1FGMVVlRllpRHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-013",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "XS284206142 Bond Risk Profile - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80azh6WDkzcDVJLTRGWHVjeXhKcEJzUGMxcTUtWmFzVkZyOVdyWFhBRjFwblRvRVVkX0ZIb2VQTkhzS1ZCZ29DY3J3OFIwQzQ1WHA2c3ZEaGJTNXo5elFoUTZoaV9nMVgxTDRfQzY0UH",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80azh6WDkzcDVJLTRGWHVjeXhKcEJzUGMxcTUtWmFzVkZyOVdyWFhBRjFwblRvRVVkX0ZIb2VQTkhzS1ZCZ29DY3J3OFIwQzQ1WHA2c3ZEaGJTNXo5elFoUTZoaV9nMVgxTDRfQzY0UHdfSFI4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-014",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Halla Cement Receives Technology Certification for Concrete Resistant to Summer Heat and Rainfall - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZjNQNnF1QVdfcnJ1ZkZUQ2RaM1pSWTVBSlBQMmNMVDlFTTRVTC1VeVlZdXlEMk91eFRBUXE3MEE3cGtNQVlYOVl1RG42Y3M5ZGpPV2g2WER6Y205WmV2aGlOcXo?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QZjNQNnF1QVdfcnJ1ZkZUQ2RaM1pSWTVBSlBQMmNMVDlFTTRVTC1VeVlZdXlEMk91eFRBUXE3MEE3cGtNQVlYOVl1RG42Y3M5ZGpPV2g2WER6Y205WmV2aGlOcXo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-08-25-015",
+    "date": "2026-08-25",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement rises Tuesday, underperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjB0MUdUMUxqMDZUSnRJZ0FUd2VOTFY3QXkyZGJIbzRwOGY2dDBPemsyU0ltRjNVMWUtbDIwR0Vlc1NyZTRuQV9MaXlUZ1UwY1ZFeVBvTkx4NlZLWnBubVlmazY3emhWV1dvRUpLQ2",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjB0MUdUMUxqMDZUSnRJZ0FUd2VOTFY3QXkyZGJIbzRwOGY2dDBPemsyU0ltRjNVMWUtbDIwR0Vlc1NyZTRuQV9MaXlUZ1UwY1ZFeVBvTkx4NlZLWnBubVlmazY3emhWV1dvRUpLQ2R5V1lIbHBFZkpFY2xQQk81R1hDZlN4WlhjUmduVlg3OUx4Wi15VUdSZDZvSEZfTHJXcnVXMkpsZmlYcC1EdjFQVk5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-25-016",
+    "date": "2026-08-25",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim commissions membrane CO2 capture unit at Höver plant",
+    "summary": "  Holcim Germany  has commissioned a membrane-based CO 2  capture demonstration plant at its  Höver  cement works in Lower Saxony, Germany. \n The facility, ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/181963/holcim-commissions-membrane-co2-capture-unit-at-h-ver-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-017",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Fossil-free clinker production using plasma torches",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/clinker-1500.jpg\" /></p><p><strong>India: </strong>N Bhanumathidas and N Kalidas are co-founders of the Institute for Solid Waste Research and Eco",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21157-fossil-free-clinker-production-using-plasma-torches",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-018",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "$9.2B Tennessee highway project picks construction team",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3Jvn2A_qDTdp_B5A0C_AzSz_Z0kn0LsaFl5VNQ6lDL0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JLTI0X19JLTQwX0ludGVyY2hhbmdlLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/92b-tennessee-highway-project-picks-construction-team/828758/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-019",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "NYC earmarks $4B for ‘deteriorating’ highway",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EvIYcGRtpf4a0Fuy8pkkLvL1wAVA25MFBa-0UXKQ9sw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDYzODU2OTcwLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/nyc-brooklyn-queens-expressway-project/828737/",
         "type": "rss"
       }
     ]
@@ -524,6 +865,47 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/public-builders-prepare-state-federal-dbe-dei/828519/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-08-24-022",
+    "date": "2026-08-24",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Stock: Analyst Estimates & Ratings - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0M2NEwzY2JidmVxaGUwYjVtbThpclJyTV91b3p2by1VZVlVSE9PdlJWOHVxLTZLcUlJZlZoV0prS0kxeW9JU0RWaHhJaWc3SFcyZG5TTzUtSUhjd09sUWl5ZXZodDZRaGhIYkotZW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0M2NEwzY2JidmVxaGUwYjVtbThpclJyTV91b3p2by1VZVlVSE9PdlJWOHVxLTZLcUlJZlZoV0prS0kxeW9JU0RWaHhJaWc3SFcyZG5TTzUtSUhjd09sUWl5ZXZodDZRaGhIYkotZWt5elg1dFpZUHVVcVhfZVZKMFBqaS1DVDFzSjRQSU9TWDhDTUNVbFc2ckJLVmsteU1YU2RtNDlDY18?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-08-24-023",
+    "date": "2026-08-24",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ASIA CEMENT CH (00743) Stock Forum and Discussion - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxQYzdmNUNVVkRKaUp2RlpLb0JfbjJzd1RvWFlpMVJxdmpVSWlGYnUyV0VtQm9pTVVEUnR1R0ZTVVk5dG1KWlZmVWpwMTZoQVhBR2ZmMnZMMXp5QWZCRDFXUXlwSld3VFg0ajJEZ044Qj",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQYzdmNUNVVkRKaUp2RlpLb0JfbjJzd1RvWFlpMVJxdmpVSWlGYnUyV0VtQm9pTVVEUnR1R0ZTVVk5dG1KWlZmVWpwMTZoQVhBR2ZmMnZMMXp5QWZCRDFXUXlwSld3VFg0ajJEZ044QjdBVWxLeF9HVk9tOGFKQ2tkeUswSWVqVTNTVEV1MmpMazBMSUhRR3JHX0NLSXVfVHlsUmdSV1Zoazk3dGR5bmh1a1dvaVExam9GcDlFNHBZTUVra2hiY1ZtSVNMdi11LS1tWW5fS0ZRZkRHZVg3eF91TngxMnlOdXRtcmhKUkVUUjM2RkdZMDBzTDBrUGxxTHhOcmJrWjZJLXItNVBvNHVlcEtLZ3p2R0RfOFdCQmE4cnFOcHF0UVZpSWhkQ3dFQlB4cVE?oc=5",
         "type": "rss"
       }
     ]
@@ -1032,6 +1414,45 @@
       {
         "name": "holcim",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUFpcWhVTUMyOGx5d0h0TTNUOTVuQ0xTNEk0clFhT3FkZG0wOUhCZ3hSTkZQa2JWN2xubkNZRTdtVUpzLXhSZGRrbFB0VGxVUHNBc2NiY2NHb1QtaW1GSzFmeEhHeHlQTWQ1SjYzSW5hajZEMnY4MkhhX3prMXNJVWZySGZ4c2dVX2NkNkl6Z0ZOR2pudnJ2dzJ3Sng2UTJoQjJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-024",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Breakthrough for Future-Proof Cement Production - idw - Informationsdienst Wissenschaft",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObzd5R2ZIR3NEUDYycnhKNVBnMXotQU1VcmZoZWw3ZnFRb3BiZmYzVjQ2SW1yd3l4bVZES1lPRUNualJpV2daamRiMlFKY2dkSHBZUzAybnBnWXlha1VSbVJOYlRlelYwTDBsSDBSUj",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzd5R2ZIR3NEUDYycnhKNVBnMXotQU1VcmZoZWw3ZnFRb3BiZmYzVjQ2SW1yd3l4bVZES1lPRUNualJpV2daamRiMlFKY2dkSHBZUzAybnBnWXlha1VSbVJOYlRlelYwTDBsSDBSUjc2U2NuRDBKMUkyc2NoUkdYOEdQcWdnMzFvRkFSWW04TXBtS0h5X2JR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-08-21-025",
+    "date": "2026-08-21",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock advances after €840 million Fermacell acquisition deal - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHMwY3M4WDJ0VEF6YjhYZXl1Z2phUHdmazV5eDRoOGo5RXRfblNmZWhvSTdaMG9reU81U3ZRNHBkSVo0VFBqTURGbklqdzZRV3FsTDFKTWlSbHl6djZzanpCSjhoUmh2cWo4eWxMN3",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNHMwY3M4WDJ0VEF6YjhYZXl1Z2phUHdmazV5eDRoOGo5RXRfblNmZWhvSTdaMG9reU81U3ZRNHBkSVo0VFBqTURGbklqdzZRV3FsTDFKTWlSbHl6djZzanpCSjhoUmh2cWo4eWxMN3pselVzbFRnOU9zc29JalEzT3V2X2JtUWNFa2s5NkRUQUFLNUVuX1NTdEdDb0VTb0JZRGxTNHNHVS03eFQxbnJYSW5KVFdhWHhpVVlHa2JoeUZjVjRVeWN5Tg?oc=5",
         "type": "rss"
       }
     ]
