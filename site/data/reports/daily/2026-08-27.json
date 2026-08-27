@@ -1,0 +1,283 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:52:20.279130Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "anhui_conch-2026-08-27-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Anhui Conch Cement's Attributable Profit Declines in H1 - marketscreener.com",
+      "companies": [
+        "anhui_conch"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVMxRkZheVlacU9iV1NXeUdLYkNFVkhodzlIcFhybDlXeVcybmNIcTRzOFZlYUlFZUtOQW5qVHdtaUVkS1czWmRkZjRtck9adzJmYURJTVhVNmRKLWhrVU1kQk1ya0t2TmFYbUpQeUxrTVcwV2NJN1dITUxJZWJJdVBPOHBWcEZwRWt3MDg1Ujh3bjY0cEFBYWhPVGVzalA4LUFKRXpmT0lBS0ct?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock trades near 52-week high after profit guidance hike - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNVJHcFVTR2RybGNFOHJCTmR3N1BRNjAtRXQ2SHhJR1BRNlp5bG9KbnRiTFNkRkk4Tnd4QWQ4SHNGOE5Zajk4c084ZUJFNzRCcWFGLVNrYmV3bmEwSUxxR0U3QTF1SDVudjFramxCSDNTUGxvZk14Tk52Y0JnRUV1bHhFejdNMFY0QTBjMFBKUWUwcEpQZUJ0R2RoVE5odDI0R3BrWi12eENXSm1EQk5TTlo0dGZzZXpwZFFJcnZEOTk0d2w4M2thS3c2RFAxQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-08-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Shares Ride a Two-Track Rally as Tariff Chaos and a Raised Outlook Converge - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVNTbVJMVTFBRl96X0JwMmNINWlieXczRDlnUWc1eWFYa2lhaTJGeUdLenp3b3BGc05MOEFSa1hYTURiM1hhY2huYTdIRm9aTjVKcHhSVW93akpORmNfcWRoMGw1dkZTNC14Sjk3WnVzeG1za0oxbFB3alVzcVRGS3VaQ2FMMzhvcC0zZ3h6bE03UUFRTXBjczdiZ242eUluRm5OLUQtNkt2b0FDeWEwR05CRmJBS21OTURfeWtJMi1WVUN5NV9YS0JZT0oyOWJUX2ZWV0lsQk1YS2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-08-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock jumps as DAX gains, logistics fleet expands - Ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM083ektSTnp3QmFVdlNtYk1xaGV1djQyVXR1dmtlanpxQTlxUU04Nlp2QlJ0cklkaEkyY1lVRUdoS2RMNUtQT1BJejRDTzd3M25NQ3pZMkQ4VGVYclVvdjJPWnY1ZmtIajBtMTU3bWZSUXlGUWtYREo2NmdrNHZxdzBzNUNNTTRLTHp6U3FCbS0xQkI5MWREd3Etc0RkdnVMQzZwZFN6UTJwejJQbm03bF9LTmFlNGM1cXZITjJTeW85SC11cmZDZ0d3Qzk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-08-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Buy, Sell Or Hold: Shriram Finance, HDFC Bank, Hindustan Copper, Tata Motors PV And UltraTech Cement — Ask Profit - NDTV Profit",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOFBUWXNRWGdkRF8tWW80V0ZtOTBHaU9ia0duZVpBTEFqRlNEQnBSTTI2ckFONHhZVWV5LUFMRmtEOVNuajctNXZHdGM1WTY4bE40dGw2X05hU3VBZGpZUndZTHgtSVk5X01kb0VOT01MOURidXhKNGNfbzlIVE1pR2pWOU9rQ0pBTnZmcFNUWHA0Unl6WTZnMy10TGtzdVV3OUFVc3VpejJEcFZ6STc3ekZMZWdiX2plTzBoQV8zQkEycUZCZlMwYVdxV0dXTklENEM1eEp1SjZBcU02QWV1OEVJWTHSAewBQVVfeXFMT1BBNTB5cmZFb2F6WGZKQmV1cjJCWVJWSHRMeXRpbzY3a1R0V2c5Yy04YjdmdUt3V0g2UGRfUEJiZHVzSkVlVk9nenNBOXRkaHpLTHVQSkdwa0g2X0R3WHZCU29Jc3lvS1BJNEk5cnNLM0htTTZZTEJUc2xoQzlpLURoa2NTWC0xWi1RUEZLck54clN3MGpzVkpFRjNKOUJkVlNZUFJYU1l2cWZEVk1jSDROQ2sxYk81d3hWa3hka2g2em9xVll5cDFyelFYTWYya1JtdEdUcTFOb05VUmRYd1ctV3gxdzBiajAtVjQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 5
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 170,
+    "too_old": 117,
+    "gate1_blocked": 13,
+    "gate2_blocked": 10,
+    "passed": 25,
+    "pass_rate": "15.2%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+      "Vulcan Materials (VMC) Draws Undervalued Calls, Is It A Bargain Or Fully Priced? - Sahm",
+      "Thyssenkrupp Rasselstein Plans 8 MW Solar Power Station with PPA - News and Statistics - IndexBox",
+      "thyssenkrupp Steel Issues Final Acceptance for Slab Caster at Duisburg Site - WebWire",
+      "Holcim Would Acquire Part of James Hardie’s European Business for €840 Million - Eurasia Business Ne"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為蒂森克虜伯、Holcim、海德堡材料相關動態：「Anhui Conch Cement's Attributable Profit Declines in H1 -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Anhui Conch Cement's Attributable Profit Declines in H1 - marketscreener.com（財報）",
+        "level": "red"
+      },
+      {
+        "text": "ThyssenKrupp stock trades near 52-week high after profit guidance hike - Ad-h...（財報、展望、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
