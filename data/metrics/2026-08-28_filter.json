@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 12,
+  "gate2_fail": 10,
+  "passed": 21,
+  "gate2_samples": [
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Thyssenkrupp's Rally Faces Its Most Telling Test: Can Fundamentals Catch Up With the Charts? - Ad-ho",
+    "Hancock commissioners table decision on Heidelberg quarry permit after 3-hour deliberation - WGXA",
+    "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam",
+    "Anhui Conch Cement 914 HK - Smartkarma"
+  ]
+}

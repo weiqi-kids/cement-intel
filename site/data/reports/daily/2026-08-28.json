@@ -1,0 +1,281 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:56:10.034374Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-28-015",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Fire at Ash Grove's Durkee cement plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21176-fire-at-ash-grove-s-durkee-cement-plant"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-08-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywall.st",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY2JMT3FtWjhFaWRyenpYQkFjUThXWU9JdXp3UjQxUmV4VVN5UUlKeFFWRU1jcnJEQTlGVDRYVFRqa0RGblliX0JqRFhBa2Fac0JMbE80STB2ZFBDajlyUGNoZGl1S1Vybjc4ZTZCRU1Ga1k1TEF5MWRzOURXakJVRUdKWmpIN2R5UDQ4MUdJZGN1Q2lEMkpUSUdreDNFQVhyOFJzNy1NaGg3RFloaFNQTVVwbTdDc3JWYWF5MDNocWM0QUN1TTd2Z1VUbHl4d9IB0wFBVV95cUxPRktUczhGUm54dmh3alloU0RZN2xqQVpJNnVDTGJUbktWZHNvU1VHQzZZVVhuVF85cWVSdXNmYWw3MndWYjNRUGhWb3h2RmlncEQ5S3FpNUxzMkpkLXJrSDlmeC1kbnN2T1dwTlVvZV85T01ubllUM19ucm1zb0t6X1hRcnlOVTB1MWYzXzdnVWpFSXdhN0pqX1Jla3VrOHNhWVZLcnRhdWtRME1DbFcwclV4aFhYZUMtclpkWTdVS2l5NVFEc200VXF1anp6UEFPOEV3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-08-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Analyst Fan Club Grows Louder, But the Charts Are Screaming Caution - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGdiMlZ3ckwxVFM5X1JTdWM5TGVNcFR2YkFNMk1ONU1rMkF2akVWdHNOQ3ZJbTlQV1RuWmh2Y0pSa0NrdzhjeVFRN0JBeVc1UDBxZy1ZWmxHbnVFUzg4cnUzWU1NaXcxRjQ1VWQtSE1ma0lxa2Y5empkYUo4cm90ZjhRbXRfWFhuaWZwbmlOZ0xoWDNHblZGUGkybXAxN2lkeXdDR1lEY2prdlNMZUFwWWdkelplSUFXOGNxSmRZUVJFM042Y1hUejYyNkNBLWVkbno4VGx2YjBUeGZneEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-08-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock holds close to multi-year high as profit outlook rises - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVTlOcXdZaUNUODZheTdXMFJtQnBXbDFZd1p3M3dsLUdNOE9QY3VzNVhnNkJLNk9DUWhoeGFQcmxWWlI0MHRXaUlLcUVnemVDSUpfVmNzU3RuNGtZX0hfRW5IMm04RXdzQkY3RlBsaUgyTHdYVkRoellSSnpaVEhMMzY2X1JZYUU4M3BiNlQzRnduTUJVbzFfcXZqMkRCMlQ5TUdQYnVWTjRzc1d6R2NGb21VbHlOQkMzUm1wWHM4eE5pdm9BYml2Z0Y2ZGtZOGVnaGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-08-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock edges lower as deal spotlight grows - Ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmRDTVVQTmMyclFIZXZsUGR0UGF2STJyNUVMUUhsUm9xdVJoUGJTajBJSzJNNEdRME50VzM0eC1wNFRZeHVsN1hocU4wVTdCQ3BJVjcwX0lIdDQ1cEhqT0JZRXFTVE9jMzlJcmFQZEVoYUI5bmJjUjdQRUhDMkZBd1lDLUZTQV8xalJPYXFVY21YZWU0TWxlbzdsd2dSai0teTkwR0hYdjBQeVdJWl8xZg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 166,
+    "too_old": 128,
+    "gate1_blocked": 12,
+    "gate2_blocked": 10,
+    "passed": 21,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+      "Thyssenkrupp's Rally Faces Its Most Telling Test: Can Fundamentals Catch Up With the Charts? - Ad-ho",
+      "Hancock commissioners table decision on Heidelberg quarry permit after 3-hour deliberation - WGXA",
+      "BC tribunal dismisses millwright's race discrimination complaint against Heidelberg Materials - hcam",
+      "Anhui Conch Cement 914 HK - Smartkarma"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為蒂森克虜伯、Holcim、海德堡材料相關動態：「Fire at Ash Grove's Durkee cement plant」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Fire at Ash Grove's Durkee cement plant（產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials (VMC) Stock Looks Fully Valued At Current Levels - simplywal...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
