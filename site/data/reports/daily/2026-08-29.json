@@ -1,0 +1,231 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:39:35.804738Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-08-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock steadies after Q2 earnings beat and dividend update - Ad-hoc-news.de",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzJpME1FT2dDNVRVeHR6Z1gwR0tJckVrb09waFdWU0pzNFBKdU81RkJKNXlyV2JscFMwM0htX0tySHVZUG9Hc3JGaHdDUzJnblZoM1dWbS01c2V1aEhwbUlkMjhmT1k4YmZ4MlZua1IyY2k4dlFzMXdwZEwwcUEwUF9rb294Y09rM0xkTlNvRThwbVlxdTJhRDlMYi1TRzNITjhLMjlCNTViRFVvZC1lV0doeC1aWGd6d0hZR1d2UTk5bnM0YnpCbmRHNDEyZ0RjS1Vr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-08-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Conglomerate Breakup Accelerates: Spin-Off Details, a Bulging Defence Order Book, and - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa0JSUTV0d0MyTy1qZXE0ell2eFgwN1Rra0NCWV9seDhVcmV3MEp5dHhVNktSRjVHSEdTTEFMcG9idEdfbWdHRFNVMUVRdnptU0RLdXNHQ3I3SVAxWTRfV0F6c09iYzhQQy1yWE9GbktNTkw0bnAyeFhYd01HZ2J2amlKRWhBYnlVOThudHVKT09RS0VCVUxvVWFRYk1JOEtXeERBVGNqNW0yclJpZTNXWXlIaFAteDhnYjRjT1BpT3NfR0V2bUdPb2xWUGczZ0taUTVWNQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-08-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Two-Speed Turnaround: Defence Order Book Swells as Analysts Rush to Upgrade - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkZsVmdIbjBBMkNTaHM3bFR1WEJGS0JXdS1udEk1YlVHbVBFcXJSQnVoSFQ1blZqZ2xDdWtqajdUdWJ4dEhxM3I3cDdzdGNRcHF0MnFHWGRwdkRxUF9IbXQ5SmlmajhWVzVjd0JDSU5NdHVJbWpBZG13SFhHYkRPb1VyNERnVDJMSTlRZUhWYWtxS1RiWGltU2FUODVvd3lRZmJEUHVLbkZraktQVWNDZWk1bzI0amNCbVlsZGE2TDhjQU1iSHNORGREUGpOZVRmYjhBZlJ1dE5jZTdsYUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ThyssenKrupp stock trades close to multi-year high as guidance and analyst upgrades reshape the outl - Ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMlliZHBIYmx5N2dlYTYwM0JxR2JTdE9hOEVmXzVIcFo1U2l1S2stVzlCOGdicG03UkV5eUlCNnd5M0wyM21peXYzdHF6R3R5cndDTGo0OEFGUGw1WlA2bl9qcHRLa3hON05PVE9qRkN3c0diQWttZXN3Tm5CdW83elh1WnNFQmI3bmNwNnM4QVhOZzdKV29jYVlxa2t2UzhhaTlZaXFmOGNRZGotNzhlQUtHNWJHV00yRTlvVjdjOVRoblV3TUtUWTNqM3A5cWh3Tndv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-08-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Holcim stock trades below estimated value as 2026 cash flow outlook supports long-term case - Ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWmZZMklnSElFeENOV2l2cVVWSlVMY3VhTzNQMzV2QVRfclBJb0xXQXB0aXNlMFRNS2ZQOXU5TlRoa0pqNHpnV0J1aG0yZHROZXZCN25xci1ycWJJU3BUR2tYczAzMlJ5U19jRExKTjY3QTRCRW5keTdIalVxMHhiVXJSa09vSWdfNjl4c0RFZkYzN08ycDdBRWJDNFVyVGJWc1dVWUYxbkh3Tk5nQkJYSDZKcFVrMWZoWG5mRnhyVlFDNHUySTZDb3VR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 184,
+    "too_old": 120,
+    "gate1_blocked": 12,
+    "gate2_blocked": 9,
+    "passed": 10,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+      "Thyssenkrupp's Rally Holds Its Ground: A Green Hydrogen Setback Meets a Defence Windfall - Ad-hoc-ne",
+      "Hancock commissioners table decision on Heidelberg quarry permit after 3-hour deliberation - WGXA",
+      "Anhui Conch Cement 914 HK - Smartkarma",
+      "UltraTech Cement falls Thursday, outperforms competitors - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為蒂森克虜伯、Vulcan Materials、Holcim相關動態：「Vulcan Materials stock steadies after Q2 earnings beat an...」。主要關注主題為財報、庫存、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials stock steadies after Q2 earnings beat and dividend update - ...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Thyssenkrupp's Conglomerate Breakup Accelerates: Spin-Off Details, a Bulging ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

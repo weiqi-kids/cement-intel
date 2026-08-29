@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 12,
+  "gate2_fail": 9,
+  "passed": 10,
+  "gate2_samples": [
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Thyssenkrupp's Rally Holds Its Ground: A Green Hydrogen Setback Meets a Defence Windfall - Ad-hoc-ne",
+    "Hancock commissioners table decision on Heidelberg quarry permit after 3-hour deliberation - WGXA",
+    "Anhui Conch Cement 914 HK - Smartkarma",
+    "UltraTech Cement falls Thursday, outperforms competitors - MarketWatch"
+  ]
+}
