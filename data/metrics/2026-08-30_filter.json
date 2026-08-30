@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 12,
+  "gate2_fail": 10,
+  "passed": 14,
+  "gate2_samples": [
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Vulcan Materials Company (Holding Company) (VMC) Peer Comparison – Compare with Others - Value Resea",
+    "Hancock commissioners table decision on Heidelberg quarry permit after 3-hour deliberation - WGXA",
+    "Heidelberg Materials welcomes five new Freightliners - ownerdriver.com.au",
+    "Anhui Conch Cement Company (AHCHF) Receives a Hold from Morgan Stanley - The Globe and Mail"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:35:04.412094Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-08-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Serbia's Cement Makers Post Lower Profits, Holcim Leads - srpske.rs",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEcxRTFnQWJ4MHBxenB2TGFsNmlPdkY0M2VuMWpLRWdVRWRiLWlFREtMQ1lEREJUVUkwV1Q4TDFyb3lPaDhsZ2prVmdoaGs3dU9Wc2Nqc1g2NjhMRks0RnFHR2ZhRDY1Xy14dGktejN0aGdPWFJPNC0xU01xMTVoTFZiZkNlQl8zMGkzcTRHTExKR3N5UUxXZVl3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "anhui_conch-2026-08-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anhui Conch Material Technology (SEHK:2560) Stock Faces Dividend Doubts After Profit Drop - simplywall.st",
+      "companies": [
+        "anhui_conch"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMGlRdmZUWXdiaXJMbEJ0N21oMWlxdHpCczBobTFFajZxUGZ0MUQ0N0pPREhjc05taS04SlY3bnpzX2pnNllHa1oxU3hySlJmOHVHZGF2Xzc2M2NtdHRjbmZsdVFDejJfV0VqbFp0elpXeVJWcFNRRnU2Smk0VlpPejUyZ1IzbmNFal9aU1ZUTThaM0lEbHFHQzNveVpsVzJ1ZU1pQVN0dU5lQlBoUlpYSWJIUW9hUFM5QjNyZjY1REtSTFg1bTNWeUlVc0pjaEQ3b0lsM3YzU0xFWFVIamNSdHNsSGJSZ0JpUUVz0gHwAUFVX3lxTFBPMHVFOFhxQy1FbkdYd21rZW1yLVBPVXBUdzVyYWtKQVAxN1R4MDByd1Q1UU1fN25zNTluWUJKTG1naXFvTFptaTdYMHRjNW1NclNxeExxSndDM3NGU1g4ck1ndkw3Z1NwaGF3clNVNU80a3c2MVBsLS0tWTJZa09sMUM1a1VMY0g2SVZhV1A5aHRyaC1IWFZ6UjdsZFRnakpSRlM4dExRVkN2WG9TYW00MUhudUZpWndJek90a2x6bHRkVmEyaEN3T2tHZEc1dkphZ2hVdmJwMzRtR0huZXB6TUFZdFRuWWtVY0dLYUtmNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-08-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Thyssenkrupp's Re-Rating Accelerates: Three Banks Raise Targets as Steel Separation Looms - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYTVkZUdTYWJSVmdEMTRNeFZPOU5YZDlpazlWOTc4cFZrUnF3el9qb1pjNjZyWTBObnJnSGhDRU9pdm85R1pJZ0tKaE5RWFBtak1CUjBYdmlUTzNKbjR0ZjBTNlVhVU9rUDFkZVpfbWp2VFY0d0lueXoxRUVXOFRUOTJnalR0N3EtSFp2Xzdyam50anNJYTVZdmZ1NlpNakdURGVpZHdpZTM4ODhfLXdiMms2WjlTbjdhY0Y1a0ZMMDhISzNiT3ROYnFQSVJuVGVzVXBHX3NPQXp6Zms?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 182,
+    "too_old": 119,
+    "gate1_blocked": 12,
+    "gate2_blocked": 10,
+    "passed": 14,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+      "Vulcan Materials Company (Holding Company) (VMC) Peer Comparison – Compare with Others - Value Resea",
+      "Hancock commissioners table decision on Heidelberg quarry permit after 3-hour deliberation - WGXA",
+      "Heidelberg Materials welcomes five new Freightliners - ownerdriver.com.au",
+      "Anhui Conch Cement Company (AHCHF) Receives a Hold from Morgan Stanley - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為蒂森克虜伯、Holcim、海螺水泥相關動態：「Serbia's Cement Makers Post Lower Profits, Holcim Leads -...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Serbia's Cement Makers Post Lower Profits, Holcim Leads - srpske.rs（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Anhui Conch Material Technology (SEHK:2560) Stock Faces Dividend Doubts After...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
