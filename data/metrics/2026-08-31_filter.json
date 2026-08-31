@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 10,
+  "gate2_samples": [
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "Thyssenkrupp's October Spin-Off Draws Near as Hydrogen Setback Tests the Conglomerate's Two-Track Re",
+    "Hancock commissioners table decision on Heidelberg quarry permit after 3-hour deliberation - WGXA",
+    "Heidelberg Materials AG 3.95 19-Jul-2034 Bond News - Investing.com"
+  ]
+}
