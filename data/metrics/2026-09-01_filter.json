@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 16,
+  "gate2_fail": 14,
+  "passed": 15,
+  "gate2_samples": [
+    "Inside Vulcan Materials’ Data And AI Transformation - forbes.com",
+    "Vulcan Materials Company donates $50,000 for community projects in Lexington - WKYT",
+    "What Is Shaping Interest in Vulcan Materials? (NYSE:VMC) - kalkinemedia.com",
+    "Thyssenkrupp takes BF 2 at Duisburg offline for six-week refurbishment - Steel Orbis",
+    "Thyssenkrupp's Multi-Pronged Overhaul: Furnace Maintenance, Green Steel Talks, and a Breakup That's "
+  ]
+}
