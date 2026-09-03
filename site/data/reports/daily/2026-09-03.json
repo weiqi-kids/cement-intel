@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:39:04.057379Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-09-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock gains on Czech calcined clay investment and upgraded guidance - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmZSRHUxMHpqaUlpVld1c1NsRlY3eFZQUU1oTXpLTlJfWXBMWlVZaklpNzd4dHBteUQ4ZFB5akN1SEdFSG5jRE4yaklHTDl1V09qMzJQTjlBQ1ZsMWo2YmJDMEZtWGVBX25kakd0OEdveWFYR0s3empuT0NyaUxfUXRXczNkanhmdzNmQzFPNXZIMU1pVkliMXpTRmlET21vWk1sVW9NRi12T2w3Z0x1QUxWX2Y1TVk1VEZmOUp2eVNxZGw3b2dMdmpRbjhiNGVIY0FZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "holcim-2026-09-03-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Holcim commissions calcined clay line in Czech Republic",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/182017/holcim-commissions-calcined-clay-line-in-czech-republic.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-09-03-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Holcim launches new calcined clay production line in Čížkovice",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "raw_material_energy_cost",
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/21199-holcim-launches-new-calcined-clay-production-line-in-cizkovice"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-09-03-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "New kiln at Heidelberg Materials’ Airvault plant produces first cement",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/21197-new-kiln-at-heidelberg-materials-airvault-plant-produces-first-cement"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Holcim launch calcined clay line in the Czech Republic - Agg-Net",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVpsakRZZGR5QlBLU2RzVHBqdng4a1lHRkhYS0ZXZ0J5NnZTZnE2OTI5UmhVN1JDbDVpLUpkTURvaS1hSlhiVGhPbVBBY3djN0JjLU5sMnR1Z0ZiVElEMEtIdmpuTHE0X0JFQl9QU2p3Q0NTN2IwbVdLZHJYa0RodFR4Yl9NNW40TmVJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "holcim",
+        "count": 4
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 112,
+    "dup_title": 47,
+    "too_old": 30,
+    "gate1_blocked": 17,
+    "gate2_blocked": 9,
+    "passed": 9,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Thyssenkrupp is shutting down blast furnace No. 2 in Duisburg for maintenance - GMK Center",
+      "Thyssenkrupp takes BF 2 at Duisburg offline for six-week refurbishment - Steel Orbis",
+      "Thyssenkrupp Rasselstein Plans 8 MW Solar Power Station with PPA - News and Statistics - indexbox.io",
+      "Thyssenkrupp's Steel Division Faces a Pivotal Fortnight: Furnace Works, Green Financing Talks, and a",
+      "Holcim Invests Over US$500 Million in Mexico - MEXICONOW"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Holcim、海德堡材料相關動態：「Holcim stock gains on Czech calcined clay investment and ...」。主要關注主題為產能、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Holcim stock gains on Czech calcined clay investment and upgraded guidance - ...（財報、展望、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Holcim commissions calcined clay line in Czech Republic（產能）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

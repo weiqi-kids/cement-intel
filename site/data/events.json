@@ -1,5 +1,107 @@
 [
   {
+    "id": "holcim-2026-09-03-001",
+    "date": "2026-09-03",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Holcim launch calcined clay line in the Czech Republic - Agg-Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVpsakRZZGR5QlBLU2RzVHBqdng4a1lHRkhYS0ZXZ0J5NnZTZnE2OTI5UmhVN1JDbDVpLUpkTURvaS1hSlhiVGhPbVBBY3djN0JjLU5sMnR1Z0ZiVElEMEtIdmpuTHE0X0JFQl9QU2",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVpsakRZZGR5QlBLU2RzVHBqdng4a1lHRkhYS0ZXZ0J5NnZTZnE2OTI5UmhVN1JDbDVpLUpkTURvaS1hSlhiVGhPbVBBY3djN0JjLU5sMnR1Z0ZiVElEMEtIdmpuTHE0X0JFQl9QU2p3Q0NTN2IwbVdLZHJYa0RodFR4Yl9NNW40TmVJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-03-002",
+    "date": "2026-09-03",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock gains on Czech calcined clay investment and upgraded guidance - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmZSRHUxMHpqaUlpVld1c1NsRlY3eFZQUU1oTXpLTlJfWXBMWlVZaklpNzd4dHBteUQ4ZFB5akN1SEdFSG5jRE4yaklHTDl1V09qMzJQTjlBQ1ZsMWo2YmJDMEZtWGVBX25kakd0OE",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObmZSRHUxMHpqaUlpVld1c1NsRlY3eFZQUU1oTXpLTlJfWXBMWlVZaklpNzd4dHBteUQ4ZFB5akN1SEdFSG5jRE4yaklHTDl1V09qMzJQTjlBQ1ZsMWo2YmJDMEZtWGVBX25kakd0OEdveWFYR0s3empuT0NyaUxfUXRXczNkanhmdzNmQzFPNXZIMU1pVkliMXpTRmlET21vWk1sVW9NRi12T2w3Z0x1QUxWX2Y1TVk1VEZmOUp2eVNxZGw3b2dMdmpRbjhiNGVIY0FZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-03-003",
+    "date": "2026-09-03",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Holcim commissions calcined clay line in Czech Republic",
+    "summary": "  Holcim  has commissioned a new calcined clay production line at its  Cížkovice  cement plant in the Czech Republic. The project represents the first calcin...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182017/holcim-commissions-calcined-clay-line-in-czech-republic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-03-004",
+    "date": "2026-09-03",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Holcim launches new calcined clay production line in Čížkovice",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/holcim-ciskovice-1500.jpg\" /></p><p><strong>Czech Republic: </strong>Holcim has launched a new calcined clay production line in Čížkovice that wil",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21199-holcim-launches-new-calcined-clay-production-line-in-cizkovice",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-03-005",
+    "date": "2026-09-03",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "New kiln at Heidelberg Materials’ Airvault plant produces first cement",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/heidelberg-materials-airvault-cement-1500.jpg\" /></p><p><strong>France: </strong>Heidelberg Materials’ new kiln line at its Airvault plant in the ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21197-new-kiln-at-heidelberg-materials-airvault-plant-produces-first-cement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -379,6 +481,82 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21187-vietnamese-exports-rise-by-13-in-first-seven-months-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-02-021",
+    "date": "2026-09-02",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Holcim stock slips as investors digest circular-economy investments and SMI weakness - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMENOUDhvN01KNkE2My1EU3ppLXRjLVZfTnBOSjB4YVpWTnhQMXZJeDk3NFhCSlNtcExEWWhRc2M5M3VybncxZnlVUGphNzdaVnRvMEhPbFk5a2FiRGpKZHlmUzY5UkpWRXNScnROVG",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMENOUDhvN01KNkE2My1EU3ppLXRjLVZfTnBOSjB4YVpWTnhQMXZJeDk3NFhCSlNtcExEWWhRc2M5M3VybncxZnlVUGphNzdaVnRvMEhPbFk5a2FiRGpKZHlmUzY5UkpWRXNScnROVGZUc3lvN3hyUmVqdnJranZGZzV4VC1OekVkUVc2Rl9KNW9haXZPTHRCU0tLMHBmbVkzdjNJa2JGcGpDaVVYOEhNYi00aU9zYWtNQ1pCYlNNZVNkbnZpNU1paFpNMTFzTjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-022",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Cemtech Live Webinar: Driving Decarbonisation Across the Cement Industry",
+    "summary": "    Video summary   The webinar brings together four practical decarbonisation themes for cement producers: flexible energy management, AI-enabled operationa...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/video/play/198716/cemtech-live-webinar-driving-decarbonisation-across-the-cement-industry.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-023",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Data center market faces all-time low vacancies despite record-breaking construction",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NznaX5zpRq46aiCzPVZo_6PR_A6tYBe7xAX8J6vgeKE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg1MjgzNjk0LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/data-center-all-time-low-vacancy-record-construction/829339/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-024",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Construction job openings, hires up in July",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/XgAGlrZdsQxWkZZz6Nrvj9SpQ1LN5K8BlpnyY2Z_Dbs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg3MTk2MzA2LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-job-openings-hiring-rate-july-labor-market/829401/",
         "type": "rss"
       }
     ]

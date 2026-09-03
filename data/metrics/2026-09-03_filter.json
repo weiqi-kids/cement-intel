@@ -1,0 +1,16 @@
+{
+  "total_raw": 112,
+  "dup_title": 47,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 17,
+  "gate2_fail": 9,
+  "passed": 9,
+  "gate2_samples": [
+    "Thyssenkrupp is shutting down blast furnace No. 2 in Duisburg for maintenance - GMK Center",
+    "Thyssenkrupp takes BF 2 at Duisburg offline for six-week refurbishment - Steel Orbis",
+    "Thyssenkrupp Rasselstein Plans 8 MW Solar Power Station with PPA - News and Statistics - indexbox.io",
+    "Thyssenkrupp's Steel Division Faces a Pivotal Fortnight: Furnace Works, Green Financing Talks, and a",
+    "Holcim Invests Over US$500 Million in Mexico - MEXICONOW"
+  ]
+}

@@ -1,110 +1,110 @@
 {
   "vulcan": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-01",
-    "count": 6706,
+    "latest": "2026-09-02",
+    "count": 6707,
     "history_complete": true
   },
   "martin_marietta": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-01",
-    "count": 6706,
+    "latest": "2026-09-02",
+    "count": 6707,
     "history_complete": true
   },
   "eagle_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-01",
-    "count": 6706,
+    "latest": "2026-09-02",
+    "count": 6707,
     "history_complete": true
   },
   "thyssenkrupp": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-02",
-    "count": 6815,
+    "latest": "2026-09-03",
+    "count": 6816,
     "history_complete": true
   },
   "holcim": {
     "earliest": "2001-05-23",
-    "latest": "2026-09-02",
-    "count": 6406,
+    "latest": "2026-09-03",
+    "count": 6407,
     "history_complete": true
   },
   "crh": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-01",
-    "count": 6706,
+    "latest": "2026-09-02",
+    "count": 6707,
     "history_complete": true
   },
   "cemex": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-01",
-    "count": 6706,
+    "latest": "2026-09-02",
+    "count": 6707,
     "history_complete": true
   },
   "heidelberg": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-02",
-    "count": 6815,
+    "latest": "2026-09-03",
+    "count": 6816,
     "history_complete": true
   },
   "taiwan_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-02",
-    "count": 6631,
+    "latest": "2026-09-03",
+    "count": 6632,
     "history_complete": true
   },
   "asia_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-02",
-    "count": 6631,
+    "latest": "2026-09-03",
+    "count": 6632,
     "history_complete": true
   },
   "anhui_conch": {
     "earliest": "2002-02-07",
-    "latest": "2026-09-02",
-    "count": 6039,
+    "latest": "2026-09-03",
+    "count": 6040,
     "history_complete": true
   },
   "ultratech": {
     "earliest": "2002-08-12",
-    "latest": "2026-09-02",
-    "count": 5971,
+    "latest": "2026-09-03",
+    "count": 5972,
     "history_complete": true
   },
   "taiheiyo": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-02",
-    "count": 6654,
+    "latest": "2026-09-03",
+    "count": 6655,
     "history_complete": true
   },
   "siam_cement": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-02",
-    "count": 6606,
+    "latest": "2026-09-03",
+    "count": 6607,
     "history_complete": true
   },
   "cnbm": {
     "earliest": "2006-03-23",
-    "latest": "2026-09-02",
-    "count": 5040,
+    "latest": "2026-09-03",
+    "count": 5041,
     "history_complete": true
   },
   "asia_cement_china": {
     "earliest": "2008-05-20",
-    "latest": "2026-09-02",
-    "count": 4510,
+    "latest": "2026-09-03",
+    "count": 4511,
     "history_complete": true
   },
   "etf_igf": {
     "earliest": "2007-12-12",
-    "latest": "2026-09-01",
-    "count": 4709,
+    "latest": "2026-09-02",
+    "count": 4710,
     "history_complete": true
   },
   "etf_pkb": {
     "earliest": "2005-10-26",
-    "latest": "2026-09-01",
-    "count": 5244,
+    "latest": "2026-09-02",
+    "count": 5245,
     "history_complete": true
   }
 }
