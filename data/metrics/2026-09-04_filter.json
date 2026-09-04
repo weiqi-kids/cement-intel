@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 15,
+  "gate2_fail": 19,
+  "passed": 35,
+  "gate2_samples": [
+    "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+    "Vulcan Materials Slides as Broader Market Pressure Appears to Outweigh Recent Steady Fundamentals - ",
+    "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Thyssenkrupp is shutting down blast furnace No. 2 in Duisburg for maintenance - GMK Center",
+    "Thyssenkrupp takes BF 2 at Duisburg offline for six-week refurbishment - EUROMETAL"
+  ]
+}
