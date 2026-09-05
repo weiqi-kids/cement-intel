@@ -1,0 +1,14 @@
+{
+  "total_raw": 52,
+  "dup_title": 27,
+  "no_date": 0,
+  "too_old": 4,
+  "gate1_fail": 17,
+  "gate2_fail": 3,
+  "passed": 1,
+  "gate2_samples": [
+    "Holcim acquires Fermacell",
+    "Mexican cement industry grows by 2% in the first half of 2026",
+    "Cemento Panam acquires Cementos Fortaleza"
+  ]
+}

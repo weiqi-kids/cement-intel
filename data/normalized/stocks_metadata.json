@@ -1,20 +1,20 @@
 {
   "vulcan": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-03",
-    "count": 6708,
+    "latest": "2026-09-04",
+    "count": 6709,
     "history_complete": true
   },
   "martin_marietta": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-03",
-    "count": 6708,
+    "latest": "2026-09-04",
+    "count": 6709,
     "history_complete": true
   },
   "eagle_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-03",
-    "count": 6708,
+    "latest": "2026-09-04",
+    "count": 6709,
     "history_complete": true
   },
   "thyssenkrupp": {
@@ -31,14 +31,14 @@
   },
   "crh": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-03",
-    "count": 6708,
+    "latest": "2026-09-04",
+    "count": 6709,
     "history_complete": true
   },
   "cemex": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-03",
-    "count": 6708,
+    "latest": "2026-09-04",
+    "count": 6709,
     "history_complete": true
   },
   "heidelberg": {
@@ -97,14 +97,14 @@
   },
   "etf_igf": {
     "earliest": "2007-12-12",
-    "latest": "2026-09-03",
-    "count": 4711,
+    "latest": "2026-09-04",
+    "count": 4712,
     "history_complete": true
   },
   "etf_pkb": {
     "earliest": "2005-10-26",
-    "latest": "2026-09-03",
-    "count": 5246,
+    "latest": "2026-09-04",
+    "count": 5247,
     "history_complete": true
   }
 }
