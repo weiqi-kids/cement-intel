@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:59:48.566059Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vulcan Materials (VMC) Stock Looks Stretched As Its 54% Five Year Run - simplywall.st",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdVJ5Z3NYZmhBMEZ5WnNhZU1PbWc0dG1DSV9YdFVTdkNUTW5NczZoVE5TR0FNWmtmRllSNkFHeGp3X2NlbEc0ZzE1RkliSmgtc0FlQXRXSFZBeVBmTF9jLVlhRklXbGFPNldCOFdIUHd4NDF3MFhHWXBaYk0yelhsbTZZXy1tMzhOVlNObkpqS05aejI5cmNyUmtTbW94dTFYQzNXblFka0hvNElMNl9haGVPd28wdDN3M3JHT2dPcDRTUVNudlV4Y2ZKem1KZ9IB0wFBVV95cUxONkc5cXN3OWlLUGMza0pJV0RyUmtKY0h3SzlXaWdsLWtzdWtxdTNKVVJFaUJSM0V3Y2doX0JUSHVsaUI3QWNfQl9pdTlVTTJ1NWVURW0wWk1zbHc2YVJiWEpvNWstN3J4RUJBMVlFcGpway1CMHE2bVFpYzUyRlpsQXJnVHY3TDBoaFY2SENEdDRSOGloUjhfbW5STkhmNWxJMEd0VkhYc1lsUHllZS02LTlSaXNkMDRadlF3cGFvRTRqcFJRaGIyRUFmcFFwTTU2OEs4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 150,
+    "too_old": 123,
+    "gate1_blocked": 19,
+    "gate2_blocked": 17,
+    "passed": 10,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "Inside Vulcan Materials’ Data And AI Transformation - Forbes",
+      "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga",
+      "Vulcan Materials Slides as Broader Market Pressure Appears to Outweigh Recent Steady Fundamentals - ",
+      "Thyssenkrupp is shutting down blast furnace No. 2 in Duisburg for maintenance - GMK Center",
+      "Thyssenkrupp takes BF 2 at Duisburg offline for six-week refurbishment - EUROMETAL"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Vulcan Materials相關動態：「Vulcan Materials (VMC) Stock Looks Stretched As Its 54% F...」。主要關注主題為庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vulcan Materials (VMC) Stock Looks Stretched As Its 54% Five Year Run - simpl...（庫存）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
