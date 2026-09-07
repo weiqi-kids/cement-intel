@@ -1,5 +1,340 @@
 [
   {
+    "id": "vulcan-2026-09-07-001",
+    "date": "2026-09-07",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock holds steady near recent lows as 2026 earnings support valuation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTdqMFcydFJPOHpqQzBUNVZINHdyd1NMMHZ4a1NIQ0JyVTJUdE9Cd0VFbGNHNWhVZDFlbUZISUFNNk4wczI5REtMOEVPRFFKMGpFR0NlMjRwWFZjbktEYkpjLVc0a1BaN0dUY0RDM0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOTdqMFcydFJPOHpqQzBUNVZINHdyd1NMMHZ4a1NIQ0JyVTJUdE9Cd0VFbGNHNWhVZDFlbUZISUFNNk4wczI5REtMOEVPRFFKMGpFR0NlMjRwWFZjbktEYkpjLVc0a1BaN0dUY0RDM0F5bVVxSC1EYXYwSWJJemxhWWNhVGgycmw5ckQzMmc3M01pcmJRYkJmRlgxM1VmRmhRMldIQUU0bllUbVZuR1BoZ1BJVkplM3Z6WHBTZTZPaTNsLWMtZ204bFkwVk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-07-002",
+    "date": "2026-09-07",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cool Planet Officially Opens Carbon Capture Plant At Holcim Facility - Carbon Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObVUyVHpvbVA5WXRITTk1cFlZSXp6QTE2R0RJd3ZmbUVqbDZ3aU5CeWxDYlFwQzBUWG5tTlhRSGt3QUJrQ1lFQTJTbkQ1Zzk2V3lDMjVnRFlxVjZfSTNVbDY0RWJZeUNQd0VhZkR6Nl",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVUyVHpvbVA5WXRITTk1cFlZSXp6QTE2R0RJd3ZmbUVqbDZ3aU5CeWxDYlFwQzBUWG5tTlhRSGt3QUJrQ1lFQTJTbkQ1Zzk2V3lDMjVnRFlxVjZfSTNVbDY0RWJZeUNQd0VhZkR6Nl9EWDhXbXZYZll2MTVtd0RROUdxYkxSVlJBVkZ0T3pQcjZkMF81RkxUMlJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-07-003",
+    "date": "2026-09-07",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Holcim’s Eco2fly carbon capture project takes key e-SAF step - CemNet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVVsOXBlNXJqNzZsb3lSWDVjaVhBWXRYb0lzWmFzM0NSRl9YTTU5MjBsMDVhMjVYeEJaOW4zbW5TZ2lVOHBKMS1hTy1JYUdXTFFuRkxFeHNsSUd5dTZxMVIxTDNsY1RuRDlORjZDdV",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVVsOXBlNXJqNzZsb3lSWDVjaVhBWXRYb0lzWmFzM0NSRl9YTTU5MjBsMDVhMjVYeEJaOW4zbW5TZ2lVOHBKMS1hTy1JYUdXTFFuRkxFeHNsSUd5dTZxMVIxTDNsY1RuRDlORjZDdV9RVk9lbGlnODZvNGJXSG1ITURENTA5SjRLbURqeElDanZzN3Q0RVRRTGkwWnQtZDlJREVweVAwTmVQZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-07-004",
+    "date": "2026-09-07",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock slips after recent gain as investors eye earnings momentum - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQR2lqV2p4M0lQSy0zVmM2ZHVmdmFOcDhlNHg2dTNEQ3ZRUkthNXRibThCY0MzbFh0V3RlekxXY3pLbFkyRjhGcnRRQUY3VVk5eF85U3dCSFZQenlXZHo1RFRKZ1dQeU1VTWp3OF9Ybz",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR2lqV2p4M0lQSy0zVmM2ZHVmdmFOcDhlNHg2dTNEQ3ZRUkthNXRibThCY0MzbFh0V3RlekxXY3pLbFkyRjhGcnRRQUY3VVk5eF85U3dCSFZQenlXZHo1RFRKZ1dQeU1VTWp3OF9YbzB3SVlUdV8zOXRURGJvYWZVMGZtX2pCS0xoc2pCS0pVMnhjMEl3aVBhZGpBanFVRGxCQmFjR3RLV3VfcmpKcTVyb0diVl9ZUGZNMTR2aWhyOXc4WHBOUHREUmR1N1FRQms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-07-005",
+    "date": "2026-09-07",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BlackRock lifts Heidelberg Materials voting stake to 5.22% as shares holding rises - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vTzhvTU9JMVpKa3EtcXM2NlJvWkxoTVlmMElhcE1BX01NZnpNbndhc3VUR2ZraHdyXzRqcGJjc0JQb3QySmRzeE5pb0g3NFUwLVFKenRrbE9YUnZvblVFR2JWb9IBY0FVX3lxTE1vTz",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vTzhvTU9JMVpKa3EtcXM2NlJvWkxoTVlmMElhcE1BX01NZnpNbndhc3VUR2ZraHdyXzRqcGJjc0JQb3QySmRzeE5pb0g3NFUwLVFKenRrbE9YUnZvblVFR2JWb9IBY0FVX3lxTE1vTzhvTU9JMVpKa3EtcXM2NlJvWkxoTVlmMElhcE1BX01NZnpNbndhc3VUR2ZraHdyXzRqcGJjc0JQb3QySmRzeE5pb0g3NFUwLVFKenRrbE9YUnZvblVFR2JWbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-07-006",
+    "date": "2026-09-07",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials in Arrigorriaga: Decarbonization and Circular Ec… - diarioeuskadi.eus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzRPanZBb1RHdFlndnpwQzhxZERyd1NtSUVXaEFtalJaY2l2MFY0Tk44N0pwWmRyTTdFY3pXdjhOTFBjRnRaUmlobF9rM2Z4b1dfWHJ2MHNGQVVQbloyNE9OQVFEakhXRWlpbmpPcj",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzRPanZBb1RHdFlndnpwQzhxZERyd1NtSUVXaEFtalJaY2l2MFY0Tk44N0pwWmRyTTdFY3pXdjhOTFBjRnRaUmlobF9rM2Z4b1dfWHJ2MHNGQVVQbloyNE9OQVFEakhXRWlpbmpPcjhJa0locnF1NmcyeW5YRU9hbjA5ZUVKWV9VSFcwMnM4b0hIOUk4dWVIQWdOdVAza3pyOTNndnRpTDgxRE5tM05kd3hQNDZNQl9NY0hwbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-07-007",
+    "date": "2026-09-07",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Heidelberg Materials expands capabilities in Leeds with new CD&E waste recycling facility - BDC Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmR4UGtwLTQ4MVI4cWl4VmN2dDJOSFBZbkZ2Z3lmOHQ5WVFaWmlCX04ySGY5QnF2M05WR1kyejIxZHFJbXV5SFR5QVFjRVlOTTFMM21WXzJ6XzI0OVFLUVhENUFjNHVOQ2FsTnNFd3",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTmR4UGtwLTQ4MVI4cWl4VmN2dDJOSFBZbkZ2Z3lmOHQ5WVFaWmlCX04ySGY5QnF2M05WR1kyejIxZHFJbXV5SFR5QVFjRVlOTTFMM21WXzJ6XzI0OVFLUVhENUFjNHVOQ2FsTnNFd3hYdkFvZWoteUdsZUViVFAtY0g5V1JsZ2ktS1AwUDViSEFEUWlhRE1JYTVFYnF5NlplVHFhLW11eGtrLU1nRk1Md3Fua3VKVTZoZzMxMTJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-07-008",
+    "date": "2026-09-07",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock heads into the open after a 2.64 percent gain - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXU1NXd2Ny00ZzBJRThuTkJha1JlQUMtMXhaS0NpdW1SeGpwUmRlOHNCXzY5SmRxRlpVSEM5N0dCOXZTVVBIeWJLeThQbXMtMTB0WS14eGQ1bmF0SHByby05QmhtU1cxUWdYM3JmWV",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXU1NXd2Ny00ZzBJRThuTkJha1JlQUMtMXhaS0NpdW1SeGpwUmRlOHNCXzY5SmRxRlpVSEM5N0dCOXZTVVBIeWJLeThQbXMtMTB0WS14eGQ1bmF0SHByby05QmhtU1cxUWdYM3JmWVk2M3NCQ3plYVkxUUh6Ykg4eE9fOE9oazJ5bmJ2Y3ZkbnEycExnY09vQ2lMMTNMN1NsQTRWYW1DaFVHcmIzempRdDhtbjlXeHhLTlZKOGgyYktwbTlOeUI0R2c1anh1akNX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-07-009",
+    "date": "2026-09-07",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock gains on buyback update - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQRzRUd2I0ZGtwWUpueGNLOTcydk13MTdMYVZyZDlkM3NlNUo3N3h4V3RYOXFIN3phdHdSMVY5VENuRUszVlNyWG91a1d1RXVmZnUtbFQ4NHNPaXN6TjdnQlJZRlJCYTBfTjM0T3l4dU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRzRUd2I0ZGtwWUpueGNLOTcydk13MTdMYVZyZDlkM3NlNUo3N3h4V3RYOXFIN3phdHdSMVY5VENuRUszVlNyWG91a1d1RXVmZnUtbFQ4NHNPaXN6TjdnQlJZRlJCYTBfTjM0T3l4dU5RaFBHaUZXWnRYVzN6TWdOcjZCUktZUlpPY2UxNWEycngzOXlmSXkwaXpfUEFJMFc5V093NVl2YnVmWDBjOVdYNGg2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-07-010",
+    "date": "2026-09-07",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Cable stocks extend losses as Citi flags UltraTech threat; RR Kabel, KEI fall over 3% - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnBTZUxUTHR0SThTSERQekhuY0MzZDlxdHg2RkNYVVZhN3NEOEN1YUsycnIxZDJsSk5LT21nOFp1X2hmenBPcDcxME9MX1VERmF6QmxkdVRwOVNvXzRxWDhTd0Z1VEFac2pydkVIMF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnBTZUxUTHR0SThTSERQekhuY0MzZDlxdHg2RkNYVVZhN3NEOEN1YUsycnIxZDJsSk5LT21nOFp1X2hmenBPcDcxME9MX1VERmF6QmxkdVRwOVNvXzRxWDhTd0Z1VEFac2pydkVIMFFzRzRQZFJYMDRKVkhVd21JTnEtVEhGTnNVRFJlLVQxZ0h0cERRUkw3M240ZUFheVJvZ0J2S1RST0JxbU9GM29rbm91UVlsUF9HWlBYOE5MWW5FVXQteXFtUTJsUS1oVEoyNnpqdXZ1NEZFOV9KQkRraNIB5gFBVV95cUxQMmtBSlhxZ25XS1hRSFVCRkdINGFLdzdKMGhybGRuWXNDQkgwLU5OMUJSZmtSbjI1b213N3lGNHZiU25Ibmp6WV9tZjdZTjhTbl94Vkpuc0NSMVYxcjQ4dG9PcUM4NzVmcGlxblZMbEtyajlvcjNEaHN5YVctUER5OUVFTjdlZlZIMHdmeC1PVEIyZ1pyeklPQzdJZGNVUmNBN3lxQlg1T3VPRV9oQXYyNzlnU0ZLdjVhNDU2N0J1MnNnODRaWHhQTDMxc1EwczFDam56S1UyVHBzQlh5dUpQNklsTjlGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-011",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Tanzania targets regional cement production to ease supply pressures",
+    "summary": " The Tanzanian government is encouraging the construction of cement plants in underserved regions as it seeks to improve domestic availability and curb risin...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182038/tanzania-targets-regional-cement-production-to-ease-supply-pressures.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-012",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "negative",
+    "title": "Chhatak Cement modernisation stalled, costs escalate amid delays",
+    "summary": " Bangladesh’s only state-owned cement plant,  Chhatak Cement Factory , has been idle for over six years after halting production, despite BDT14,180m (US$115....",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182034/chhatak-cement-modernisation-stalled-costs-escalate-amid-delays.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-07-013",
+    "date": "2026-09-07",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Holcim’s Eco2fly carbon capture project takes key e-SAF step",
+    "summary": " Holcim’s Eco2fly carbon capture project at its Villaluenga de la Sagra cement plant in Toledo, Spain, has taken a further step forward with a new agreement ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182036/holcim-s-eco2fly-carbon-capture-project-takes-key-e-saf-step.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-014",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation",
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Saint-Gobain expands construction chemicals and plasterboard capacity in Latin America",
+    "summary": "Saint-Gobain has strengthened its position in Latin America’s construction materials market through an acquisition in Peru and a new plasterboard production ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182030/saint-gobain-expands-construction-chemicals-and-plasterboard-capacity-in-latin-america.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-015",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Chhatak Cement plant modernisation remains unfinished after 10 years",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/chhatak-cement-1500.jpg\" /></p><p><strong>Bangladesh: </strong>The modernisation of the only state-owned cement producer in the country, Chhatak C",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21209-chhatak-cement-plant-modernisation-remains-unfinished-after-10-years",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-016",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Raysut Cement reports financial results for first half of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/results-financial-report.jpg\" /></p><p><strong>Oman: </strong>Raysut Cement Group has reported a net profit after tax of US$7m for the first half ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21208-raysut-cement-reports-financial-results-for-first-half-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-017",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Idle cement plant in Armenia acquired",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Armenia-Flag-1500.jpg\" /></p><p><strong>Armenia:</strong> Businessman Narek Nalbandyan has acquired the Hrazdan cement plant, which has been idle ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21207-idle-cement-plant-in-armenia-acquired",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-06-001",
     "date": "2026-09-06",
     "companies": [
@@ -20,6 +355,26 @@
     ]
   },
   {
+    "id": "thyssenkrupp-2026-09-06-002",
+    "date": "2026-09-06",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock holds steady as investors watch steel and industrial markets - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbXhROEpKS0dqOGhLdTNWUzhPTXM2RWtnNGkzeGUyNWFKVTBRVGh0RjZzR3piWDJGb0NCYktoSWFMbTVIQm13OERJQk8wa1B6YU0tWjZ0UWdETUtGNDRidDlMSGE4aVJSaFpobjBERU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbXhROEpKS0dqOGhLdTNWUzhPTXM2RWtnNGkzeGUyNWFKVTBRVGh0RjZzR3piWDJGb0NCYktoSWFMbTVIQm13OERJQk8wa1B6YU0tWjZ0UWdETUtGNDRidDlMSGE4aVJSaFpobjBERU1GMUE2cUtIV28yc3NWRjRUYTV2bEhvZzRyakpoMlAyeUYxbTFwSWxrbnY1RXRPSi1MVzlJSGZ2ZEg2azBIWVpodDNjaUFuWkI3emNHSEZVVmE3SG1ZRUJNWVlNVlRST2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "cemex-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -35,6 +390,46 @@
       {
         "name": "cemex",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFlFeEJnUGt6TmtPa2pHN2xVbkNUR095TVdTYXJjb1FwSUR0VTFxR0N3VVNSRzk1Yjg0LWRzZVdacmdLT3VORFowTktqdVdPUXR5M1RjMzN3djBLMTRwcU1wVWZJem9Rd2xrQmlWbVY0aHJqb2pLSjk0eFJxTzY0ZWNLcm4td0xCVWpzU0xmdl9PMlpKLVdjZi1pbGxBajczYmdSbG1NRUEycGZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-09-05-002",
+    "date": "2026-09-05",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "CEMEX backs gasification startup WtEnergy to cut cement's carbon footprint - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFlFeEJnUGt6TmtPa2pHN2xVbkNUR095TVdTYXJjb1FwSUR0VTFxR0N3VVNSRzk1Yjg0LWRzZVdacmdLT3VORFowTktqdVdPUXR5M1RjMzN3djBLMTRwcU1wVWZJem9Rd2xrQmlWbV",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFlFeEJnUGt6TmtPa2pHN2xVbkNUR095TVdTYXJjb1FwSUR0VTFxR0N3VVNSRzk1Yjg0LWRzZVdacmdLT3VORFowTktqdVdPUXR5M1RjMzN3djBLMTRwcU1wVWZJem9Rd2xrQmlWbVY0aHJqb2pLSjk0eFJxTzY0ZWNLcm4td0xCVWpzU0xmdl9PMlpKLVdjZi1pbGxBajczYmdSbG1NRUEycGZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-05-003",
+    "date": "2026-09-05",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement Super 4's Twenty20 Tournament, 2014 Cricket Team Records & Stats - Cricinfo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUE1rZGZkclA0VzNUb3pUS2N2WXpHYUo4RTZGa01QekMxbHFCbGZLVTFMdDZLZnprNEZhWHN1bTVqNDk0WGl5Q1NZQ2pNUVByYWpMaUU3bDE0WjJTRG9mS0VSMlA3SUJSOEtXNmdJNW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUE1rZGZkclA0VzNUb3pUS2N2WXpHYUo4RTZGa01QekMxbHFCbGZLVTFMdDZLZnprNEZhWHN1bTVqNDk0WGl5Q1NZQ2pNUVByYWpMaUU3bDE0WjJTRG9mS0VSMlA3SUJSOEtXNmdJNWJXdnBaQURnc1ZrXzFHZ3Vlb3kxY2lrZHQ1X2ZzM0I5aktKM3VsU0k2V2NTNU1XVFAzbm1BMkxPMmg?oc=5",
         "type": "rss"
       }
     ]
@@ -372,6 +767,46 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91cGxyaThoVV9jVHBCUUtrbERSTGxmdGFpZWlkNzkzbXMyQ0FPd2F0SW5GZHJ1QUJaNEZSTUFORmJVdWxjRFB6U1RjZmNZRzJ1Y1h2Qm42eFZZaEljOGF2NW55NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-04-018",
+    "date": "2026-09-04",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Stifel reiterates Vulcan Materials stock rating on pricing outlook By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2NORi11b3NiNmxaTVRRbGhvcm56MWhJNmtianNYVHBSLWNOV3BLc04zcmFkZzcyeDhzUWZfUmFQMG05UW1DQ21aNWRqS2xUaW5DQjE5djc0eERSdzZoQ0xDVndYRmJ1N3dVOGpzWm",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2NORi11b3NiNmxaTVRRbGhvcm56MWhJNmtianNYVHBSLWNOV3BLc04zcmFkZzcyeDhzUWZfUmFQMG05UW1DQ21aNWRqS2xUaW5DQjE5djc0eERSdzZoQ0xDVndYRmJ1N3dVOGpzWmhJb2xBS0I2VkdhMHI5aTEwa1h3b0RuejVoWGxTbGVYOHRDRnlLa0NPWVVmY3ZvOG4xU081ZTl3SjRfOUdrYW5GRFM5OGNvaEtkSm0zUWhuYmN3aUlDc2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-04-019",
+    "date": "2026-09-04",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "UltraTech to intensify supply chain electrification with 600+ eHGVs - electrive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1EwUXlBLXdNNDBlQzdfTGUwMDIwYUhqX002d3liakFsMEpBLXE0TTY5M1ROdEJuMVZnRzBiTHVzbGp3bUY4Q0RETlp6OHlqTzZUX0JsaEp1bU5BeVpYa2pJZUw1MTI5RXNibXM2Ul",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1EwUXlBLXdNNDBlQzdfTGUwMDIwYUhqX002d3liakFsMEpBLXE0TTY5M1ROdEJuMVZnRzBiTHVzbGp3bUY4Q0RETlp6OHlqTzZUX0JsaEp1bU5BeVpYa2pJZUw1MTI5RXNibXM2UlY5UVJmZGFZNjZXSTI5VTNOM0o4Z2pYNU9QSUZIUlA2Z1NRczIwN1RRZmlpYTdvRkt6YUNRTlQ0bw?oc=5",
         "type": "rss"
       }
     ]
@@ -1760,6 +2195,26 @@
     ]
   },
   {
+    "id": "thyssenkrupp-2026-09-01-019",
+    "date": "2026-09-01",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Engineering at thyssenkrupp: how ideas move industries - thyssenkrupp.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxObTlPWnY1dTRaenBCQ2dHcHhDWnFBVWliVmt5blVYTGxROU5neHE3QlJ6SU5JV2FBal9Pd1ZuYWFJc1pGRGxlUU5SQml0c1NNOWNSZU0yS3NsTDBCYWRmNFVmWjhaNFVYNXZPNVhPSm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTlPWnY1dTRaenBCQ2dHcHhDWnFBVWliVmt5blVYTGxROU5neHE3QlJ6SU5JV2FBal9Pd1ZuYWFJc1pGRGxlUU5SQml0c1NNOWNSZU0yS3NsTDBCYWRmNFVmWjhaNFVYNXZPNVhPSmN1LWxWMFVOR0pENXNNSnYtdTB3UjJqQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [
@@ -2016,6 +2471,26 @@
       {
         "name": "asia_cement",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80czhCQ3dUcHY5VTQ0c2NnZHlXYm8zekFKZFVZTFhSaDIxTHhybm1Nb2p3TjNlRVlITzZ3WkJVSkU0eWpNZEllMUJFMEpTWTVHY3Z0NEVGMUVWb29VV1pMdnNUTVZBd1lQTE0zNFVvVUV6YWhsV3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-08-31-014",
+    "date": "2026-08-31",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement 914 HK - smartkarma.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVRmQzFJQ3kwN2tkRmg5V2JTalpGOVZYSUdwTlV6aEVDRkRGdzBYX1FEMXA1XzZidk5YYTliTnZiSWx1eUFxVGtFVHBoWXV5bmY3ZWVISDhCXzdmUFNScGdhS2VCUTBtVmN2eXBZTE",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVRmQzFJQ3kwN2tkRmg5V2JTalpGOVZYSUdwTlV6aEVDRkRGdzBYX1FEMXA1XzZidk5YYTliTnZiSWx1eUFxVGtFVHBoWXV5bmY3ZWVISDhCXzdmUFNScGdhS2VCUTBtVmN2eXBZTERORFhTam5GX055Z1c3WjZBUmltaTR2S2o3WVlaUHR3Z0l0Y2hGdnpueGFYNA?oc=5",
         "type": "rss"
       }
     ]

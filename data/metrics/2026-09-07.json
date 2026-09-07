@@ -1,0 +1,49 @@
+{
+  "date": "2026-09-07",
+  "total_events": 17,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "ultratech": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": -0.09
+    },
+    "inventory": {
+      "count": 5,
+      "sentiment_avg": -0.2
+    },
+    "carbon_emissions": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 7,
+      "sentiment_avg": -0.04
+    },
+    "capacity_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
