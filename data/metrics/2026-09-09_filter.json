@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 16,
+  "gate2_fail": 8,
+  "passed": 31,
+  "gate2_samples": [
+    "Thyssenkrupp's Steel Breakup Takes Shape as Analysts Push Price Target to €18 - AD HOC NEWS",
+    "Holcim invests in Cloud Cycle to bring real-time machine learning to concrete delivery - TradingView",
+    "Holcim Invests in UK-based Concrete Management Software Company Cloud Cycle - marketscreener.com",
+    "Heidelberg Materials UK Opens Leeds Recycling Facility for Construction Waste | 2026 - News and Stat",
+    "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -"
+  ]
+}

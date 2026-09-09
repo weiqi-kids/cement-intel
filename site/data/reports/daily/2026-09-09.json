@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:46:18.790017Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-09-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Steppe Cement returns to profit and self-funds US$35m expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cement_pricing",
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.cemnet.com/News/story/182051/steppe-cement-returns-to-profit-and-self-funds-us-35m-expansion.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-09-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Steel Strategy Takes Center Stage as Furnace Goes Dark and Spin-Off Plans Crystalize - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHpFUzZYUHppT04tclB6akFjTl9JSmNmNVZSa1pkalBIOVFPLUgxNzVzNUdxMVRkcnhTeDBsMUVyUVBqUk9fX3htUHV1UVFsNDRIVXJOTFQ1Q3JIOVNLR2czaG9ZSzRJY1BXVGxTbHNMVHFkZC1zSkpHem00c0R0ZjlFaWQxc1kyT2hIZHJEZnBfaTV5cF9CcjBHV0JSMXU5QTdPTmNVNjBaMk4yV2JfdjZHNzdhZENoMWxNbmh2c2ZZdjAyQkZyR0syeXQ3T0hHcHFpQnc0RUVGOGhWVnc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-09-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock holds near 52-week high despite Duisburg blast furnace shutdown - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc2ZwaHRsVnpWdmU2RVo4a1Rsd0dvbi1rWnpiTy1DOFE5QTRIa20tYThLaWl2RjNmLTFMTjFtcWh0eXpRZk5UNUg2ajdrRm0xcE1YcnpiYjZlaG1LdUdYVHJ3UlZkQUs5SGRmd0pITmFKd0FETzQtQ25wemttUEJoYzVBV0hGdXFGQ1BOLU5lMnM3dXl6NVhkbDZ1Yl9yYXBSazRLeWZFOVNYdUhoeDBEYXk5S3VXR0ZQeUoxWmxnbUhybUw0Tmp3T0VFTWZaVDdLS1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-09-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials secures 30-year Slite quarry permit - CemNet.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUhXQmRjQ2h6RVJmSlc4RzJJcTFKazVvRER3cm9JbmJWNDhSMlF4c200S0pLS1dtNlBhVUpOUkFaaDFMd2lnOEUyaDRhT2M0WmQyYzc2VHZyLVpkNGl5QVRKUUs1dTl4QlIxaGpDLW1OYk4xckN2ZTJja2hyME52Znh6X2xMOW1Sd0ZTcmJFbWpVMUVRRlVtcURpcndIZi0zX3FObA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-09-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials Kept at Buy as Berenberg Notes Q2 Volume Recovery - marketscreener.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM29VWEctNmFzdVU3TjJxQ0RnV3RoUXhlM1NYdTdBbEQySGZlaHFOQzVUb2hyc0h2NXN2QnhvdUdmcHY0djRQbmhlZmtZb0FCOTRYRmZocExIZGdhLV9EeURxb2xMQ2tpTTBVNS04TDFqMWx2b2RBczFreDBNNndvcUF1TFZYTXRfWElaM3Q1ZnZoNDFLb19fOG9WZzNqRXNmMUdIcmtrZERtNnB1Q201VmNNaVdoVk15SHpleFkzVmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 6
+      },
+      {
+        "id": "holcim",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 133,
+    "too_old": 133,
+    "gate1_blocked": 16,
+    "gate2_blocked": 8,
+    "passed": 31,
+    "pass_rate": "16.5%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Thyssenkrupp's Steel Breakup Takes Shape as Analysts Push Price Target to €18 - AD HOC NEWS",
+      "Holcim invests in Cloud Cycle to bring real-time machine learning to concrete delivery - TradingView",
+      "Holcim Invests in UK-based Concrete Management Software Company Cloud Cycle - marketscreener.com",
+      "Heidelberg Materials UK Opens Leeds Recycling Facility for Construction Waste | 2026 - News and Stat",
+      "TWSE Short Interest Weekly (Sep 4th): Shin Kong Financial, Taiwan Cement, Wiwynn, LARGAN Precision -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為海德堡材料、Holcim、蒂森克虜伯相關動態：「Steppe Cement returns to profit and self-funds US$35m exp...」。主要關注主題為財報、碳排放、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Steppe Cement returns to profit and self-funds US$35m expansion（水泥價格、產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp's Steel Strategy Takes Center Stage as Furnace Goes Dark and Spi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
