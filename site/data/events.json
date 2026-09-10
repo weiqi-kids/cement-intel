@@ -1,5 +1,201 @@
 [
   {
+    "id": "vulcan-2026-09-10-001",
+    "date": "2026-09-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock falls after Wells Fargo downgrade and tribunal win news - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3h5YXdmaVBmNDFjTEg1WU5oX0VXYnpvRzdJY2VJWVhoVFJSaDFMSWdoN25KalN0eGFmdW5oZ3hqTmpMSlZGY1NrVTVnOVZaOTVpeE01SDVDVHBhSUZvdEFFSjZfVno1MGoybDJIS1",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3h5YXdmaVBmNDFjTEg1WU5oX0VXYnpvRzdJY2VJWVhoVFJSaDFMSWdoN25KalN0eGFmdW5oZ3hqTmpMSlZGY1NrVTVnOVZaOTVpeE01SDVDVHBhSUZvdEFFSjZfVno1MGoybDJIS1U0X0cyeVQyRU9fN0lpTGNIRFhaVzMtQmh0ZTdBTmh3VHdDR1FxU21qV0JvMjM4Y2RING5NSUVEdlBrY3BhU0FTdlU1WjczRDhrbnhiRXVzN3cyb1Q4VlAtSmJZdWFEMzZqSmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-10-002",
+    "date": "2026-09-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock heads into the open after a 0.6% Xetra dip - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2lMUFJRMzVzZ042a1RQZ2RBQ0tQSmhFYVljbGFFVTR3XzNWTktjUHB4UUdwOUNla2J5QW9UTTlNRWQ5elVoX0VWSTYyX0htQ2lpR3ZSbmxCczl2M2ZudUVhdTd3d3lseGp3OHZ2Tk",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2lMUFJRMzVzZ042a1RQZ2RBQ0tQSmhFYVljbGFFVTR3XzNWTktjUHB4UUdwOUNla2J5QW9UTTlNRWQ5elVoX0VWSTYyX0htQ2lpR3ZSbmxCczl2M2ZudUVhdTd3d3lseGp3OHZ2Tk9oeFVyNDZkWDVNcHJCdk5NVDlDRFZTMi0yNm9uOFNZVzA4NTR3X1hGTDdUeW9nb1RlbHdKTm1KRVlyaWlZN3FiNGtDQ2YyM2RCcEw1dnFCejdrci00elBpME9wQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-10-003",
+    "date": "2026-09-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock holds steady as analyst backs decarbonization push - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWR5MjFsV19TR1VsR3FpSV9iY3Nia19GR21hYlJfOU81RDVfX3pGU3R0c0tCRzNyYWtBbVJrb0RGUWZCWGRLVjEwM3N4dkJwbV9UYW9PbHlFLVdYaWw5Zm5hY3NIVmkycW1Da2Y3ZH",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWR5MjFsV19TR1VsR3FpSV9iY3Nia19GR21hYlJfOU81RDVfX3pGU3R0c0tCRzNyYWtBbVJrb0RGUWZCWGRLVjEwM3N4dkJwbV9UYW9PbHlFLVdYaWw5Zm5hY3NIVmkycW1Da2Y3ZHNlYzhOeko1ekphQ0FsNVZSR2M4UHE2ZU53blFIMzRoQ216bURPbGZrbEFFeXpWaWpNUDNZNkhjb3hpdmNLSXJseFJQVTNfUldhcm5TZkMtdXROWXRx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-10-004",
+    "date": "2026-09-10",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Debuts UK-First Low Carbon Concrete at 33-35 Piccadilly - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDVWdGM0Q3ZlSG5lQ0hYMUUyUnIxcjJoVEZkSjJlalZkT2xKWnRiNHNrYTVvM0RfcGpHSnhrNWwwMnZIeEhOV0VmcEs0ZXFMQzdrU080Mk05MHg0UTFrSTFxN1ZONEhEX0V6c1hpM3",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDVWdGM0Q3ZlSG5lQ0hYMUUyUnIxcjJoVEZkSjJlalZkT2xKWnRiNHNrYTVvM0RfcGpHSnhrNWwwMnZIeEhOV0VmcEs0ZXFMQzdrU080Mk05MHg0UTFrSTFxN1ZONEhEX0V6c1hpM3FkTF82UEFSZWNMUmJXTlR5c2JIbkhpbGdjY0Vab1QtVnJsejlacl9CSzg4ZUFkTHB4TWJxS1NGMVZUZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-005",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TCC Group Holdings August Revenue Rises Over 10% on European Cement and Energy Storage EPC Growth - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE05VGMwQmNDX2RVYVJqd2NtdGxTWTRPRnRKZTBhTGZpdmRBY2drQXRTbTFHSGthM2o3SEs0eXZoUkF0SENqUEhPWFZSQTBZam01R3pGZTFObXgtT0xwQlJWWFNrZlNjSmFkT1JFNGpKbm",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05VGMwQmNDX2RVYVJqd2NtdGxTWTRPRnRKZTBhTGZpdmRBY2drQXRTbTFHSGthM2o3SEs0eXZoUkF0SENqUEhPWFZSQTBZam01R3pGZTFObXgtT0xwQlJWWFNrZlNjSmFkT1JFNGpKbm42R3JHSFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-006",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Indian cement producers plan INR130bn green-power investment",
+    "summary": " India’s leading cement producers are expected to invest INR120-130bn (US$1.3-1.4bn) in green-power capacity over the two years ending March 2028, according ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182057/indian-cement-producers-plan-inr130bn-green-power-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-007",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "raw_material_energy_cost"
+    ],
+    "impact": "positive",
+    "title": "Hoffmann Green doubles cement volumes in 1H26",
+    "summary": "  Hoffmann Green Cement Technologies  sold and delivered almost 40,000t of clinker-free cement in the 1H26, an increase of 104 per cent YoY and nearly five t...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182055/hoffmann-green-doubles-cement-volumes-in-1h26.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-008",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Hoffmann Green Technologies publishes 2026 first-half results",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Hoffman-Green-1500.jpg\" /></p><p><strong>France: </strong>During the first half of 2026, Hoffmann Green reported revenues of €6.6m, up by 87% year",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21227-hoffmann-green-technologies-publishes-2026-first-half-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-009",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "positive",
+    "title": "Peruvian cement shipments increase in August 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Cement-bags-many-1500.jpg\" /></p><p><strong>Peru: </strong>Cement shipments increased by 7% year-on-year to 1.2Mt in August 2026. 1.1Mt of cement ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21224-peruvian-cement-shipments-increase-in-august-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-010",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cement, Ready-Mix Concrete, and Construction Industries Discuss Expanding Cooperation on the Adoption of 'Low-Carbon Building Materials' - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZLTRzQjBzdmNtUU1UV2MzYWNJLXAtRlhhQ2pPdm10VS1IeTk0cm9BdmZBT2E4WUpCNUhRdFg1NEtMX1R2ZnAtbEpjZ0tLeDBrc2stSXlOUElDeEh1Q3dtMmVTU3M?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "google_cement_industry",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZLTRzQjBzdmNtUU1UV2MzYWNJLXAtRlhhQ2pPdm10VS1IeTk0cm9BdmZBT2E4WUpCNUhRdFg1NEtMX1R2ZnAtbEpjZ0tLeDBrc2stSXlOUElDeEh1Q3dtMmVTU3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-09-09-001",
     "date": "2026-09-09",
     "companies": [
@@ -362,6 +558,257 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21215-uzbekistan-cement-production-reaches-12-1mt",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-09-020",
+    "date": "2026-09-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "International tribunal rules Mexico violated law in Vulcan Materials quarry dispute - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDk1anEwVlB2bTd0T044RXFFejZHYWYxR19EY2JsUTN5am1MdEhqSFFsOHRzWGJvaUpfTEM1TEF3cHZJZUFHTV82eUtJR2o2NkdyYk5ocjd0d0I2aUVuMnRMMUU3WGlPMXJxaGtLaE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDk1anEwVlB2bTd0T044RXFFejZHYWYxR19EY2JsUTN5am1MdEhqSFFsOHRzWGJvaUpfTEM1TEF3cHZJZUFHTV82eUtJR2o2NkdyYk5ocjd0d0I2aUVuMnRMMUU3WGlPMXJxaGtLaEZHbU1VMXdsRWZhcTVyU0djTWxIcWxQRmtTTFJyeVRNVkwydk1jd2pkU2pyUFJsbWliT1VmeHBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-09-021",
+    "date": "2026-09-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co (VMC) Stock Down 3.3% -- Now Undervalued? GF Score: 93/100 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFRUSWhqQ3Zna2QxTVN3enBGcmowbDlwclp5dUpwMGxxUU5ZbU5hVFllQnU3OV9ZaTc5TzZuWkZqbXJhQkpDeG1OYTBULXFKWjRaTFM2OEVjQ1M0aVU1RVVEY2VQc0tnNENSUWg3WG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFRUSWhqQ3Zna2QxTVN3enBGcmowbDlwclp5dUpwMGxxUU5ZbU5hVFllQnU3OV9ZaTc5TzZuWkZqbXJhQkpDeG1OYTBULXFKWjRaTFM2OEVjQ1M0aVU1RVVEY2VQc0tnNENSUWg3WGwtQkhKbVlid2RmYlBjX21fa2VoYnd0VzFQS3FtZ2duZXpjZjFtamtIR0tHRndZOEpkdTF4Q2xHZjBqX0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-09-022",
+    "date": "2026-09-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock hits 52-week low at 250.89 USD By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjBaY0QwV3hpeXFwVmw0MjJmRGg5amxoRjdVQWg3Z1ZLT3lXYnAxUUlSZHpqTjdWVHd6QVBlU2Y4RjAtSkItN0xNcTFjRi1zbkVaWVhnaHZyRWxnV1RQODdZZ1JINlNCRlFHZ3NvSE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjBaY0QwV3hpeXFwVmw0MjJmRGg5amxoRjdVQWg3Z1ZLT3lXYnAxUUlSZHpqTjdWVHd6QVBlU2Y4RjAtSkItN0xNcTFjRi1zbkVaWVhnaHZyRWxnV1RQODdZZ1JINlNCRlFHZ3NvSEFwMHY5NUlTdkNkQXUxZ0FXVElKclFuclVsLXBkSFpsUVhGYkRadFVraTc2RUtzbXJ5YWNyYU01NXZxMFd3TmxXS0hB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-09-023",
+    "date": "2026-09-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Shares Fall After Wells Fargo Downgrade - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUhzalpkdEpNd3kteXJaZnN5VWwtT2dmQThickQwUXdZYWY4Z3l4alVEQ2tnTHVvWUlDWFFnZW9STFpPWFBJZG1MTldxNVc0OWF3WXlIM0hWcmphUG81dXg4R2hwX0ppMUEyMnRnbn",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUhzalpkdEpNd3kteXJaZnN5VWwtT2dmQThickQwUXdZYWY4Z3l4alVEQ2tnTHVvWUlDWFFnZW9STFpPWFBJZG1MTldxNVc0OWF3WXlIM0hWcmphUG81dXg4R2hwX0ppMUEyMnRnbnV5ckstVWRLSDlEM3hhUTZCdGpXckg2eF83U3A4WW9kNEw0by0zMUEzWWZobTVKWTJXWUZidS01RU1IMHgyQkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-024",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Q2 Earnings Outperformers: Sherwin-Williams (NYSE:SHW) And The Rest Of The Building Materials Stocks - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbGp2dXlPdW44ZC1JTUhSOE9WamZEVU9sY29hbl9UeHR0LVJMTWFJY0txNnY2SUF3OFJiaHZ6MFh5cjY0OUdMajlyM3ZQQlFHWWdra3dTa1QteEpzNmtDekpJb2N0SmRxWGlra3k3WF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbGp2dXlPdW44ZC1JTUhSOE9WamZEVU9sY29hbl9UeHR0LVJMTWFJY0txNnY2SUF3OFJiaHZ6MFh5cjY0OUdMajlyM3ZQQlFHWWdra3dTa1QteEpzNmtDekpJb2N0SmRxWGlra3k3WFBZR2gzQldDUmZ1bWpKTnE2Tm5MLXJ2bzdVZ2VxZ2lWQndybEFtSzdVZmFMWE10anRTclg3d08wSm9xakIzeHRkTlpsSTZUT24tLWZzcnFMMTVKTFJ0QVExMjVvRmd1eW1XTVNrOGVIdWhlMFp5TXEzaFlrMlNkeU9KbUVsQVJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-09-025",
+    "date": "2026-09-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock hits 52-week low at 250.89 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDFnMHRtaTg1VFlYLXpCVGdLY0pnMXdCZW9NQk54UlBub0JhaG9ncDBIMklkMDlKV21ONThEd0lVQ3hUYVdOLXd3LXItOXNidENnZGI0emRoSzhHb1VSMUotZERHT2FxbUo1cVdRMW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDFnMHRtaTg1VFlYLXpCVGdLY0pnMXdCZW9NQk54UlBub0JhaG9ncDBIMklkMDlKV21ONThEd0lVQ3hUYVdOLXd3LXItOXNidENnZGI0emRoSzhHb1VSMUotZERHT2FxbUo1cVdRMW5DQU1zUDIzM1JFTm96bnRocThtb185ckx5amZzdnZoTWVsR2ZBaDJuLTgwNzhpN1BfUWRobzhwa09QMHZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-09-026",
+    "date": "2026-09-09",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Steel Strategy Takes Center Stage as Furnace Goes Dark and Spin-Off Plans Crystalize - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHpFUzZYUHppT04tclB6akFjTl9JSmNmNVZSa1pkalBIOVFPLUgxNzVzNUdxMVRkcnhTeDBsMUVyUVBqUk9fX3htUHV1UVFsNDRIVXJOTFQ1Q3JIOVNLR2czaG9ZSzRJY1BXVGxTbH",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHpFUzZYUHppT04tclB6akFjTl9JSmNmNVZSa1pkalBIOVFPLUgxNzVzNUdxMVRkcnhTeDBsMUVyUVBqUk9fX3htUHV1UVFsNDRIVXJOTFQ1Q3JIOVNLR2czaG9ZSzRJY1BXVGxTbHNMVHFkZC1zSkpHem00c0R0ZjlFaWQxc1kyT2hIZHJEZnBfaTV5cF9CcjBHV0JSMXU5QTdPTmNVNjBaMk4yV2JfdjZHNzdhZENoMWxNbmh2c2ZZdjAyQkZyR0syeXQ3T0hHcHFpQnc0RUVGOGhWVnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-09-027",
+    "date": "2026-09-09",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Cool Planet Technologies Inaugurates Carbon Capture Plant at Holcim Höver, Germany | 2026 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUhXSkVMaWxhYjhYalFVRjFUX1RwdVdIYm43Y2ZseDBQOEtNR2J3SWhfdnUtVjJmQXlwV2F5Zm5rczFYajEwc21uZWh5UHlSRXdEdXFBaVhxNFJhNnhVTzhtSElOTGFVY2xDWFZiYV",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOUhXSkVMaWxhYjhYalFVRjFUX1RwdVdIYm43Y2ZseDBQOEtNR2J3SWhfdnUtVjJmQXlwV2F5Zm5rczFYajEwc21uZWh5UHlSRXdEdXFBaVhxNFJhNnhVTzhtSElOTGFVY2xDWFZiYVV5WEdXSmVON2Z3VzVEWjFrNjBzTlBsc05zYjNncjBOY3l6STdscXYwMEFnZE5yM1g3T05wSzhTVjQzdVpPeGdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-028",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Cool Plant Technologies Carbon Capture demonstration plant officially opened - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmNjNnE1cDVnNjZyMnZTZHUzOWlmT1FWYzZXMGgzV3ZaWlY4VlR5bW83SVI2Q0EzblVxT3h3MzdSdExQb2F0NTR0TDFsSzVnbHNJeW40N3BPcEtqSGE0R2RRVWJuZmp1Z3R3MnM0U0",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmNjNnE1cDVnNjZyMnZTZHUzOWlmT1FWYzZXMGgzV3ZaWlY4VlR5bW83SVI2Q0EzblVxT3h3MzdSdExQb2F0NTR0TDFsSzVnbHNJeW40N3BPcEtqSGE0R2RRVWJuZmp1Z3R3MnM0U0ZRZlRGMW1tUkFBQnFHckY2N29UNW15dGNxUmdQS3lWbHAtbFVsM2lCMTdHVGlCWWloWXRhSzRCSndOUDl6dEltUmRJMWlNTHMwX1dJVFd5VXJEb00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-09-029",
+    "date": "2026-09-09",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Holcim backs UK startup Cloud Cycle to put machine learning in concrete trucks - app.dealroom.co",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2FiX3FGSXFyc1JvRmgzZVNlRkpacDZyRElXaE53NUtNeFVFcldvekNEYWZzem50U1VKNXEyUS1CNjlaRURhT1lORUdGR1VOMWFyT3hQdzhydzRYWVFUWHI0V3p5anZHUWtCdEdQcj",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2FiX3FGSXFyc1JvRmgzZVNlRkpacDZyRElXaE53NUtNeFVFcldvekNEYWZzem50U1VKNXEyUS1CNjlaRURhT1lORUdGR1VOMWFyT3hQdzhydzRYWVFUWHI0V3p5anZHUWtCdEdQcjl1R3lFOG5GTVBxZTl1OV9kQktSR1R2WEtXOUZXdEhzdGhYOUt1WnlMUHFrTGIyMUswMG55V3dmbEhYVUwzb3g1akd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-09-030",
+    "date": "2026-09-09",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials to acquire 70% stake in Peru's Cementos Inka - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblpTekRwdWRhWUMwempCU3NndHRuWU1uUEYxTVU0Y21Wa0NnVzdEQ01nOGh3Slc5aWxJTnJvbFY5UUU3M3gyQTVhY1RtNTdxQmdKRmV5cGFKelFnSGVUSW1EY2Rjd0FnZHg2YU9RcE",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOblpTekRwdWRhWUMwempCU3NndHRuWU1uUEYxTVU0Y21Wa0NnVzdEQ01nOGh3Slc5aWxJTnJvbFY5UUU3M3gyQTVhY1RtNTdxQmdKRmV5cGFKelFnSGVUSW1EY2Rjd0FnZHg2YU9RcE9oMDF3dVJhUHRPM2J1RlE5Zzd0NmJSUUpaREpiX0gxLUVVVVpPU3VlS3lZSmlKSHNmT3dFZ3BqYmU4bHRhNGtrZ29XZ19uVHZ2XzBBdk5KUkZsam51eUtIWEVEcXN4SVZFZnZTeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-09-031",
+    "date": "2026-09-09",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials: Low Carbon Concrete in UK Construction - constructiondigital.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTJNdFg1cVc5N2JQeDhMOVFTRkYzR05ueE1Za254OTAwRXlmTTNveHh1RDZCSHFfQjRnbl84YWc2RjJTeHV5Ri1HS3V5SGkwTkhHNFppZ0w4Y2U0RTRHeUs2cHo4emFVQUd4bjdTQX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTJNdFg1cVc5N2JQeDhMOVFTRkYzR05ueE1Za254OTAwRXlmTTNveHh1RDZCSHFfQjRnbl84YWc2RjJTeHV5Ri1HS3V5SGkwTkhHNFppZ0w4Y2U0RTRHeUs2cHo4emFVQUd4bjdTQXZvUDJybnpCZ1JxUWtPQTR1RERrUmVhVmJhdEVJbWFwY1AzMHA3WU1aWkxyZXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-032",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "evoBuild Low-Carbon Concrete for 33-35 Piccadilly Project - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1FWR21DbVF4U1NJcWFiT21XN3JGLUE5ejlCY0NsQlpBV0MxclQtZnkyZGU1OGdGQWNqNFB0U25XWlJJVlhzNlBmZzFaQVRWT3dPSGFoeTA4Mi1sZ1FpMnJWcXFfZTI2SHlORWtsbU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1FWR21DbVF4U1NJcWFiT21XN3JGLUE5ejlCY0NsQlpBV0MxclQtZnkyZGU1OGdGQWNqNFB0U25XWlJJVlhzNlBmZzFaQVRWT3dPSGFoeTA4Mi1sZ1FpMnJWcXFfZTI2SHlORWtsbU5fcktrUWcyY0std01PU2tzamQ0US1ldXh5UnRGVGp0Ti1yS2szSGx0cXA5UGpac3dpYWdiTENpc0pRM09f?oc=5",
         "type": "rss"
       }
     ]
@@ -976,6 +1423,84 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/trades-safety-training-hazards-recognition-education/829590/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-08-033",
+    "date": "2026-09-08",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Steel Begins Schwelgern 2 Furnace Refurbishment - themachinemaker.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXRYeTE1aVdLS24zQjhsZnpqWF80YUJGLVdUQ21kT1lobFhVZG5ZakdCM2UwWDRuN2VKUl90RkMtSnVlQXA1cjl1d0w3azFIamR4T04yWTRrNE54eWJYaE9QWEVKd2NBRjZQZnRtd1",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXRYeTE1aVdLS24zQjhsZnpqWF80YUJGLVdUQ21kT1lobFhVZG5ZakdCM2UwWDRuN2VKUl90RkMtSnVlQXA1cjl1d0w3azFIamR4T04yWTRrNE54eWJYaE9QWEVKd2NBRjZQZnRtd1RYMW1jbFliSjd1STMwRUYxbktyTnBBTGFVcnNKSk9vY2wyc2pUT0dXelZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-08-034",
+    "date": "2026-09-08",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock gains on steel turnaround and TK Accelis spin-off progress - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ppcThqdk9tVXBTak13RU5JUWktUExRUUx4b3VhM3hwb2t4U1VnU1hPeHU4QWVQcVJxR1JVS3c5a3h4Nk5VRTJabU1nWWJOS0ZOZkswNVJHTG9VdXpLTkJfZzVQMm5UX0pPWS1iaW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ppcThqdk9tVXBTak13RU5JUWktUExRUUx4b3VhM3hwb2t4U1VnU1hPeHU4QWVQcVJxR1JVS3c5a3h4Nk5VRTJabU1nWWJOS0ZOZkswNVJHTG9VdXpLTkJfZzVQMm5UX0pPWS1iaWdTX2hIUll0b3NRNEYwLVNJc0ZDMWhpMXB6dzg4ZnVxN1l0eVA3V3Y0Z0thTTVjUjV0bExrNFJhc1VyWVJjOVBxUEF0bmxWTmN1RzFkaGNuZ193aEpXN2xmVVh5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-08-035",
+    "date": "2026-09-08",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials granted 30-year quarry permit in Slite - agg-net.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTRRMDlGN3AwY3JjM05ueG4tdFp2bVFuRDlObDFiTnRxeXZnZlhteFQyaFhJSVJVZC0xVXJlQk12bW82eF9HWGduS1FvNVJJUWlUbHVCOTdoZGZDUHJpU0w1T0d6UEpFWVRMZ1FYZH",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTRRMDlGN3AwY3JjM05ueG4tdFp2bVFuRDlObDFiTnRxeXZnZlhteFQyaFhJSVJVZC0xVXJlQk12bW82eF9HWGduS1FvNVJJUWlUbHVCOTdoZGZDUHJpU0w1T0d6UEpFWVRMZ1FYZHo2MVhZTmdWcFlISnE2a0JMWDgxS3hGd19IZVdSeU5ORDBjUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-08-036",
+    "date": "2026-09-08",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials to Acquire Majority Stake in Peruvian Cement Producer Cementos Inka - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0VieVp5d2piNi10OTM4S1RTcUxIVlhtcEY5enl2akF5b09SQ1BpdFEydS00QWc0eE5UZHZBRTFEbHJIMXcyZjJ4WGhqajZEUVZlT1BVTkpCM2xyYkpuUmpvb1RnUjE0NEh4WGxIST",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0VieVp5d2piNi10OTM4S1RTcUxIVlhtcEY5enl2akF5b09SQ1BpdFEydS00QWc0eE5UZHZBRTFEbHJIMXcyZjJ4WGhqajZEUVZlT1BVTkpCM2xyYkpuUmpvb1RnUjE0NEh4WGxISTQ1SmR1VndXMHFhRWNlRjg0dU1IY1A5djFKVG1hTXYzMlhOUVowblE?oc=5",
         "type": "rss"
       }
     ]
@@ -2423,6 +2948,47 @@
       {
         "name": "ultratech",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNUZhekF5RFcwbFZqOWZKbWlkSXpfMk9yTjhCSHNrSmRrNTBVc051SDVUWkJvNGo3cVBLTTZxb0VpRTlhWTNkTmRvQl91Q2NULS12OUZEV2hJdVBNUzJqMURTaDFrNGMweUpfM1c3YlVjUWJvQWNkYmRvUU5WOG9ibmFUd205dmJ0a214dTZXN1Y2cC1yWEhONmNyQnJjQlY2RlBtUERybE1VYmNacEZsaHdHR2FHUGY2MWNLenhVNUFUdm1xZlViWUREbjhBaGdCWlpjS2V4dXIwdFVHdUxqQktzTEV1UzQwamZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-09-03-027",
+    "date": "2026-09-03",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement stock falls as volume and margins draw focus - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTdBNHJLNG9yanFFMEpEQ3ZaaVltU0gxM3h4SUlUckc3cko2ZmRsVjZWRm53dFRZX1VsOHV0cTdDVDRvNHBXUkhyNElwYkVSd2c1ZTR0eTljZWRaZDFrSFptdFFSczY3d3FUaTNXOF",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTdBNHJLNG9yanFFMEpEQ3ZaaVltU0gxM3h4SUlUckc3cko2ZmRsVjZWRm53dFRZX1VsOHV0cTdDVDRvNHBXUkhyNElwYkVSd2c1ZTR0eTljZWRaZDFrSFptdFFSczY3d3FUaTNXOFVOWFNHQTZySTU4WTh2WDBHUUxLbnJkOXNVYWVPUWlpeVR1ZkNTX1RnbmthNjVYWGJPT0RweFMzWTJ4bHA3Y0NYeWJCVXJPTkRh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-09-03-028",
+    "date": "2026-09-03",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in Taiheiyo Cement Corporation Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4weUJfbGRGelZETV9SWDFyRWlZWHlsVlhLMmw4VnVzQUZxMjRHdG9LLTYzdkJYUFNwUHRyQzQzOWU4Y3M4ZTR2MGdIM3FTX3dxTlBMN25fMXRQTnBzNlE?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4weUJfbGRGelZETV9SWDFyRWlZWHlsVlhLMmw4VnVzQUZxMjRHdG9LLTYzdkJYUFNwUHRyQzQzOWU4Y3M4ZTR2MGdIM3FTX3dxTlBMN25fMXRQTnBzNlE?oc=5",
         "type": "rss"
       }
     ]

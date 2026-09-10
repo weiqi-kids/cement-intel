@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-10",
+  "date_range": {
+    "start": "2026-09-04",
+    "end": "2026-09-10"
+  },
+  "generated_at": "2026-09-10T12:44:40.938107Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ultratech-2026-09-05-003",
+      "date": "2026-09-05",
+      "title": "UltraTech Cement Super 4's Twenty20 Tournament, 2014 Cricket Team Records & Stats - Cricinfo",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 39,
+      "last_week": 41,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 8,
+      "week_over_week_change": "-88%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 20,
+      "last_week": 22,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": -0.03
+    },
+    "raw_material_energy_cost": {
+      "this_week": 10,
+      "last_week": 2,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.07
+    },
+    "carbon_emissions": {
+      "this_week": 15,
+      "last_week": 4,
+      "week_over_week_change": "+275%",
+      "sentiment_this_week": 0.07
+    },
+    "capacity": {
+      "this_week": 15,
+      "last_week": 6,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.1
+    },
+    "capacity_consolidation": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.5
+    },
+    "cement_pricing": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "vulcan": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "thyssenkrupp": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 3
+    },
+    "heidelberg": {
+      "event_count": 23,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "ultratech": {
+      "event_count": 9,
+      "sentiment_avg": -0.06,
+      "rank": 4
+    },
+    "holcim": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "anhui_conch": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 131,
+        "change_pct": -4.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-04",
+      "event_count": 19,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 3,
+      "sentiment_avg": 0.33
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 23,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 36,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 32,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 10,
+      "sentiment_avg": 0.28
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-04 ~ 2026-09-10）共 125 則事件，重點為「UltraTech Cement Super 4's Twenty20 Tournament,...」。財報、庫存、碳排放為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Vulcan Materials",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "海德堡材料",
+        "reason": "本週出現 23 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

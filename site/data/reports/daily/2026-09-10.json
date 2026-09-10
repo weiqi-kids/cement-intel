@@ -1,0 +1,268 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:44:40.809419Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-10-006",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Indian cement producers plan INR130bn green-power investment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/182057/indian-cement-producers-plan-inr130bn-green-power-investment.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-09-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock falls after Wells Fargo downgrade and tribunal win news - ad-hoc-news.de",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3h5YXdmaVBmNDFjTEg1WU5oX0VXYnpvRzdJY2VJWVhoVFJSaDFMSWdoN25KalN0eGFmdW5oZ3hqTmpMSlZGY1NrVTVnOVZaOTVpeE01SDVDVHBhSUZvdEFFSjZfVno1MGoybDJIS1U0X0cyeVQyRU9fN0lpTGNIRFhaVzMtQmh0ZTdBTmh3VHdDR1FxU21qV0JvMjM4Y2RING5NSUVEdlBrY3BhU0FTdlU1WjczRDhrbnhiRXVzN3cyb1Q4VlAtSmJZdWFEMzZqSmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-09-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock heads into the open after a 0.6% Xetra dip - ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2lMUFJRMzVzZ042a1RQZ2RBQ0tQSmhFYVljbGFFVTR3XzNWTktjUHB4UUdwOUNla2J5QW9UTTlNRWQ5elVoX0VWSTYyX0htQ2lpR3ZSbmxCczl2M2ZudUVhdTd3d3lseGp3OHZ2Tk9oeFVyNDZkWDVNcHJCdk5NVDlDRFZTMi0yNm9uOFNZVzA4NTR3X1hGTDdUeW9nb1RlbHdKTm1KRVlyaWlZN3FiNGtDQ2YyM2RCcEw1dnFCejdrci00elBpME9wQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-09-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock holds steady as analyst backs decarbonization push - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWR5MjFsV19TR1VsR3FpSV9iY3Nia19GR21hYlJfOU81RDVfX3pGU3R0c0tCRzNyYWtBbVJrb0RGUWZCWGRLVjEwM3N4dkJwbV9UYW9PbHlFLVdYaWw5Zm5hY3NIVmkycW1Da2Y3ZHNlYzhOeko1ekphQ0FsNVZSR2M4UHE2ZU53blFIMzRoQ216bURPbGZrbEFFeXpWaWpNUDNZNkhjb3hpdmNLSXJseFJQVTNfUldhcm5TZkMtdXROWXRx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-09-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials Debuts UK-First Low Carbon Concrete at 33-35 Piccadilly - IndexBox",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDVWdGM0Q3ZlSG5lQ0hYMUUyUnIxcjJoVEZkSjJlalZkT2xKWnRiNHNrYTVvM0RfcGpHSnhrNWwwMnZIeEhOV0VmcEs0ZXFMQzdrU080Mk05MHg0UTFrSTFxN1ZONEhEX0V6c1hpM3FkTF82UEFSZWNMUmJXTlR5c2JIbkhpbGdjY0Vab1QtVnJsejlacl9CSzg4ZUFkTHB4TWJxS1NGMVZUZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 136,
+    "too_old": 123,
+    "gate1_blocked": 20,
+    "gate2_blocked": 13,
+    "passed": 29,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - Bloomberg.com",
+      "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala",
+      "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+      "Mexico violated law in Vulcan Materials dispute, international tribunal rules (NYSE:VMC) - Seeking A",
+      "Thyssenkrupp's September Showdown: Steel Strategy Meets Spin-Off Clock - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Vulcan Materials、蒂森克虜伯、Holcim相關動態：「Indian cement producers plan INR130bn green-power investment」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Indian cement producers plan INR130bn green-power investment（產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials stock falls after Wells Fargo downgrade and tribunal win new...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
