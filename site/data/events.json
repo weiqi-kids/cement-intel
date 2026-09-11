@@ -1,5 +1,274 @@
 [
   {
+    "id": "vulcan-2026-09-11-001",
+    "date": "2026-09-11",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock heads into the open after a 3.3% drop - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjN1QmJUVWhBa2tndEU0ZThkZHNFV2RWVzFMSEJzM3ZMd3dlV0I2M3VTbU4xWUhIYlRBY3UyRWtfaDMxXzNvWkd0Z3hhZnpVNUpweEliMnI3Z28tMm5zTGtPYzBic1hKOF9CY0x5Qj",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjN1QmJUVWhBa2tndEU0ZThkZHNFV2RWVzFMSEJzM3ZMd3dlV0I2M3VTbU4xWUhIYlRBY3UyRWtfaDMxXzNvWkd0Z3hhZnpVNUpweEliMnI3Z28tMm5zTGtPYzBic1hKOF9CY0x5QjVDTXplUWd3a0RxU3cxU2FEUDN5Z0lUaHFtSUc5Tl9nNHR5VFM4TXA0TzFEMXZrRTNXVnp5aU1oX1lhTlNhOTA3c1hPZThjNElKR01aZFFCMWlJREhpTHVWUzZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-11-002",
+    "date": "2026-09-11",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Two-Track Story: A Darkened Furnace in Duisburg and a Spin-Off Countdown to October - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGlPSjJfaE5JdHA4bExxdnZYQjVxUUVxRDVRd3NmRkZ6YmUzVHRlc2o4c0t0RzhWYTdlTTU2RXN0MkoxV1RrQ01GQkhYUk5NSnRLMF9iY2JsM29fTWcyZ2x2bzdOVlVDcW0wd0dXVE",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGlPSjJfaE5JdHA4bExxdnZYQjVxUUVxRDVRd3NmRkZ6YmUzVHRlc2o4c0t0RzhWYTdlTTU2RXN0MkoxV1RrQ01GQkhYUk5NSnRLMF9iY2JsM29fTWcyZ2x2bzdOVlVDcW0wd0dXVE50WmxTVDlGRkhRUnVJRERsUGs4M2lQMmdqU0xTdU5CdDA1MVRjYXd0QThtcmVqM19oRjJpWkdQenB2ZzFMUlBKMnhnc21hbk83Zkl4NDRhRVBJR2JhRlJwTnRvRmxXT3ZERGpTZWFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-11-003",
+    "date": "2026-09-11",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Heidelberg Materials navigates one of British Columbia's most challenging labour disputes - Fasken",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGdWMFdRWUQ0WHFfVUtiTnJWSnBsR1NrYzVDT0tqaVg3Qzk5Zm5QV2pHNHJSOVJ3Yk01aWVKSkVTQ2RSVjc0OWVfdEhhWWFUcThvMlh5dGhXUWVuemJhUDdmRERWY09wdnFQUVoxSE",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGdWMFdRWUQ0WHFfVUtiTnJWSnBsR1NrYzVDT0tqaVg3Qzk5Zm5QV2pHNHJSOVJ3Yk01aWVKSkVTQ2RSVjc0OWVfdEhhWWFUcThvMlh5dGhXUWVuemJhUDdmRERWY09wdnFQUVoxSEZSZm9FTjllUkoyZkdtQ2U4RDlNbFJHTWJObjA2cEZNQk5sS1duNmtPZjJaNzlqbUdNZlQ4QnZOeURGOTRiUFpIckFzN2dGM0l1bGJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-11-004",
+    "date": "2026-09-11",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials to Acquire 70% Stake in Peruvian Cementos Inka - Global Legal Chronicle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XNF9jSXBfemdMVWNYb19WUk92VGxGMjlsa0gtR1RrV3F4Y2dPUlRFZzA4NXNqSEs2dHpOS0ZuQzdrRlBwRFhHRkhjVlVmN3dkREMzVTFXYlc?oc=5\" target=\"_blank\">Heidelbe",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XNF9jSXBfemdMVWNYb19WUk92VGxGMjlsa0gtR1RrV3F4Y2dPUlRFZzA4NXNqSEs2dHpOS0ZuQzdrRlBwRFhHRkhjVlVmN3dkREMzVTFXYlc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-11-005",
+    "date": "2026-09-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Names Chief Manufacturing Officer Designate - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkdtU0JGM1M3YWpic2xtc3lmOFoteUVLLU9LdG9ENEZUVmVlV0dOSnhrRWNyeF96VEg1LXN1QUUyaFZmZzV4Q2xwdXkwOGxiUlptdGRvS01kbk96MUl3NEY0LTNtOTA5WHRIMW9Lb3",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkdtU0JGM1M3YWpic2xtc3lmOFoteUVLLU9LdG9ENEZUVmVlV0dOSnhrRWNyeF96VEg1LXN1QUUyaFZmZzV4Q2xwdXkwOGxiUlptdGRvS01kbk96MUl3NEY0LTNtOTA5WHRIMW9Lb3JTOTF2bndTMTNPMDNBMU5ZSzVSSDJJSFpFRzVWcjZwRFE2bVJKMTRIT1NTM2owNTMwdFhHaWZFdGE0cEdXbVdNTHdBZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-11-006",
+    "date": "2026-09-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Limited Announces Management Changes - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkdqNmNEeVVLYUFQQUUta3NGVHRqb3VlZDVEa0U5cWgtYWRBblkyMVI5QmJZQ2JFa0ZPcHdzakVyX2lPd3dfWjl0WnpIbFVyVHdBWDJjdEtXUUg1UURLVXVKV2xpQ2JnMmhnUG5jTk",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkdqNmNEeVVLYUFQQUUta3NGVHRqb3VlZDVEa0U5cWgtYWRBblkyMVI5QmJZQ2JFa0ZPcHdzakVyX2lPd3dfWjl0WnpIbFVyVHdBWDJjdEtXUUg1UURLVXVKV2xpQ2JnMmhnUG5jTkplY1YwUnhSX3gxVkxnTURRREtNU243OHRPV01XOXp6Z2ZWb1NMdjlQenk3NVo1NTJCNFZ4OF9rYUlpdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-11-007",
+    "date": "2026-09-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech seeks approval for Vivek Agrawal re-appointment as CMO - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmp6SlVoRThFMUlhUGJQRGUtUEsyWkNTREQzLUd4eEFsRWVDWGFkbUl4dVVuLVZodFFNM3ZRT0V4dEVoZlN5TmpDS0VQZkNLUzduSjdQNl9hR21rc1pTdTgwSENwemF2cjlvVGgtaX",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmp6SlVoRThFMUlhUGJQRGUtUEsyWkNTREQzLUd4eEFsRWVDWGFkbUl4dVVuLVZodFFNM3ZRT0V4dEVoZlN5TmpDS0VQZkNLUzduSjdQNl9hR21rc1pTdTgwSENwemF2cjlvVGgtaXNIdzZFQ2ppVWJBTzlVck84ZG9MR08zX2xjR3p1VG9Md2RTNmVobjc5dVVHRGFhanByVHdBSzhqNnBfdjJFcUtDSk45dEQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-11-008",
+    "date": "2026-09-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Havells, KEI: W&C stocks fall up to 16% in one week post UltraTech's entry - business-standard.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNUEh2T0IzdUgteTFzcGF1MkdDTTFEVzJCbG9KRGZKV1h4aUNHNmFuQ1VINFNqZV9NN2hLUS1ZNjdKUG9UWWk0TGZ0ZGZFakgzUVlFN085VGhiTk5WTTVCVHJEOGpEMjFyUlJGeldPNW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUEh2T0IzdUgteTFzcGF1MkdDTTFEVzJCbG9KRGZKV1h4aUNHNmFuQ1VINFNqZV9NN2hLUS1ZNjdKUG9UWWk0TGZ0ZGZFakgzUVlFN085VGhiTk5WTTVCVHJEOGpEMjFyUlJGeldPNW83MmxKcjJhTGdfZXlHRXUzOUthNFdyUTNvb0l0N05rUDBBLXBqdUZqUGt3ZEhqUXpscXFjaVJUVlV3dkxRMm9lLWp2OEVsU2sxUDBVdVZzc2dtYnBJWTRwQUduZWZaTkd2Qk5TYUNUdnFGNGhNbkJqclc0VndBR2xDbVAyRW5MNUxDbnhZdDRad1ZsbU5MaFRPemZsUdIBigJBVV95cUxPLUY3OHEtM3FqZjNNZGtDOGg0bzA3b05wX3FFZzBjSWxHdXhZeDVLcmgwUVNVWDhzTklZWmVTaW9BYXVGM05iLVJKQzdaQkkxRWw0MF9kYXRYVW5uU2xKUU9mTHVFSC1vS3k0MFlHZTRlcUFiUkhaczJ1M0hVMTl3eWVGcUp6V2hsSV9XZFdGLVhZZkFvU3ZXcmUzTFRrQlROZ0RiVTBjRm1KNVlpc2ViYnBVTmZudHVnVFh3VlB0ZF9tM2lGS3FxWEctblFEYnltMjlzcXNmZEFRbmpPQkFBWXR0THdOQkphUWxWVWZHN0NsTkRhZk9pajJHQVhRSXZwTXdrd3Jqd0NJUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-009",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Siam City Cement plans Hon Chong expansion",
+    "summary": "  Siam City Cement PLC (SCCC)  is considering an expansion of its  Hon Chong  cement plant in Vietnam’s An Giang province. \n The plans were discussed during...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182066/siam-city-cement-plans-hon-chong-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-010",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Kohat Cement Company reports an 8% YoY decline in earnings to PKR 10.7bn in FY26",
+    "summary": " Kohat Cement Company Ltd (KOHC) announced its financial results for FY26 on the Pakistan Stock Exchange on September 10, reporting an 8 per cent year-on-yea...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182064/kohat-cement-company-reports-an-8-yoy-decline-in-earnings-to-pkr-10-7bn-in-fy26.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-011",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Ghana considers more clinker berths at Tema Port",
+    "summary": " Ghana’s government is considering allocating additional berths at Tema Port to accelerate clinker unloading and reduce demurrage costs incurred by cement pr...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182063/ghana-considers-more-clinker-berths-at-tema-port.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-012",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Adani Group plans to raise US$2.5bn to refinance debt from acquisitions",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Indian-Rupees-1500.jpg\" /></p><p><strong>India: </strong>Adani Group is planning to raise US$2.5bn to refinance debt from the purchase of Ambuja C",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21232-adani-group-plans-to-raise-us-2-5bn-to-refinance-debt-from-acquisitions",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-013",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "TCMA receives two awards for decarbonisation efforts",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/tcma-awards-1500.jpg\" /></p><p><strong>Thailand: </strong>The Thai Cement Manufacturers Association has received two national recognitions for its",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21230-tcma-receives-two-awards-for-decarbonisation-efforts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-11-014",
+    "date": "2026-09-11",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Waste to be sent to cement plants in Croatia",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/RDF-1500.jpg\" /></p><p><strong>Croatia: </strong>Non-hazardous waste will be sent to cement plants belonging to Holcim Hrvatska and Nexe at a cost",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21229-waste-to-be-sent-to-cement-plants-in-croatia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -191,6 +460,147 @@
       {
         "name": "google_cement_industry",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZLTRzQjBzdmNtUU1UV2MzYWNJLXAtRlhhQ2pPdm10VS1IeTk0cm9BdmZBT2E4WUpCNUhRdFg1NEtMX1R2ZnAtbEpjZ0tLeDBrc2stSXlOUElDeEh1Q3dtMmVTU3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-10-011",
+    "date": "2026-09-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mexico violated NAFTA in Vulcan Materials dispute, international panel rules - AL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHp2NTRIb3FnVU5hT0pqWEI0Y1BMUjVhRmYzdEI3WHVpbFlkbWlRS2lSRTdLUVZFTThkTXdNOWhkdExPSS1yRHVwdHFidmlEa0dZV0Rma1hURXNoZFkxTDlTb1VZSUhJUzBwZTlKLU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHp2NTRIb3FnVU5hT0pqWEI0Y1BMUjVhRmYzdEI3WHVpbFlkbWlRS2lSRTdLUVZFTThkTXdNOWhkdExPSS1yRHVwdHFidmlEa0dZV0Rma1hURXNoZFkxTDlTb1VZSUhJUzBwZTlKLUtqV1k4c1g1NER0TEpZTklCU1BWaGF0YXdpVzZROWk1UUdUZzhrUnpJNmFVSTdrQzQyOXBXNGN5V1o1TXVSMVBINFkzcXFHdm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-10-012",
+    "date": "2026-09-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Wins Tribunal Ruling, Is The Stock Trading At A Premium? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWhONTQwb1E1UzBXeXoxbUV6WUI5ZTMzUURsYmdZYnVaZnZDbmxFU082WFlhVkFqVGlMdlRNRVZ4a3ZhY3lfR3dYX0xnTWhVUEljblI4bUZMeXJWdmdkVWM2WUJGU3JZaFhIQ25UZG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQWhONTQwb1E1UzBXeXoxbUV6WUI5ZTMzUURsYmdZYnVaZnZDbmxFU082WFlhVkFqVGlMdlRNRVZ4a3ZhY3lfR3dYX0xnTWhVUEljblI4bUZMeXJWdmdkVWM2WUJGU3JZaFhIQ25UZGY4bUh0VEx2NnhJUWZ2UWxYSXRjb3lsOGxLb25hVkJLZ0dUeTMtYUZKd2FCbUl1WHBFckhqcjJvcHFCRkZVTkZuRkI4c3VReThZR093OUE3TExDbmhUaXlNbUg2aDZ1QdIB0wFBVV95cUxOUURYRVFRd2NsOWdoS1hfQ04xeG0zdFNYbnNiN3ZCVlJxZjRFeDRrZ1pONlhKTWktXzRTYlpCQnVPU3loeWI2RGpGS2FzRFllaUhkczVyZ1d2OVFoSmxiOEwxdWxuZ1pBYkdNaTdfUUUzOFM5QTBnOUZHR2RNLVd5NnB3TGcyZlZ1RVB5OEhMX25XV2RYc0xCZjd0VTZEMkdlSmdOb29xaG1UZG1ZeHJ1b2xXQWxKQjBjT1M2Vlg2bDN1dVg3dkREaUg2d0pESnBSX1ZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-10-013",
+    "date": "2026-09-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mexico in the case against the Vulcan Materials subsidiary - MEXICONOW",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWQ1NldhWGV4S1ZlUEd4cnhJMmZuaEhqbEhtZ05YWlFOWVEyVFZlOExEQWl3LWxjMXJvN21XWkJuSlFrQlZpOVBzcTRlWHNGa19yZDBjcEdlN2JzN1U2ZEhaRkhuNS1jR3V5Q2phbD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWQ1NldhWGV4S1ZlUEd4cnhJMmZuaEhqbEhtZ05YWlFOWVEyVFZlOExEQWl3LWxjMXJvN21XWkJuSlFrQlZpOVBzcTRlWHNGa19yZDBjcEdlN2JzN1U2ZEhaRkhuNS1jR3V5Q2phbDFzQU1VOGdBVncyZ3lXN1B5NXZrMmpZdXlUUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-10-014",
+    "date": "2026-09-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mexico and US firm Vulcan clash over ICSID ruling - bnamericas.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU9WajJPYmZqM053dllrV0VfSkhieVJCWVI2M3kwNVRsODVDQXhHRGg1Zi1Pb1hEaXVmbUtXMXZxMGFWSmxMR2dOd0o5dUFVaXVsaEZpUDBwUjZqQ0hPejVJa250QTRwNHBKTFlFcW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU9WajJPYmZqM053dllrV0VfSkhieVJCWVI2M3kwNVRsODVDQXhHRGg1Zi1Pb1hEaXVmbUtXMXZxMGFWSmxMR2dOd0o5dUFVaXVsaEZpUDBwUjZqQ0hPejVJa250QTRwNHBKTFlFcWE4aGJEY3JTSUNFYWV3V1RfUmpjQ3Rpa21Oa0tIdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-10-015",
+    "date": "2026-09-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Thyssenkrupp unit expands to Brook Park, starts making data center equipment - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzc1dlo5ZGsyQXZEN1IySng0VFlLa0Q3bTEybnpKYjhoazRDTFE5R085c2UwWkFEeHRhNTJkLVRuYmJodHBocFhBSW1ZR3VOMnFTT0JIT25NWjFiUXFqc1hkSEpOeWVyZHVSWU9ZX0",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzc1dlo5ZGsyQXZEN1IySng0VFlLa0Q3bTEybnpKYjhoazRDTFE5R085c2UwWkFEeHRhNTJkLVRuYmJodHBocFhBSW1ZR3VOMnFTT0JIT25NWjFiUXFqc1hkSEpOeWVyZHVSWU9ZX0xBWmNvU0tKdHVscXI1RlVfUGdHeW5XaThOSGNWT3NLWUJTcm84WTkzOUJvZGRuSEJHZE05cm5SOHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-10-016",
+    "date": "2026-09-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp stock rises on a tighter 2025/ 2026 outlook - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnVreFBselNOb1VpWHQ5dy1wLTFLV0pBQUFCR2xfR3RwcUMyZHNPLWNTdFE1TksyYUtCcm8xN2huanNFWHJ1c1NDNVlKNDlDY0tPTDVhdUF6MzZXbzkxOEpqU2JnendQNVpEb0hSQU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNnVreFBselNOb1VpWHQ5dy1wLTFLV0pBQUFCR2xfR3RwcUMyZHNPLWNTdFE1TksyYUtCcm8xN2huanNFWHJ1c1NDNVlKNDlDY0tPTDVhdUF6MzZXbzkxOEpqU2JnendQNVpEb0hSQUpyNFdFM3FGWTY4SGp2NUk4endyRHdVamdSSlEwZzd5MkthVU1zWWFtRXBTbXlLUjJZSGgyNHZxQi1OU1UwSzR5QVdhZ0wxQnJqN2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-10-017",
+    "date": "2026-09-10",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials’ lower carbon concrete solution is a UK first - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWZaeTNjaG9lblBiUklWT21YaVRzZ2xXNWREc1dwT2xiMldqdjJNc1RUanBUWWVxWGdOY1EyUnNxQmYyS2dFOUJ3eXZYUW5DTUNzNjFBNUtGdFdFa2l0b25SX1U2aEpUV1JPQ3lnZ0",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWZaeTNjaG9lblBiUklWT21YaVRzZ2xXNWREc1dwT2xiMldqdjJNc1RUanBUWWVxWGdOY1EyUnNxQmYyS2dFOUJ3eXZYUW5DTUNzNjFBNUtGdFdFa2l0b25SX1U2aEpUV1JPQ3lnZ0VJN3lnZFl0T2RUVjNiZXRRMmVLSEJtQ09zQjE2bV9FbWZZVzJxMnhIM2cxVXp4V0pGXy15RFdsZi1aUmZvYVl5N1ZJaWo?oc=5",
         "type": "rss"
       }
     ]
@@ -1951,6 +2361,26 @@
       {
         "name": "holcim",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0pqUjZEMjFfdGVDcG94aHI3T1V4QkdKTXJOMkZ2ZVdWSkVtcUd3RXh0enFEZG9GQXBnRHN6bFdPUVZpZUJwRzFoSHBTbUNWSW1lRkU3bkNrcDN0VzZEUGx1cEZLSERiN3JYZ0x2UlotdG1WV3h6Y09OelF5RlUtZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-07-024",
+    "date": "2026-09-07",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Could Appeal Over Reduced Calica Compensation - mexicobusiness.news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1A5V2hLajc4c1VERU9PREhtX1FaRzBLMmtSY21odXRLTEk5cFVmQVBJUUdFYXpUN3NhZk1hVDhFQXdTMzJvellta09XVjR4S1owZ0VYVEdGblFiU3dOcnQ2d0gzUnFOU3dEUlJsdF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1A5V2hLajc4c1VERU9PREhtX1FaRzBLMmtSY21odXRLTEk5cFVmQVBJUUdFYXpUN3NhZk1hVDhFQXdTMzJvellta09XVjR4S1owZ0VYVEdGblFiU3dOcnQ2d0gzUnFOU3dEUlJsdFdiU090V2x1ZmllT0VESFJ3NTVlUzltRExPNm1OMkRub3VkdUQxMFVrd2pmVDUxYlBtUzFqLQ?oc=5",
         "type": "rss"
       }
     ]

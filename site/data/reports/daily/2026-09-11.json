@@ -1,0 +1,288 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:39:16.133450Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-11-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Kohat Cement Company reports an 8% YoY decline in earnings to PKR 10.7bn in FY26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/182064/kohat-cement-company-reports-an-8-yoy-decline-in-earnings-to-pkr-10-7bn-in-fy26.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-09-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials navigates one of British Columbia's most challenging labour disputes - Fasken",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGdWMFdRWUQ0WHFfVUtiTnJWSnBsR1NrYzVDT0tqaVg3Qzk5Zm5QV2pHNHJSOVJ3Yk01aWVKSkVTQ2RSVjc0OWVfdEhhWWFUcThvMlh5dGhXUWVuemJhUDdmRERWY09wdnFQUVoxSEZSZm9FTjllUkoyZkdtQ2U4RDlNbFJHTWJObjA2cEZNQk5sS1duNmtPZjJaNzlqbUdNZlQ4QnZOeURGOTRiUFpIckFzN2dGM0l1bGJV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-09-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Names Chief Manufacturing Officer Designate - marketscreener.com",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkdtU0JGM1M3YWpic2xtc3lmOFoteUVLLU9LdG9ENEZUVmVlV0dOSnhrRWNyeF96VEg1LXN1QUUyaFZmZzV4Q2xwdXkwOGxiUlptdGRvS01kbk96MUl3NEY0LTNtOTA5WHRIMW9Lb3JTOTF2bndTMTNPMDNBMU5ZSzVSSDJJSFpFRzVWcjZwRFE2bVJKMTRIT1NTM2owNTMwdFhHaWZFdGE0cEdXbVdNTHdBZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-09-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement Limited Announces Management Changes - marketscreener.com",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkdqNmNEeVVLYUFQQUUta3NGVHRqb3VlZDVEa0U5cWgtYWRBblkyMVI5QmJZQ2JFa0ZPcHdzakVyX2lPd3dfWjl0WnpIbFVyVHdBWDJjdEtXUUg1UURLVXVKV2xpQ2JnMmhnUG5jTkplY1YwUnhSX3gxVkxnTURRREtNU243OHRPV01XOXp6Z2ZWb1NMdjlQenk3NVo1NTJCNFZ4OF9rYUlpdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-09-11-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech seeks approval for Vivek Agrawal re-appointment as CMO - scanx.trade",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmp6SlVoRThFMUlhUGJQRGUtUEsyWkNTREQzLUd4eEFsRWVDWGFkbUl4dVVuLVZodFFNM3ZRT0V4dEVoZlN5TmpDS0VQZkNLUzduSjdQNl9hR21rc1pTdTgwSENwemF2cjlvVGgtaXNIdzZFQ2ppVWJBTzlVck84ZG9MR08zX2xjR3p1VG9Md2RTNmVobjc5dVVHRGFhanByVHdBSzhqNnBfdjJFcUtDSk45dEQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 4
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 144,
+    "too_old": 122,
+    "gate1_blocked": 18,
+    "gate2_blocked": 16,
+    "passed": 22,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - Bloomberg.com",
+      "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+      "Gary Palmer encourages Alabamians to cancel Mexican vacation plans: ‘Let them know that it's because",
+      "Mexico violated law in Vulcan Materials dispute, international tribunal rules (NYSE:VMC) - Seeking A",
+      "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為UltraTech、海德堡材料、Vulcan Materials相關動態：「Kohat Cement Company reports an 8% YoY decline in earning...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Kohat Cement Company reports an 8% YoY decline in earnings to PKR 10.7bn in FY26（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Heidelberg Materials navigates one of British Columbia's most challenging lab...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
