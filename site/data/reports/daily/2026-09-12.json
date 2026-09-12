@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T12:01:04.344600Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-09-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Profit Upgrade Meets a Fresh Ownership Signal as Duisburg Keeps Its Own Schedule - ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblNKcGQtbFYwdkdna29XTmh1QWpLR3NuSkQ2MjNhVWlXeTVmbEt6MXZFVlBLajBTWkZtakl0YklET2UtZHBZTUxLVnRjd2Y5aDBoR0VaRmN3V1lyNGlkZGFDeVlDUWdYTjZFWkpHSXgyeVZXMWVwUW5KLW1IbWZ1OUV1YkROTUg4OW9hSnFmWFN1RG9zNU9TUXh5Q19Td2NjdjFjNGc2VlROS0h4cWdxRkxuaTIwRVRFODlxcFpoSVhkRzlaa1c4U0dTWmFkOGdHbjljWlNoSnBTdF9y?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-09-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India: UltraTech Cement appoints Ashish Chandra as Chief Manufacturing Officer - BigMint",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUtYMkJIdWl3YzNQQ2YxNHpEcHJZVHJSRWNuX0FmUWFWMnU0aVd1alRWcEpnR3hIYVAtWGZiYzNHcDhLaXpLQjZGUlQ2R291OHIwLVFyZXlVblJVWHAwdkt2N25UNVFZOHZRYVRuWmN1QVJJRnQzU0lmaURoNTZ0THdXZ3otcnRuRC1pNnlPdDNUMFhBU0ZMTUl4aVVvbklBUWF0MFdZd1lkeUx0STRUQURkSmFyamFzc3Fv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 157,
+    "too_old": 118,
+    "gate1_blocked": 17,
+    "gate2_blocked": 16,
+    "passed": 14,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - Bloomberg.com",
+      "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+      "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala",
+      "Mexico violated law in Vulcan Materials dispute, international tribunal rules (NYSE:VMC) - Seeking A",
+      "Gary Palmer encourages Alabamians to cancel Mexican vacation plans: ‘Let them know that it's because"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為蒂森克虜伯、UltraTech相關動態：「Thyssenkrupp's Profit Upgrade Meets a Fresh Ownership Sig...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Thyssenkrupp's Profit Upgrade Meets a Fresh Ownership Signal as Duisburg Keep...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "India: UltraTech Cement appoints Ashish Chandra as Chief Manufacturing Office...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

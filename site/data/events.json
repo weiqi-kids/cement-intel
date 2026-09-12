@@ -1,5 +1,45 @@
 [
   {
+    "id": "thyssenkrupp-2026-09-12-001",
+    "date": "2026-09-12",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Profit Upgrade Meets a Fresh Ownership Signal as Duisburg Keeps Its Own Schedule - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblNKcGQtbFYwdkdna29XTmh1QWpLR3NuSkQ2MjNhVWlXeTVmbEt6MXZFVlBLajBTWkZtakl0YklET2UtZHBZTUxLVnRjd2Y5aDBoR0VaRmN3V1lyNGlkZGFDeVlDUWdYTjZFWkpHSX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblNKcGQtbFYwdkdna29XTmh1QWpLR3NuSkQ2MjNhVWlXeTVmbEt6MXZFVlBLajBTWkZtakl0YklET2UtZHBZTUxLVnRjd2Y5aDBoR0VaRmN3V1lyNGlkZGFDeVlDUWdYTjZFWkpHSXgyeVZXMWVwUW5KLW1IbWZ1OUV1YkROTUg4OW9hSnFmWFN1RG9zNU9TUXh5Q19Td2NjdjFjNGc2VlROS0h4cWdxRkxuaTIwRVRFODlxcFpoSVhkRzlaa1c4U0dTWmFkOGdHbjljWlNoSnBTdF9y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-12-002",
+    "date": "2026-09-12",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India: UltraTech Cement appoints Ashish Chandra as Chief Manufacturing Officer - BigMint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUtYMkJIdWl3YzNQQ2YxNHpEcHJZVHJSRWNuX0FmUWFWMnU0aVd1alRWcEpnR3hIYVAtWGZiYzNHcDhLaXpLQjZGUlQ2R291OHIwLVFyZXlVblJVWHAwdkt2N25UNVFZOHZRYVRuWm",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUtYMkJIdWl3YzNQQ2YxNHpEcHJZVHJSRWNuX0FmUWFWMnU0aVd1alRWcEpnR3hIYVAtWGZiYzNHcDhLaXpLQjZGUlQ2R291OHIwLVFyZXlVblJVWHAwdkt2N25UNVFZOHZRYVRuWmN1QVJJRnQzU0lmaURoNTZ0THdXZ3otcnRuRC1pNnlPdDNUMFhBU0ZMTUl4aVVvbklBUWF0MFdZd1lkeUx0STRUQURkSmFyamFzc3Fv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-11-001",
     "date": "2026-09-11",
     "companies": [
@@ -264,6 +304,163 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21229-waste-to-be-sent-to-cement-plants-in-croatia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-11-015",
+    "date": "2026-09-11",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Is Vulcan Materials Stock Underperforming the S&P 500? - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlGNGJOSWNrbFB5c3FUQkd1NkZ5akx4XzJMMHNlTjBtYXNkaUxQREhfTjR2OThKcTItM1FHZ2dzRDVhZklqdUlkbVJUWFd5dU91emFVREo0cW5nT1Bmd3hFcElkeWliTXBuQ3lWSi",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlGNGJOSWNrbFB5c3FUQkd1NkZ5akx4XzJMMHNlTjBtYXNkaUxQREhfTjR2OThKcTItM1FHZ2dzRDVhZklqdUlkbVJUWFd5dU91emFVREo0cW5nT1Bmd3hFcElkeWliTXBuQ3lWSi1jWDVaU1h4QmVNaVdxdUduNDlGMkVMbDd0U0F1NWgzNkFFN1ZzdjYyRm1zRVZaNmIxamVKdll1UGk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-11-016",
+    "date": "2026-09-11",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp stock holds near 52-week high as tk Accelis spin-off plans advance - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTE4eFdmd3JYb0ZVZWExaVpiLVZQT0x4RGxETk1zU29ZSVBuTVR2LXlqbFdxM1Z0UWtzTXlBcWlZMDIzTjVxUnNjRk5OYXdnSnhGX3RFTHdBODdwb0tFME54WE9fZkNDMW9FN1drSm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTE4eFdmd3JYb0ZVZWExaVpiLVZQT0x4RGxETk1zU29ZSVBuTVR2LXlqbFdxM1Z0UWtzTXlBcWlZMDIzTjVxUnNjRk5OYXdnSnhGX3RFTHdBODdwb0tFME54WE9fZkNDMW9FN1drSm44bmYyZ05nd2xZRzNwXzdBNW11U0V6VGtWNG9SZlItekF0WklEaWNYbTh3WmVsaDloU0hRZkRNUkZTM1U1aElKS0M4bW9Yek1zWi13aFVxODk0WURiQnctVEc5dE5FaW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-11-017",
+    "date": "2026-09-11",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim invests in Cloud Cycle to bring real-time machine learning to concrete delivery - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1VrOFZsYXo4ZmpVaW9MWkxxR3BLaVg0TVRvRmp2dHpCY2RuN2xiZmJUbFlMTTVmMzBUTEstZG8wVk12a0lTVjNrLXJFWTB5NUZhU2ZlQ1Fuc295XzFfR1lpVE5nTHNhaHZIQ29ZYl",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1VrOFZsYXo4ZmpVaW9MWkxxR3BLaVg0TVRvRmp2dHpCY2RuN2xiZmJUbFlMTTVmMzBUTEstZG8wVk12a0lTVjNrLXJFWTB5NUZhU2ZlQ1Fuc295XzFfR1lpVE5nTHNhaHZIQ29ZYlNmcllIYWNaZFBNbjNqLUkwY084eVZpYS1qNE1xZ3hzWnV0S2JTd2x2aUEwU0p5bHRNcVgySGVLYXVGVVRGMjVUbWN0ZkRueTRtdkREajg4dUFDLTN4TW5Qd3d5S0xXYWJ6SnM1QkxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-11-018",
+    "date": "2026-09-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement slides Friday, outperforms competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDhqTy1lQzY1dDVsbnlGTm9Pd0RFZ2pwWlFiaWFfM1BWTUJlMXhkZGE5ZFZORW9CR2dmT3BqcW5vNndEMDY1NWVBajRvQ2QydVo1c21BNURXTjRVdHUwbDVSLXptc0pjejBhOU5VdF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDhqTy1lQzY1dDVsbnlGTm9Pd0RFZ2pwWlFiaWFfM1BWTUJlMXhkZGE5ZFZORW9CR2dmT3BqcW5vNndEMDY1NWVBajRvQ2QydVo1c21BNURXTjRVdHUwbDVSLXptc0pjejBhOU5VdFVfZTI2QTNTVExvRTVEdGlCcmdiSkh6R25BYjA2UGNjbGw2TWFnZE55ZVFDdmhOa2doSDJZY2tNeXQ1c0ltQVpj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-11-019",
+    "date": "2026-09-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement appoints Ashish Chandra as Chief Manufacturing Officer - scanx.trade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGpoTDhWR2ZVdmZnM1lrb1lGVDVZd1hPZ1o4U1BkWWItajVaNkozemZfd216MFR0bld1OUdtTktNeTJxMW55UDlINVJFRFZaYjEtdWlvZ0lDU1JrTWxGR2ZDVUVMdWJZdkQxNnVUX0",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGpoTDhWR2ZVdmZnM1lrb1lGVDVZd1hPZ1o4U1BkWWItajVaNkozemZfd216MFR0bld1OUdtTktNeTJxMW55UDlINVJFRFZaYjEtdWlvZ0lDU1JrTWxGR2ZDVUVMdWJZdkQxNnVUX05nQ2U1T29SblJRVVN1OXZfVTByeHYxR09oUHNRSkFMZ08xSjdaelRFaDRJaUJ0eTdteVZiY2U0ZHJ4QjNCRlNtQVV4Vm0tVkh6Ym9sX0RfU0tYTzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-09-11-020",
+    "date": "2026-09-11",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corporation (5233) Q3 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5ydmpjWW5yd2hNc2M0WDBobC1XMnBRNjA1OWdrWWIzZzdxWTdmOFhHU0ZZZEZjUk5WcGp3RWNwX2dGWXVKaVd5d0RWVDMwQ0VndmNCRDBNY29XY1d2dXJkMVJZb0ItRW0zWUxuYWdVZ1",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ydmpjWW5yd2hNc2M0WDBobC1XMnBRNjA1OWdrWWIzZzdxWTdmOFhHU0ZZZEZjUk5WcGp3RWNwX2dGWXVKaVd5d0RWVDMwQ0VndmNCRDBNY29XY1d2dXJkMVJZb0ItRW0zWUxuYWdVZ1M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-021",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lessons learned from rebuilding the Pentagon after 9/11",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I0WGSmK0R4U6roGy8DHf9z7eb-sfEsvZxuzWxHhvggM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1NjEwNjUwX0dMUlhX",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/lessons-learned-from-rebuilding-the-pentagon-after-911/830175/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-022",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "Punch List: Procore closes $845M M&A deal, Jacobs wins $131M water job",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/N2SEiqWddVtC0tZVqiRu5OZRCETKamVNJOnkBhVrNVI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XZWJzaXRlX2ltYWdlX2Jhbm5lcl8xNDQweDUy",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/punch-list-procore-closes-deal-jacobs-wins-skanska-granite/830146/",
         "type": "rss"
       }
     ]
@@ -601,6 +798,26 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWZaeTNjaG9lblBiUklWT21YaVRzZ2xXNWREc1dwT2xiMldqdjJNc1RUanBUWWVxWGdOY1EyUnNxQmYyS2dFOUJ3eXZYUW5DTUNzNjFBNUtGdFdFa2l0b25SX1U2aEpUV1JPQ3lnZ0VJN3lnZFl0T2RUVjNiZXRRMmVLSEJtQ09zQjE2bV9FbWZZVzJxMnhIM2cxVXp4V0pGXy15RFdsZi1aUmZvYVl5N1ZJaWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-10-018",
+    "date": "2026-09-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mexico and US firm Vulcan clash over ICSID ruling - BNamericas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU9WajJPYmZqM053dllrV0VfSkhieVJCWVI2M3kwNVRsODVDQXhHRGg1Zi1Pb1hEaXVmbUtXMXZxMGFWSmxMR2dOd0o5dUFVaXVsaEZpUDBwUjZqQ0hPejVJa250QTRwNHBKTFlFcW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU9WajJPYmZqM053dllrV0VfSkhieVJCWVI2M3kwNVRsODVDQXhHRGg1Zi1Pb1hEaXVmbUtXMXZxMGFWSmxMR2dOd0o5dUFVaXVsaEZpUDBwUjZqQ0hPejVJa250QTRwNHBKTFlFcWE4aGJEY3JTSUNFYWV3V1RfUmpjQ3Rpa21Oa0tIdw?oc=5",
         "type": "rss"
       }
     ]
@@ -1219,6 +1436,26 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1FWR21DbVF4U1NJcWFiT21XN3JGLUE5ejlCY0NsQlpBV0MxclQtZnkyZGU1OGdGQWNqNFB0U25XWlJJVlhzNlBmZzFaQVRWT3dPSGFoeTA4Mi1sZ1FpMnJWcXFfZTI2SHlORWtsbU5fcktrUWcyY0std01PU2tzamQ0US1ldXh5UnRGVGp0Ti1yS2szSGx0cXA5UGpac3dpYWdiTENpc0pRM09f?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-09-033",
+    "date": "2026-09-09",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials secures 30-year Slite quarry permit - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUhXQmRjQ2h6RVJmSlc4RzJJcTFKazVvRER3cm9JbmJWNDhSMlF4c200S0pLS1dtNlBhVUpOUkFaaDFMd2lnOEUyaDRhT2M0WmQyYzc2VHZyLVpkNGl5QVRKUUs1dTl4QlIxaGpDLW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUhXQmRjQ2h6RVJmSlc4RzJJcTFKazVvRER3cm9JbmJWNDhSMlF4c200S0pLS1dtNlBhVUpOUkFaaDFMd2lnOEUyaDRhT2M0WmQyYzc2VHZyLVpkNGl5QVRKUUs1dTl4QlIxaGpDLW1OYk4xckN2ZTJja2hyME52Znh6X2xMOW1Sd0ZTcmJFbWpVMUVRRlVtcURpcndIZi0zX3FObA?oc=5",
         "type": "rss"
       }
     ]
@@ -1916,6 +2153,24 @@
     ]
   },
   {
+    "id": "heidelberg-2026-09-08-037",
+    "date": "2026-09-08",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials acquires majority stake in Cementos Inka - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdk9VT3ZzanJBNHhjLU9lc1BQY1BxVHFzWlYxOTNCWHNQSzJ1dDV5dHFoUDN4UjJFSDFKQTU4bElxWU9aVlhPZmRYQ0Y1aXZ1Z052NmxkOVZZSUpwdmdmanZSd2tfbF93RnNEQXRRaG",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdk9VT3ZzanJBNHhjLU9lc1BQY1BxVHFzWlYxOTNCWHNQSzJ1dDV5dHFoUDN4UjJFSDFKQTU4bElxWU9aVlhPZmRYQ0Y1aXZ1Z052NmxkOVZZSUpwdmdmanZSd2tfbF93RnNEQXRRaGtCN2RXQi12WFdtNWp2aHoyUHJ0dVkyU0xkZjFseW9aVGtuRTMyMWw5SFV3TTR6WWFzS2p3U2ExZFFRSkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-07-001",
     "date": "2026-09-07",
     "companies": [
@@ -2381,6 +2636,27 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1A5V2hLajc4c1VERU9PREhtX1FaRzBLMmtSY21odXRLTEk5cFVmQVBJUUdFYXpUN3NhZk1hVDhFQXdTMzJvellta09XVjR4S1owZ0VYVEdGblFiU3dOcnQ2d0gzUnFOU3dEUlJsdFdiU090V2x1ZmllT0VESFJ3NTVlUzltRExPNm1OMkRub3VkdUQxMFVrd2pmVDUxYlBtUzFqLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-07-025",
+    "date": "2026-09-07",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cool Planet Officially Opens Carbon Capture Plant At Holcim Facility - carbonherald.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObVUyVHpvbVA5WXRITTk1cFlZSXp6QTE2R0RJd3ZmbUVqbDZ3aU5CeWxDYlFwQzBUWG5tTlhRSGt3QUJrQ1lFQTJTbkQ1Zzk2V3lDMjVnRFlxVjZfSTNVbDY0RWJZeUNQd0VhZkR6Nl",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVUyVHpvbVA5WXRITTk1cFlZSXp6QTE2R0RJd3ZmbUVqbDZ3aU5CeWxDYlFwQzBUWG5tTlhRSGt3QUJrQ1lFQTJTbkQ1Zzk2V3lDMjVnRFlxVjZfSTNVbDY0RWJZeUNQd0VhZkR6Nl9EWDhXbXZYZll2MTVtd0RROUdxYkxSVlJBVkZ0T3pQcjZkMF81RkxUMlJn?oc=5",
         "type": "rss"
       }
     ]

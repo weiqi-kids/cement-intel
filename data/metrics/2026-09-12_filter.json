@@ -1,0 +1,16 @@
+{
+  "total_raw": 322,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 17,
+  "gate2_fail": 16,
+  "passed": 14,
+  "gate2_samples": [
+    "Mexico Breached NAFTA in Vulcan Materials Dispute, ICSID Finds - Bloomberg.com",
+    "International Tribunal Decision Confirms Mexico Violated International Law in Its Treatment of Vulca",
+    "'Mexico is 100% guilty': Full tribunal ruling catches Mexican government red-handed in attack on Ala",
+    "Mexico violated law in Vulcan Materials dispute, international tribunal rules (NYSE:VMC) - Seeking A",
+    "Gary Palmer encourages Alabamians to cancel Mexican vacation plans: ‘Let them know that it's because"
+  ]
+}
