@@ -1,5 +1,25 @@
 [
   {
+    "id": "thyssenkrupp-2026-09-13-001",
+    "date": "2026-09-13",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Draws Fresh Institutional Money as Duisburg Idles a Blast Furnace - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWndKSzdtOW8waE1GQUN2V0NzX1JTdlFnU3VuU3FncnlyQUNNM2Rnd1FIa3NSV0FmWlZMSkQ3THZNeDFTN3dFOTJ2WUlVYkM2aW5Eb05QZmxFVFctZGkwS0lwcXBlR0pVQTV0X245bX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWndKSzdtOW8waE1GQUN2V0NzX1JTdlFnU3VuU3FncnlyQUNNM2Rnd1FIa3NSV0FmWlZMSkQ3THZNeDFTN3dFOTJ2WUlVYkM2aW5Eb05QZmxFVFctZGkwS0lwcXBlR0pVQTV0X245bXlBLWZuNDNaQUhET1gzd2NDTFlPakFmazU1VXJ6RkF2UTZScEF1ZjhTRkFIeDFBd0M5eE11SDhyc0duOHhXVW53d2YzenJRSmhfbmZmRnFuV05vZ0hpVzRWaUlubGYzdVJaQ1o4VDJjMUR6Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-09-12-001",
     "date": "2026-09-12",
     "companies": [
@@ -466,6 +486,47 @@
     ]
   },
   {
+    "id": "vulcan-2026-09-11-023",
+    "date": "2026-09-11",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Is Vulcan Materials Stock Underperforming the S&P 500? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlGNGJOSWNrbFB5c3FUQkd1NkZ5akx4XzJMMHNlTjBtYXNkaUxQREhfTjR2OThKcTItM1FHZ2dzRDVhZklqdUlkbVJUWFd5dU91emFVREo0cW5nT1Bmd3hFcElkeWliTXBuQ3lWSi",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQnlGNGJOSWNrbFB5c3FUQkd1NkZ5akx4XzJMMHNlTjBtYXNkaUxQREhfTjR2OThKcTItM1FHZ2dzRDVhZklqdUlkbVJUWFd5dU91emFVREo0cW5nT1Bmd3hFcElkeWliTXBuQ3lWSi1jWDVaU1h4QmVNaVdxdUduNDlGMkVMbDd0U0F1NWgzNkFFN1ZzdjYyRm1zRVZaNmIxamVKdll1UGk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-09-11-024",
+    "date": "2026-09-11",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corporation (5233) Q2 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE52MDNFNkxtS3NTRFZBMjNGbWZvZkFxSFp3RGQ4UGp6M1JwODN3WndyNTJDX0JDV2NjWjVtUUZ4YkluYWl1SnNSLXNJSV84MFA1MmZYNHluMkJjNmpVTVd1WERsMEVfWTNURnpiYVBiQn",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MDNFNkxtS3NTRFZBMjNGbWZvZkFxSFp3RGQ4UGp6M1JwODN3WndyNTJDX0JDV2NjWjVtUUZ4YkluYWl1SnNSLXNJSV84MFA1MmZYNHluMkJjNmpVTVd1WERsMEVfWTNURnpiYVBiQnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -818,6 +879,64 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU9WajJPYmZqM053dllrV0VfSkhieVJCWVI2M3kwNVRsODVDQXhHRGg1Zi1Pb1hEaXVmbUtXMXZxMGFWSmxMR2dOd0o5dUFVaXVsaEZpUDBwUjZqQ0hPejVJa250QTRwNHBKTFlFcWE4aGJEY3JTSUNFYWV3V1RfUmpjQ3Rpa21Oa0tIdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-10-019",
+    "date": "2026-09-10",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mexico in the case against the Vulcan Materials subsidiary - mexico-now.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWQ1NldhWGV4S1ZlUEd4cnhJMmZuaEhqbEhtZ05YWlFOWVEyVFZlOExEQWl3LWxjMXJvN21XWkJuSlFrQlZpOVBzcTRlWHNGa19yZDBjcEdlN2JzN1U2ZEhaRkhuNS1jR3V5Q2phbD",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWQ1NldhWGV4S1ZlUEd4cnhJMmZuaEhqbEhtZ05YWlFOWVEyVFZlOExEQWl3LWxjMXJvN21XWkJuSlFrQlZpOVBzcTRlWHNGa19yZDBjcEdlN2JzN1U2ZEhaRkhuNS1jR3V5Q2phbDFzQU1VOGdBVncyZ3lXN1B5NXZrMmpZdXlUUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-020",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cement, Ready-Mix Concrete, and Construction Industries Discuss Expanding Cooperation on the Adoption of 'Low-Carbon Building Materials' - asiae.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZLTRzQjBzdmNtUU1UV2MzYWNJLXAtRlhhQ2pPdm10VS1IeTk0cm9BdmZBT2E4WUpCNUhRdFg1NEtMX1R2ZnAtbEpjZ0tLeDBrc2stSXlOUElDeEh1Q3dtMmVTU3M?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "google_cement_industry",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZLTRzQjBzdmNtUU1UV2MzYWNJLXAtRlhhQ2pPdm10VS1IeTk0cm9BdmZBT2E4WUpCNUhRdFg1NEtMX1R2ZnAtbEpjZ0tLeDBrc2stSXlOUElDeEh1Q3dtMmVTU3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-10-021",
+    "date": "2026-09-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Korean cement, ready-mix, construction sectors unite to expand low-carbon materials - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPcy1UdFZ1dVVEMWx3TVF2V0FWQ1JCemdBcWpUN1VCcXVQMUptUWtsVFc5TndqR2J6VTJHOXJiQ1hjLTJmMG5vWG16X2g5MGNpVUpkcll3N28xc3hkMVRzV1hjclVRZjVKTllJRmNYWW",
+    "sources": [
+      {
+        "name": "google_cement_industry",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcy1UdFZ1dVVEMWx3TVF2V0FWQ1JCemdBcWpUN1VCcXVQMUptUWtsVFc5TndqR2J6VTJHOXJiQ1hjLTJmMG5vWG16X2g5MGNpVUpkcll3N28xc3hkMVRzV1hjclVRZjVKTllJRmNYWWlNSC1NeUhvMHF5TUF5S3o5eGVjMXDSAZgBQVVfeXFMUElja1hSeENuVmY1Z3VMQ1Fvc0htTWh1bTlpRU9WOEZOVGNsdWk2NVJrX2dCNWF1WTFIZTVBRTdoczFHdGdSMlExYVd6ZXYxOFdBb2prbGtVbVhMcFBpQXExbWNmLWJWcGkyUFNaY0k5RmpFeWg2YjAtOXRLbE13Z19GMl9MSVVlN0FYcUo3UUQ5ZkctYnRteS0?oc=5",
         "type": "rss"
       }
     ]
@@ -2166,6 +2285,26 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdk9VT3ZzanJBNHhjLU9lc1BQY1BxVHFzWlYxOTNCWHNQSzJ1dDV5dHFoUDN4UjJFSDFKQTU4bElxWU9aVlhPZmRYQ0Y1aXZ1Z052NmxkOVZZSUpwdmdmanZSd2tfbF93RnNEQXRRaGtCN2RXQi12WFdtNWp2aHoyUHJ0dVkyU0xkZjFseW9aVGtuRTMyMWw5SFV3TTR6WWFzS2p3U2ExZFFRSkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-08-038",
+    "date": "2026-09-08",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp Steel Begins Schwelgern 2 Furnace Refurbishment - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXRYeTE1aVdLS24zQjhsZnpqWF80YUJGLVdUQ21kT1lobFhVZG5ZakdCM2UwWDRuN2VKUl90RkMtSnVlQXA1cjl1d0w3azFIamR4T04yWTRrNE54eWJYaE9QWEVKd2NBRjZQZnRtd1",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXRYeTE1aVdLS24zQjhsZnpqWF80YUJGLVdUQ21kT1lobFhVZG5ZakdCM2UwWDRuN2VKUl90RkMtSnVlQXA1cjl1d0w3azFIamR4T04yWTRrNE54eWJYaE9QWEVKd2NBRjZQZnRtd1RYMW1jbFliSjd1STMwRUYxbktyTnBBTGFVcnNKSk9vY2wyc2pUT0dXelZn?oc=5",
         "type": "rss"
       }
     ]
