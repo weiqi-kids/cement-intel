@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 11,
+  "gate2_fail": 13,
+  "passed": 32,
+  "gate2_samples": [
+    "Thyssenkrupp Extends 65% Rally as Investor Disclosure and Furnace Maintenance Converge - ad-hoc-news",
+    "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility - CleanTechnica",
+    "Electrified Thermal Solutions' thermal battery to be deployed as part of Holcim's electrification ro",
+    "Holcim (SWX:HOLN) Opened The Czech Republic’s First Calcined Clay Line - simplywall.st",
+    "Holcim Invests in Cloud Cycle for Real-Time Concrete Quality Monitoring - News and Statistics - Inde"
+  ]
+}

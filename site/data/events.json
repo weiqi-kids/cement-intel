@@ -1,5 +1,377 @@
 [
   {
+    "id": "thyssenkrupp-2026-09-17-001",
+    "date": "2026-09-17",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock heads into the open after a 1.3 percent Xetra gain - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk83NE1mSU12THNUWnR4WUVlQUxGY2h5SmpfTWxBTGN5YzRQcU5Yc3ZwLWRsSWl2dnpMd3NSb2V4T3NBTExhTXVqbjFIaTl0TkZ1VzdKa1F4ZWtCb1NrN1BjWGhRTHVhQVplSzNmSE",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk83NE1mSU12THNUWnR4WUVlQUxGY2h5SmpfTWxBTGN5YzRQcU5Yc3ZwLWRsSWl2dnpMd3NSb2V4T3NBTExhTXVqbjFIaTl0TkZ1VzdKa1F4ZWtCb1NrN1BjWGhRTHVhQVplSzNmSERCc3FNTXBVVUFuRG9uVWlCMXc3cjNFSGtIM0ZIenVzVFNRcDFJNElOTlQyY3RIN3Jib004T21kQ1VMWV9icFRuUGRWSlNONktnd2R6TnBRa0FCSlhybXVpem5qLW0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-17-002",
+    "date": "2026-09-17",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Holcim (SWX:HOLN) Expands Low Carbon Cement, Is The 16% Undervaluation Enough? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVVWUZEWlRkOUxWcEltejI4RWkwWVY2Z1dPaEg1VkJsV2VuVzRVY0N3OGNLZkFKaUdjcmhSWm1BTWxkeUdPcnpIWHNzUFppMUphS2cyaC1RamkwOHlUMDZ0MFM2cWpmVjlOTGduaX",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVVWUZEWlRkOUxWcEltejI4RWkwWVY2Z1dPaEg1VkJsV2VuVzRVY0N3OGNLZkFKaUdjcmhSWm1BTWxkeUdPcnpIWHNzUFppMUphS2cyaC1RamkwOHlUMDZ0MFM2cWpmVjlOTGduaXFjVHctUWxJTG9mYjBkNUlFSk5tTHNDQ2FEd3ZSQS1pT09OZFBqdGYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-17-003",
+    "date": "2026-09-17",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "capacity",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock gains as low-carbon cement expansion meets valuation upside - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXN3QnVIaGpUVGxqS3E5Y08xWUgxejdIbDNwTEZrTE41bi1UbjM2UEcyd2E1ZW5OUjhkM0YwSTctX3JWNG1RX1RBeXlHY0ZWaFMtWGN2c0dGNzZHcm9KUmk2RVZPc05BWEthZU5TQn",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXN3QnVIaGpUVGxqS3E5Y08xWUgxejdIbDNwTEZrTE41bi1UbjM2UEcyd2E1ZW5OUjhkM0YwSTctX3JWNG1RX1RBeXlHY0ZWaFMtWGN2c0dGNzZHcm9KUmk2RVZPc05BWEthZU5TQnFnOHQ1VzZ6Uy1DRkNqUDJab2xnb0FtaUVkNk16bXg1MUZaZE8xcXp6a1p5LTRUSFc3RXg4anBzNmNIWTRVQjBIM20yWjh2ZU9SaXlvbmlEbXVQVEJzbEJveFgxSjVPaXdL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-004",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials France Plans Closure of Ranville Site - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFB4V1ZiWUkxVWRvQ2s1LU1UYXMxMHdJajJXc29rZ3NKTkdxc0dxWWo3a3hhcmJZOEhmaFhZZzlzN1Z6eGFLWDVIbjN4QzZVakVqZXc4bnpuOGEtRmc1VDdsazRXYjVBMk9tbmJXUU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFB4V1ZiWUkxVWRvQ2s1LU1UYXMxMHdJajJXc29rZ3NKTkdxc0dxWWo3a3hhcmJZOEhmaFhZZzlzN1Z6eGFLWDVIbjN4QzZVakVqZXc4bnpuOGEtRmc1VDdsazRXYjVBMk9tbmJXUURIVmFibHBEc1hweXVWOWpuZHN6RVIzaTVmRl9HaFJyMUF1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-005",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials plans Ranville plant closure - CemNet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXI4LTBZTkZEbGVkYzQ1N0ZsOVFLeTRVY3JPSURZaTlLZkVDZkJiTWY4UXZua1VZT1hEVmZwLTJPTEV3Y1JsUzAwWnBHYi1xRTBOVEpiTnVzM0pyZ0x2UUo3QmU2Z0RnNUFDYTVIRF",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXI4LTBZTkZEbGVkYzQ1N0ZsOVFLeTRVY3JPSURZaTlLZkVDZkJiTWY4UXZua1VZT1hEVmZwLTJPTEV3Y1JsUzAwWnBHYi1xRTBOVEpiTnVzM0pyZ0x2UUo3QmU2Z0RnNUFDYTVIRFhwUGNoTUpMdGYtaE1jWUwtRDlYZkV4dG1tUV9vMnZ1X0ozY3VaNWtxOFQ5bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-006",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Reshapes Its Map: Peru Entry, Ranville Exit, and a Share Price Near Its Floor - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWQ5V195RDlmbmN5Ml90MUxla25vd2NadXI1aXoxcWFPRnh5SjBPcXo0ZF9DeXJ1ekp2bnJpVUNjZXJVV3o0V1Y1SWdtcUtqa2x0ejNOX2pCU1YtRUg4dzc2Y3E1VktjU3hZQzBvWU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWQ5V195RDlmbmN5Ml90MUxla25vd2NadXI1aXoxcWFPRnh5SjBPcXo0ZF9DeXJ1ekp2bnJpVUNjZXJVV3o0V1Y1SWdtcUtqa2x0ejNOX2pCU1YtRUg4dzc2Y3E1VktjU3hZQzBvWU1NRW95ZGI2SmJsVXhlaVp2ZkxrdlFfd1ExT2wwR3BkM2Rld1QzZ2p0NkptMWxpdHdGakVSOXNaYWViNnBTRjdGUDR2eE1pSVo1RXk1dkt3UWFhVHhFT0hILTgxSlJ4RVdGXzdLTkF4bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-007",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock slips as Ranville closure bites - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnlCX2F3S2pYM0ZCMDdRT2Z3VDJwb0pVVEN1RGl4WmRJc3J4Z00yeWtqeDJ3WC1UZDlkQ1hDUVNnUUZxX2QzaVVDeTRoSnVCd2JHek5YQmxpaXhGZDVQcUI4Y1lrNzA0aE9SMkx4eG",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnlCX2F3S2pYM0ZCMDdRT2Z3VDJwb0pVVEN1RGl4WmRJc3J4Z00yeWtqeDJ3WC1UZDlkQ1hDUVNnUUZxX2QzaVVDeTRoSnVCd2JHek5YQmxpaXhGZDVQcUI4Y1lrNzA0aE9SMkx4eGtsV3FVc05Bc3lRbm5QUjFONm5tQ2h3U0kzU2NFdDdqelJERWhOTDJ0T2lsODA1aWMzNWN2Ylh4LU5pcFdvY2xkVDBCWFdzSXZNNGZocU93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-008",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock heads into the open after a Xetra setback - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQa012bkZjb3BacHNjelI2V2M1WnQ1eko3Yjl1Z1VNRXJtaFVmNkQtVVlkTUc2b0ZlTDIzMVZGRW5NSE1BR2JIQ01XWDJITHZuNUZSbEktclNyMU5SYmhHMlFWWV8tUVRCT0VYREd4ZU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa012bkZjb3BacHNjelI2V2M1WnQ1eko3Yjl1Z1VNRXJtaFVmNkQtVVlkTUc2b0ZlTDIzMVZGRW5NSE1BR2JIQ01XWDJITHZuNUZSbEktclNyMU5SYmhHMlFWWV8tUVRCT0VYREd4ZUNYWFFjTFFYNGxNUXAwMVhhU2loRGx4NDFCN29qOE5DcjBBeEFjeElpTF9pRWI3VmJWb1VUWVFmMUFFbTZiQ0J2VGRlN1FlOTB3MGNsSGNKaEJBY01lUzU3Ukc5WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-009",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Shutters Ranville Plant as Portfolio Overhaul Cuts Both Ways - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa095WjNEME9fNG4zSlBWR1ZUM1JkVUJBcjB1d055Q1pEWU54cW1xRnI1emM1ZlNfQTVSTlp2enpqU1N6c1UyR3pCbGZXYmk2cUxMSmVjSWlIT0U1N01sbHp1WVFnVmI2eWRWeWhZX2",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa095WjNEME9fNG4zSlBWR1ZUM1JkVUJBcjB1d055Q1pEWU54cW1xRnI1emM1ZlNfQTVSTlp2enpqU1N6c1UyR3pCbGZXYmk2cUxMSmVjSWlIT0U1N01sbHp1WVFnVmI2eWRWeWhZX2xfNHFoTnVpTThjN3N3SjdYczAxMzRyQWlZOWVxMDFMMDVEVGpRcjRwcGdFODNRb0xSbEVQcUtQNmpXN0F5VFVTNGQtUGN2MTRKNGlyZjJPSVluS0NTTGZzbldHVFpva0FqYnhmQ01ZYjRkWms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-17-010",
+    "date": "2026-09-17",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Stock Picks Today: SBI, UltraTech Cement, Emami, Lenskart, Torrent Power, And More On Brokerages' Radar - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNaFp5TVpvbU5NVThUZ1JnNHV2NWpTSHp2eTk5UXhqWXJ1dVdTU3o4X1ZQT2pEbVlMTmJ0ZFBGT2NQb3lSWnQ4ODR4M1VkR0c5aG1zeFRpc0dKbGx5QkxwSnVUT3pZZEgtVlZMZmZIS1",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaFp5TVpvbU5NVThUZ1JnNHV2NWpTSHp2eTk5UXhqWXJ1dVdTU3o4X1ZQT2pEbVlMTmJ0ZFBGT2NQb3lSWnQ4ODR4M1VkR0c5aG1zeFRpc0dKbGx5QkxwSnVUT3pZZEgtVlZMZmZIS1VTY2Uwa09JdlZXMVdHTHg3dzVvVjRYUEFsSS1MQVA5TWVaTk9iazBVR0NyczB5OEZTOExOVGMxRkw4aWpnczJOd2FELXVVVUZLNTN1Ykc1TXBmUXB5dHZkU1lDbmE5a1BQZEhuT2VqY1BGcV9WdmZOWTZSMklZaFBqekp3UE9XeTE4UExoUm03eU9ONVlqclh2ODVUUjdkbXp4aEpOS1dV0gGXAkFVX3lxTE1WX2Z4YVBMeWdrUzhfcjdMbEYzVGFTSndDZkN3MzZhVmNoaWVTN1MwWXotTDhfcVhLRm9jRlZtYXhNWjh4dXRISlhsdHgxc1FEcDZUTTZ0ZHhWeWo1Vl9VeG9MWWFMaVE5bnFqMk1nalpTY0drbEhCbVF6Tm9FNmJ3TnJjcVRaeDJ6aF9RN0NyV1luWHRwczc2Znd4ZktrdDJDc1VsNUlvZFAzV2hkbWJId2Fib1ZNUEh4UklkU3d0eDk4V1o4WGNkWklLOHY0UXNTU3h5TXhHTG05TWJrX29YeWRxd3NyWUYzbF9rV3RXdG1RWXBWbGtBZUtDS0MzczhSTXhUNXZGMzQxd3pHMm1JaV90Ukl4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-17-011",
+    "date": "2026-09-17",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Stock Signals to Watch This Week - Univest",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOREE3TzlxVmRUR3IyYjR6VC1wMkdNeFVRdUpROXBfYXc3YzVwbVVsSE1hclFTVkdwLUYzN0wzek1wSUoxd1UwSXNiWUF6eW5RYzlrcDJBY0lDRDktc2xDOHRiWkNOUTN5VlJzWmd0MV",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREE3TzlxVmRUR3IyYjR6VC1wMkdNeFVRdUpROXBfYXc3YzVwbVVsSE1hclFTVkdwLUYzN0wzek1wSUoxd1UwSXNiWUF6eW5RYzlrcDJBY0lDRDktc2xDOHRiWkNOUTN5VlJzWmd0MVI5a2NPM05FdTRmeWFuVHRJSUlwYWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-012",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Kenya’s National Cement plans 60MW Kajiado wind farm",
+    "summary": " Kenya’s  National Cement Co  has applied to develop a 60MW wind farm in Kajiado County as it seeks to expand its captive power-generation capacity. \n The D...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182094/kenya-s-national-cement-plans-60mw-kajiado-wind-farm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-013",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Chinese limestone exports surge amid Gulf disruption",
+    "summary": " Chinese seaborne limestone exports rose sharply during the first five months of 2026 as disruption to Persian Gulf trade encouraged buyers to seek alternati...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182093/chinese-limestone-exports-surge-amid-gulf-disruption.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-014",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials plans Ranville plant closure",
+    "summary": "  Heidelberg Materials France  has announced a proposed restructuring that would result in the closure of its Ranville cement plant in Normandy. \n The compa...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182095/heidelberg-materials-plans-ranville-plant-closure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-015",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gharibwal Cement posts PKR2.35bn profit for FY2026",
+    "summary": "  Gharibwal Cement Ltd  reported a net profit of PKR2.35bn (US$8.47m) for the financial year ended June 30, 2026, up from PKR 2.20bn in the previous year, ac...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182091/gharibwal-cement-posts-pkr2-35bn-profit-for-fy2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-016",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "neutral",
+    "title": "SigmaRoc agrees EUR110m acquisition of Lithuanian dolomite producer",
+    "summary": "SigmaRoc has agreed to acquire Lithuanian dolomite producer AB Dolomitas for EUR110m, strengthening its position in the Baltic minerals market.",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182071/sigmaroc-agrees-eur110m-acquisition-of-lithuanian-dolomite-producer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-017",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "positive",
+    "title": "Kenya to keep clinker import levy",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/kenya-flag-fabric.jpg\" /></p><p><strong>Kenya:</strong> The Trade Ministry has abandoned plans to repeal a controversial 17.5% levy on imported cl",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21255-kenya-to-keep-clinker-import-levy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-018",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Opposition to burning waste at Našice cement plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/waste-incineration-1500.jpg\" /></p><p><strong>Croatia:</strong> The opposition Most party is opposing the Croatian government's plan to burn some ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21253-opposition-to-burning-waste-at-nasice-cement-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-019",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Fibreglass boat hulls used in cement production",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/fibreglass-boat-1500.jpg\" /></p><p><strong>US: </strong>The Rhode Island Marine Trades Association Foundation (RIMTAF) has developed a pilot progr",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21252-fibreglass-boat-hulls-used-in-cement-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-16-001",
     "date": "2026-09-16",
     "companies": [
@@ -311,6 +683,184 @@
     ]
   },
   {
+    "id": "vulcan-2026-09-16-017",
+    "date": "2026-09-16",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock holds near a 52-week low - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcThFeFRWNWtZY3JJZ09ubkNFcVVaNjJEUWZrVnZ4bkJadXktbGNrS3hGV2pITVN3V0pWZnBpdzBVaWF4WGFqZTJpNzh5bTNwTi1PRURtZ0xFTGRMUGR6dHUxNTNEY0lTNzE0bUxpNF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcThFeFRWNWtZY3JJZ09ubkNFcVVaNjJEUWZrVnZ4bkJadXktbGNrS3hGV2pITVN3V0pWZnBpdzBVaWF4WGFqZTJpNzh5bTNwTi1PRURtZ0xFTGRMUGR6dHUxNTNEY0lTNzE0bUxpNFpSWjdJWWlYZHZlZi1qOXp4cks1NGxreTNDTG5sMHNQYjJtb1VBZ3V2MDBtQ3ZzaVJBNUdXTmR1LVlsYmVOY3dB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-16-018",
+    "date": "2026-09-16",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock hits 52-week low at 246.1 USD By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0hRSktZYm5YVkYzMmQ4bGtBUE9wV0VhUGRNT0xBdG80eWhUaTlCSURNWlFhYjVhRkRoUnktOUtfZEpUV1Y5LU41UThvQndzNDZTdXMxcWlOZXV6cnBBUW0wTDdjLUlfZlhNRUFLNk",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd0hRSktZYm5YVkYzMmQ4bGtBUE9wV0VhUGRNT0xBdG80eWhUaTlCSURNWlFhYjVhRkRoUnktOUtfZEpUV1Y5LU41UThvQndzNDZTdXMxcWlOZXV6cnBBUW0wTDdjLUlfZlhNRUFLNkdJTU9fbTNfNWxVdDg2VkJmcExOZlpoUi1nRjVVTk9YRWRJMmd5ZUtiTjZCS1NoQnBPbThXLWgzVUY2RUV2dkZORg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-16-019",
+    "date": "2026-09-16",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Today's infrastructure and real estate Buzz Centers on Vulcan Materials (NYSE:VMC)? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQTRPRlpaeGpVRkVXc3N2U2psUTlCVGRxWjFLWGRrcDF4NGk0VEFNcWVjNlExcS1tVE1scGpnd2RtTEgyd3JTbGNybzhacXYtbHdtei1zaWxUYkJOeS15d3BpZ1dwcTNic3V5WkZ5LV",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQTRPRlpaeGpVRkVXc3N2U2psUTlCVGRxWjFLWGRrcDF4NGk0VEFNcWVjNlExcS1tVE1scGpnd2RtTEgyd3JTbGNybzhacXYtbHdtei1zaWxUYkJOeS15d3BpZ1dwcTNic3V5WkZ5LVZGWHRLTDAzVHh4ZHVYcTVqZ3Z2MEdZam02dFljQ2FYVEY1cjB5OFgzeTl4Ui1wWUk5bUhDWUhGRHd1bzEwUzVlLS1mdHVjRTNNeXZMRl9GS0MtbUtxRlVyMVBjWV9STDJ2TE1TRkVCMlY3Q3lM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-16-020",
+    "date": "2026-09-16",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Breakup Blueprint Nears First Big Test as TK Accelis Listing Looms - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWg4X1YyZnQ2TFloNTlVRDRhdjdubUtRcEtkWkQzMnJTQjlDeXc2RW9ZSzBRVGExWTBIRFFMczdwMDJnVmJHQ2x6NW1sOGJFN2t5NFJ3Um5qUWYyaXpJZnZNLXllaE1EX0Q1aWFEVW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWg4X1YyZnQ2TFloNTlVRDRhdjdubUtRcEtkWkQzMnJTQjlDeXc2RW9ZSzBRVGExWTBIRFFMczdwMDJnVmJHQ2x6NW1sOGJFN2t5NFJ3Um5qUWYyaXpJZnZNLXllaE1EX0Q1aWFEVWpLLVY0SUpVcDZFUzE5NF9zcktkd2RnRmx5SmZvMVZfOUNoc3pGcG05SG1Yc21oQ3NqMXVmRHdwVzhFM0c4TmVrRnlqSGNpclFPZldicXdiU1dweDg1Y3I0UEN6QXltZ3VrVks0VnRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-16-021",
+    "date": "2026-09-16",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock stays below the EUR 18 target - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzA5dlo4MmtNTkN6VVFnRGxaQVlSM2VHLXUzRXhIekZVWWsyVXNpMkUxbGx3V2JfenJ3RnpWcF9sMkVWZ0gxTG9MVFRpWDFISW96UWVEVXhja3BNaWpfTHl4eXc5Tjk3MktUanhIX3",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzA5dlo4MmtNTkN6VVFnRGxaQVlSM2VHLXUzRXhIekZVWWsyVXNpMkUxbGx3V2JfenJ3RnpWcF9sMkVWZ0gxTG9MVFRpWDFISW96UWVEVXhja3BNaWpfTHl4eXc5Tjk3MktUanhIX3ZsX19VcG96YnlpbkE1X1FMeldpakdyZzhIX0R5VnJZbUpSYkUzdHM0b2ZWUjNhbW9DODEyajZ6M3p1RUFYMHlkSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-16-022",
+    "date": "2026-09-16",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Is Holcim (SWX:HOLN) Turning To Electric Thermal Batteries Now? - sg.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPem8zYkdzUERUY3g1RXNWdTFEMkRXb1BjXzRiNzhBeDkzeEZEc3hON2hqUExnS2kycHFSNjZOY3V5OWkxbnpRM1dxZjJOYm5BZkljenFlXzR2OEItdjV3YkhoNkMyWk13TkFSdE9QUm",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPem8zYkdzUERUY3g1RXNWdTFEMkRXb1BjXzRiNzhBeDkzeEZEc3hON2hqUExnS2kycHFSNjZOY3V5OWkxbnpRM1dxZjJOYm5BZkljenFlXzR2OEItdjV3YkhoNkMyWk13TkFSdE9QUmR6S3RqelFIdjRmTF96ZW5sYzRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-16-023",
+    "date": "2026-09-16",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials to close Ranville cement plant in France - Agg-Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1hLMEY3YzdZcVpvaTdIVE5rNG1NWXRlVkl2RW9rMTEyUEljdGdLU25vSlZuX2xZZHVjSElmNFR4YUpnaVBURlZuTlpDVlJBUDZEV1ZFN09pMEo4ajNhRkRkYWFfQ3Z6dUhDQU5xRE",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1hLMEY3YzdZcVpvaTdIVE5rNG1NWXRlVkl2RW9rMTEyUEljdGdLU25vSlZuX2xZZHVjSElmNFR4YUpnaVBURlZuTlpDVlJBUDZEV1ZFN09pMEo4ajNhRkRkYWFfQ3Z6dUhDQU5xRENUSmh0WUtvZExiT0F6cFJJdkpGTGd5Z2swOXpGb2pPU2VkekI4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-16-024",
+    "date": "2026-09-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Fed raises rates but construction has a bigger problem",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ky7OPK163Iqk9LNAIyYftJCTnwkISe2LDyRPJKnXLE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg4MTg3ODQ4LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/fed-raises-rates-construction-inflation-september-2026/830559/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-16-025",
+    "date": "2026-09-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Adolfson & Peterson’s new COO has a jobsite background",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Nc-DCODF7RIWOstQ3JDNRKlS8f0eVeHr0zlVSWTiKjU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZG9sZnNvbl9wZXRlcnNvbl9oZWFkcXVhcnRl",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/adolfson-peterson-new-coo-jobsite-labor/830513/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "heidelberg-2026-09-15-001",
     "date": "2026-09-15",
     "companies": [
@@ -609,6 +1159,46 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/infrastructure-ppp-georgia-tennessee-contractors-heads/830425/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-15-017",
+    "date": "2026-09-15",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement falls Tuesday, underperforms competitors - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjdnVnJOLThnZXBvQWpBSFVpUklnTzQ1ZlMzdGh5bkV2eXotb1pGNlVpTjdsczFPelA0M2FRbW1sa0J1X2luZUNOZGlOOEh4MVZ3cTVRa2lXaldzWU5rcGhHM21vay1DNFl0SFNnZl",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjdnVnJOLThnZXBvQWpBSFVpUklnTzQ1ZlMzdGh5bkV2eXotb1pGNlVpTjdsczFPelA0M2FRbW1sa0J1X2luZUNOZGlOOEh4MVZ3cTVRa2lXaldzWU5rcGhHM21vay1DNFl0SFNnZlN2b1RJUXpLVVZKOXRwRXlMRm1QV3FkM0tRclpCV0plWUpKYkRvbmRZT3hoYk1ITThQZlpYOVVaY2ZGTmNNQnFJekx3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-09-15-018",
+    "date": "2026-09-15",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement Public Co. Ltd. Unsponsored ADR Financial Disclosures & Filings - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CZXFHdk5MQ0VQdHFjM0RlclZRcmx2VjRWTUpNeG5lbHRGUG0xTUdIS2lwMzlpQ3NyUU95ZHJ4WGVva3lZbk1xWFFEYVY1bll5cFZLOHp6Qy1GX2tROEhEb0RuRng?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CZXFHdk5MQ0VQdHFjM0RlclZRcmx2VjRWTUpNeG5lbHRGUG0xTUdIS2lwMzlpQ3NyUU95ZHJ4WGVva3lZbk1xWFFEYVY1bll5cFZLOHp6Qy1GX2tROEhEb0RuRng?oc=5",
         "type": "rss"
       }
     ]
@@ -1682,6 +2272,26 @@
     ]
   },
   {
+    "id": "ultratech-2026-09-11-025",
+    "date": "2026-09-11",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UltraTech Cement slides Friday, outperforms competitors - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDhqTy1lQzY1dDVsbnlGTm9Pd0RFZ2pwWlFiaWFfM1BWTUJlMXhkZGE5ZFZORW9CR2dmT3BqcW5vNndEMDY1NWVBajRvQ2QydVo1c21BNURXTjRVdHUwbDVSLXptc0pjejBhOU5VdF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDhqTy1lQzY1dDVsbnlGTm9Pd0RFZ2pwWlFiaWFfM1BWTUJlMXhkZGE5ZFZORW9CR2dmT3BqcW5vNndEMDY1NWVBajRvQ2QydVo1c21BNURXTjRVdHUwbDVSLXptc0pjejBhOU5VdFVfZTI2QTNTVExvRTVEdGlCcmdiSkh6R25BYjA2UGNjbGw2TWFnZE55ZVFDdmhOa2doSDJZY2tNeXQ1c0ltQVpj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -2110,6 +2720,24 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVHp2NTRIb3FnVU5hT0pqWEI0Y1BMUjVhRmYzdEI3WHVpbFlkbWlRS2lSRTdLUVZFTThkTXdNOWhkdExPSS1yRHVwdHFidmlEa0dZV0Rma1hURXNoZFkxTDlTb1VZSUhJUzBwZTlKLUtqV1k4c1g1NER0TEpZTklCU1BWaGF0YXdpVzZROWk1UUdUZzhrUnpJNmFVSTdrQzQyOXBXNGN5V1o1TXVSMVBINFkzcXFHdm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-10-023",
+    "date": "2026-09-10",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "UltraTech Cement climbs Thursday, outperforms market - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVVfZXltZmI1Q0dhR1ZwbGlGRGtnUVUzaWtNVE9CZGg1dkJyYWY4M0dNcEJxVFNmSUIya1lMLXJVNURuZU5VNEo5ZUZjUGFGOFFmMW9nSkhvN1VlUnBad1pSWlA5RWRyeDJZOFFoWD",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVVfZXltZmI1Q0dhR1ZwbGlGRGtnUVUzaWtNVE9CZGg1dkJyYWY4M0dNcEJxVFNmSUIya1lMLXJVNURuZU5VNEo5ZUZjUGFGOFFmMW9nSkhvN1VlUnBad1pSWlA5RWRyeDJZOFFoWDByOFM5OHFtYk1xajQxMzduS25ERktJaXV3OFFpcnRfYVRtU25QMlhTZmV5LU1ONkhvaFBrUEVBcko3X1E?oc=5",
         "type": "rss"
       }
     ]

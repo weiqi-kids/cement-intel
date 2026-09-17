@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:05:18.132222Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "holcim-2026-09-17-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Holcim stock gains as low-carbon cement expansion meets valuation upside - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "capacity",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXN3QnVIaGpUVGxqS3E5Y08xWUgxejdIbDNwTEZrTE41bi1UbjM2UEcyd2E1ZW5OUjhkM0YwSTctX3JWNG1RX1RBeXlHY0ZWaFMtWGN2c0dGNzZHcm9KUmk2RVZPc05BWEthZU5TQnFnOHQ1VzZ6Uy1DRkNqUDJab2xnb0FtaUVkNk16bXg1MUZaZE8xcXp6a1p5LTRUSFc3RXg4anBzNmNIWTRVQjBIM20yWjh2ZU9SaXlvbmlEbXVQVEJzbEJveFgxSjVPaXdL?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-09-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock heads into the open after a 1.3 percent Xetra gain - ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk83NE1mSU12THNUWnR4WUVlQUxGY2h5SmpfTWxBTGN5YzRQcU5Yc3ZwLWRsSWl2dnpMd3NSb2V4T3NBTExhTXVqbjFIaTl0TkZ1VzdKa1F4ZWtCb1NrN1BjWGhRTHVhQVplSzNmSERCc3FNTXBVVUFuRG9uVWlCMXc3cjNFSGtIM0ZIenVzVFNRcDFJNElOTlQyY3RIN3Jib004T21kQ1VMWV9icFRuUGRWSlNONktnd2R6TnBRa0FCSlhybXVpem5qLW0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-09-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim (SWX:HOLN) Expands Low Carbon Cement, Is The 16% Undervaluation Enough? - Yahoo Finance",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmVVWUZEWlRkOUxWcEltejI4RWkwWVY2Z1dPaEg1VkJsV2VuVzRVY0N3OGNLZkFKaUdjcmhSWm1BTWxkeUdPcnpIWHNzUFppMUphS2cyaC1RamkwOHlUMDZ0MFM2cWpmVjlOTGduaXFjVHctUWxJTG9mYjBkNUlFSk5tTHNDQ2FEd3ZSQS1pT09OZFBqdGYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-09-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials France Plans Closure of Ranville Site - IndexBox",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFB4V1ZiWUkxVWRvQ2s1LU1UYXMxMHdJajJXc29rZ3NKTkdxc0dxWWo3a3hhcmJZOEhmaFhZZzlzN1Z6eGFLWDVIbjN4QzZVakVqZXc4bnpuOGEtRmc1VDdsazRXYjVBMk9tbmJXUURIVmFibHBEc1hweXVWOWpuZHN6RVIzaTVmRl9HaFJyMUF1UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-09-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials plans Ranville plant closure - CemNet.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXI4LTBZTkZEbGVkYzQ1N0ZsOVFLeTRVY3JPSURZaTlLZkVDZkJiTWY4UXZua1VZT1hEVmZwLTJPTEV3Y1JsUzAwWnBHYi1xRTBOVEpiTnVzM0pyZ0x2UUo3QmU2Z0RnNUFDYTVIRFhwUGNoTUpMdGYtaE1jWUwtRDlYZkV4dG1tUV9vMnZ1X0ozY3VaNWtxOFQ5bw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 7
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 112,
+    "too_old": 152,
+    "gate1_blocked": 11,
+    "gate2_blocked": 13,
+    "passed": 32,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Thyssenkrupp Extends 65% Rally as Investor Disclosure and Furnace Maintenance Converge - ad-hoc-news",
+      "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility - CleanTechnica",
+      "Electrified Thermal Solutions' thermal battery to be deployed as part of Holcim's electrification ro",
+      "Holcim (SWX:HOLN) Opened The Czech Republic’s First Calcined Clay Line - simplywall.st",
+      "Holcim Invests in Cloud Cycle for Real-Time Concrete Quality Monitoring - News and Statistics - Inde"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為海德堡材料、Holcim、UltraTech相關動態：「Holcim stock gains as low-carbon cement expansion meets v...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Holcim stock gains as low-carbon cement expansion meets valuation upside - ad...（碳排放、產能、財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "ThyssenKrupp stock heads into the open after a 1.3 percent Xetra gain - ad-ho...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
