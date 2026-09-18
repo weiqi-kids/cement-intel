@@ -1,0 +1,277 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:44:07.238608Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-09-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "No Breakup of Thyssenkrupp. - IG Metall",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUZIQWxEeDhha3VUSXFkMG1EbW1DMFd2Zjg4aXlLUURWLXFxRTdCZmxmOXVnZ3phak5vSDZvS0hOWEE5V3dxVVNuZVk1MlpTZ09LTVViRm1mcWMwY2VmSGVvTDk4Q3lsNEk4RmxnZTlHVEpkOF8wNldKSS1pWFhLdVV0cU9OaWpacFc5eGtVMmVDZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-09-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials stock eases after Australia deal and plant closure - AD HOC NEWS",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVXQ4VlZJa0tSQXk1V1Q1Mi1FVVhPQlhqenVvaVFSbF81Mkczb3daVm11d0ZCQXlKZ2dOLUcwVEZ1eUszbmxFelJnZmpGNlhNU3RBZFhRb1NNdGswem1OVnpyRnlkdzFBR2QyTGZ3QnA3TTVPNVQ4MnVQR1VsR3NuRWtoZnQ0czI2aEF1UUpDbWdvZk9EeTUwcVk2SnpEV1pGcHVmNmlMbVVLSkJVVF9MVDBrTlJMRW5EMkMxLW9ia2tXUXUxdlJqSG5zQ0ZnZFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-09-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Top Gainers & Losers, September 18, 2026 at 12:00 PM IST: UltraTech Cement Leads Gainers - HDFC Sky",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lUEJFNmxZeGVfcGQ2bzVLX2xEcWtoTkhGMVlsXzlCaHBSb3duTE9iVVJzcG0zOHdfVVAweHNZeHgxYzlnNWI5aWVXb0FpRF9TOGcwWFBBYjlMLU1IRjNpbXNTMm9VQ29MckpKUFVpTThhcDU3djlaT0J3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-18-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Review finds ECEBOL plant ‘unable to operate indefinitely’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/21257-review-finds-ecebol-plant-unable-to-operate-indefinitely"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Heidelberg Materials stock heads into the open after a 2.4 percent drop - AD HOC NEWS",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUNkUlFYU01UMDM4NmZuM0NBNmdyeGxkVnhGaUhPb1FWM3FqSDJVRlhhc3VSblBNVENpYWxzYTZCLW9xSno2LWdIQTVnOEdhTm40bDM1aUJnTzltUmxpNmJyZXlnNXdQLUpJNzlncWRYcUp1dTM5em5BVElHVF9oaWpySGpMWnhZZURISGJ3Z1NMRU1TdkV6Y1JFWTdUVFI1NGd6VzhScFg1QWV0anBZNW9fYkVPWDQyQl9Xb2hmbVpkRzAta19GNlF6MGJxVDQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 141,
+    "too_old": 133,
+    "gate1_blocked": 11,
+    "gate2_blocked": 14,
+    "passed": 22,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Thyssenkrupp's Spin-Off Math: One New Share for Every 20 Held as Citigroup Lifts Target to EUR 20 - ",
+      "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility - CleanTechnica",
+      "Electrified Thermal Solutions' thermal battery to be deployed as part of Holcim's electrification ro",
+      "Holcim (SWX:HOLN) Opened The Czech Republic’s First Calcined Clay Line - simplywall.st",
+      "Holcim Invests in Cloud Cycle for Real-Time Concrete Quality Monitoring - News and Statistics - Inde"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為海德堡材料、UltraTech、蒂森克虜伯相關動態：「No Breakup of Thyssenkrupp. - IG Metall」。主要關注主題為財報、庫存、原料能源成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "No Breakup of Thyssenkrupp. - IG Metall（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials stock eases after Australia deal and plant closure - AD ...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
