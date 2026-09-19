@@ -1,5 +1,87 @@
 [
   {
+    "id": "vulcan-2026-09-19-001",
+    "date": "2026-09-19",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock slips as Q2 margins ease and market cap hovers around USD 31 billion - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3k3cjNMd2FZYWxSZUo0RHowejRXSlJHTUhMc3ItdWphajRXWlRnZ01aeFVwM1hlSUV6RzNhY1Y5QjhodERzY0l6Z280NXlYejZ5YURZSXB3VXlsZHZ1VFNWTUhpclpKaUNsaW95ZU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3k3cjNMd2FZYWxSZUo0RHowejRXSlJHTUhMc3ItdWphajRXWlRnZ01aeFVwM1hlSUV6RzNhY1Y5QjhodERzY0l6Z280NXlYejZ5YURZSXB3VXlsZHZ1VFNWTUhpclpKaUNsaW95ZU1ucjIzLUlNb2x6MzFOVWFjdktpOTRmZ2trTThHNi03dlE5SXBLYl9VcERNX2RZeGIxUzRkRGN5N1NEbFlkSGZiNDBCQUlVdGdWX19FOVpoWWFjYUVGRTBoNVpibEc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-19-002",
+    "date": "2026-09-19",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp stock holds steady as investors weigh latest restructuring progress - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUE1xYVU1Y0VTeWw2SENLZnZDcE1pM2tVZ09aUmdmUDNjaVB5NXdNcldkQjJJeXhqWm5BTTc4TVdLcTlLYWNlYWZzOEotbEVmU3lyRks4MkRPMEc3OFgzNkJqem05OGNHX3RfX1hXQX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUE1xYVU1Y0VTeWw2SENLZnZDcE1pM2tVZ09aUmdmUDNjaVB5NXdNcldkQjJJeXhqWm5BTTc4TVdLcTlLYWNlYWZzOEotbEVmU3lyRks4MkRPMEc3OFgzNkJqem05OGNHX3RfX1hXQXlxdndHNS0tUVcyaTA4eXNpZmNCTGp6Ymgzd1RabzFoeHBJTUJCY2FjZk55eUhGNnhNNHBzMXNHV19LdUNFRHBVVDBHRlFrM1hIN3N2bTg5UzU5aFpremZzYTZia0FOSjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-19-003",
+    "date": "2026-09-19",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock holds steady as consensus targets signal upside potential - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2ttYUo0VFY0MHBhQVVaV3JlUDFIS1E0VVJZdUxDOHVyT0xwRExCSE1xZ1FDanIxWTBMVXNqNm9mM0s1aENyWlRhMGlMSHFGeW0taDlPOV9raFlTVkhidHROc3pkcG9uVVgtYnE4Ml",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2ttYUo0VFY0MHBhQVVaV3JlUDFIS1E0VVJZdUxDOHVyT0xwRExCSE1xZ1FDanIxWTBMVXNqNm9mM0s1aENyWlRhMGlMSHFGeW0taDlPOV9raFlTVkhidHROc3pkcG9uVVgtYnE4Ml8yRnVqZ1dZZjRiM0l0QjduaVNzUFRuT0IzV1Q0RUhiUURXSUgyV3F3ZV9iM2MxdU1JRHRNMExybGhmU2tXRk1FQ09YMXdaNzA4dEUxbDhSTU9JZU1OR05CZ1N5anBHNHBmYnFj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-19-004",
+    "date": "2026-09-19",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials’ lower carbon concrete solution is a UK first - HUB-4.COM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPcGRfSW9rQXNRQVdpOFU5Q1Zmb3JoNVY3enZxTlh1WlZpWnBkX0lEcmdhQWhEVFFUbGVXcnZQVlFyZ3pNMnRjMHZtMEI3WExkTGh3clotRkcxQ0ZaUFpJanZzZHoyY01oZElmMUZERX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcGRfSW9rQXNRQVdpOFU5Q1Zmb3JoNVY3enZxTlh1WlZpWnBkX0lEcmdhQWhEVFFUbGVXcnZQVlFyZ3pNMnRjMHZtMEI3WExkTGh3clotRkcxQ0ZaUFpJanZzZHoyY01oZElmMUZERXU3NnExdVBiSHBPV2JJcVI5WkZJcnc0UmJoMUlyVkVQQ0hFZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-09-18-001",
     "date": "2026-09-18",
     "companies": [
@@ -204,6 +286,159 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21257-review-finds-ecebol-plant-unable-to-operate-indefinitely",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-18-012",
+    "date": "2026-09-18",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co. stock underperforms Friday when compared to competitors - marketwatch.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmw1bHp5QUdPcmxRbTZSUF91Z0RyRjUxaHI3cnpCZmQteDA5WVhYbUtFc1ZCVHA3RWgyME5zdVN1VjZZQXY4T3ZHWV9kWnNPbkE4TlVlUHVIUWJhbG9SRkVUZW1QbW9oajZZR3hCUT",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYmw1bHp5QUdPcmxRbTZSUF91Z0RyRjUxaHI3cnpCZmQteDA5WVhYbUtFc1ZCVHA3RWgyME5zdVN1VjZZQXY4T3ZHWV9kWnNPbkE4TlVlUHVIUWJhbG9SRkVUZW1QbW9oajZZR3hCUTRQM1psQl9KWHBZRm5qYl9RNzI0ZFRVYmtuZ0M1UWZsc2NRaDhOcG5VUnhqOTNiWXI1VlhjWmozVDgybFNST1pOQ0pkMzdFODhfbDVNZkhQRjJEWldmSUp0TDAzN2g2TWFa?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-18-013",
+    "date": "2026-09-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Implement Consulting Group acquires thyssenkrupp Management Consulting - Consultancy.eu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTF0WlFOZjBUZFVxdHZmYkltTWtYYTkxck5jdU4yNHp5NjVuR3NLUWI0eFpyZS1pQTBHdHBXRTZvT0pqUjVyUC1RQWZZY1RqT2VLcUF6NGt1ZmFtWVBrQlpBS25OZWJFUWxYZ0Q5bm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTF0WlFOZjBUZFVxdHZmYkltTWtYYTkxck5jdU4yNHp5NjVuR3NLUWI0eFpyZS1pQTBHdHBXRTZvT0pqUjVyUC1RQWZZY1RqT2VLcUF6NGt1ZmFtWVBrQlpBS25OZWJFUWxYZ0Q5bm5tYkFpd0kxYjNYc0E4R2ZhTHFFcjBiTzFjcGIxUEZSR1NNSy02OTlROHpiVGxlQWlvLWZubkd4anB3R2RG0gGyAUFVX3lxTE1QeU8tYlZVNEUwb3A4T3NqMkp5OXhzRjRibFdSeE5vaXVxRnN4MFZMNVpQZkVoRVBfVVYtVHFLRDFmSndwUkxxcHlQQ281d3Q0bm1oOHRyUVIzMnV2ZjZORmwwcVRGR1NrYk5wNGcwVHpQV3N0dlpBb0cxUlVmdzNEMVdoYmJFR1pmckFwLU91cEhiQUIzRVo4VGxTa3Zsa2QwN0tLVWY3NG8zbmxibXJkQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-18-014",
+    "date": "2026-09-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Greyfield Group acquires office property in Bochum from thyssenkrupp for transformation into a student dormitory - assetphysics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYnp3bHpZbXd0ZF83ZXlSd2Fwb1FiOUQ2WE1GeThKX2YwY195Tmp6RWNtcldvam1YX2ZPQ2dkOXQzOER2eXA0V05Vbkg3WHZ1dUdpZE5selQzV1pBelFhU3VpMmJPN2JVR2hYUlFMSn",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYnp3bHpZbXd0ZF83ZXlSd2Fwb1FiOUQ2WE1GeThKX2YwY195Tmp6RWNtcldvam1YX2ZPQ2dkOXQzOER2eXA0V05Vbkg3WHZ1dUdpZE5selQzV1pBelFhU3VpMmJPN2JVR2hYUlFMSnVHelI0Mjd4V3BCN2hOaUNZam5JNXZVbjJ3cU5ZYmRfRzFlVWd1ZHNWNHpiMWJHY0trWk1oWFhTU0ZqVWtDTklvYms3b25Ud3djRVdmamFmQ3YtVEh4ODk5Qk1YNUJERGkxZGE0YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-18-015",
+    "date": "2026-09-18",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials takes majority stake in Peru-based Cementos Inka - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUtmWVdQZTdmaU5pUkZya3lFZ0d1NkNyV0JaMFdNN2hZM29KUHdwQzNlR0V6dHJnVWpQWm9kbDA3TF9fdVZWNGtKaGVOcVNycVhRZTJSbXNGRzlYbTA4SG5hV29DRTVNMWNUbmZWVn",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUtmWVdQZTdmaU5pUkZya3lFZ0d1NkNyV0JaMFdNN2hZM29KUHdwQzNlR0V6dHJnVWpQWm9kbDA3TF9fdVZWNGtKaGVOcVNycVhRZTJSbXNGRzlYbTA4SG5hV29DRTVNMWNUbmZWVnYyR3d4clRzQnhLdjN3TzdwOTZtTTEwbkhBbnF4TmNYcVlrcFlHWGM4UVhsSVZuODBBS21LeFdRZlhJTzlHMnZXOG9HQmhIZEJWcnd0ag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-18-016",
+    "date": "2026-09-18",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials to Acquire 70% Stake in Peru's Cementos Inka - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1EzRG1IYnRuMDAyWTcxYXgxcy1HU2VhdDhIWTJMMGN2QmFyVzA3d0MyMEgyU3kxbEtxT084MnI1QjFJVVp3WjR5UXhRVkQxUGRBUzdMNHRQX3VMVV9uZUNRZHBGU0tFQ0s2SzhRel",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1EzRG1IYnRuMDAyWTcxYXgxcy1HU2VhdDhIWTJMMGN2QmFyVzA3d0MyMEgyU3kxbEtxT084MnI1QjFJVVp3WjR5UXhRVkQxUGRBUzdMNHRQX3VMVV9uZUNRZHBGU0tFQ0s2SzhRelVfNFMxaXBvX0VrTnpwb0g3elg0SkFHc1VkZVFGMjdISXJsT3NXVWNKVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-017",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Conch Cement stock holds steady as analysts see upside in Hong Kong trading - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOekYwUVpIUnE2WVJKYWxyck5UWDM2ejU2LVJqX3JvTktfcmpKRnZhdVVoLW5xWUdZMFlzdWxPVDhzV2dONXIzQmpRVHJBXzJrNFFnSU9yWDJIVFZWTmdvcVNmM01mbEM5M3N1Q2dRdG",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekYwUVpIUnE2WVJKYWxyck5UWDM2ejU2LVJqX3JvTktfcmpKRnZhdVVoLW5xWUdZMFlzdWxPVDhzV2dONXIzQmpRVHJBXzJrNFFnSU9yWDJIVFZWTmdvcVNmM01mbEM5M3N1Q2dRdGU3TXZvTjJEem9EeHJnd095UldPRkdTQ1VpalhSX255NUFWS180Q09sMVA0X3dDM3U0bmhqWlZmbDhKRkdPVUE3QXpqc1lHLTZxUERNU1hRN3gxMTc4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-09-18-018",
+    "date": "2026-09-18",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement Unit Restarts Olefins Plant Operations After Six-Month Hiatus - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2dCMjFVNFIySm8yQ1ZKR2pMOUVDM0g2SEtoX2c4ZlRrWWxmVnZOeDFRVXl1WDBQSTFHWnhGV2IzcTUzYmpkYlBwSml6VnBYd3l5aUJGVEU4Mk1ncExtQnBRWWJSUm04cG9zeXAtbU",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2dCMjFVNFIySm8yQ1ZKR2pMOUVDM0g2SEtoX2c4ZlRrWWxmVnZOeDFRVXl1WDBQSTFHWnhGV2IzcTUzYmpkYlBwSml6VnBYd3l5aUJGVEU4Mk1ncExtQnBRWWJSUm04cG9zeXAtbU5OMjRQRTB6d3BBZllnQjJJMlY0WXd4bHBUaTQ3WW9ibDlzRlVNQVJqZk9BRVplUlp5bk8tRlJKa0x4YTN2MTItMEpzWnJMYzZQLVRVYU13SkgxeHZY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-019",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Why the U.S. can’t build high-speed rail — and how to change that",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-NU-LVejfaVMiw0JzcT1O6nQhO-e2rjvkwVAuuSqmfY/g:nowe:0:0/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDIzLTA2LTA3LVR1bG",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/high-speed-rail-national-infrastructure-bank/830759/",
         "type": "rss"
       }
     ]
@@ -697,6 +932,47 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/brightline-west-florida-financials-private-sector/830649/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-17-026",
+    "date": "2026-09-17",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock heads into the open after a 1.3 percent Xetra gain - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk83NE1mSU12THNUWnR4WUVlQUxGY2h5SmpfTWxBTGN5YzRQcU5Yc3ZwLWRsSWl2dnpMd3NSb2V4T3NBTExhTXVqbjFIaTl0TkZ1VzdKa1F4ZWtCb1NrN1BjWGhRTHVhQVplSzNmSE",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk83NE1mSU12THNUWnR4WUVlQUxGY2h5SmpfTWxBTGN5YzRQcU5Yc3ZwLWRsSWl2dnpMd3NSb2V4T3NBTExhTXVqbjFIaTl0TkZ1VzdKa1F4ZWtCb1NrN1BjWGhRTHVhQVplSzNmSERCc3FNTXBVVUFuRG9uVWlCMXc3cjNFSGtIM0ZIenVzVFNRcDFJNElOTlQyY3RIN3Jib004T21kQ1VMWV9icFRuUGRWSlNONktnd2R6TnBRa0FCSlhybXVpem5qLW0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-027",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials to close 500,000 mt/year cement plant in northern France - spglobal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbERWd0xGbmkxUGZsTUxTYnJScmVTS0ZveVJoZDhuRE1DVlJPaUE5dlNDOUJXdFVqZmpaMmVuUFRGUEI5TXBoVEJ1Vm9JdGl6Z0U1ZWtzVmxwSjVxM2ZQUUlqV2p0cmw1NTNBRVozWU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbERWd0xGbmkxUGZsTUxTYnJScmVTS0ZveVJoZDhuRE1DVlJPaUE5dlNDOUJXdFVqZmpaMmVuUFRGUEI5TXBoVEJ1Vm9JdGl6Z0U1ZWtzVmxwSjVxM2ZQUUlqV2p0cmw1NTNBRVozWURaWllwRGlHWGJ1TDZ6ZlQzUkF1dmhSTVlpREpueDhvMWVLT2hrU3A4Vy1KdTl6cmFxcXJnQWM4OTZuUmo4dERXOG1FOTZsNWdXTzNkMEwyY0RPREhqUVFNUlZnOWlwZ21DMmdYUjctU3pWMnBTX0EyTFlxWk0?oc=5",
         "type": "rss"
       }
     ]
@@ -1268,6 +1544,65 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3lac203bEJ2MGJZN29KWHhBdEsyM3d4TG5xTlR3aG5aYnJ4WjJCQ3Ryam5KYVVaRmdPblJmLXEzZC0tdFJ2bkFqR1hFNng5RS1VcTZudVNYN1FrandFOTBUOU9wMVpWR1FHQzRGSDY0VlJ2aFZfYUZwTTZCbGtnY2hhdlNpTVlrckdQQmtpZ0dyRG83d0pxVkRuOTUwODIyUlo2VTNzMEkwV0ItY3FCR3prcllWSGZ2c2EwMWVWa1lic194ZTRYZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-16-030",
+    "date": "2026-09-16",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock hits 52-week low at 246.1 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0pJd2k5WXpvNXVWSDVSaUlpX25WekVrdlQ5aGpIRmdsUmNOUGpuejVQT0ZBT2tjVDVMdXl6RWdnOEJTV1F3elNONjdWcG5LTmxTOXZLZGdNYlpuU3JXUXZ1U2VCT0w1N3RPU054Zn",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0pJd2k5WXpvNXVWSDVSaUlpX25WekVrdlQ5aGpIRmdsUmNOUGpuejVQT0ZBT2tjVDVMdXl6RWdnOEJTV1F3elNONjdWcG5LTmxTOXZLZGdNYlpuU3JXUXZ1U2VCT0w1N3RPU054ZnhEekFKNTFxQnY5b3pXR1c5bmw5UThlalU1ZWZlWlFYM21jV0xxQ2UxUlhsYWhyaWZwalVscURtdFVhSms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-16-031",
+    "date": "2026-09-16",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's Breakup Blueprint Nears First Big Test as TK Accelis Listing Looms - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWg4X1YyZnQ2TFloNTlVRDRhdjdubUtRcEtkWkQzMnJTQjlDeXc2RW9ZSzBRVGExWTBIRFFMczdwMDJnVmJHQ2x6NW1sOGJFN2t5NFJ3Um5qUWYyaXpJZnZNLXllaE1EX0Q1aWFEVW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWg4X1YyZnQ2TFloNTlVRDRhdjdubUtRcEtkWkQzMnJTQjlDeXc2RW9ZSzBRVGExWTBIRFFMczdwMDJnVmJHQ2x6NW1sOGJFN2t5NFJ3Um5qUWYyaXpJZnZNLXllaE1EX0Q1aWFEVWpLLVY0SUpVcDZFUzE5NF9zcktkd2RnRmx5SmZvMVZfOUNoc3pGcG05SG1Yc21oQ3NqMXVmRHdwVzhFM0c4TmVrRnlqSGNpclFPZldicXdiU1dweDg1Y3I0UEN6QXltZ3VrVks0VnRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-16-032",
+    "date": "2026-09-16",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Is Holcim (SWX:HOLN) Turning To Electric Thermal Batteries Now? - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPem8zYkdzUERUY3g1RXNWdTFEMkRXb1BjXzRiNzhBeDkzeEZEc3hON2hqUExnS2kycHFSNjZOY3V5OWkxbnpRM1dxZjJOYm5BZkljenFlXzR2OEItdjV3YkhoNkMyWk13TkFSdE9QUm",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPem8zYkdzUERUY3g1RXNWdTFEMkRXb1BjXzRiNzhBeDkzeEZEc3hON2hqUExnS2kycHFSNjZOY3V5OWkxbnpRM1dxZjJOYm5BZkljenFlXzR2OEItdjV3YkhoNkMyWk13TkFSdE9QUmR6S3RqelFIdjRmTF96ZW5sYzRB?oc=5",
         "type": "rss"
       }
     ]
@@ -2075,6 +2410,26 @@
       {
         "name": "vulcan",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlVUM3RuVHFQVFlsdnJYcndiWkpFWXZQSzU4cXJpTWQzczNqVm44cnVxSjBaVGNIYkxubXhKbG02Mkl4T1BnNndWWHRrNGN1Vm1VYmVnSXFjMlVMdWZsYU4zYXNEODhQcW05eS1VUjNUcVh6bnBKOWVyR3NxMEZoTTFmNElhdDNHcU1kdnpla1RIVEV5QmpIN0sxRlFyczB3emRsVXE2clNJUFpjbkc5WFh1RVk1dXVPeHEzR3ZocFY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-14-025",
+    "date": "2026-09-14",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock heads into the open after a modest Xetra move - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0sxamphX2xmS3pQQ01kR1EtOE5FMEp6Sy1kVDdaVVMxTHlyQzhtSkdQQnF2a2VMaThZZmhqTlZrR1dZWVBQOWlMVm9VM2tPUm1IMF9GM0VBZkE2TU1VRUQtVE9NT2xzamJvU3pENW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0sxamphX2xmS3pQQ01kR1EtOE5FMEp6Sy1kVDdaVVMxTHlyQzhtSkdQQnF2a2VMaThZZmhqTlZrR1dZWVBQOWlMVm9VM2tPUm1IMF9GM0VBZkE2TU1VRUQtVE9NT2xzamJvU3pENWZRc2RRR2REeXhHbkFCM1QzWmRrdDBkSTJTbk5CYXd0TUs0dDFYZWFscDdxWU5YakFPVHFfaVFKM3VkY2t2U2VsanpoMURNeEtVbGpSMnZmQmJTcVNqT1E?oc=5",
         "type": "rss"
       }
     ]
