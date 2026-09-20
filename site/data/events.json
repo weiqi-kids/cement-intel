@@ -1,5 +1,127 @@
 [
   {
+    "id": "vulcan-2026-09-20-001",
+    "date": "2026-09-20",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock slips as margins ease - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFYtTTRLTjQ5a21iRWV2anh4SldNc3g4VlhERlI2aTRPRmkxRTZRQWhSQlgzMnU1ZnctZENpSlY2WXBnMmZURGl2dTdLRDJZanQ5X3VteWkya256bmZ6V1FPbWlpWHNlM2pJMHhZem",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFYtTTRLTjQ5a21iRWV2anh4SldNc3g4VlhERlI2aTRPRmkxRTZRQWhSQlgzMnU1ZnctZENpSlY2WXBnMmZURGl2dTdLRDJZanQ5X3VteWkya256bmZ6V1FPbWlpWHNlM2pJMHhZem1xMktjblBwSWZmSW5YbDFaRzZtV1VVRzhDbDBvN2FNZ1VzWVAwajNiNGk1dFNBRGNHb3Z0VHNSY0MycFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-20-002",
+    "date": "2026-09-20",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp stock edges higher on solid Q3 2025 figures - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWZSSWFzMi1KUjRJMkVLSzRHSXRJbFd1dXVJNXFIQ0pFemk1UDNMQWNaamtHTHFHMVR0bEZQQWhYc2txZTJ0ZTRsRlpOd3BRODNwSXVTWGt0aU9UWi10MEhid3Q1NzJFUE44QjZRSF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOWZSSWFzMi1KUjRJMkVLSzRHSXRJbFd1dXVJNXFIQ0pFemk1UDNMQWNaamtHTHFHMVR0bEZQQWhYc2txZTJ0ZTRsRlpOd3BRODNwSXVTWGt0aU9UWi10MEhid3Q1NzJFUE44QjZRSFRoaHY5NjlFeGVCTy1YNUxkTGJSRXFNZnF6QnMyVUk0NFB4S0gzWm9kV0FMNWFlMHJCenZNSEZjQ3VSQXk4OEozaFBFTFNFS3p4YzdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-20-003",
+    "date": "2026-09-20",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Sharpens Steel Separation as EPCG Exits and Profitability Doubles - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0g5OEN4QWFlZDhMSFpiQjZZTGh0d0ltZ1BJVy16S1hrNk1YdEVZRERGU19mUzNuZTNrM2EzRkFZZlhoUThScnljWTNpcnFhRk5uMTlIRnlKLUIxajJCS0xzb3FfR21xVDNITUlxVm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM0g5OEN4QWFlZDhMSFpiQjZZTGh0d0ltZ1BJVy16S1hrNk1YdEVZRERGU19mUzNuZTNrM2EzRkFZZlhoUThScnljWTNpcnFhRk5uMTlIRnlKLUIxajJCS0xzb3FfR21xVDNITUlxVm1aOGhpdVd0blJJQk1fcy1ZbTlQbmozSzNBb3gzOGYzeFFibTYtYmo2UEFwQVlEbEhRYkVDM3JHa2Z3cE9ONjNBZUt3NktGa0k4bjVXbjU3UXljdFpMTjNkQlRjRXlDUnV5WTZrN0ZNbnV1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-20-004",
+    "date": "2026-09-20",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock holds steady on recent earnings and construction demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPRktkUnMxVGNnLXlxWUlscUtpeGJoZXhKU3JpdW8xZ1J1SW1yanlaMXZfNHJVOUJUY0hoODNYY0dDSy1vSjBZa1dERlRzQ3VhbDBESDBKMHVOM25mdWdjZ2I1czhESjdPajFTZ3dqWk",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRktkUnMxVGNnLXlxWUlscUtpeGJoZXhKU3JpdW8xZ1J1SW1yanlaMXZfNHJVOUJUY0hoODNYY0dDSy1vSjBZa1dERlRzQ3VhbDBESDBKMHVOM25mdWdjZ2I1czhESjdPajFTZ3dqWk9ZSElxazlnX1hHTFFIcUR6WS1pZTRudDdoa18xVS1yaVlTUF8xTWZMdlRUUWtjUnNVU2xHTDJWNkhGVXQ3Q2FfR3E5d3NYMXlCQXRtUTZSSVdQMUtzVUNwbVUxbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-20-005",
+    "date": "2026-09-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials: Cost Savings Beat Target as Peru Deal Offsets French Plant Closure - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVRHTUViLUE4MC02eUc2anlmTi0yenJ5Ukx6UklMR0VpMTRNMEIzbmt0OGpvS29UZG1GOHBnQVpOMGY4UnJvdkdxZ3QxT01JS2drOTJPd0tqbXN6MHU0bVdESDVUS0E5NVpoS1JWWE",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVRHTUViLUE4MC02eUc2anlmTi0yenJ5Ukx6UklMR0VpMTRNMEIzbmt0OGpvS29UZG1GOHBnQVpOMGY4UnJvdkdxZ3QxT01JS2drOTJPd0tqbXN6MHU0bVdESDVUS0E5NVpoS1JWWElxRGxMSFI5SFFsSjhYM2hNXzJpY2QzLWFiYTJWTXVpQ3VrSTBkb0Q1SWZaZUVONnBCcm5mcnRmNG9mNVdpSGhYUVF1Q0tqUzZBVm0wbUlfRy1CcmhZUmMzbHVOWnJBdDdLSUxmMFJUZmZLREk2YlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-20-006",
+    "date": "2026-09-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials: Cost Cuts Outrun Target as Peru Deal and French Closure Redraw the Map - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2R4NEw2dG9WUXhRX3c5MlVEeGoyQkY5dHluWlIzU29uZlZnZ3BBdjhCcXNUdE1Ed3ZJcm81WFJ5V05DdG56aWp4THFKMEdpZUEwUWNsYUxYQnp2Zm42eDNzcXlQUjBMTmNxU3V6cW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2R4NEw2dG9WUXhRX3c5MlVEeGoyQkY5dHluWlIzU29uZlZnZ3BBdjhCcXNUdE1Ed3ZJcm81WFJ5V05DdG56aWp4THFKMEdpZUEwUWNsYUxYQnp2Zm42eDNzcXlQUjBMTmNxU3V6cWpQWFQ4ZkZQRFRjcFpQN3pmallrdmFtb2hBU01ySFRNQXliek1uUmFJTm9CaUxaY1ptSnlELV90Q0ZnUlJKdGtRSE03ZVlpQ2ZtaThqblpidFdNTW4yYnRmTVhRd0lXWHZmc1ZSeE8yOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-19-001",
     "date": "2026-09-19",
     "companies": [
@@ -77,6 +199,104 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcGRfSW9rQXNRQVdpOFU5Q1Zmb3JoNVY3enZxTlh1WlZpWnBkX0lEcmdhQWhEVFFUbGVXcnZQVlFyZ3pNMnRjMHZtMEI3WExkTGh3clotRkcxQ0ZaUFpJanZzZHoyY01oZElmMUZERXU3NnExdVBiSHBPV2JJcVI5WkZJcnc0UmJoMUlyVkVQQ0hFZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-19-005",
+    "date": "2026-09-19",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp stock holds steady as investors weigh latest restructuring progress - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUE1xYVU1Y0VTeWw2SENLZnZDcE1pM2tVZ09aUmdmUDNjaVB5NXdNcldkQjJJeXhqWm5BTTc4TVdLcTlLYWNlYWZzOEotbEVmU3lyRks4MkRPMEc3OFgzNkJqem05OGNHX3RfX1hXQX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUE1xYVU1Y0VTeWw2SENLZnZDcE1pM2tVZ09aUmdmUDNjaVB5NXdNcldkQjJJeXhqWm5BTTc4TVdLcTlLYWNlYWZzOEotbEVmU3lyRks4MkRPMEc3OFgzNkJqem05OGNHX3RfX1hXQXlxdndHNS0tUVcyaTA4eXNpZmNCTGp6Ymgzd1RabzFoeHBJTUJCY2FjZk55eUhGNnhNNHBzMXNHV19LdUNFRHBVVDBHRlFrM1hIN3N2bTg5UzU5aFpremZzYTZia0FOSjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-19-006",
+    "date": "2026-09-19",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Electrified Thermal Solutions to Deploy Joule Hive Thermal Battery for Holcim - igrownews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBCcHhreEE5aXRSMzRRV09TMzNyTUY3Q0xOTHZQbG85SHRnakozYjVtVGkxUGpWMjNQaVJ3UXI2d1JzdW13aHN4UHY4eDk0ZTBsWXo1WXVrZUlDa3hUaEdKMGVnODZmeHpiSU5vUW1mb1",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCcHhreEE5aXRSMzRRV09TMzNyTUY3Q0xOTHZQbG85SHRnakozYjVtVGkxUGpWMjNQaVJ3UXI2d1JzdW13aHN4UHY4eDk0ZTBsWXo1WXVrZUlDa3hUaEdKMGVnODZmeHpiSU5vUW1mb1d6Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-09-19-007",
+    "date": "2026-09-19",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement Corporation stock holds steady as investors await next earnings update - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1lIOWtfU1JOVWI0WnlnNjRXcDEzVWRjUGd1LXY0bEF6XzBXQzRZcjZLTWxCaF8wYzh4cHpOOE52WjVqQ2syZkRwNWdmeVh3SkFnOWlBeFctWWlvYlFnVnZKckhvLXppU0dBM0tFS0",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1lIOWtfU1JOVWI0WnlnNjRXcDEzVWRjUGd1LXY0bEF6XzBXQzRZcjZLTWxCaF8wYzh4cHpOOE52WjVqQ2syZkRwNWdmeVh3SkFnOWlBeFctWWlvYlFnVnZKckhvLXppU0dBM0tFS00zSkN6bzlXWFl2NjRrWjJyX21lcFBLYXZpck9rc0RCUG84R0NmU19HNndWdVE3cm1aYkNXeElhalRsQTRYSFdLOXlMd2FVYlhkN0dXTmFNSkFrazVtZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-09-19-008",
+    "date": "2026-09-19",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock holds steady as investors watch recent earnings and Taiwan demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUk4tdFZoUENZUzl5MWVBazBDMUxaNk5HRFdrLUNhSmxxUEtqY1RpbXk2NzJHUXlDVjBERlc3SEZUOFJXSzRtTmQxdEtfVTdISC1iX0l1RXR0U1Npc0lRQkpVcE4tTnFEZGtpazdnTD",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUk4tdFZoUENZUzl5MWVBazBDMUxaNk5HRFdrLUNhSmxxUEtqY1RpbXk2NzJHUXlDVjBERlc3SEZUOFJXSzRtTmQxdEtfVTdISC1iX0l1RXR0U1Npc0lRQkpVcE4tTnFEZGtpazdnTDgwU1RzUWlzRWFKeE5FNmNBeTJjYXVIWEo4bE5QSWlxaGNycmR2MVRYTjJYdWJuLXpHbGktUVV0U19EdGw2NVpDR2VjSzdpcmNnaDRuanZSTFhqUVhVMjY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-009",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Conch Cement stock holds firm as Fitch flags policy risk for China’s cement sector - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN4Vmh0N0FScTZqVXV6TFc3b1hCc0xndGxXaEVULUZ1algxdmRyZ3VTQmpmMjFLRHl4dFhaRXZOU2ttaHRiZDY2UDhNOFNlc285ZDBEYmQwSF84Z3FqWl9rWHM4NEl6bkdVM3otcn",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN4Vmh0N0FScTZqVXV6TFc3b1hCc0xndGxXaEVULUZ1algxdmRyZ3VTQmpmMjFLRHl4dFhaRXZOU2ttaHRiZDY2UDhNOFNlc285ZDBEYmQwSF84Z3FqWl9rWHM4NEl6bkdVM3otcnE0aXBHRDMzN0JUUmZVMEMxckd2eWxGdHgwbnRnbHcyc3h1VUJRVG91NEdzcmNra2ZpclhqMmlmTkxKNnpCMzc4R2hJdjI4cXBuUmd6N2lLRENKWjlTZ2c?oc=5",
         "type": "rss"
       }
     ]
@@ -439,6 +659,25 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/high-speed-rail-national-infrastructure-bank/830759/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-020",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Conch Cement stock holds steady as analysts see upside in Hong Kong trading - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOekYwUVpIUnE2WVJKYWxyck5UWDM2ejU2LVJqX3JvTktfcmpKRnZhdVVoLW5xWUdZMFlzdWxPVDhzV2dONXIzQmpRVHJBXzJrNFFnSU9yWDJIVFZWTmdvcVNmM01mbEM5M3N1Q2dRdG",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekYwUVpIUnE2WVJKYWxyck5UWDM2ejU2LVJqX3JvTktfcmpKRnZhdVVoLW5xWUdZMFlzdWxPVDhzV2dONXIzQmpRVHJBXzJrNFFnSU9yWDJIVFZWTmdvcVNmM01mbEM5M3N1Q2dRdGU3TXZvTjJEem9EeHJnd095UldPRkdTQ1VpalhSX255NUFWS180Q09sMVA0X3dDM3U0bmhqWlZmbDhKRkdPVUE3QXpqc1lHLTZxUERNU1hRN3gxMTc4?oc=5",
         "type": "rss"
       }
     ]
@@ -973,6 +1212,68 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbERWd0xGbmkxUGZsTUxTYnJScmVTS0ZveVJoZDhuRE1DVlJPaUE5dlNDOUJXdFVqZmpaMmVuUFRGUEI5TXBoVEJ1Vm9JdGl6Z0U1ZWtzVmxwSjVxM2ZQUUlqV2p0cmw1NTNBRVozWURaWllwRGlHWGJ1TDZ6ZlQzUkF1dmhSTVlpREpueDhvMWVLT2hrU3A4Vy1KdTl6cmFxcXJnQWM4OTZuUmo4dERXOG1FOTZsNWdXTzNkMEwyY0RPREhqUVFNUlZnOWlwZ21DMmdYUjctU3pWMnBTX0EyTFlxWk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-028",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials further optimises European footprint - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnY1djFnYlpYaHdCN0c1X1V5TVRmcTJvZDcyckdtVXdpTmFSUUk3NG8zMmltMnlTbUg5Uk9XUnBPbUhyd250RF9TMk54dkR2OWRzd09RYXlKbmtpU1ZTd2RQaXFQQ2d6dmR5ck5Cb0",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnY1djFnYlpYaHdCN0c1X1V5TVRmcTJvZDcyckdtVXdpTmFSUUk3NG8zMmltMnlTbUg5Uk9XUnBPbUhyd250RF9TMk54dkR2OWRzd09RYXlKbmtpU1ZTd2RQaXFQQ2d6dmR5ck5Cb0dRbjc3Vm1zYmk4T2d6MkVOYUxJRmNHSmlwQVBPaWtwc1dvX19Wdjg3RWRBeFUwR0E1VnZpZzItTXl2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-09-17-029",
+    "date": "2026-09-17",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement Corporation stock holds steady as investors eye latest earnings trend - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDhtZDlVeGV1VEZhSHl5WEtzeGowcGZENThIcGlxYzFDRWozRDhxalJoT0FwVjRwRTZpLU52NFpJSmpKdU9MTF9pWDNpMk9FRGgxeS1adUpXdE5ic2M2MWZvOF9DMERUOFdGdm9jTE",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDhtZDlVeGV1VEZhSHl5WEtzeGowcGZENThIcGlxYzFDRWozRDhxalJoT0FwVjRwRTZpLU52NFpJSmpKdU9MTF9pWDNpMk9FRGgxeS1adUpXdE5ic2M2MWZvOF9DMERUOFdGdm9jTEszaVMxclFEVHNqTXRQazNjVlFSNzlzb3pxcWtBYnpiYnpDeUdleDYwSEJBRjBtZWFRd0lHTVJSbHBPQ1N5VGQwY0l3U2V3b05ZTV9vdW15a0p3SE9ocUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-09-17-030",
+    "date": "2026-09-17",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock holds steady as investors eye latest earnings and sector risks - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRktPc0FGWmQ4bVVDaU1aTV9wZVh4ZUNGQkdCekctZ2VHYkRsSHg3RWx4SXpEc1V3UnFaVnFvZTRqSThzMUtBR01nNVF2NjNtQktrM1dqVWRDT0dPaTlKVC1fRWlDMlNvbllFbzRzZW",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRktPc0FGWmQ4bVVDaU1aTV9wZVh4ZUNGQkdCekctZ2VHYkRsSHg3RWx4SXpEc1V3UnFaVnFvZTRqSThzMUtBR01nNVF2NjNtQktrM1dqVWRDT0dPaTlKVC1fRWlDMlNvbllFbzRzZW5NOHBnNDl2U3V5c2dlTWVsTmh6TGNzbVJ5UzlEUFFwZzhyZ2dHVmFwOFZnc2FHY3lieVkwN3Q0RFZiUkdiZXozLVp2S2l5OGxnNXliRHFVZU1fTlBTYk1INldPcFpXZw?oc=5",
         "type": "rss"
       }
     ]

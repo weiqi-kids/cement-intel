@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 15,
+  "gate2_samples": [
+    "EU to impose provisional safeguards to protect electrical steel from imports - reuters.com",
+    "Thyssenkrupp's Spin-Off Math: One New Share for Every 20 Held as Citigroup Lifts Target to EUR 20 - ",
+    "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility - cleantechnica.c",
+    "Electrified Thermal Solutions' thermal battery to be deployed as part of Holcim's electrification ro",
+    "Holcim (SWX:HOLN) Opened The Czech Republic’s First Calcined Clay Line - simplywall.st"
+  ]
+}
