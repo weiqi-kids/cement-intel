@@ -1,5 +1,329 @@
 [
   {
+    "id": "vulcan-2026-09-21-001",
+    "date": "2026-09-21",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock heads into the open after a 1.5 percent drop - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0lQbnhSdXVXOVRXMG9YQ1dpWlZ3RTcwU0dUUW4tS1dRQ3loSElQSmhaNmlXSXNBV0JHVEIyYlI5VWYwSVJ3TTJNY2oyRVdHZ2ZER3NnS253Y3dqajZXelZkYmNDVDBaNzkyWVlzQU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0lQbnhSdXVXOVRXMG9YQ1dpWlZ3RTcwU0dUUW4tS1dRQ3loSElQSmhaNmlXSXNBV0JHVEIyYlI5VWYwSVJ3TTJNY2oyRVdHZ2ZER3NnS253Y3dqajZXelZkYmNDVDBaNzkyWVlzQUJVM2xucERLTXhGcjlOVFJBbU81cEtGd19UV0Vlc040MUJGckFwZTJxcUhqVUZZNWtYaGo3Tmp2VmttelFHaWFqSUxBLWt4VWxJT0hhZlUtSktCdnJIeDJfdzNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-21-002",
+    "date": "2026-09-21",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "DA Davidson reiterates Vulcan Materials stock rating on acquisition By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOakZfWmFQUzZVaTNHbVVvdkhHaVhqYmI0RV93SVhRenRvUjVZOFNKeHc4a0YxWTBIX2JuY1NLYzJQZDVLbTFrVHFUblR6Und2QUVWUnFVU2JjN2ZPQmJOaVhaWGl1T214aUNQRklWYU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakZfWmFQUzZVaTNHbVVvdkhHaVhqYmI0RV93SVhRenRvUjVZOFNKeHc4a0YxWTBIX2JuY1NLYzJQZDVLbTFrVHFUblR6Und2QUVWUnFVU2JjN2ZPQmJOaVhaWGl1T214aUNQRklWYUFIdUtvZDlaek5QRGJDNTg3UHBrMFJIZE1wNU5TdnJSZl9IZUxYNVRHQ1NpREptVXlNUXVteUUtQXdXTEFkUk5XWkhoQUhzYVdWRVVMUlVQRlZjOFE1ZnlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-21-003",
+    "date": "2026-09-21",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock slips as margins ease - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0FhZ2FacDNqMGZXek01Xy1XLThfTE55UDBnbzVCRVAzemZPb0JITzNTMFFzQ0hzNXhCdlp3MFFhNEhxbTF0VDM5SWNrUmJKbFNnaS0wZ21DQW01STR6QUVxMnBZS3o3VFFjTzU2dF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0FhZ2FacDNqMGZXek01Xy1XLThfTE55UDBnbzVCRVAzemZPb0JITzNTMFFzQ0hzNXhCdlp3MFFhNEhxbTF0VDM5SWNrUmJKbFNnaS0wZ21DQW01STR6QUVxMnBZS3o3VFFjTzU2dFkxYnhEWjFJcHF5b3NwY2thVkVxRjRoNl9kZFdWUHpfR0hJR3dNMjI5R3gxbzVCNkp3OVFISE1XeThVVHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-21-004",
+    "date": "2026-09-21",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Falls Short of Local Rules in Damaged Cargo Suit, Judge Says - Law.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0dOaWRGbUVJU2tDY1RoUXdfWVoyX1M5aG5vUWd5U05JVTNoZS1SaUF2WUNMcnEyejFqOTN4RU5rWE5fNko1U2xBbExuc3lGRVQ0WWJ1bG1IMWtJd1hQTGJyaWVpWXZxcXQxZWtDcT",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0dOaWRGbUVJU2tDY1RoUXdfWVoyX1M5aG5vUWd5U05JVTNoZS1SaUF2WUNMcnEyejFqOTN4RU5rWE5fNko1U2xBbExuc3lGRVQ0WWJ1bG1IMWtJd1hQTGJyaWVpWXZxcXQxZWtDcTlYLU9rNmFyM3NOYmhNTmhHcWgwOXNSR1NzbVJDeXllRWVzSzRHWnk0NnpsVl9tTDYzMG9YWHN1OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-21-005",
+    "date": "2026-09-21",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock heads into today’s session after a 2.5% Xetra drop - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGI3c3NjbEtjUjRXSDltb0FNQmJCdWpPbmdqSktDVGR0WWpoREd1UmpVWWZhT3dVU3VENDZLazFzWllSaEhoTlYyT3ZXWXV2cDY0ckFKcExxM2hVWXRzRUN2ZnJsdVRuRHBaY1labW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdGI3c3NjbEtjUjRXSDltb0FNQmJCdWpPbmdqSktDVGR0WWpoREd1UmpVWWZhT3dVU3VENDZLazFzWllSaEhoTlYyT3ZXWXV2cDY0ckFKcExxM2hVWXRzRUN2ZnJsdVRuRHBaY1labWlRM2xrOUMyX0x5RmlZZjZ3dGhXeUhKMFE0dVp1OUNqVWo0YlpvRmpkcldCNEJqUmkzblJYSmpKeERua3ppUmtTbWFlU0ZrVHZad0tzZS1CakxiMG5jOUtKemVDX3EzSEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-21-006",
+    "date": "2026-09-21",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Sticks to Buyback Playbook While Redrawing Its Global Footprint - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUJ4d1U5WkNnaVc5UG0zajZkT1ZTT3hRRm0xZ2I5TDB5Unk4bFAxNEl0OG1VcDRWVHhPVXpaTHA2WVFvTkVrOEdIa1pVNk84OEo2c0lMbExKNTc4V3Y4MEwxOFFMRUR2R2xSdVA5ZF",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUJ4d1U5WkNnaVc5UG0zajZkT1ZTT3hRRm0xZ2I5TDB5Unk4bFAxNEl0OG1VcDRWVHhPVXpaTHA2WVFvTkVrOEdIa1pVNk84OEo2c0lMbExKNTc4V3Y4MEwxOFFMRUR2R2xSdVA5ZFgwa20xeS1RNjRXU3ZmMGsyVzFNR3psaG5zNUs5UEpPeVJUbUJlNDVzRmk2TzI2TS1UYktWbDV0aVJKbkN2ak00UFltTXYwRVdVcXF3LV93RkxBR3l2N2RJSjNaOVZlWTdQTnZvVGxFemY1aFdsbVY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-21-007",
+    "date": "2026-09-21",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock slips near a yearly low - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNW44TWRwajYyRFVOWWl3UEJNREdFS3M3RDc5bERxSzlyVlBHVzRxdHY0WVZ4UWZyZzFhaVpGYTQ0Z2ZXcFVWQ2NjaUJkSGpJa1ZJSzNvNFliT3BvdnV0TXY3SXZUZUszRHAzSDBaUG",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNW44TWRwajYyRFVOWWl3UEJNREdFS3M3RDc5bERxSzlyVlBHVzRxdHY0WVZ4UWZyZzFhaVpGYTQ0Z2ZXcFVWQ2NjaUJkSGpJa1ZJSzNvNFliT3BvdnV0TXY3SXZUZUszRHAzSDBaUGJCZmRBdjZDZGNtMTByODNhN2x0aUIxUkUzS1k4U0E5bGt4MUJpU1hPS1lRcVlKWDJULWtIOHBFZWlOa044aEVqWVdBOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-21-008",
+    "date": "2026-09-21",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Heidelberg Materials Balances French Cuts With Peruvian Growth as Shares Hover Near Yearly Low - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19mcGt6QVlvUVZqLVJoX2YxZnFIRjB3LXJVNV8tbDFXOS1RZHN0MlhpandVR21semUtVUpmLTY3TWE5NnczbTAyVFBpakRNOWpnRjlhc2tKeUtGQThtY0RZYWRyQnlxd0ZhaWxlaH",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT19mcGt6QVlvUVZqLVJoX2YxZnFIRjB3LXJVNV8tbDFXOS1RZHN0MlhpandVR21semUtVUpmLTY3TWE5NnczbTAyVFBpakRNOWpnRjlhc2tKeUtGQThtY0RZYWRyQnlxd0ZhaWxlaHdMRGc4SXhlRkpDWVVNTVVZYmpJZ1hYVWdwcklYTFJsbi1QWmR0VGlzZXYtTVc2blNjMFlhY0h5VWRMeUdBeDlZcE83eGtPNU45ZlhYS2ROeUJ5Qk1FRUM5TEozN3ZlY19qQmtJeDF3RnVvYm40?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-21-009",
+    "date": "2026-09-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Explained - Why UltraTech Cement's premium valuations should sustain, as per HSBC - CNBC TV18 - LinkedIn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjdsQUhqVUNVeThjVjRUbW9QWUlXWFlNRWFsbFdXQkh2ZFpFMUtZM2Exby1fR1dyU1lCTWdNVUJkV0dZTGJJUnlhcFRNVkFVelFGSGlPc2V2OWVTbFFWV3ZwbXRXd29DMHN6YjlVV1",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMjdsQUhqVUNVeThjVjRUbW9QWUlXWFlNRWFsbFdXQkh2ZFpFMUtZM2Exby1fR1dyU1lCTWdNVUJkV0dZTGJJUnlhcFRNVkFVelFGSGlPc2V2OWVTbFFWV3ZwbXRXd29DMHN6YjlVV1lsTjVoN0hlc05wWVJXbHBzeWhwNDM5eGZLcVBCd2o1c01LeFJ2YUxYb1JKbmFNV253M2ZnVnp1eDhGZTM5RlNsY1dPVlc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-010",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "News by CNBC TV18 on TradingView, 2026-09-21 — cnbctv:6abb9e523094b:0 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuUV8tZ3FZOTUzemhuNXJrNnNRa2tOaW1qdll2bXN0RzJaLVZsQ1ZMaG5kbUxzc0o5b0hsQkFMand6R1NNM0ZaUU5XOC1kbGtEc3VpUTV1eFN4dlBaZWFUdTdnSlFtYUE?oc=5\" targ",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuUV8tZ3FZOTUzemhuNXJrNnNRa2tOaW1qdll2bXN0RzJaLVZsQ1ZMaG5kbUxzc0o5b0hsQkFMand6R1NNM0ZaUU5XOC1kbGtEc3VpUTV1eFN4dlBaZWFUdTdnSlFtYUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-09-21-011",
+    "date": "2026-09-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech stock gains as HSBC backs premium valuation and shares jump over 4 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1RtYXZjZExINmZobVhKZkVvaHhJWlppREViRXE3bDVxM3Q2emtxNURsQXRPUlFOZUZoeTNGYTZkTGVRTjQwX3A1WjFLdXVsN04yUkx2M2RMcWhGck80dFhuOUc4YjZHUTRueXg4QW",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1RtYXZjZExINmZobVhKZkVvaHhJWlppREViRXE3bDVxM3Q2emtxNURsQXRPUlFOZUZoeTNGYTZkTGVRTjQwX3A1WjFLdXVsN04yUkx2M2RMcWhGck80dFhuOUc4YjZHUTRueXg4QWk4TzFhcFNlaURPaXdmdmlhOWNHNW9FUUEwUU9pcGlOSUV0QjhCWWNPTXFrQ2RKWFY1Q1hrZHhidmFLd2txdDhuOWhuQ1JBdGZfMXhUN2ExUWxsQXMxRWxoRVN5RFRFdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-012",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Kenya retains 17.5% clinker import levy",
+    "summary": " Kenya’s Ministry of Investments, Trade and Industry has reportedly dropped plans to remove the 17.5 per cent levy on imported clinker. \n The decision follo...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182112/kenya-retains-17-5-clinker-import-levy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-013",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Hubei Huiyang plans 3Mta phosphogypsum project",
+    "summary": " Hubei Huiyang New Materials is planning a 3Mta phosphogypsum-based production project in Hubei province, China. \n The proposed project forms part of a capa...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182111/hubei-huiyang-plans-3mta-phosphogypsum-project.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-09-21-014",
+    "date": "2026-09-21",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Conch Cement and Huawei expand AI collaboration",
+    "summary": "  Anhui Conch Cement  and Huawei have expanded their digitalisation partnership with the launch of an intelligent open-pit mining platform at Huawei Connect ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182114/conch-cement-and-huawei-expand-ai-collaboration.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-015",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "CURA Climate raises US$10m in financing to support low-carbon cement pilot plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/CURA-founders-1500.jpg\" /></p><p><strong>Canada: </strong>Alberta-based CURA Climate has raised US$10m in financing to support its decarbonised ce",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21264-cura-climate-raises-us-10m-in-financing-to-support-low-carbon-cement-pilot-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-016",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Sinoma awarded EPC contract to build cement silos for Ras Al-Khaimah Cement",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/ras-al-khaimah-plant-1500.jpg\" /></p><p><strong>UAE:</strong> Ras Al-Khaimah Cement Co (RAKCC) has awarded China-based Sinoma a contract to build ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21263-sinoma-awarded-epc-contract-to-build-cement-silos-for-ras-al-khaimah-cement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-017",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "EPA investigates Empire Cement plant due to pollution claims",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/smokestack-pollution-cloud.jpg\" /></p><p><strong>Ghana: </strong>The Trade, Agribusiness and Industry Minister, Elizabeth Ofosu-Adjare, said that ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21262-epa-investigates-empire-cement-plant-due-to-pollution-claims",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -117,6 +441,27 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2R4NEw2dG9WUXhRX3c5MlVEeGoyQkY5dHluWlIzU29uZlZnZ3BBdjhCcXNUdE1Ed3ZJcm81WFJ5V05DdG56aWp4THFKMEdpZUEwUWNsYUxYQnp2Zm42eDNzcXlQUjBMTmNxU3V6cWpQWFQ4ZkZQRFRjcFpQN3pmallrdmFtb2hBU01ySFRNQXliek1uUmFJTm9CaUxaY1ptSnlELV90Q0ZnUlJKdGtRSE03ZVlpQ2ZtaThqblpidFdNTW4yYnRmTVhRd0lXWHZmc1ZSeE8yOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-09-20-007",
+    "date": "2026-09-20",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock steadies after recent Q2 2026 earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcWN2NDJZR0s1NTlaUWxONUVUS3VSWHBaUUU3T2t4dFdDcndwSmpjQlVjOHRxdXFfT04tTXIweTlVVU5saEpSQ2xfX1R6ckYwbHAzREo0d3ltLVZ0Rkg0NGpLQUhrYWtnUVM2WUQtcU",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcWN2NDJZR0s1NTlaUWxONUVUS3VSWHBaUUU3T2t4dFdDcndwSmpjQlVjOHRxdXFfT04tTXIweTlVVU5saEpSQ2xfX1R6ckYwbHAzREo0d3ltLVZ0Rkg0NGpLQUhrYWtnUVM2WUQtcU94c0RwUXlkb0p1R3dMdGdGQm9YeHlaRWpfZEFTQ2dDMC1ZT3F5LXlIdzU1ME5SY0pqVkFHRm9GTmlqN3J3ekt1TXhvOGxfQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -292,6 +637,84 @@
     ],
     "impact": "neutral",
     "title": "Conch Cement stock holds firm as Fitch flags policy risk for China’s cement sector - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN4Vmh0N0FScTZqVXV6TFc3b1hCc0xndGxXaEVULUZ1algxdmRyZ3VTQmpmMjFLRHl4dFhaRXZOU2ttaHRiZDY2UDhNOFNlc285ZDBEYmQwSF84Z3FqWl9rWHM4NEl6bkdVM3otcn",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN4Vmh0N0FScTZqVXV6TFc3b1hCc0xndGxXaEVULUZ1algxdmRyZ3VTQmpmMjFLRHl4dFhaRXZOU2ttaHRiZDY2UDhNOFNlc285ZDBEYmQwSF84Z3FqWl9rWHM4NEl6bkdVM3otcnE0aXBHRDMzN0JUUmZVMEMxckd2eWxGdHgwbnRnbHcyc3h1VUJRVG91NEdzcmNra2ZpclhqMmlmTkxKNnpCMzc4R2hJdjI4cXBuUmd6N2lLRENKWjlTZ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-09-19-010",
+    "date": "2026-09-19",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Electrified Thermal Solutions to Deploy Joule Hive Thermal Battery for Holcim - iGrow News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBCcHhreEE5aXRSMzRRV09TMzNyTUY3Q0xOTHZQbG85SHRnakozYjVtVGkxUGpWMjNQaVJ3UXI2d1JzdW13aHN4UHY4eDk0ZTBsWXo1WXVrZUlDa3hUaEdKMGVnODZmeHpiSU5vUW1mb1",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCcHhreEE5aXRSMzRRV09TMzNyTUY3Q0xOTHZQbG85SHRnakozYjVtVGkxUGpWMjNQaVJ3UXI2d1JzdW13aHN4UHY4eDk0ZTBsWXo1WXVrZUlDa3hUaEdKMGVnODZmeHpiSU5vUW1mb1d6Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_cement-2026-09-19-011",
+    "date": "2026-09-19",
+    "companies": [
+      "taiwan_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Cement Corporation stock holds steady as investors await next earnings update - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1lIOWtfU1JOVWI0WnlnNjRXcDEzVWRjUGd1LXY0bEF6XzBXQzRZcjZLTWxCaF8wYzh4cHpOOE52WjVqQ2syZkRwNWdmeVh3SkFnOWlBeFctWWlvYlFnVnZKckhvLXppU0dBM0tFS0",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1lIOWtfU1JOVWI0WnlnNjRXcDEzVWRjUGd1LXY0bEF6XzBXQzRZcjZLTWxCaF8wYzh4cHpOOE52WjVqQ2syZkRwNWdmeVh3SkFnOWlBeFctWWlvYlFnVnZKckhvLXppU0dBM0tFS00zSkN6bzlXWFl2NjRrWjJyX21lcFBLYXZpck9rc0RCUG84R0NmU19HNndWdVE3cm1aYkNXeElhalRsQTRYSFdLOXlMd2FVYlhkN0dXTmFNSkFrazVtZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-09-19-012",
+    "date": "2026-09-19",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock holds steady as investors watch recent earnings and Taiwan demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUk4tdFZoUENZUzl5MWVBazBDMUxaNk5HRFdrLUNhSmxxUEtqY1RpbXk2NzJHUXlDVjBERlc3SEZUOFJXSzRtTmQxdEtfVTdISC1iX0l1RXR0U1Npc0lRQkpVcE4tTnFEZGtpazdnTD",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUk4tdFZoUENZUzl5MWVBazBDMUxaNk5HRFdrLUNhSmxxUEtqY1RpbXk2NzJHUXlDVjBERlc3SEZUOFJXSzRtTmQxdEtfVTdISC1iX0l1RXR0U1Npc0lRQkpVcE4tTnFEZGtpazdnTDgwU1RzUWlzRWFKeE5FNmNBeTJjYXVIWEo4bE5QSWlxaGNycmR2MVRYTjJYdWJuLXpHbGktUVV0U19EdGw2NVpDR2VjSzdpcmNnaDRuanZSTFhqUVhVMjY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-013",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Conch Cement stock holds firm as Fitch flags policy risk for China’s cement sector - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN4Vmh0N0FScTZqVXV6TFc3b1hCc0xndGxXaEVULUZ1algxdmRyZ3VTQmpmMjFLRHl4dFhaRXZOU2ttaHRiZDY2UDhNOFNlc285ZDBEYmQwSF84Z3FqWl9rWHM4NEl6bkdVM3otcn",
     "sources": [
       {
@@ -678,6 +1101,26 @@
       {
         "name": "anhui_conch",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekYwUVpIUnE2WVJKYWxyck5UWDM2ejU2LVJqX3JvTktfcmpKRnZhdVVoLW5xWUdZMFlzdWxPVDhzV2dONXIzQmpRVHJBXzJrNFFnSU9yWDJIVFZWTmdvcVNmM01mbEM5M3N1Q2dRdGU3TXZvTjJEem9EeHJnd095UldPRkdTQ1VpalhSX255NUFWS180Q09sMVA0X3dDM3U0bmhqWlZmbDhKRkdPVUE3QXpqc1lHLTZxUERNU1hRN3gxMTc4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-18-021",
+    "date": "2026-09-18",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials takes majority stake in Peru-based Cementos Inka - worldcement.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkVyajVDSjRNVng0MWtQNWZOa1k1dFJFRlpiVXpBVHBWc05QSXNfMFJpeGRCbGlwdjg1VDVWdkxRd0gyTWRSOU9uZ1VkWnA2RGd6dHQ4c3lSV3BPUXBNWm9zckcyTzlVOXNlbDFDMU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWkVyajVDSjRNVng0MWtQNWZOa1k1dFJFRlpiVXpBVHBWc05QSXNfMFJpeGRCbGlwdjg1VDVWdkxRd0gyTWRSOU9uZ1VkWnA2RGd6dHQ4c3lSV3BPUXBNWm9zckcyTzlVOXNlbDFDMUJTdldCdHRlRVZVeGNxLXk1Y1Rjemc2a2Y1MVNxTWI5ZVZ5RVlJdlJkMGVOOXN0UlpBYnZYeDdjNnJpN3l5bkFkNTEzRFItMU9IVWJrYUZuVXVKUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1274,6 +1717,26 @@
       {
         "name": "asia_cement",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRktPc0FGWmQ4bVVDaU1aTV9wZVh4ZUNGQkdCekctZ2VHYkRsSHg3RWx4SXpEc1V3UnFaVnFvZTRqSThzMUtBR01nNVF2NjNtQktrM1dqVWRDT0dPaTlKVC1fRWlDMlNvbllFbzRzZW5NOHBnNDl2U3V5c2dlTWVsTmh6TGNzbVJ5UzlEUFFwZzhyZ2dHVmFwOFZnc2FHY3lieVkwN3Q0RFZiUkdiZXozLVp2S2l5OGxnNXliRHFVZU1fTlBTYk1INldPcFpXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-17-031",
+    "date": "2026-09-17",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials plans Ranville plant closure - cemnet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXI4LTBZTkZEbGVkYzQ1N0ZsOVFLeTRVY3JPSURZaTlLZkVDZkJiTWY4UXZua1VZT1hEVmZwLTJPTEV3Y1JsUzAwWnBHYi1xRTBOVEpiTnVzM0pyZ0x2UUo3QmU2Z0RnNUFDYTVIRF",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXI4LTBZTkZEbGVkYzQ1N0ZsOVFLeTRVY3JPSURZaTlLZkVDZkJiTWY4UXZua1VZT1hEVmZwLTJPTEV3Y1JsUzAwWnBHYi1xRTBOVEpiTnVzM0pyZ0x2UUo3QmU2Z0RnNUFDYTVIRFhwUGNoTUpMdGYtaE1jWUwtRDlYZkV4dG1tUV9vMnZ1X0ozY3VaNWtxOFQ5bw?oc=5",
         "type": "rss"
       }
     ]

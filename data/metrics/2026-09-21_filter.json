@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 118,
+  "gate1_fail": 16,
+  "gate2_fail": 14,
+  "passed": 24,
+  "gate2_samples": [
+    "EU to impose provisional safeguards to protect electrical steel from imports - Reuters",
+    "Krish Patel: Leadership from the ground up - Holcim",
+    "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility - CleanTechnica",
+    "Electrified Thermal Solutions' thermal battery to be deployed as part of Holcim's electrification ro",
+    "Cemex begins major US$51.85 million overhaul of aircraft apron at Norman Manley Airport - Jamaica Gl"
+  ]
+}
