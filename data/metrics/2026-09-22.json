@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-22",
+  "total_events": 18,
+  "by_company": {
+    "vulcan": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "taiheiyo": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "inventory": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "capacity_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

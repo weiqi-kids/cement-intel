@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 14,
+  "gate2_fail": 12,
+  "passed": 30,
+  "gate2_samples": [
+    "Here's How Much $1000 Invested In Vulcan Materials 15 Years Ago Would Be Worth Today - webull.com",
+    "EU to impose provisional safeguards to protect electrical steel from imports - Reuters",
+    "Krish Patel: Leadership from the ground up - Holcim",
+    "Holcim Integrates Two Joule Hive Thermal Batteries Into Its Cement Making Facility - CleanTechnica",
+    "Electrified Thermal Solutions' thermal battery to be deployed as part of Holcim's electrification ro"
+  ]
+}
