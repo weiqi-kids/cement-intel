@@ -1,5 +1,354 @@
 [
   {
+    "id": "vulcan-2026-09-23-001",
+    "date": "2026-09-23",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZklhY0c5MUFIQkZKOXA0eWlSYmoyT3Y3WWktd2ZqeU5Fc2YybXh3VktXYS1lTmRkcFVkS0VicTJiRDZ2RnVINkx3U3pjVjFPak5Fby1DVjM4ZWktUFIwWVFBakdjTDg3TldmRHRJMj",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZklhY0c5MUFIQkZKOXA0eWlSYmoyT3Y3WWktd2ZqeU5Fc2YybXh3VktXYS1lTmRkcFVkS0VicTJiRDZ2RnVINkx3U3pjVjFPak5Fby1DVjM4ZWktUFIwWVFBakdjTDg3TldmRHRJMjJxaUl1YUVfYmFvaHRHN25PZ0x4aWRkakNpTlhrd0w0V3FsYTlaR3Z2WktzU2tRU1Mwejc2Q1E3bmE1MVFuVXVsZzVveHp2VVFfR0pSZElRU1M3VHQ1Q19mbkdnX1lwelZlZFA3akdibw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-23-002",
+    "date": "2026-09-23",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock gains as earnings beat estimates - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTGlpeloxVmkyVm5pTHpPbkxCV1BsbVhjSm4tbm0td09QbWw1aTdteDdfdXBNZEhJTkFLeUJDNnBSQXpmTjF5NDEwWXY4SU5fZVhqdHltdGNaQ29hd20zZVZCS2V5bGdrck0yeTFQY0",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTGlpeloxVmkyVm5pTHpPbkxCV1BsbVhjSm4tbm0td09QbWw1aTdteDdfdXBNZEhJTkFLeUJDNnBSQXpmTjF5NDEwWXY4SU5fZVhqdHltdGNaQ29hd20zZVZCS2V5bGdrck0yeTFQY0ZxYW1YT0ZXMnZjYVFMY19lNWMwdkpPQVh4NGJna1FUVWhqRzZwY3FHMUluWDhsWmdsWmkzYko0WE1VNEtMdDk3SXFtRzBBWDhVdXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-003",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp AG (TKA) Receives Major Holdings Notice - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzBfMGRhekR3ZUZ5ZTQ3a1FJV1ZuUEowWTdvWC1zdzlVWTNveENFY0ZWc053alNfZVVPT3lfOW13MlU3VjViV1NBZ0MyRFU4SU1aLTctaUxwM05JdGt0ZUtGcXNqeW1SYWp1X1Rfbm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzBfMGRhekR3ZUZ5ZTQ3a1FJV1ZuUEowWTdvWC1zdzlVWTNveENFY0ZWc053alNfZVVPT3lfOW13MlU3VjViV1NBZ0MyRFU4SU1aLTctaUxwM05JdGt0ZUtGcXNqeW1SYWp1X1Rfbm4wbExNZzlRQi1uUFZvVi1qUGNtZjQ5VmlWeEYwbU5VNzJwTXNSU0FiSWFEbEI5VFBiRUNDNVlpUlp6UDBySXB0NDZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-004",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "VBX raises $5m to expand Wuudagu bauxite project DFS as thyssenkrupp offtake deal ends - AL Circle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZEtkY3VMS1JyZFRURFN5X2VidUVLdGU0OFZXTmpySTJRLVE2NlkxWUdGUXVtNDJWS1FTVmZFY0VIWGUyZER5Uk45RVdwWVlFa1JuZF9TTDNpb1FBY2hrNUhJOUxObU9Jam5JVFVWSV",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZEtkY3VMS1JyZFRURFN5X2VidUVLdGU0OFZXTmpySTJRLVE2NlkxWUdGUXVtNDJWS1FTVmZFY0VIWGUyZER5Uk45RVdwWVlFa1JuZF9TTDNpb1FBY2hrNUhJOUxObU9Jam5JVFVWSVM0STJnR3BLcVkzZzl1TmpFZjdRSFNCelBZNjZDVVVjUk14UnlTODRXX0tFYkVDS3NnSWFnTHh3N0dJOW5ER1V6YXhFYXJQbTRfLVR2emhHRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-005",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp AG : Jefferies reiterates its Buy rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2t6V2RRUjN6Z2VTNFJUbml4aklTSE9ndFZ0TjRnbGx0M3gxX3JNMDlENDBrM2NVOHNLWWRseFlFa0JvTVlqbGpPZkdOMzNQTlZGRngyWHRMLUk0UkN6ejgyOWJuaFlpSUtJRENobU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2t6V2RRUjN6Z2VTNFJUbml4aklTSE9ndFZ0TjRnbGx0M3gxX3JNMDlENDBrM2NVOHNLWWRseFlFa0JvTVlqbGpPZkdOMzNQTlZGRngyWHRMLUk0UkN6ejgyOWJuaFlpSUtJRENobUJ5VWJOcVU0TzJKNnl6UU14NXlRMjdkRjBlMkNRcnlrUW1KTVg0V0NEU013YmZtZWJYQWhQRlNSaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-006",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp AG (TKA) Discloses Major Holdings Notice - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlp0RDFYNXR0X2NIekg4Z1A2azd3d002VmQ3RWRQMTR3RTZyRk1WZVAxWUVSeThxcW1YOFFyNU9vNEZVTWpBTnhIU3lIRkxXRERPMU5GeDRYNnJqTlIxeG44ZGxLTGdMTkRBYVBLSG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlp0RDFYNXR0X2NIekg4Z1A2azd3d002VmQ3RWRQMTR3RTZyRk1WZVAxWUVSeThxcW1YOFFyNU9vNEZVTWpBTnhIU3lIRkxXRERPMU5GeDRYNnJqTlIxeG44ZGxLTGdMTkRBYVBLSG5QbnhmNmdNRjdyelo0YmUtSkR2YW5kQ29lWThxeUVlUm14YWFvX21LcXEwekN4bzlQNlJkSVlObGxZOTl5ZTB4NXNvWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-007",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock heads into the open after a 3.84 percent gain - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTNUZE1zZm8yWjBaUG9BQ2RiWTNXT05tLWItLWhFQ1JhdEdvQXBYakpUc1A5RFBIYjhuZktsWmNsbDBWTkh1OG5VeE9wR1hCMFZId2tKSDNpN0xfdXY4aDA5X09jOFpCeElVcnVUSz",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTNUZE1zZm8yWjBaUG9BQ2RiWTNXT05tLWItLWhFQ1JhdEdvQXBYakpUc1A5RFBIYjhuZktsWmNsbDBWTkh1OG5VeE9wR1hCMFZId2tKSDNpN0xfdXY4aDA5X09jOFpCeElVcnVUSzVfT2twVHZ4UUFnUjRsNTN4dmNJemZOMk5hRDc4dGFkX05JYk5xanlRU3NvVUp4NHFxT1RtY0N1ekdvTjRBY2h0OHlfU05FRWJqemNPYjkwbEhfZU4yOWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-008",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "VBX raises A$7M to finish Wuudagu bauxite study, walks away from thyssenkrupp deal - app.dealroom.co",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFVzTnZ3dHFvV052d1NBMWwyOTc4ZXFVN3RXUlVFVVV2TDBCWm5vT0FHZGFER1RuLVY4Q1Q2MDhpcFVVcnRibms5OFhnUDVkS2VOenlOSS1oRjZqTEJCSHRfNWYwdWxXamxCUVYtQV",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOFVzTnZ3dHFvV052d1NBMWwyOTc4ZXFVN3RXUlVFVVV2TDBCWm5vT0FHZGFER1RuLVY4Q1Q2MDhpcFVVcnRibms5OFhnUDVkS2VOenlOSS1oRjZqTEJCSHRfNWYwdWxXamxCUVYtQV83RlpDTVYwY2R3ek5oc0lOQTJvNG5mZlo4dG9Wa1VNVjRGUThwaTJodHdYZFNFbHhZNXVBZElyMENRbTZTT3VWYVhyNm9xUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-009",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock gains 3.84 percent before capital markets day - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3lud3dRS05MYTJlUERSQmJtdnlNY0VSSFlkZmJZdE9LU0Fxa2JQdFk0a2Y1TnVSVng1UWs1Q3VNWHVNc1FfUnQxcjZNT2Z2aWNsaUpETXE1SWxRdlhKckE3empGaTl4VzlrUUotUU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3lud3dRS05MYTJlUERSQmJtdnlNY0VSSFlkZmJZdE9LU0Fxa2JQdFk0a2Y1TnVSVng1UWs1Q3VNWHVNc1FfUnQxcjZNT2Z2aWNsaUpETXE1SWxRdlhKckE3empGaTl4VzlrUUotUUw4SUJjSmk5NnB2R01oaWNVRkdkbGdKck9GOHJLc2dEaGs5NW1oamJwRkhadXVWa2dST1Q3U1hmcnd4YlRVOGw0M1dyLVZEem50V2g1QkIzTmJROHMyWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-23-010",
+    "date": "2026-09-23",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's London Steel Pitch Takes Center Stage as Amundi Builds Its Stake - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ29HVnU5UnpVa2ozZjR5YXN3NUhkVVhsMHJCUmNjZ2QxTVFGWVE5V3FodXlZZExzSENxeVJtRWo3QVlLTEhIQ21hNlhXZWFhV3dOZlNwX3FKTDF6cUV1WWs3Rl9odzNJcnh1Qmg3UC",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ29HVnU5UnpVa2ozZjR5YXN3NUhkVVhsMHJCUmNjZ2QxTVFGWVE5V3FodXlZZExzSENxeVJtRWo3QVlLTEhIQ21hNlhXZWFhV3dOZlNwX3FKTDF6cUV1WWs3Rl9odzNJcnh1Qmg3UC1aX1R3SjVZRmNETnJlUEJSVFpOcUxHWXhWQzNhVW14d3kxRHBDVUZvRGFhXzFPYlc1NC1sZjBPaWFldVY1MngwbTl4VUdLWXhhdGRfd1ZwNkZYZTlkdW8tenNwTXpXU2UtSFNmTWdrN0pFOXQxcUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-23-011",
+    "date": "2026-09-23",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials UK Hits Zero Concrete Waste Milestone at Greenwich Plant - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2Q0OHR3WWY3Zko3dU1lYkRuYjg5ZkdSLWNCUWRRRUdQa1V5VXBicjBtRlczNFcyTFRnbjdfV01kVG03azBWNnNEeUVXLTNwUDJoRXpHTWEwd2owQ3YycEZTakRoQVNiUzVSWVU5MF",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2Q0OHR3WWY3Zko3dU1lYkRuYjg5ZkdSLWNCUWRRRUdQa1V5VXBicjBtRlczNFcyTFRnbjdfV01kVG03azBWNnNEeUVXLTNwUDJoRXpHTWEwd2owQ3YycEZTakRoQVNiUzVSWVU5MFFQb3ZUYTVNbDVEN00xZk4yZDVSa1VaYTVSOUNkWjc4VV8yYi1YdjJMZlROaG9hR2RxazQ4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-23-012",
+    "date": "2026-09-23",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EU Clears Heidelberg Materials, Francisco Partners' Joint Purchase of Command Alkon - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUldYRkRXVm5LZVltZ3JPR1hmWkJVdkpvYWxCVWd5Nl9BNkN2R0VhZHVOSnVOc0NjQ0FpcEt2aF9rbXZrc1ktdmdIN1JGZl9wcHlLV3VQZmhYcGxUakNQNklOZjliUnlYb0dJUnJGWk",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUldYRkRXVm5LZVltZ3JPR1hmWkJVdkpvYWxCVWd5Nl9BNkN2R0VhZHVOSnVOc0NjQ0FpcEt2aF9rbXZrc1ktdmdIN1JGZl9wcHlLV3VQZmhYcGxUakNQNklOZjliUnlYb0dJUnJGWkJNSVJQVHlTazd0bG5IQ3VLSG9OT1BDN3BPXzZRR05zeFg4bzBtYmZsVHJMcEYwczNmX3JnOE5lNzhrVElNbDZwaXBBQXlaNkY2SWxRN3R6VHVzMUplay1kQWRoOUtETnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-23-013",
+    "date": "2026-09-23",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock rises as UBS cuts its target - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMEJKMDRiVzVkd21fNXFGRmhzRWpZWmllMUdJd1VhNHhaWW84akhKUGlCc2lRaXpBNXRsRGVRbmxNN0toUlRaeDA2djZSYWJJTEVBTENTQV9MdVNfcExlTDlOdE1hSjJpOXJkN2VnSX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMEJKMDRiVzVkd21fNXFGRmhzRWpZWmllMUdJd1VhNHhaWW84akhKUGlCc2lRaXpBNXRsRGVRbmxNN0toUlRaeDA2djZSYWJJTEVBTENTQV9MdVNfcExlTDlOdE1hSjJpOXJkN2VnSXZ3V2FXS0t0T1haR2pCZVVFS2VGemhqaXFhZ1VZdlhYMGhhN2pwZ240Tl9OanFiQ0tNUkYwVUNlNURmSzBkeHNJQndqUDRmcjNyUlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-014",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Fauji Cement approves battery energy storage and solar power project",
+    "summary": " The Board of Directors of  Fauji Cement Co Ltd (FCCL)  has approved installing battery energy storage systems (BESS) with a combined capacity of 25MWh, alon...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182126/fauji-cement-approves-battery-energy-storage-and-solar-power-project.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-015",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Cambodia, Ethiopia, Ghana, Tanzania and Uganda join blended cement coalition",
+    "summary": " Cambodia, Ethiopia, Ghana, Tanzania and Uganda have joined an international coalition supporting lower-carbon blended cement, bringing its membership to 12 ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182123/cambodia-ethiopia-ghana-tanzania-and-uganda-join-blended-cement-coalition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-016",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Fauji Cement to install battery energy storage system and solar capacity",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/pakistan-flag-fabric-1500.jpg\" /></p><p><strong>Pakistan:</strong> Fauji Cement’s board of directors has approved the installation of battery energy st",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21270-fauji-cement-to-install-battery-energy-storage-system-and-solar-capacity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-017",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "HepCem achieves BS 8615-1 certification for calcined clay",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/alternative_raw_materials_calcined_clay_limestone_C_nataliemukundu.jpg\" /></p><p><strong>UK:</strong> Hepworth Clay has achieved independent certificat",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21272-hepcem-achieves-bs-8615-1-certification-for-calcined-clay",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-018",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Five more countries join ICBCI initiative",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/Germany_renewables_and_lignite_coal-fired_power_plant_C_rclassen.jpg\" /></p><p><strong>World:</strong> Cambodia, Ethiopia, Ghana, Tanzania and Uganda h",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21269-five-more-countries-join-icbci-initiative",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [
@@ -346,6 +695,186 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21265-15-000t-of-algerian-cement-destined-for-europe",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-22-019",
+    "date": "2026-09-22",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Reflecting On Building Materials Stocks’ Q2 Earnings: Vulcan Materials (NYSE:VMC) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmppTkEyV2FnM2lUMi01X2ZOa2J6LUc4OHFjRWFGeW9tYU9jVWhRaUg5QWpQMmZscXJRVGUtUUZoUWNid093d3NPS1NCSmcyZ2RLOFdRdW5yLV9TbnY1Rk85TktLZjVuM29ESjZfY2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVmppTkEyV2FnM2lUMi01X2ZOa2J6LUc4OHFjRWFGeW9tYU9jVWhRaUg5QWpQMmZscXJRVGUtUUZoUWNid093d3NPS1NCSmcyZ2RLOFdRdW5yLV9TbnY1Rk85TktLZjVuM29ESjZfY2pBVDdtdjJDZjFySjFyYndsWHlPZkZtRDdadlBUZFFjX2hGVjdHakd4M0ZXZS10d0stY2VZdnFzRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-22-020",
+    "date": "2026-09-22",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "If You Invested $1000 In Vulcan Materials Stock 15 Years Ago, You Would Have This Much Today - Vulcan Mat - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmIzWno2OXE2UThibWtiS2ozNVE3bzBUQzhQeElVcUgxdEU4Y25NS1VkQURsRjg0YVcyMEpINXQybW9MdzN1MUtremJvTHZrY3RDTVk5RWxwUU41cnUzRXVCa1VJbUJIUEsweFhhYW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmIzWno2OXE2UThibWtiS2ozNVE3bzBUQzhQeElVcUgxdEU4Y25NS1VkQURsRjg0YVcyMEpINXQybW9MdzN1MUtremJvTHZrY3RDTVk5RWxwUU41cnUzRXVCa1VJbUJIUEsweFhhYW9IN0Ffb3dZTXcwOEFWY1g2RGxHWnpUNHB0RDlBWF8wbV92bHpyMkozc1ppbi1Ta2J1czFqS0UwSkZpQTVJN1hnUmQ4RnJaN1lXamRtTG1QOFFEQnl3RHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-22-021",
+    "date": "2026-09-22",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "guidance",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (Holdi (VMC) Stock Forecasts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0F0Z0NMeXFxSmExSVVGUTZ6OHplYmZ6OG5hRDhsM01kQVJ5TWU0N1h0bVVBRzhCbmdLaHZ0OEh3eGVhMUtrdFVaRHFORWhxdHUwZENXeVRTZlVuSmVJS2NITzV4THVMT2NVa2JHMn",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0F0Z0NMeXFxSmExSVVGUTZ6OHplYmZ6OG5hRDhsM01kQVJ5TWU0N1h0bVVBRzhCbmdLaHZ0OEh3eGVhMUtrdFVaRHFORWhxdHUwZENXeVRTZlVuSmVJS2NITzV4THVMT2NVa2JHMnZGYjlYdWFueVFYaFMtSmJzQTlsSXhJWnRWeE4zUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-22-022",
+    "date": "2026-09-22",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Third Avenue Value Fund's Top Q3 2026 Move: thyssenkrupp AG at a 3.01% Portfolio Impact - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDlCSHZEbFhVQkg4aWRVUW1VUk9DZng0Uk10ZHVNNmxrZEFtS0oxZC1IdlViMFFWWXZxbTFFTnRmSlYxMFc0SmZxc29ITGFJV21DVXBqa2dyQW5iY0xueUJDcFEwYnlfelFYQjA5Rn",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDlCSHZEbFhVQkg4aWRVUW1VUk9DZng0Uk10ZHVNNmxrZEFtS0oxZC1IdlViMFFWWXZxbTFFTnRmSlYxMFc0SmZxc29ITGFJV21DVXBqa2dyQW5iY0xueUJDcFEwYnlfelFYQjA5RnF1T3l1bzYzNFNBb2M5WVVHUVNvUndjVjNObUFFa3N2RUdfUFU0aF9qU3JYUzdJbmRndF9JcEltd2V5Y3hDNDFQaGttWGFpc0ZVZEdIb2lDSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-22-023",
+    "date": "2026-09-22",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock rises 3.84 percent after the close - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQelVGQXgzLUNDSlFIczdNZnIycFM0SzhJaFJVSWJHOWJJeVVQbVhqTGxINEpSdG1iQ19Ea3V6eHo1ZUdseEdQd0I0Mk1EZmt6VDVwbmJOdllvR3hHQTJVV3dUTWg1aC04VEVYZ25Cbl",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelVGQXgzLUNDSlFIczdNZnIycFM0SzhJaFJVSWJHOWJJeVVQbVhqTGxINEpSdG1iQ19Ea3V6eHo1ZUdseEdQd0I0Mk1EZmt6VDVwbmJOdllvR3hHQTJVV3dUTWg1aC04VEVYZ25CblFWaXBBdlFKMGZsWXZkMDEwbU9YTWdLbFZmMnRpUWZDemYzX3djWUx5UTZnZDc0N3JGazBiVUNkVWFhQUNHOGhhRVF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-09-22-024",
+    "date": "2026-09-22",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials stock rises at the close - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXJ1cGl0VmJzYldGeFRlaU1hTHZGbEVkeHlvSDdxTk9kV2JMbXBMWW44c09jRlcxb2pDRmxKeVE0VW45OEZSTl9sRV9YaHU4VTVPTWVaVmpTYUtFMkpwWUNsR1hNLWduOUlaaGE4Vn",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXJ1cGl0VmJzYldGeFRlaU1hTHZGbEVkeHlvSDdxTk9kV2JMbXBMWW44c09jRlcxb2pDRmxKeVE0VW45OEZSTl9sRV9YaHU4VTVPTWVaVmpTYUtFMkpwWUNsR1hNLWduOUlaaGE4VnY1RjhFWjE1ZTVXY2hfTVp4UVdNQ0JRTG15V3VVbm5PcGM3UXRVQnFMZVM0MEpad2VFenZmR2Qtbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-09-22-025",
+    "date": "2026-09-22",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiheiyo Cement Aims to Increase Production in PNG - postcourier.com.pg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3dHaEtqb3pwUkU0N1owS3RGbFhHbURRalNlREtXMFl4VFY2WDBDc3RZdlEzeWJtWFhUQ3Z0UTFQR3o4R25tN0lUTm8wckdxVTR1NHE1bHlORjJQZTNJMGtSbkppSkJUMnFZUldlRG",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3dHaEtqb3pwUkU0N1owS3RGbFhHbURRalNlREtXMFl4VFY2WDBDc3RZdlEzeWJtWFhUQ3Z0UTFQR3o4R25tN0lUTm8wckdxVTR1NHE1bHlORjJQZTNJMGtSbkppSkJUMnFZUldlRGRPZVFTNkVTd3QwMGROUVRTdnhNcWpYa1RsNnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-026",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "How a construction newbie learned to manage O’Hare’s $8.8B infrastructure project",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/tIYAIOQBPT4WJgJ4CiWCxf404i2n1H93JAiWdRwKloA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xX1pUbDFPNDguanBn.webp\"/></div></figu",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/manage-ohare-airport-infrastructure-project-construction-newbie/831008/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-027",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Walbridge’s new data center firm snatches JLL leader",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/5W0G2x1NP3HfKyBSB5sudIpoRwXmYbT_IL4zaYzHIsA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjY3MzY0NzgwLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/walbridge-new-data-center-firm-hires-jll-leader/830996/",
         "type": "rss"
       }
     ]
@@ -869,6 +1398,24 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/faa-greenlights-airport-upgrades/830861/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-028",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Construction groundbreakings tumbled 25% in August, megaproject starts slowed",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GBSbh9jAMy7vr7b4d9YiahLZjnfvZKb2W26Ql6vpO0M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BcmthbnNhcy1BUksxLURhdGEtQ2VudGVyLUNh",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-groundbreakings-plunge-August-2026/830940/",
         "type": "rss"
       }
     ]
@@ -1712,6 +2259,44 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUZIQWxEeDhha3VUSXFkMG1EbW1DMFd2Zjg4aXlLUURWLXFxRTdCZmxmOXVnZ3phak5vSDZvS0hOWEE5V3dxVVNuZVk1MlpTZ09LTVViRm1mcWMwY2VmSGVvTDk4Q3lsNEk4RmxnZTlHVEpkOF8wNldKSS1pWFhLdVV0cU9OaWpacFc5eGtVMmVDZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-09-18-023",
+    "date": "2026-09-18",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Implement Consulting Group acquires thyssenkrupp Management Consulting - consultancy.eu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTF0WlFOZjBUZFVxdHZmYkltTWtYYTkxck5jdU4yNHp5NjVuR3NLUWI0eFpyZS1pQTBHdHBXRTZvT0pqUjVyUC1RQWZZY1RqT2VLcUF6NGt1ZmFtWVBrQlpBS25OZWJFUWxYZ0Q5bm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTF0WlFOZjBUZFVxdHZmYkltTWtYYTkxck5jdU4yNHp5NjVuR3NLUWI0eFpyZS1pQTBHdHBXRTZvT0pqUjVyUC1RQWZZY1RqT2VLcUF6NGt1ZmFtWVBrQlpBS25OZWJFUWxYZ0Q5bm5tYkFpd0kxYjNYc0E4R2ZhTHFFcjBiTzFjcGIxUEZSR1NNSy02OTlROHpiVGxlQWlvLWZubkd4anB3R2RG0gGyAUFVX3lxTE1QeU8tYlZVNEUwb3A4T3NqMkp5OXhzRjRibFdSeE5vaXVxRnN4MFZMNVpQZkVoRVBfVVYtVHFLRDFmSndwUkxxcHlQQ281d3Q0bm1oOHRyUVIzMnV2ZjZORmwwcVRGR1NrYk5wNGcwVHpQV3N0dlpBb0cxUlVmdzNEMVdoYmJFR1pmckFwLU91cEhiQUIzRVo4VGxTa3Zsa2QwN0tLVWY3NG8zbmxibXJkQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-024",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "German industry’s order backlog at record high - deutschland.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUkhYS1JROUpPOVpPV3Z6c2tLTjdnYktQUGljWEwxeUZXVFdVWEF6WnBXYVpuSDc4Q2lXTUx1Wk9Qb3pDenpEU2VjYnhXWnVmWHV5TnFsREJTbEduRTRWZU5fTGgzUE5PdGRtR1BnTD",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUkhYS1JROUpPOVpPV3Z6c2tLTjdnYktQUGljWEwxeUZXVFdVWEF6WnBXYVpuSDc4Q2lXTUx1Wk9Qb3pDenpEU2VjYnhXWnVmWHV5TnFsREJTbEduRTRWZU5fTGgzUE5PdGRtR1BnTDl1Q3ZXbWNKRVpxM3pwUDl0eUVtYVhhNGM?oc=5",
         "type": "rss"
       }
     ]

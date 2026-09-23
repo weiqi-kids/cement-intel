@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 14,
+  "gate2_fail": 12,
+  "passed": 30,
+  "gate2_samples": [
+    "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+    "Here's How Much $1000 Invested In Vulcan Materials 15 Years Ago Would Be Worth Today - webull.com",
+    "EU to impose provisional safeguards to protect electrical steel from imports - Reuters",
+    "Heidelberg Materials prove zero concrete waste process - Agg-Net",
+    "UBS cuts target for Heidelberg Materials to €230 - 'Buy' - marketscreener.com"
+  ]
+}
