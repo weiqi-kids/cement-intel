@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:14:21.918883Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ultratech-2026-09-24-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "India: UltraTech Cement commissions 4.6 mnt/year cement capacity - BigMint",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnBnX0NJNy1OZlg0Ymc0WlgtMEN6MGhKUjdOVV9lR2cxaFQzMFNHMmw0RDVHTmJzMDhyVWxSLXMwUWs5MVY4cTREeWs3SGtCVGM5TXBqM3hiYlV2SkZYaWhpYldLN3Y4dzJpRk9RbEhNWFQ4N0dEb2FGS3VKcG1CLUx0d3hhM1hWSTZFdVRjTEdnRkNYYjhoOHViZ0ZyNnI1QWJaa0dpNnJTWTBIdGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-09-24-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "UltraTech Cement Commissions New 4.6 MTPA Capacity to Reach 204.7 MTPA Domestic Capacity - Sahi",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWZ1WnkySGxnZFdfUUZldWpwVWxKaERjakVjcUpobXN2c0haekV6RjNqZWhINjQ4Y3loTDluOXBaVk1RWGtEdFBhTFo2VnBrSzh2dWt6Tlk3VUpVSVExbm0yS2hXY2NwSmROc19oY3pvU1VUTzJMWkNKU2xBSzE4S0UtVVh4eFhoaUpQN2hjYjA1cGZjclhhR1JhcnhqdnRTTVFDSWlBNE01VnpuYnZCOTZPYWM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-09-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock heads into the open after a 1.4 percent drop - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZklyTXM1dzVWOWdhak5jeEFxNzQ5dHE4V2tSMVVlWEo0dXk0OXRHbTVQaUdfdDBYcDdVdS05VzNKZkJVOVlPTWR3bnFFazNVS0lVemtBOWdRUlhoVXBPVm1hZkdmam5xeUluRzlBMVZoMTN1Q2hONVZYR3htSWNaMFlNQUc4UktMOEJfMnNDb19ITnppMFExdmVSVU9WUFVsVVJpZWp0d1BOOXZSS19seG5QSGlUbUJQWG5fdUk4Z3JxcHNRRWw0ZTR3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-09-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jacobs Extends Contract for Thyssenkrupp Steel Plant in Germany - marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHAtQ3RpODhFeGVXUm9NNk84dE15aTAzSGdid016X093NTRkUzJzOHZIWkNERDRCbkN5ZmhqdFZRVjhEYV9VRlFOWWJXSl9DMms5cGNobFNhV3huZWpYT2FZcURyaUFsYUJsRUdRWk5XLW5fRDZ3cEpZbFQtRWtvY3YzcnZJVmdfd2FoVVVMbmVQUkZHUEVOQnQtZ2FNVzR2OUlpTG9FZWhEZm51YmttelBmMktZU1k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-09-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock falls 2.02 percent ahead of the open - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTNRQVJzRUk3R2stQ2YtM3UzNVJLTkJDVDdSQUl1ZHVIRzZCVGtnbGc1YkhKdFlCRWU1aWRsZUxySThGT2tzLVg5U0JtV20wVjBRMGpsVGcxYkV1MDFtcWE1YzU4Z1NmZVUwMTJ0ZXg4YVk2SU1VTHROUmlQVDh0WEdyeFVMVVRhaFdGQjQ0LW5WVzVFYmNyR0hXNFRtV3UzWXpkdXBfZ0NpUDlJVW9sMW5xQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 6
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 4
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 143,
+    "too_old": 116,
+    "gate1_blocked": 18,
+    "gate2_blocked": 14,
+    "passed": 30,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+      "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+      "EU to impose provisional safeguards to protect electrical steel from imports - Reuters",
+      "Thyssenkrupp's Data-Center Steel Bet Meets a Breakup Deadline - AD HOC NEWS",
+      "Fortune Again Recognizes Cemex as a Company That Is Changing the World - Business Wire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為UltraTech、蒂森克虜伯、海德堡材料相關動態：「India: UltraTech Cement commissions 4.6 mnt/year cement c...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India: UltraTech Cement commissions 4.6 mnt/year cement capacity - BigMint（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "UltraTech Cement Commissions New 4.6 MTPA Capacity to Reach 204.7 MTPA Domest...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

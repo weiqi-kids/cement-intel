@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 18,
+  "gate2_fail": 14,
+  "passed": 30,
+  "gate2_samples": [
+    "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+    "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+    "EU to impose provisional safeguards to protect electrical steel from imports - Reuters",
+    "Thyssenkrupp's Data-Center Steel Bet Meets a Breakup Deadline - AD HOC NEWS",
+    "Fortune Again Recognizes Cemex as a Company That Is Changing the World - Business Wire"
+  ]
+}
