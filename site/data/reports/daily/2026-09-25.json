@@ -1,0 +1,283 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:17:21.934477Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ultratech-2026-09-25-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "UltraTech Cement stock tracks new capacity at 204.7 MTPA - AD HOC NEWS",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYV9FZ0NUS04ySG1ZR2dJZUpad3NHdld2U0dhTU4yTGt5aGNjTlJuYVptTWE4bjVvT3JLdF9zZVhKTmt1R05LNy1VcW1TQi1nS25NZXowUVRSVHdFOVEwV29mZjNtdW9aUkNjdDFFWEU0dHQ3c1BBMHEwYmNNRUdUYW1hOHRZU2p3RmNqd3dhX2lsOU4ybDhINDU2MWNXcU1ZMXpjZ2tPaW93dmRNeUZIN1lscDcwUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-25-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Dangote Cement capacity to rise to 80Mt/yr as part of group-wide drive",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.globalcement.com/news/21286-dangote-cement-capacity-to-rise-to-80mt-yr-as-part-of-group-wide-drive"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-25-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ciments du Maroc sees profit fall in first half of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21283-ciments-du-maroc-sees-profit-fall-in-first-half-of-2026"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan-2026-09-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock falls 1.10 percent after Q2 results - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFNGLWJ0LWZQUzdiQTBQdDB2Mjl1a2JsclJ4eGVFcm1DWGphNEVZTU5OSlVpRGF1Q1lGd1RWc01fRlVkX1dwTmpVQ2x1aWJ2a1dZX2hfRVpyRUt2eTV0XzdzZFpFN3h5NU1ZZnRKUnVqbU9MZVZSQnpnQ2VnUlEwWm9YZ1RHYUF1UlE1TUFnYXNKeGkwcGN6ZUZFMF9SNG5aR3FFVEJ3RWI0WnRhdkRISEI5ZW5DczFwZkJrN0JB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-09-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock heads into the open after a 0.1 percent dip - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2RqYm5sYjhxeFdMZ2drQ0E0dWVISWxDRHgzRXpyRHRZMEphUmNvNzl0TXAwTU9BWVo1eGczSG9nWXpDVlpIN0g0dHdUZHhuVEZQVnpSWDdCX3phRVdKRVptV2Jpdng2bm5UVFVTYUpHbWVpbmhiZjdBaGs2aVhNblI4ZjB1c182V25qa2ctR3E0RmpKMEVsTDdEYk1RQUNRaGl4cE1RblhHQjZmYm5nNndkY01PcVdUVVVNag?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "inventory",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 145,
+    "too_old": 113,
+    "gate1_blocked": 14,
+    "gate2_blocked": 18,
+    "passed": 31,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+      "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+      "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+      "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo",
+      "EU to impose provisional safeguards to protect electrical steel from imports - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Vulcan Materials、蒂森克虜伯、海德堡材料相關動態：「UltraTech Cement stock tracks new capacity at 204.7 MTPA ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UltraTech Cement stock tracks new capacity at 204.7 MTPA - AD HOC NEWS（產能、財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Dangote Cement capacity to rise to 80Mt/yr as part of group-wide drive（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 7 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
