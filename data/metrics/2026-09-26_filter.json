@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 14,
+  "gate2_fail": 16,
+  "passed": 8,
+  "gate2_samples": [
+    "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+    "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+    "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+    "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo",
+    "Thyssenkrupp AG : Receives a Buy rating from Jefferies - marketscreener.com"
+  ]
+}
