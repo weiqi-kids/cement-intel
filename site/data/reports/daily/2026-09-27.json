@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:34:03.463440Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-09-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Brussels Erects Price Floor for Grain-Oriented Electrical Steel, Handing Thyssenkrupp's Steel Unit a - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZmZZSngtM1pqdHQtZ2x4X3N1c0dqbmpTSFI5dEx5cUFaY2pIQ3NPeWtocjMzWmd6TVVzTFo0bzlLSEtBM1hIREhWZWdFWlRYVEdGcWYwNjY0ckZBYlJVcjhTUkxMU09sNy1YMWpyNWROc3dGWVQ2Y1c3M0labTBydXRfcVZaNlpHcTZaSzZWay1OcTZ0WENNS0xkV0p5YmhzQVMwdl85UW5Lak94UlE5YjZpWUpWVHBuOVpKZDZFTVg1TWNKaU1EMWhZTl9PTU56UTNTRlhlZldwYjA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 168,
+    "too_old": 117,
+    "gate1_blocked": 17,
+    "gate2_blocked": 15,
+    "passed": 5,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+      "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+      "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+      "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo",
+      "Thyssenkrupp AG : Receives a Buy rating from Jefferies - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為蒂森克虜伯相關動態：「Brussels Erects Price Floor for Grain-Oriented Electrical...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Brussels Erects Price Floor for Grain-Oriented Electrical Steel, Handing Thys...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "蒂森克虜伯為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
