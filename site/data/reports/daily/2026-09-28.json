@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:29:22.374534Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-28-028",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "UK-backed AI system strengthens tax compliance across Pakistan's cement sector",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.globalcement.com/news/21291-uk-backed-ai-system-strengthens-tax-compliance-across-pakistan-s-cement-sector"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-09-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Chinese carmakers will offset auto steel demand decline in Europe, Thyssenkrupp steel boss says - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb0NaM3IyeDB4bFdBbDVtNU5YWUNyaVB1ZWQ4TE9LaGdJTTJBeHdIUXlhNHdVV3NIMkpUQUdXUGVJMW9Ecm1rMjJRNGlyMXpyNEdfQnVxZ0lMM2FTLU5nNlR6TE1yTFozRS1sN0dyNElhYWtKeGtMUE5qY1dtUnRRWHAyVGhPSm4yWmtibGgtSGN6YWxnZHZPb0ZoZkNKU0RXV1p2VWQ0MmJ4Mnc1cVg4SzZzcEYtejhKRVhJc3ZpVFRCbE5QaFRVMFdDbnp0cWowdUY5b0RPcjNFZ29lSkFHZGZjdzI1QnVLUUdyWmpUX2x3NzY3ZXE0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-09-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp steel unit aims to triple core profit in turnaround push - Reuters",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXVlUU1YblZwT0NMYXNYaEhodkJmTE1UT3ZTODY2SDlXZW9Hc2Z2dWsxTE1vcjh4UnNQazI0NWtqc1FGcFdYNVJVakljMENCUmliTkZCZ0otb1VmX3ZXaF9hS0FpWGswNWUzWU02c191XzJYN3ZwdUVBREVrRy1fRTZOaldUQzl5cmlab0FIRWpBX2NoMWxGa244ZDhVc1FNLTh2R21pRHNqZ2FB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-09-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp steel unit aims to triple core profit in turnaround push - AOL.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmxsb0tFVGtMRGhpZHNMVFpHLXpoZy14TWd0X3VLMWVNVlh1cUd4TFZjWjlnal9MUzl0Z2taWkt0S0RCRGp5TnVyVWhDbm83c1k3R0FrMFIwX09heDFET1pXZGdqOVVNSHBnOEgxM1lJUWtwRGViY0oxX0xDYVFwRVVSRUZ1Zw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-09-28-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp steel unit targets tripling of core profit - Investing.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZkl1aEtDU0FQZ05GcW5jNlhXUWh5VmhJb2pWVmlKajVKMTZNcnUyLUE0eEJYbDl2b0NzOTlpTmZtTTJGQmpfalgyY1piMTNqUkRmQkNISG53NVRwQkdDdTFkVEVkZTN1S3l5SUpQQkhSamZpMlRCX2ZrdllBTk03clZTbUVWWV9NbUdOV2pqUGR0NDZ5ejFrbFZnNjRrOFdZUUZCYUMtM2gxZWQxUFZRakFLQldBQ1Rh?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.31,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 30,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 12
+      },
+      {
+        "id": "heidelberg",
+        "count": 6
+      },
+      {
+        "id": "ultratech",
+        "count": 5
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 20
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 141,
+    "too_old": 114,
+    "gate1_blocked": 18,
+    "gate2_blocked": 10,
+    "passed": 38,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+      "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+      "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+      "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo",
+      "Cemex recognized for freshwater-free concrete initiative - Agg-Net"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為蒂森克虜伯、海德堡材料、UltraTech相關動態：「UK-backed AI system strengthens tax compliance across Pak...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UK-backed AI system strengthens tax compliance across Pakistan's cement sector（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Chinese carmakers will offset auto steel demand decline in Europe, Thyssenkru...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
