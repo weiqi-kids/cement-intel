@@ -1,0 +1,281 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:39:30.904311Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ultratech-2026-09-29-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "UltraTech hits full green power milestone at Chhattisgarh cement plant - Power Peak Digest",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWVhfanJoNEF6SFUwOXZ0ZDN3MWFERTdPNGZMZnJETUJYVm96Q1l6VEMyY1RGbjZXd2kzZmV2aG0zMngwTkpYeTRNd3JDZThVNDVqVDZVMklxS3hDaUw0Q2VTMlZFVVBFV2xodHJpM2xlTHVGUUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-09-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Materials - Alabama Daily News",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnhNYzBObW81RU05WTRlSnI2M2YtOEFWdTV3azVWQVlrMUlXd2ZvUnQ0a3A5VkR0Y0dhVGpVSHB4NE5jV3pGTEtUSFl0Ulp2cG1FNTFDbzJENjhKLUhtcjQ4ZWJCc1pxNDhaRXpKaWxEN3FMMGE3cnNsODl1ZGlja0YxMlh5UWNWUHRUV1pTYzNfbWRVV25ZNS0ybUNKLUlCamp5NzZ2SQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-09-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials acquires Kentucky quarry - pitandquarry.com",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWR6aVAzU2NHR3JaSU9ab2MtX2JURmV0VGU4d3l0dkNHMnBFX0NpM0ZubTBqRDdzRHQ3eVB3Umh5UHBlaEduT2hTZTgzSG9kQ1hNOTNRM210ZUFWX3ExdVhybVpUbDZTdXFXdlhPbmFTeU9iek5Qa0xNcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan-2026-09-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rep. Sewell leads bipartisan push over Vulcan dispute in Mexico - alreporter.com",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUNoc2t6U2k0ZkFleUJoMnFTN1dIaExLR1h4VXYzNi1BRE1oNjl3Wl83N0Z0RzlzWjhaV2FSdWJFMVY5cHBtQ1VxQlBYdlROdlFiU2tabkpmb0NQRUtObUJuaXBFNzJhUWFCanM0VDFVTk01TEttSWVTSmM5cERQeDVURi0waURZRGlQMmxhSVRrV0NBd1ppUXg4b01DT3VkMHJZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan-2026-09-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials stock trades at USD 246.15 after Q2 earnings beat - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFJuSldRbHkzRndYY2VhUi1ZUHNJRU55amx0bm5lQ3NfMWxRQnhwYzBNakxJMk90LTBmWUlVanh5c2tKTnhhaC14YjRiekgxVklndTI5ck5GWVd0dU01OUFHMklPRERGVFpOcHBaTDQ1VktDR3hyNmN3eDdOb3BFTnVpdTlnZVhMV0ItdUZaZDJjV2kzOFpobTBMR01YT29wd3ZaN2k1aWUxUlVqX2JjcFdSbHlRTmwzV05NN21JeExJeDZHMFZZcw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 6
+      },
+      {
+        "id": "vulcan",
+        "count": 4
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "crh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 147,
+    "too_old": 115,
+    "gate1_blocked": 16,
+    "gate2_blocked": 13,
+    "passed": 29,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - Yahoo",
+      "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+      "VULCAN MATERIALS CO : JEFFERIES CUTS TARGET PRICE TO $320 FROM $345 - Bitget",
+      "Vulcan Materials (VMC) Just Drew Fresh Attention, What Is The Market Weighing? - simplywall.st",
+      "thyssenkrupp nucera: Global electrolysis leader with strong financials, innovation, and a robust gre"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為蒂森克虜伯、Vulcan Materials、海德堡材料相關動態：「UltraTech hits full green power milestone at Chhattisgarh...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UltraTech hits full green power milestone at Chhattisgarh cement plant - Powe...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Mate...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
