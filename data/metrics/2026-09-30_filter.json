@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 17,
+  "gate2_fail": 11,
+  "passed": 40,
+  "gate2_samples": [
+    "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox",
+    "Ellerbe FD receives community grant from Vulcan Materials - Richmond County Daily Journal",
+    "Jefferies & Co Adjusts Vulcan Materials Price Target to $320 From $345, Maintains Buy Rating - finan",
+    "ThyssenKrupp AG Lobbyists, 2025 - OpenSecrets",
+    "thyssenkrupp nucera: Global electrolysis leader with strong financials, innovation, and a robust gre"
+  ]
+}
