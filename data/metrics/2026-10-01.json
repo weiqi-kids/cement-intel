@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-01",
+  "total_events": 19,
+  "by_company": {
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "cemex": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "siam_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "capacity_consolidation": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

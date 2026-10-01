@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 21,
+  "gate2_fail": 11,
+  "passed": 29,
+  "gate2_samples": [
+    "Vulcan Materials (NYSE:VMC) Jumps Into Focus — Here's What's Driving It - Kalkine Media",
+    "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Materials - decaturdaily.co",
+    "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox",
+    "ThyssenKrupp AG Lobbyists, 2025 - OpenSecrets",
+    "Thyssenkrupp Automotive to cut up to 180 jobs in Germany - Investing.com"
+  ]
+}
