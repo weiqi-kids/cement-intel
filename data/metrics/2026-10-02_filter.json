@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 19,
+  "gate2_fail": 8,
+  "passed": 30,
+  "gate2_samples": [
+    "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox",
+    "Data Centers Need Copper, Concrete, and Cooling. Here Are 3 Boring Industrials Set to Cash In. - The",
+    "Citigroup Adjusts Price Target on Vulcan Materials to $300 From $350, Keeps Buy Rating - marketscree",
+    "ThyssenKrupp AG Lobbyists, 2025 - OpenSecrets",
+    "Thyssenkrupp Automotive to cut up to 180 jobs in Germany - Investing.com"
+  ]
+}
