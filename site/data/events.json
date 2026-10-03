@@ -1,5 +1,67 @@
 [
   {
+    "id": "vulcan-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials reports tribunal ruling as Vulcan Materials stock costs EUR 216.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVdMTzhJU2R0bmFBRkd6Wjg1MkZ4YkVybld3TTg4TjRWM1pvQ1dvVWtjb1VoZ2FoNnVCNTNRMVpiOXNCbEZLTGhQdVF5Tk1VTnNQb09ma1lMckNnMmI5Q3N4WUFYYThMSWxIQ1NIdV",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVdMTzhJU2R0bmFBRkd6Wjg1MkZ4YkVybld3TTg4TjRWM1pvQ1dvVWtjb1VoZ2FoNnVCNTNRMVpiOXNCbEZLTGhQdVF5Tk1VTnNQb09ma1lMckNnMmI5Q3N4WUFYYThMSWxIQ1NIdVdXNVBNTFo3b0p4YkNka2FsSGpKemhRXzdjSFJadUlEM1NqUk11eVpyaTVkc3FGZDQ2TmRBWlNLTGNsMXdVSHZsb2ZZZ3pRZl9RYk9IeXpIM0tybkF5LUltdklIYlhKY0Jx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's 51% Run Meets Its Moment of Truth in Steel - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTFlQcnBJYV80Z0NYQ2dKQ1o5WjdVNTdZbEVMbWFpYUlGTnRKQUlFQWJhQ25RdzA1Um5kM3RRWUFSUFU4QWVfbFowSGN1b0hsbURTUTlCa1ViQUZJUG1jTF8zaWsxSEpDTi1IaGxYeG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTFlQcnBJYV80Z0NYQ2dKQ1o5WjdVNTdZbEVMbWFpYUlGTnRKQUlFQWJhQ25RdzA1Um5kM3RRWUFSUFU4QWVfbFowSGN1b0hsbURTUTlCa1ViQUZJUG1jTF8zaWsxSEpDTi1IaGxYeGNnbG9ZNWdVWEhEMENpNm9ZYXpSNUwwOGR5ekoxd3pwbHp5VmFXaWQ4d09sLTFaX2FldFhvNWxHTWR3UjlPeThwellmbU9XeXcwV3dVRGVMVllZbEFfaklqaXNZVUNzQTUzUlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-03-003",
+    "date": "2026-10-03",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials plans Ranville closure as Heidelberg Materials stock trades EUR 148.40 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2pDT003QkVKOWJvRUpqV2ZSSjNWZEpjUVVFekpSdmpmc2VKTVcxUHc5WlpCSFNwRDBuMzRRa0RlU1oxZmx4bzVBMTVrQjJNcE10ZUNlSEh3cmxrUlBzWW9oLVltTnZxM1c0SGs3dX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2pDT003QkVKOWJvRUpqV2ZSSjNWZEpjUVVFekpSdmpmc2VKTVcxUHc5WlpCSFNwRDBuMzRRa0RlU1oxZmx4bzVBMTVrQjJNcE10ZUNlSEh3cmxrUlBzWW9oLVltTnZxM1c0SGs3dXJoOWNTNU00Q3J6Y3BMekhqZm9NZ3VaNUtXWlZDaG5ZdjRrVXI3VEdfRlpXUTFSVzhZX1RjdkV1WGtYVWQtbVotblRraGh3dnZkV05LLVRNd0QweEI4bDUtelVtbTU5ajJremc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [
@@ -226,6 +288,181 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21311-cyprus-cement-profits-rise-in-first-half-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-02-013",
+    "date": "2026-10-02",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp in Talks to Adjust Funding for Duisburg Direct Reduction Plant - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmIzN3Rtei10OFFXaWhjN1cyOTItQ1k4MHZxR0ZUUTNuaHFmeklEZi0xSmZsaVdZZ3NQQ3hEMUNJbWtSOUVpMlNMelRqWmdzYkZjMlhvMENQaDFiVE9qbDd6bVNObGxZYndOZzh3Rk",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmIzN3Rtei10OFFXaWhjN1cyOTItQ1k4MHZxR0ZUUTNuaHFmeklEZi0xSmZsaVdZZ3NQQ3hEMUNJbWtSOUVpMlNMelRqWmdzYkZjMlhvMENQaDFiVE9qbDd6bVNObGxZYndOZzh3RkRGem9jMzRMbU04eTBzZEg5Y3BlcFptZlJKY29MeURSSU9IUi1fVGp3UTZvNUxZUVlWX2xJc1Y1Rjk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-02-014",
+    "date": "2026-10-02",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp – Duisburg DRI plant could initially operate without hydrogen - hydrogen-central.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjBMY3lIRUJGQWFCckhIQV84MUJnWmo5Z2R6c2ZfTFZySk1WSnZiTWxpbHFTYmFWYjZvRmthSWVDNExINDdkNk1kSTR1TEFESXFqQmVVQlZzM2JsdExSY2M4bUFiYnVvZG9xeTQwYm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjBMY3lIRUJGQWFCckhIQV84MUJnWmo5Z2R6c2ZfTFZySk1WSnZiTWxpbHFTYmFWYjZvRmthSWVDNExINDdkNk1kSTR1TEFESXFqQmVVQlZzM2JsdExSY2M4bUFiYnVvZG9xeTQwYmpVN0dBZ3QxM21nNzNPUVhBRTc5X2hOZ0hwWThZSjNFSXdLSW5LZWRNWFVZNVZUN1l2NTVWZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-02-015",
+    "date": "2026-10-02",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Nucera Drops SOEC Stack Production Plans, Cuts FY2026 Outlook - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNelhsbXBGcERHV1dWSkZlR09kUDJzaTh3dzA4akhNQThWV0EtdV9haTVpMUFxR0NtZDJzMDVZSlBVaUhYQUJDbEFtNk1Hc1p4alJGSWNnSW5ZZGhMTkNMVFlXZjE0cWJTRTVWcV9tQX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelhsbXBGcERHV1dWSkZlR09kUDJzaTh3dzA4akhNQThWV0EtdV9haTVpMUFxR0NtZDJzMDVZSlBVaUhYQUJDbEFtNk1Hc1p4alJGSWNnSW5ZZGhMTkNMVFlXZjE0cWJTRTVWcV9tQXVNdXhIeEFZRjBfZEhjU0lzdW9lMmFGNlFXbGkwUlNpSlpwaGpSc3BjQ0JCcGJqeEhLVS11d3NqSXRBX2x5S0pr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-02-016",
+    "date": "2026-10-02",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp Nucera cuts fiscal 2026 outlook after abandoning SOEC stack production plans - hydrogen-central.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdfXzg1bjhUd3o4dWd2N3p3RVRNaXRyMUFYNjRUM0YwZGhXLVV6cWFYT2JBZG9Zc29hajJlamdFVmRtYWw1bG8wWUk1S0NjejFkYjB1QlFEV016ZW0zWWNiRk04bTBYMjdNYzVvNX",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdfXzg1bjhUd3o4dWd2N3p3RVRNaXRyMUFYNjRUM0YwZGhXLVV6cWFYT2JBZG9Zc29hajJlamdFVmRtYWw1bG8wWUk1S0NjejFkYjB1QlFEV016ZW0zWWNiRk04bTBYMjdNYzVvNXhBUUtmaW1ObEE0b0FNeWY2aE5XSWNEdlFMOWZjUmxabVl2c3FEcXVjREpiNUpma2VUOVh6d3FtVFUyMUhuWEhNbWhWWHlyQUZ1QXlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-02-017",
+    "date": "2026-10-02",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials completes Maas acquisition - quarrymagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzF0WS1yU0ZScmI4NzJvaTIwaHBQY0E2ODlFbTZxZzFEQUlvOEtuUlFVS0xiNkFLUnQ4QXBpQnpKaDlUUE9hbVpTMzhrU0kzamFOODhKQk5XTmJlaVFPOGZBVGxvRmdQLUpFeTFQWC",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzF0WS1yU0ZScmI4NzJvaTIwaHBQY0E2ODlFbTZxZzFEQUlvOEtuUlFVS0xiNkFLUnQ4QXBpQnpKaDlUUE9hbVpTMzhrU0kzamFOODhKQk5XTmJlaVFPOGZBVGxvRmdQLUpFeTFQWC11dDkxSVNYVUMwbnJiTUx5TDVXVWMtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-02-018",
+    "date": "2026-10-02",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Rebounds From 52-Week Low as JPMorgan Backs the Stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa3pUU1hJQXVuaE1aUVV1cF9LVVRXd3hBWTdid1lUY1VPRUtkM1hsLVBUUGlfbUJhbmdLNVJ0YjBvM0lOZHdHYk5mRWpjYS1pcWtfcUsteDl4N1RCalJ3amJsT1lTQWNjN0w2Y2lSQ0",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa3pUU1hJQXVuaE1aUVV1cF9LVVRXd3hBWTdid1lUY1VPRUtkM1hsLVBUUGlfbUJhbmdLNVJ0YjBvM0lOZHdHYk5mRWpjYS1pcWtfcUsteDl4N1RCalJ3amJsT1lTQWNjN0w2Y2lSQ0hNM1g0R0hwemN6azhyUEpNbkxsUU1WX2NHMTVPbEFGcmtzSDk3d0prR2RHVThZbFFLUzdWemg2SjZRN0t6d25ya2VHTWhMV3B6VjFJZHh3V2tMbUw5emRMQUlCTmRLZTRWREdZYk5fRWhyZ25vTUVJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-02-019",
+    "date": "2026-10-02",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Faces a November Reckoning as Jefferies Sticks to Its 286-Euro Target - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeU5sSVYtZWdKWWM1cmN5NEZfOVRIN2o4SlhLMW1oVjhuVjZJQUQ5LU5rQkZOdTFXZ19UejVKZ1d4LWhDN2drdVNpbHJxbEFKQzdzU2V6ZThkRDk5TXdGOFV3MHZ6eDhROEdpMkRyVm",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeU5sSVYtZWdKWWM1cmN5NEZfOVRIN2o4SlhLMW1oVjhuVjZJQUQ5LU5rQkZOdTFXZ19UejVKZ1d4LWhDN2drdVNpbHJxbEFKQzdzU2V6ZThkRDk5TXdGOFV3MHZ6eDhROEdpMkRyVmltemlkbjFrWGhSSHJIR2QwenVyRUZ2UGZVSUhJazlxT2FGRzZkdTJnU2hCeUxLYlc4cWpEbm1LSTlvd3NuQjN6OWZRQ0FKWWVKUzFZLWtWeGc4Qlp2T0pzT2xxaWJsYmtlaWpWa3d4WmJtYzRmNks4ZXpReFdxUGN6alI5RUVHWUJIdUgz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-10-02-020",
+    "date": "2026-10-02",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement acquired stake: Taiheiyo Cement stock is 18.72 percent below high - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2w5Sk43MU5IZ3NLXzBMOHdyMVl6Mm1nbGNyUXdwLUEyX1R5ekw5bElSbUxFREowN2p0b2FfSDNpZ3ktUGFjd05ETTZUeGNLODR5SEpPVEkyZzRYV0M0OGY5a0xmZTBhdzdzNU9mMU",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2w5Sk43MU5IZ3NLXzBMOHdyMVl6Mm1nbGNyUXdwLUEyX1R5ekw5bElSbUxFREowN2p0b2FfSDNpZ3ktUGFjd05ETTZUeGNLODR5SEpPVEkyZzRYV0M0OGY5a0xmZTBhdzdzNU9mMU8zb3BPTGpiQk1mMWtkbEZmR1lPc3RXaWYyR0NRbHNFSHRYLUZ1YVVSREFTXzdIM01nWFhyTFlZejZRRE1EZUJpbmZYT1V6a3Yya3lBeDJqZmlLYVBQX3ZsTlZzRzdKT3FZMVFlV2pn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-021",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "3 contractors tout military project wins in September",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I0WGSmK0R4U6roGy8DHf9z7eb-sfEsvZxuzWxHhvggM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1NjEwNjUwX0dMUlhX",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/3-contractors-military-construction-september-2026/831968/",
         "type": "rss"
       }
     ]
@@ -744,6 +981,64 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnd6eHJfS3hvMmRBOXJaX2EzaER1MnMtNTA5djJITk1wR3dCWHRmUDRaS2lDS3N4Wjd0X2FxOENHSEx0MGRTWjhpanI5anNLY3JQUEVUWUhMN3NZMlhrUTFTeHptSjVuYVZ4MkNybzVoMUNPcXJxTElTWGdsTF9OenNQVTRmb000RkFaOWw1VmtEMF9KaUZ2eXdqeG0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-01-028",
+    "date": "2026-10-01",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Alabama leads 41-member congressional showdown with Mexico over Vulcan seizure: ‘No American company should have its property seized’ - yellowhammernews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMGhkZTZsb2hWVHJVdU5JNGctSTZjQUg3X0F1MHF4WGVRSTRNSnJZY0VNX3RGMmUwbDVwdlF0QkZiSkIybzlaWE9FSjJwU1EyNVNsci1mb1Z2ejdMRUk2TXFMaWd5WUh3dVZMTU0xcW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMGhkZTZsb2hWVHJVdU5JNGctSTZjQUg3X0F1MHF4WGVRSTRNSnJZY0VNX3RGMmUwbDVwdlF0QkZiSkIybzlaWE9FSjJwU1EyNVNsci1mb1Z2ejdMRUk2TXFMaWd5WUh3dVZMTU0xcWkyS20tWXQ4U0d0b2pMSUdNcWJrQUFoajFkbWZzVzlaYThjNlVYd3RBM3hIazFwX3BhUHJsY3Y4WTBUS1pvTzRjc01oX0tYOFJpdm9rQ3liVHZ0a1dpdFE1bF9fenM4NThWV01oWWRhOS1wZHJEMUc4QXFCX2FybFBuR2ZQd3RsTmJpQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-01-029",
+    "date": "2026-10-01",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG : JP Morgan gives a Buy rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk1PTE5sQVdvQnNvREVvaGhHNHBwYTNBOFpiQmhBTEI2MXZxOGQ2TjNzcE01eTFLZDZ2N2hPWFJZdGREc1VuS05oYXJ5RllZbTZiM3BsZEhjX3JFb2trWXJQN3RaQVhYT2ZQRnBmWj",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk1PTE5sQVdvQnNvREVvaGhHNHBwYTNBOFpiQmhBTEI2MXZxOGQ2TjNzcE01eTFLZDZ2N2hPWFJZdGREc1VuS05oYXJ5RllZbTZiM3BsZEhjX3JFb2trWXJQN3RaQVhYT2ZQRnBmWjRWdEExU2hGYjdsa0x0bHBkWGVzbmszT3U3clRCZnRIXzhIN056R0JkNC0zMnNjWmNHOUxON2J6b2w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-030",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Cemtech Live Webinar: Low-carbon cement technologies for sustainable construction",
+    "summary": "    Video summary   The webinar examines three complementary routes to lower-carbon cement and construction: efficient calcined-clay production, predictive c...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/video/play/198899/cemtech-live-webinar-low-carbon-cement-technologies-for-sustainable-construction.html",
         "type": "rss"
       }
     ]
@@ -1538,6 +1833,24 @@
     ]
   },
   {
+    "id": "heidelberg-2026-09-30-042",
+    "date": "2026-09-30",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Are Investors Undervaluing Heidelberg Materials AG Unsponsored ADR (HDLMY) Right Now? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXNTeFJ5ald5SXBIb0xWdnZOUEFTMnNmclBEdVVyYXBDTUJXSGw1dlJwMHJTaUZYRzJNUWlyTlhrSHRNSTNOeEZ4NV9VQjVsbGVWYTQwUlVHblBmaVd0Ny1TcWRZOHJfYl9wNE5ydz",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdXNTeFJ5ald5SXBIb0xWdnZOUEFTMnNmclBEdVVyYXBDTUJXSGw1dlJwMHJTaUZYRzJNUWlyTlhrSHRNSTNOeEZ4NV9VQjVsbGVWYTQwUlVHblBmaVd0Ny1TcWRZOHJfYl9wNE5ydzlDUF9STzR1dmtUWk1xNk90TWN6dDc2ekVlaURRcXlYOURfWVU1Zm4zNkxJMkQyTHE2bWExRy1yU2M2V25FZm9zZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-09-29-001",
     "date": "2026-09-29",
     "companies": [
@@ -2214,6 +2527,26 @@
       {
         "name": "siam_cement",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3BOZjJIcjQ3QXdWYlhtVjlFU0pmTFF4dzlybi1OVGo2bVlSUGpxbkYtTUVsYmFvMXJ6b3dfWXV1NnpPOTlqU1RjMDZfSHJhYlY1WU1DX1JqWkRwRFFseHk3Rzl1VEVUcUFvNmNUNkxZaTdPQVNWUFB0VldGX0g3YW5JN2tFOVNNYzdKZGdOOVFMS2JlLWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-09-29-036",
+    "date": "2026-09-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sewell leads bipartisan letter to ‘rectify’ Mexico’s treatment of Vulcan Materials - aldailynews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnhNYzBObW81RU05WTRlSnI2M2YtOEFWdTV3azVWQVlrMUlXd2ZvUnQ0a3A5VkR0Y0dhVGpVSHB4NE5jV3pGTEtUSFl0Ulp2cG1FNTFDbzJENjhKLUhtcjQ4ZWJCc1pxNDhaRXpKaW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRnhNYzBObW81RU05WTRlSnI2M2YtOEFWdTV3azVWQVlrMUlXd2ZvUnQ0a3A5VkR0Y0dhVGpVSHB4NE5jV3pGTEtUSFl0Ulp2cG1FNTFDbzJENjhKLUhtcjQ4ZWJCc1pxNDhaRXpKaWxEN3FMMGE3cnNsODl1ZGlja0YxMlh5UWNWUHRUV1pTYzNfbWRVV25ZNS0ybUNKLUlCamp5NzZ2SQ?oc=5",
         "type": "rss"
       }
     ]
