@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-04",
+  "total_events": 6,
+  "by_company": {
+    "thyssenkrupp": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
