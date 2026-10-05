@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 19,
+  "gate2_fail": 15,
+  "passed": 40,
+  "gate2_samples": [
+    "Vulcan Materials Price Target Cut to $300.00/Share From $350.00 by Citigroup - Moomoo",
+    "Wells Fargo Adjusts Vulcan Materials Price Target to $249 From $254, Maintains Underweight Rating - ",
+    "Vulcan Materials Acquires Butler Quarry from Hilltop Stone - News and Statistics - IndexBox",
+    "Citigroup Adjusts Price Target on Vulcan Materials to $300 From $350, Keeps Buy Rating - marketscree",
+    "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - Reuters"
+  ]
+}
