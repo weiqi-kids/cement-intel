@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-06",
+  "total_events": 18,
+  "by_company": {
+    "eagle_materials": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vulcan": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "cemex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "inventory": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "carbon_emissions": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "capacity": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "raw_material_energy_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
