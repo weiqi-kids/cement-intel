@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 13,
+  "gate2_fail": 16,
+  "passed": 37,
+  "gate2_samples": [
+    "Wells Fargo Adjusts Vulcan Materials Price Target to $249 From $254, Maintains Underweight Rating - ",
+    "Vulcan Materials Price Target Cut to $300.00/Share From $350.00 by Citigroup - Moomoo",
+    "thyssenkrupp AG (TKA) Receives Major Holdings Notice From Norway - TradingView",
+    "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - Reuters",
+    "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - AOL.com"
+  ]
+}
