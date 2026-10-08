@@ -1,0 +1,274 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:15:18.910925Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "heidelberg-2026-10-08-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "NCC to sell Industry unit to Heidelberg Materials and CRH for $820m - Yahoo Finance",
+      "companies": [
+        "heidelberg",
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVY3azNkQXFKTTF5bG90Q3JDUzJzVGdIRXZ2YjVWb2N4WERuVEEzbnFlNERQLTNhWnFEdkpYNjlyRGFVeDE3UWJTdGFTV1Y5UDFWQXBxNkJ0c2NNRVJhbTBuZUxBREhUNVptNnZMYk1rSDNVbHVDalgzTElNanFLRWZ0NHpzSWdPOUhSaHhyUkgxVHp2dlNBbTVnNF9DQlk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ultratech-2026-10-08-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "UltraTech Cement commissions 116.55 MW wind capacity in Rajasthan - Indian Infrastructure Magazine",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXBkYUlad2pIdWk0TWthMFZpbkY1VmRLSHRRVE96dkg0SDdzbWZlVjVXU1R4dno0bTJqb1hTMnNvYmRnMFJydjR1QzNmektuQkZ0Yi1lUEQ2Ym1zMDB5cDlCLVdPWU5EY2VSc1F1U3VPZ0c0VHhSUXl0WWxYNkRIVzFZcG14X3pvZDZ1MVJsZ1MwMjlZaTJuMTBZNXlKZ3pQWGJvR2tQWHNSMEtpRVFv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-10-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wells Fargo cut target for Vulcan Materials stock to USD 249 - AD HOC NEWS",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU2lkeC0tNWlFZE05dy11OFJoZnBaU1NraTlid2FISTNmSjlYZE84NWxON05aYUQ0OWxkV2MzcndiNXhRdndSYTBXSXhEckNTb2tiTXU2Xy11OTFzcWN0c2tPNE42NUE1bURpc2tFWk5nQ3NfR3pSdzVncG51TGkxd09CbHZUMlpEVUs2ckZJaFEtMldyalU2XzZDdkxtM1ZrRXFLZUt6dDJyY1RqVTlUbzJvQUFRT1RvTlFV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-10-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp : Automotive Technology inaugurates new engineering center in Pune - www.marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcE5UTTJMNVAzdDdPUmNOdFNHSkZpZUZicUhKQVZtY3Q2Ym9ycUVKaUlyX3p2bzNiS0w3cEZoRTJzWjVYY1NDTHZldFB3UV9ERmYxOUFSR0ozamZEbENoOV9HaDVIUTB6cUhTMS1ESmo2bVlrT0w5TlZ6X1pNZmRXcjlMek9TZWRZTnpvczgyM2Noc0tRNVNZZ3ZnNnJPNDR4ZHNVcnVEaXMyTDM4bmtVamxqVFczMi1hdXk4ckUwZVJNb3g3M0w0aWNB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cemex-2026-10-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corporate Hands | CEMEX, Caribbean Cement fund concrete pavement project in Bell Rock, Olympic Way - Jamaica Gleaner",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSG9zejFCbzhVQ2hKS0NfZ0Q0bGw0M1FDbnVONHp2ekJ0V1J5MnVyMnYxbGhPOE0xTWlBWW1tVlA4SUQ4aFFKLUIxQ1ZfZDRDamppSzZkSlpha2lYSDBOMV9OWldqOUNxd0hCR3BrelJDRTBIcEhETVFYX2tRaEpuZzl3ZkhORkMtb3l3WGptODg3Y0F4U0F5ME1RbVVlS3BpdUFMRnVzcjAzTVV3bVJ3alREN2VLejBSU3JtdUNZbFNJdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 5
+      },
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 148,
+    "too_old": 111,
+    "gate1_blocked": 12,
+    "gate2_blocked": 18,
+    "passed": 19,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - www.marketscreen",
+      "Vulcan Materials Price Target Cut to $300.00/Share From $350.00 by Citigroup - Moomoo",
+      "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - Reuters",
+      "AlphaValue/Baader Europe Raises Thyssenkrupp PT, Keeps Add Rating - www.marketscreener.com",
+      "Thyssenkrupp nucera to open central electrolyzer cell assembly hub in Portugal - ChemEngOnline"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為海德堡材料、Vulcan Materials、UltraTech相關動態：「NCC to sell Industry unit to Heidelberg Materials and CRH...」。主要關注主題為財報、庫存、基建支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "NCC to sell Industry unit to Heidelberg Materials and CRH for $820m - Yahoo F...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "UltraTech Cement commissions 116.55 MW wind capacity in Rajasthan - Indian In...（基建支出、產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 12,
+  "gate2_fail": 18,
+  "passed": 19,
+  "gate2_samples": [
+    "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - www.marketscreen",
+    "Vulcan Materials Price Target Cut to $300.00/Share From $350.00 by Citigroup - Moomoo",
+    "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - Reuters",
+    "AlphaValue/Baader Europe Raises Thyssenkrupp PT, Keeps Add Rating - www.marketscreener.com",
+    "Thyssenkrupp nucera to open central electrolyzer cell assembly hub in Portugal - ChemEngOnline"
+  ]
+}
