@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-09",
+  "total_events": 17,
+  "by_company": {
+    "vulcan": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "cemex": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "heidelberg": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    },
+    "ultratech": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "capacity": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
