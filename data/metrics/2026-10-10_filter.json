@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 13,
+  "gate2_fail": 16,
+  "passed": 15,
+  "gate2_samples": [
+    "Vulcan Materials Company Actuals & Estimates (VIE:VMCO) - TradingView",
+    "Vulcan Materials Is Maintained at Buy by UBS - Moomoo",
+    "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - www.marketscreen",
+    "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - Reuters",
+    "Thyssenkrupp nucera to open central electrolyzer cell assembly hub in Portugal - ChemEngOnline"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:15:01.287253Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cemex-2026-10-10-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Cemex's Denver cement plant to lay off 70 workers - https://www.facilitiesmanagement-now.com/",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUy1vZU1zaHF1VTJNT1FvQUw4VEsySHc0bXFRaUZRYmQ2UFlqX2J1TENXX0VsdlpxOTdpVDJDWFVCdDdjM2Y1RHh0dWFnOTVPZ3BXZ3hHTlZqSDlfcmFfeU04c25CTmtwR3E1aUJOOXZpYVJXR0prS1JxRktMQy1GVlNJYVlBN1hQRFNsNHhwdnpEYk91ZlNLd3ZWdUcwbHNfY3BrUGhycw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-10-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Could Be 24% Below Fair Value After Dividend Reaffirmation - Simply Wall Street",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFpMYmhYVjZQS091bldlMFNQYmNVa1l2cUd4cnJZMWFKcmdPOW9aaTdRMlBTcGdUaTcwZjBXVjdWRV9CMHNoZWVCdTlFTEpfOEd2cV9Rd3lPbEN6dFdLcnkwa05RMkFhZEtlY3Bxck4tOXFldFNQc2JKcmRXQTJmUU9xWDRyMFFtVzZPZlZuUk1VdGxkV2haV1pqN3JhX3RVSHhJLW9rd3hWSWNDQzBjeVFmUkxuLTVyRk85M0NlQmtaU0hwclJJWjE2allEZ9IB0wFBVV95cUxNOUM5VjVQM2xNbG9jZjBUZ05pUTJVQ1I5Z3dKalBUMW5VWGFTeTJBck0ycGRkdzJyUFZta1VoN25mdklUTGN6eUZhLTlmc3J4amJXZVlzRldrZXNpRFVfblFtUVNVRXlYMlBuOU9VMDZrZWdoU3FxR0xhYmJWR3RuYktNMXJWd0RfOFpqbDA1bHFhUzNGbTNOSVExWHlXM2xGelRWdnd3cGtLLTFSTEJBZTFHWmE4Y3ZMWHRuV29yX2dPVWwyU21Sd3hQbmV4a0RMdVpj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-10-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Goldman Sachs filing changes ThyssenKrupp stock holdings - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmRRZlFSM0dISzdyaWZoVzliZjlUV3ZjcDN1X0kyWHpGN1BCYW9TZHU5SVpveVpFZTF4NkM2dHB6Zl80a2FTUTZHa1FKZUNvTkxHbzEzeW56bVRKbnlScW5hS2wzNHNmajVLS2JjYzlld25HQ2ttMWZxOW1PT2FNMzhMZFVZaHhZWE1QbXpCYmx5clZPQ29ZMVl4V3pmdXhnSXJLRHlMVnpTTEs3SVVwV1lwUnR3Szg3OEk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-10-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades unchanged at EUR 68.30 in weekend trading - AD HOC NEWS",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEpjNWd0aUgzVGNid043YXZRd0tyM1pidWV5YmM0R290SnBSQ3E2Q3BlTGQ4X0JtNDhqSVZOYnBFLTRKOXFLNUl1ZnpFLU9rZ3MyX0p3SjNiNkE2NFY4a1VTeGdwR2puZm5BLWNYMEFIeC00MV96LW1uY3pCWGZGX2dPVmVPdmo1eHM4XzZtZHZ3Z0pTUnBKQmVDOUxXRTQxSkpYZ3FGVjJOR0ZNUVpIQi1BMXM1YW4zMzBfTEc3UW9tUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cemex-2026-10-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex Spain supplies high-performance cement for the new Paseo del - HUB-4.COM",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOG91Z2hmbUEtY282bU81Y1MtcXZkTnotMGxLWFNFdWd6RmEzZ1ZnWWliRjhSbEY3NDJJSzJSLXlzbU9zYU5iaWVzVE9mSVdzVHdya1lVR0NaWEdydVdsY2xhQ2pXRUwzZmhzMGxGNGgtaWRhOVBYSW5FdmlLRkFtNk93MGxCV3JkRjhDVFNoQ1JrVGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 152,
+    "too_old": 113,
+    "gate1_blocked": 13,
+    "gate2_blocked": 16,
+    "passed": 15,
+    "pass_rate": "9.6%",
+    "gate2_block_rate": "10.2%",
+    "gate2_samples": [
+      "Vulcan Materials Company Actuals & Estimates (VIE:VMCO) - TradingView",
+      "Vulcan Materials Is Maintained at Buy by UBS - Moomoo",
+      "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - www.marketscreen",
+      "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - Reuters",
+      "Thyssenkrupp nucera to open central electrolyzer cell assembly hub in Portugal - ChemEngOnline"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為CEMEX、海德堡材料、Vulcan Materials相關動態：「Cemex's Denver cement plant to lay off 70 workers - https...」。主要關注主題為財報、庫存、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cemex's Denver cement plant to lay off 70 workers - https://www.facilitiesman...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Vulcan Materials (VMC) Could Be 24% Below Fair Value After Dividend Reaffirma...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
