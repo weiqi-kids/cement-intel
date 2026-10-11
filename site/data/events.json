@@ -1,5 +1,64 @@
 [
   {
+    "id": "thyssenkrupp-2026-10-11-001",
+    "date": "2026-10-11",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's 6.2% Friday Jump: Analyst Upgrades, a Frigate Order, and a Spin-Off Still in Limbo - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHNFUXpGakRxbHdJa2hURFRZaWhEZ3ZZTVk2SWpFYWxmWGl1R2Nyd1RnTXY4dDJwR09wM1VqSWk1MHdMaG5fOWdhQnFkVXUzVzI3bUZZTTlIb1NNcDhDVUJ6RU5LRTlJS0VOSTJpY3",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHNFUXpGakRxbHdJa2hURFRZaWhEZ3ZZTVk2SWpFYWxmWGl1R2Nyd1RnTXY4dDJwR09wM1VqSWk1MHdMaG5fOWdhQnFkVXUzVzI3bUZZTTlIb1NNcDhDVUJ6RU5LRTlJS0VOSTJpY3NKb3I0ZXBzZGxPRmJUbGFobUxFQWplajc1NEwyUDcycW1QR3p1cGZ1TTVPNDY5M0dnbEE1MDR5MXM4a3Z3a1BNLWh2ZGo5ZC1EVHFfV1NJdWVlbDUzQVpHNUJEOGJJNXdxdEtz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-11-002",
+    "date": "2026-10-11",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials Wins Analyst Backing as Nordic Expansion and Buyback Completion Reshape Its Sto - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUpjY2lJcjJDM1ZPc0R6SDNrc0xOSldEeHFjNUtkTERWd0xZODhxNHZxUjFNMERmNjlWWm82M0ZFUzE4Z0FVSXVuVzlIaUFvRDAzUzZjOUQzV0MwNDRHbHFYMEN3ckRnN0ZKNXA4bX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUpjY2lJcjJDM1ZPc0R6SDNrc0xOSldEeHFjNUtkTERWd0xZODhxNHZxUjFNMERmNjlWWm82M0ZFUzE4Z0FVSXVuVzlIaUFvRDAzUzZjOUQzV0MwNDRHbHFYMEN3ckRnN0ZKNXA4bXQ4N3V1RWhiVmdUb1RCZEpuR1BfV1BxM2FFa3BhenJWOENseEVLaWJSclpiTURDc0tUQzRtTG5WVjBVZ3p6c2d0eFJ0Zk5qcWlpSVA0c3FmNnFEWUtQcTFDeC02TXFUWkdUVzRteWk2LWN0NlBpSUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-11-003",
+    "date": "2026-10-11",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Heidelberg Materials Charts Two-Speed Growth as Analysts Trim Targets Ahead of Q3 Update - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUy14UjRGQi1nSUJhTFFqaFlpNmtTaU5TaTVVYVBJRlRnTkQ3U0gtalNvT1Z6clRrc09QNVllb3BGNkdYN2FqbEJnd3E4WF9GSUhOWTJfMi1OTXdzeWF0ZkdyVGtidUF6RXJ6eFNCal",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUy14UjRGQi1nSUJhTFFqaFlpNmtTaU5TaTVVYVBJRlRnTkQ3U0gtalNvT1Z6clRrc09QNVllb3BGNkdYN2FqbEJnd3E4WF9GSUhOWTJfMi1OTXdzeWF0ZkdyVGtidUF6RXJ6eFNCalFUN05iQW4xRXpnQ0MtbVVXOTg3M0c4VUpUWmh6TDlIdUl6WE1SaTh0T1RXV2lSMzJLMEM2LUZha0NSRWZNRlQzWFNNWk5GUExld3NPQXU5RzVMOEprTUZOb21CSkpzT0d1dEd5MUlLUXU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-10-10-001",
     "date": "2026-10-10",
     "companies": [
@@ -136,6 +195,47 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZER4dHJ6a0hxZ3BvY01NY0pZNEZhdi1HSkNOdXJvUjlBcVJFeDhJejdZUWgxM1dWVm15enIxSnpBMi1jMHVjdWxrNl9kV0pROEk4X2s5OWtnQmxFbUJsQzhXS21zc0xic0VuLXZvdGZ2M2t5ZW9ua3VBN1JBV3NzaFN3VmNkb1VOQmRXVms0akFwWXZDRktQd1lqZFRHb0lYcC1GcVNJUjB6a0xURHBPYmRGT0xCeDNkYldTOWFtLXN5V002RFNlQkhZeVVNZWVYVjc3Yk1HdWt6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-10-008",
+    "date": "2026-10-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Missed Thyssenkrupp's Run? What Holders Had To Believe - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWthLVpjNG92QjBGNFhjWHN2ZnozWng3Z3ppZ092MzZwN3hqU3IxQUJmZVRtM1VHWVUxdkpIcnZWdFM1bjRiVUo4dXFYM19vVzN1UEw3emQzMHZHU2hjVk5CWWpkbVBTV2d0Y0dzN2",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWthLVpjNG92QjBGNFhjWHN2ZnozWng3Z3ppZ092MzZwN3hqU3IxQUJmZVRtM1VHWVUxdkpIcnZWdFM1bjRiVUo4dXFYM19vVzN1UEw3emQzMHZHU2hjVk5CWWpkbVBTV2d0Y0dzN2V3Skgyd2Z0WFZ6MTZlSGZnSDRjQ1ZEcHlwUjBsR2p5dTFReXZ1RlFWZ0tBWWhGRU1mT0VvZnZld0t3bTF2LW95R09EN0pEWGRBNGVxdVQ1dWhvWWcyRWfSAcsBQVVfeXFMUE5nTXl1Q0xHUUMtVUdVV3Q2bXJIMlJfc0lDRURTSnlUT203RFVQd1p3dWNuQXluMFRWclVCYTZheDNhTmVpYVo3U0xncDk4Q0lOb1V5S1pTMFVBdDhDV0JBZC1lcFpWNUFaVGpzTjRycDY2UkVDSGp0bUR4TzFpTnRiTW9Da3poNlRDSmVFM1daeXRkTDB2QVZJUGhEbXJveHIxMVdqMkVKQ21veUI5S2tHaEdpanFlVXNqdk9ST3lOamNnRFhTTWZqZ0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-10-10-009",
+    "date": "2026-10-10",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex's Denver cement plant to lay off 70 workers - facilitiesmanagement-now.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUy1vZU1zaHF1VTJNT1FvQUw4VEsySHc0bXFRaUZRYmQ2UFlqX2J1TENXX0VsdlpxOTdpVDJDWFVCdDdjM2Y1RHh0dWFnOTVPZ3BXZ3hHTlZqSDlfcmFfeU04c25CTmtwR3E1aUJOOX",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUy1vZU1zaHF1VTJNT1FvQUw4VEsySHc0bXFRaUZRYmQ2UFlqX2J1TENXX0VsdlpxOTdpVDJDWFVCdDdjM2Y1RHh0dWFnOTVPZ3BXZ3hHTlZqSDlfcmFfeU04c25CTmtwR3E1aUJOOXZpYVJXR0prS1JxRktMQy1GVlNJYVlBN1hQRFNsNHhwdnpEYk91ZlNLd3ZWdUcwbHNfY3BrUGhycw?oc=5",
         "type": "rss"
       }
     ]
@@ -629,6 +729,26 @@
     ]
   },
   {
+    "id": "vulcan-2026-10-09-025",
+    "date": "2026-10-09",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Offer Insights on Materials Companies: LyondellBasell (LYB) and Vulcan Materials (VMC) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOWXc0eHhtMERmUUhZc3JRQWNJUFVieWpGQXByaU8xNy1VY084RHR0a25wOXd2SHpVZkd1TjNKaG40Zkh1dTRrOXV6bTVjNmhIcVQyRTllQ3o2R29EMjJvOWR0VEZkX2JxRVV0MnJhN1",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWXc0eHhtMERmUUhZc3JRQWNJUFVieWpGQXByaU8xNy1VY084RHR0a25wOXd2SHpVZkd1TjNKaG40Zkh1dTRrOXV6bTVjNmhIcVQyRTllQ3o2R29EMjJvOWR0VEZkX2JxRVV0MnJhN1F1Tm13dmVUZGhMb1h3Y0NaQWRBenZEX2VGVWtBZzRQREplQWNVcG9rU0Z4UXhybWRDRTUzWmlEVkhvM0c2dzN5clM2RkxFeWdpaGUtdVpMNGEzZjV3d1BFUVJFUnIwdVpxcTZHMk9TWmZ3M1FvR2NjQmZrZnRzRi1NVTdpTmZnSzZDbEl0Y3BvVVdMY3RQMkI5MWtjYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-10-08-001",
     "date": "2026-10-08",
     "companies": [
@@ -987,6 +1107,26 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKaUhGTVRMRXh0QWtKb0k0czBMSWVETWxZQlVSY091NGpJaVg3Zm43U1N2VFl4RnBxZDI2cmdKOVJQZEJtWkMxQ1VTMUg0Wm1WZkZNS3hsSFFaRzVjdlNSbk5SUzlOVHg3eTlIMVdsY2FrRHQ0Wmd2dXV3TjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-08-019",
+    "date": "2026-10-08",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Bank Keeps Their Buy Rating on Heidelberg Materials (0MG2) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ2tEVmZZNDFtc3pMd2NTc0FycUU4MFRjSVV0bE5JUGwwVTNUQ2JNbzlOSDYxSTFKSmpiV194Nkg4M3E5VW5fLV9PbzVuUXhnWTJOTGtBVEFPOFFrUEtaU2h3cTZsQzdIcW9QV21ZYX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ2tEVmZZNDFtc3pMd2NTc0FycUU4MFRjSVV0bE5JUGwwVTNUQ2JNbzlOSDYxSTFKSmpiV194Nkg4M3E5VW5fLV9PbzVuUXhnWTJOTGtBVEFPOFFrUEtaU2h3cTZsQzdIcW9QV21ZYXlILXZUQktSVURDdi1IQ2RjdTNDRmtLSnRrNWg2ZHdFem02d3lFUUJpdGpHLURpc3RkaElCZzItTjJsdU1BTHhzSUZYS21xaE1kZkE2a0VqanJmekgwcDRjaEkxTlB3aGlKSzBTcTh4LVh1ZlBacjZBaV9oUV9hQQ?oc=5",
         "type": "rss"
       }
     ]
