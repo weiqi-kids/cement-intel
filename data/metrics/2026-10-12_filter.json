@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 11,
+  "gate2_fail": 16,
+  "passed": 16,
+  "gate2_samples": [
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "Vulcan Materials Is Maintained at Sector Perform by RBC Capital - Moomoo",
+    "Vulcan Materials Company Actuals & Estimates (VIE:VMCO) - TradingView",
+    "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance",
+    "Thyssenkrupp targets October 28 for listing of materials trading unit, sources say - Reuters"
+  ]
+}
