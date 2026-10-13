@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 9,
+  "gate2_fail": 15,
+  "passed": 17,
+  "gate2_samples": [
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "Vulcan Materials Is Maintained at Sector Perform by RBC Capital - Moomoo",
+    "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance",
+    "Vulcan Materials Company Actuals & Estimates (VIE:VMCO) - TradingView",
+    "thyssenkrupp nucera to Build First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Index"
+  ]
+}

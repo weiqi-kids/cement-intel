@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:35:25.167333Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "heidelberg-2026-10-13-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "CRH and Heidelberg Materials acquire NCC operations - facilitiesmanagement-now.com",
+      "companies": [
+        "heidelberg",
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcV90Qkp5TjZjNmpmOE1jcEZ5cTVtUmtmamFzS05tUzVtNGVmRFo3ZE5oNmliQ0Roa0YzbGxaVWJGbGNlb0Jyenl5cnVJRnFCTVZPR1ExbkpBckdKM3ZBZWhJYlprbkQ1RG5kODZISi0wYlZZMWFnQWN1V2ktVHBYakJha3FTQWxoWUFPOUdLNlhscENEUlQwU0dSODdJYmMxdzRHMGc3MS1QQW8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-10-13-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Heidelberg Materials Balances Nordic Expansion With Energy-Infrastructure Bet as Q3 Update Nears - ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaldpNUFBZW5CaDA0WHpfc2RLLXlLa1FHQ1cxRlowbEJTbExHcnZ6N29wZWRCVC1CMUplbW5vczZBOHdSUHB5eHZ5cF9mTU4wb215eUU4aFJuZEUzcmNxNVNtekNmREh0dDFYS0xQY1dvWFNEUTRBeEVuLWN5NjQ2UlpHRll2SzF1SFJtNHhaaFoyLVdrUl8tUGVqLVBPYVZPdGUxR2hvSi0zRmpzU1NFTUFFUEVUMDZ3UWFhS0VuZGU0SEtoV1hTazFRYmRZQzltN1ZQbG53N2VpOVQ4amc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-10-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Torre Loreta : Pioneering Design and Sustainability in Mexico - Holcim",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMdjNMaFljTUZpcldxUngtTDlfVHdFcUxVanh0OTNub1VJQWFWT25USGdOQ1ptTExpdUoxeU5sSmJGd0dvRlFDcDEzTlVtbk9ZWF85QmdR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-10-13-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials Pivots From Buybacks to Nordic Growth Ahead of Q3 Update - ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnd4OFg4ZERMbzhrT3JjLXNiY3lOeHg0MkJFQ2VHekxlS2tTbFVzc1JjLVgwS1BXbVQwWlF5TDFpTWhvcXVhZ0JHMlB4Y0l4LU9fcS1Rb0xzT0tCTDEtcE5EN1YtSDl1U042T1NwUFdBaE1HUVBwYS1KOUEwenFFN2xCam5BdHVTdFZOUHItV014bE1mYUhia2VCOS02SjFIVXE4WHNGaldUbDdHX3FpbHFtTmpfZERlWklpX2tQZk9hS3dBbmM3NEwweGstbldoeDFPUkp3NGc1dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-10-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement schedules October 19 results: what it means for UltraTech Cement stock - ad-hoc-news.de",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY2FhaFFiVDZBQkdrZnc1eV9ldHNTX1lzaFBNd09ISkptTXZ5U0JOVk1HcTNvRTZIajRrTHlzTkZjMUFReTJ3VE1CX3FILU9fQzFNS19PSlotcTVUaVJzZGxlamduMldETTN0U1JJQzlEc1hDWTZLWWdWN3ZLejFoWEJ4T0gxdWNyQUNZR0xwczcwY2hWakdjTnlMRUd2YldrOUpWbTFDR0lhcm4wd1hxWWNOOUQ4WTFXZl80aUI5NXc4bkZYbFBfVHFwVVoyWWk0aDNlTVRZU2EwRDRvbHp2UDFFdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 4
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "crh",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 162,
+    "too_old": 110,
+    "gate1_blocked": 9,
+    "gate2_blocked": 15,
+    "passed": 17,
+    "pass_rate": "11.3%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+      "Vulcan Materials Is Maintained at Sector Perform by RBC Capital - Moomoo",
+      "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance",
+      "Vulcan Materials Company Actuals & Estimates (VIE:VMCO) - TradingView",
+      "thyssenkrupp nucera to Build First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Index"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為海德堡材料、UltraTech、蒂森克虜伯相關動態：「CRH and Heidelberg Materials acquire NCC operations - fac...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CRH and Heidelberg Materials acquire NCC operations - facilitiesmanagement-no...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Heidelberg Materials Balances Nordic Expansion With Energy-Infrastructure Bet...（基建支出、產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
