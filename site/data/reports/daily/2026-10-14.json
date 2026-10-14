@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:20:33.477014Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-14-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Pioneer Cement posts record PKR6.6bn Profit in FY26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/182266/pioneer-cement-posts-record-pkr6-6bn-profit-in-fy26.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-10-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's largest shareholder sees 'window of opportunity' for steel spin-off - Reuters",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYlhpQ3g0OVFRT000TWc1c2Y2b2piV2lRYjNmVXFOX0d2TS1rRlZZZl80YTBpTXZVWHJLU3JGVkpEUHU3OTdENHNXaUVnU2g3NGNpUENoVGFBM3d1ejBjcTc3LVFTa2JFY29CZjZYOUVZT1VBcVNaQXNaUjVnRUQtM3RjdndDM0t5M2xxVXBPYnRKQkhmV3FOMDZLZ0hGeGVpaU1jS3dlT1J1SVNLQm9yYXZUeHVCbE5JWXFIS29vSUplWFpLWl9kN2Nzb3MwR1NV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-10-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp Automotive Technology and Inovance Automotive to Form Strategic Partnership on Steer-by-Wire - ThyssenKrupp",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLUNaZG5NTHRaR1FRbVRUT3pfZGFRc2RYbGFiTTloR25Ydml5cGNtUmFZSWRvQXhKdWU1VW5jcVM1bE9uMU1pU1ljZU9qaW5ScG5YbnVUdGxYZzFnOG1tanFFOERkQ3c1RWRidERQanJENkpDNzlYM0NUdVFnOHJ5bVc2NFcxZ05uV1oxaGc1d3RTYkRvOXpmTE50UEhsNDhxY1RXQVllX3NDMjZnNDhQekk5RkdfX3ZKRGNMWTZiTW9qbTdoal9MOV92WDdRbjY5bWwtM09qblVxSXkzNkRGMXJoUlhIVzJBRzEyVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-10-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's Main Shareholder Eyes Steel Spin-Off Opportunity - Global Banking & Finance Review",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazh4Uy1iMXVld1hhNjRVeENjb0VQMGVXSzB5MlpyU1EyREZ5RkxzcEZabGQ3ekZkU1lNeXJ5LS0xOG4tQ0xPdFFyVkFVNlF5Y3oyeU9SZWdqRUtzb0ZXb3BETWcxeGlMS0Q2SGZsYk5HZ1lTOXhDNXJ1emhSSk1fQ3ZXb21WTGhiTXhvNWNVMGw1dFR0anR6RkZacGNZUlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-10-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp's largest shareholder sees 'window of opportunity' for steel spin-off - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTG9uQ3VoVGJ4MDZOMXcxbHZZQk03dGNhUFFjN08yc19KQmtNOWtOSkIwRlpZbzZ2Q1ZSZ3E2NnAyMGI0LV94ckJaVnE5U2hld1IzdFpJNlBJWXM3Q1RkUXNPMHlmSFNTcmJhUk50UWhWZzNBREZhaDBLdGlRdjM3NTlKLVRjQ0lJdkNndHZuWEItWEJlNkxIeVdTNEFWVktIN09NQ0JCZ3c0OERwaElBb1dBeExtelNJOER0Y2RyQXE3ZVJRQU90dGJWcE5IVWRtLWNKZVpRWktHMVQ2eVloSXI1SnI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 5
+      },
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 324,
+    "dup_title": 156,
+    "too_old": 113,
+    "gate1_blocked": 13,
+    "gate2_blocked": 16,
+    "passed": 26,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Vulcan Materials Is Maintained at Sector Perform by RBC Capital - Moomoo",
+      "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+      "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance",
+      "thyssenkrupp AG (TKA) Notified of Major Holdings Change - TradingView",
+      "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為蒂森克虜伯、海德堡材料、Holcim相關動態：「Pioneer Cement posts record PKR6.6bn Profit in FY26」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pioneer Cement posts record PKR6.6bn Profit in FY26（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp's largest shareholder sees 'window of opportunity' for steel spi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

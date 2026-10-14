@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-14",
+  "total_events": 17,
+  "by_company": {
+    "thyssenkrupp": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
