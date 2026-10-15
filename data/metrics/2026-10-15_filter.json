@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 10,
+  "gate2_fail": 14,
+  "passed": 16,
+  "gate2_samples": [
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "UBS Adjusts Vulcan Materials Price Target to $326 From $349, Maintains Buy Rating - Yahoo Finance",
+    "JPMorgan raises target for Thyssenkrupp to €17 - 'Neutral' - www.marketscreener.com",
+    "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com",
+    "thyssenkrupp nucera to Build First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Index"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-15",
+  "total_events": 10,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "infrastructure_spending": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "carbon_emissions": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
