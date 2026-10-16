@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:02:20.384085Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-10-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TKA - ThyssenKrupp launch Spin Off Marine Systems - Simply Wall Street",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjZiTF9tb3N6REZNMFBrajRLOG5fcmtVSlpiQkRpZS1vUnVWbkNCWlZNX1RMLVN6dm9CeGtlX3RkQWZjNGhTak51ZWM0SVFHOVU5NDl1a1M2Tzh6WHVkcVB4OHVlVEdVVXNrN0ZlQkRTWS1pWXpFaHNaMTR6enAyU0pWQ3JMWEp1TEt2dUxZdWRSbElQNF9WLUhLNFI1SVFZNzlERUZhaGhMTDVrYzVLcW1CRWdhbTB4RkIxQmln?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-10-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials invests in a new wash plant - Highways News",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaG9JNWlnMkhWYlc2TXg4X2NrQ0xXdnJLNU9OcVU2MnZjTW5ILUQ1UDFwMHE0aDJhazl4UmJjM3Zka2FXZmpLUFU2NXlaU3VWWlhtVzB6UjU3cWs1cTNKNWN5Zkw4ejVXa1VFbWdsMmM4U3otNUlWRWNRQjB2UTYtNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ultratech-2026-10-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement shareholders back Agrawal: meaning for UltraTech Cement stock - ad-hoc-news.de",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmN1ZVJYTEsxZFhqLTNreEFlUlFaMnZhMi1JVk9OY0c2LUdzRzh2M0RiN1hDUXBNRHNPTkV1NXFxTGIyck8yQUdOZWhoZXIwSmlPc2dzMmNpbGltbjljNUtLTTU0bDZrTXFua1ZWV0s1VGlDSy1UeGFpdnRfSzN2NWNmQ2F6THBhNTl1bF81aWZaZk9YMTJQNnVqVDg4eHZGTU1scW81YlRULUYxbHpMcDRzUDcxSGNGNWpKbVhLME5sU2paWHR4RW1HYVhnVnM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cement companies to see strong volumes in Q2 but fuel costs may weigh on margins - The Economic Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQ0FLTHphTVNleGROaVlTQTV0UDc1bVRfX0RWY1NZWDJnMnFmM3RZQXlTM1RCbzNtMmFOTE1rOW9iVXlVaXA0MVR2YnpMcmVQQ2VFYzFsZC1lNGZfY083VEplMXcwZEE1WTRSWWhUYURtQmVoZFRHcHhfcmNJd2ZRbV90ZmpaeGZydldYM1IzRzJVY2NqZDl5TUpjR0lmdDR3QnRaeXlKM29jVGZDZU1UZzdHOEQ0ZE82dW1hSW5qbVZaaGRCcUNjdWFPTlBHNlhCaWN3UW9vQ1NtMDl0MHdhemc0QnVRMm1Gc0xFdXQwbWVEalZXQlpQN9IB_gFBVV95cUxQbE9xSUpYM2lSOEJlcVZFbXJPQlFtdUJTNENoTjBPMGh0aTkwbWl2WXRlNVNiSmo1bEszNjV0ZnNVVXY1UFdFMlVDNnBlSjhXODlId0d0LTAtSnZENVFWakYtdDdNY1hOTWw0cDVqTUNhb0h1MG80MlQ1cnZOX1RBTmtJb2NXeWxnVnhneGtSbWsxSk5SNDd4ODhYQU03TTVoNUNJRFozM2Y4akFSQVhMT2REMzB0cDV0MWRWTDBGamFJYm9UdlNLU1g5LWxvMDlPeUtvaWs0dW1GSHdHV1BZSWhyMWIyZ2lMdlgyYk51em4xTHJ3MWlGYmk0QmZ4UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cnbm-2026-10-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNBM issues profit warning for first nine months of 2026",
+      "companies": [
+        "cnbm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.globalcement.com/news/21371-cnbm-issues-profit-warning-for-first-nine-months-of-2026"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      },
+      {
+        "id": "cnbm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 156,
+    "too_old": 114,
+    "gate1_blocked": 12,
+    "gate2_blocked": 11,
+    "passed": 20,
+    "pass_rate": "12.7%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+      "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com",
+      "thyssenkrupp nucera to Build First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Index",
+      "Thyssenkrupp's Steel Spin-Off Gets a Nod From Its Biggest Shareholder as JPMorgan Trims Its Caution ",
+      "thyssenkrupp AG (TKA) Notified of Major Holdings Change - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為海德堡材料、蒂森克虜伯、UltraTech相關動態：「TKA - ThyssenKrupp launch Spin Off Marine Systems - Simpl...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "TKA - ThyssenKrupp launch Spin Off Marine Systems - Simply Wall Street（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Heidelberg Materials invests in a new wash plant - Highways News（基建支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

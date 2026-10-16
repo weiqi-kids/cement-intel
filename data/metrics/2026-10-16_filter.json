@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 20,
+  "gate2_samples": [
+    "RBC Cuts Price Target on Vulcan Materials to $256 From $300, Keeps Sector Perform Rating - Yahoo Fin",
+    "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com",
+    "thyssenkrupp nucera to Build First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Index",
+    "Thyssenkrupp's Steel Spin-Off Gets a Nod From Its Biggest Shareholder as JPMorgan Trims Its Caution ",
+    "thyssenkrupp AG (TKA) Notified of Major Holdings Change - TradingView"
+  ]
+}
