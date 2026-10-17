@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:59:43.186790Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "heidelberg-2026-10-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly review asks what Nordic acquisition means for Heidelberg Materials stock - ad-hoc-news.de",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2lrMGRZTXNESEJaUjllRWFYc3Q5eVNVUjRVLURFM005MDBYUDl1RHl3ZGdhY2trbGNuNDJ4cVM4c2RJNTJlQ0NOazdrOFc5NlNUc3lkVmN5V2NnbFhWOHRNQzZ2MEF2Ti1tME9TUmh4TFV1NTdNUk1lTEVHT0pwSTdVd2dtX1Zkemt1XzJjZEhoaDlfSG9jbXlUN0E2aXcyakFWLTljcnIwMHlYZGVCTlRGOG1QdkRySzQ5alVpajRoeWlDdTVMa21ZMkIxYlNPQ0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "taiheiyo-2026-10-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Taiheiyo Cement (TSE:5233) Fairly Valued Following Its ¥130b Bond Shelf Filing? - Simply Wall Street",
+      "companies": [
+        "taiheiyo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkZob2VtVEs3N2VWZG5IQlRfdGo2MUkzQlNVYVgxUEVhWU1iWGdoMUlRaFBORjBwVFpTOW9tc1ZLaGdnZWhocW1BTmI2NmFtaC1lUS1fYndleDAwVlVjMFZ0U3pjVkJBcHFZSUFmb1JTTG9QNUtyVGhfeXQyNUNiUTl1YjJDQWEwMTJjaEZ5X0lLamt6bnMwS2tDRmRNZmw2b2dEakxaVGp4aVQyNmJ2VU4yVTl3SlJQMmNhcTNrZU43b2VyYlVINmllV0U5UHJIRW90T9IB2gFBVV95cUxPdkNFN0JjQ1IzOUxXbW9rVEo2VldfTEtvRG9QbHduTW9XSlRkZjlnOEtiUFhURm9kanZUWFZ5SkdFNDZzekVobWhBTU5zZy15V2duRWl5b0NOZzBRSEFfaEhsUERidUV6Y0h4QkVkdlpIRWdYZ3hzODZkRzRPOHVxSzBoOF9CbFU1Y2VJNHEtTUljc01leVFiOHdQM0RuUzJxaGxPY2xKZWtiRnhwalkzNmtRd0hGLWZydEhaenl2dEZWOHJWMHdjdXMwZ3dzUWRqNTdBR0o1MGVHQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "taiheiyo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 161,
+    "too_old": 117,
+    "gate1_blocked": 11,
+    "gate2_blocked": 9,
+    "passed": 15,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com",
+      "Thyssenkrupp's Three-Layer Story: A 2.2% Gain, a China Handshake, and a December Filing - ad-hoc-new",
+      "thyssenkrupp nucera Establishes Its First Company-Operated Electrolyzer Cell Assembly Hub in Europe ",
+      "thyssenkrupp AG (TKA) Notified of Major Holdings Change - TradingView",
+      "thyssenkrupp nucera to Build First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Index"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為海德堡材料、太平洋水泥相關動態：「Weekly review asks what Nordic acquisition means for Heid...」。主要關注主題為財報、產能整合、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Weekly review asks what Nordic acquisition means for Heidelberg Materials sto...（產能整合、財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Taiheiyo Cement (TSE:5233) Fairly Valued Following Its ¥130b Bond Shelf Fi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

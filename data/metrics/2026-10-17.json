@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-17",
+  "total_events": 2,
+  "by_company": {
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "taiheiyo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "capacity_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
