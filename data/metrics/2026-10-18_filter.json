@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 109,
+  "gate1_fail": 16,
+  "gate2_fail": 10,
+  "passed": 12,
+  "gate2_samples": [
+    "RBC Capital Maintains Vulcan Materials(VMC.US) With Hold Rating, Cuts Target Price to $256 - Moomoo",
+    "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com",
+    "thyssenkrupp nucera Establishes Its First Company-Operated Electrolyzer Cell Assembly Hub in Europe ",
+    "thyssenkrupp nucera to Build First Company-Operated Electrolyzer Cell Assembly Hub in Europe - Index",
+    "JPMorgan raises target for Thyssenkrupp to €17 - 'Neutral' - www.marketscreener.com"
+  ]
+}
