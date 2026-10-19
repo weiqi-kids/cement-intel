@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 10,
+  "gate2_fail": 8,
+  "passed": 37,
+  "gate2_samples": [
+    "RBC Capital Maintains Vulcan Materials(VMC.US) With Hold Rating, Cuts Target Price to $256 - Moomoo",
+    "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com",
+    "thyssenkrupp AG (TKA) Notified of Major Holdings Change - TradingView",
+    "GRR! Rebrands to Heidelberg Materials - World Cement",
+    "Heidelberg Materials’ Agecroft site expands capabilities - World Cement"
+  ]
+}

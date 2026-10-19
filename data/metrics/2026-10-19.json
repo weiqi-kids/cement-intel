@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-19",
+  "total_events": 29,
+  "by_company": {
+    "thyssenkrupp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "heidelberg": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ultratech": {
+      "count": 17,
+      "sentiment_avg": 0.06
+    },
+    "siam_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 22,
+      "sentiment_avg": 0.05
+    },
+    "inventory": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "infrastructure_spending": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

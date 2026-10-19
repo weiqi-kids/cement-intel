@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:18:08.388924Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-10-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock: JPMorgan lifts target for ThyssenKrupp stock to EUR 17.00 - ad-hoc-news.de",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLW13aW1wQjRsSl9TRGFIUlhjdkpkc0pTWVBfSXBseDZtdEZFdXFoQUViWGFkRkNidFVncURRVHF3TVBYeDZIMXlCOUlLMWV1WDgxRWFUVXQ2Q0J4SmMzenQ5NjBkeW5aX3dEd2M3UE9DWWxyQkphLWl2RGg3am5nTk5DR0RHbDVDLVMtanQ3OVpwNHRsR1hldDVWUnBJakRSM1NjYmloTE1Ea0RjTnRONzJjRkQxRlpIOWwwbncwYkJCM1cwdDl1SzF6TTg2VUdLaG1lRGpR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: tk accelis listing and Goldman Sachs voting notice - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU3NtWndyVE1RNm1ianpodURIZnBSVWRWX1ZibnhfQktXNktvVVUxYmlzYXJEV3JwMDNfcG5NVUxFQ1RqVkZUOHVMZXI1VzNmMzZ3N1Z4WXNndDNQTUxYV21MenZhU3NZNzR2UDBpVUctOFBNSnV3enp0MndNOG9ITnBpVTl4M254REVERzl0dlR6QVRlMl9ka2FRMWZVNHlEVFZwUDZUTW5PcEJzWVVzdVdDX09ObVlfTVVFTjI4cWE2ZVU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-10-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock trades at EUR 69.05 ahead of October 23 results - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZl9jSlF5U3BUV2UxQko0M2JkVUVpNUpWdVFoLVBNYlRpNUxGNE52azhJb0NJa3NGMThucWQ4RFlUWUwzejRMQU1nX29Vclp0YmJ5R0NUcFlDemNvU2lVYVNHTVR6QUhzU2RXREloOUFOWkRqaFA3ZFFYZ2dabDhFNkpWVktPT1dZal9ZZlAyT29pV0M1RFZQZG9ZTHFvSXpJenhJeC1VV29HSmFzc3F2ZDZpdmZnUEVvZERZVTVaMUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-10-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Did Heidelberg Materials Fall Catch You Out? What Investors Missed - Simply Wall Street",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1JsQ0otWC1BNTZMcWs0c1VvaHIyM3FuYXRRQ3pIMlc1YlRwOHlMZ2pTTmhsRTBkTFplZlQtLTN6bFFOLUg1d01qaUhGZ0NkcUt0ODdYWGZVZVF5cElzSXRBQlRHUWtsdEN6RDM5a0xtYWdDQi1xZ2duYV8tRWM5S1JKRlFQaExDN2MwNV9PdjVJU05fT3AtckhZT1R1Yi1sLVNyYXFrTGdDcm5lSk5ybHdhWjBxY2xwX3hPczE2NGIwWENxenlodzBFYk9nSDJYY2dnbUthQms1bFHSAeABQVVfeXFMTnc5ekNRVlI2eFVwUkQ1UTZiczJkbmpMSlJBNjdENnN1bDMwWEt2bUhRYkRHQmhrWV9HLW4zV3JYSEdPUXE0dl95LWlQZVkzY1BEQ1BicEl6NzFyblFCREVJOWd2TTJ5VU0yVXVodWV5YVgwQ0Y0VWhSVmVtSEF5V0hUV1JWYmVPUVc1YXhaOTZYY2R1aTIzYXZ3aTFwUVNrMFJJTkZnVGVpb19tMGpvbExvOHBTWVdvdGxaNmd3NFFTaGliOWVvc2UzMGNfT0tJVVNVeV8yLUN2TXFXU2pTaEU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-10-19-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's UltraTech Cement misses profit view as higher costs weigh - Reuters",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk8zT0E0N3hRWXNlSWR4d193aDFxU3hhaDAtZ2ZGNm4yV1M2NUlZSkZwTTNIOUFvVmduYnc4YUowaDRQN0xCSWo1ZHVLTzR5aXB2SE03ZUtTM1BYQjFIcHd5dXVNQTFCcXJOR3FkeXZiYWZLaDNlYVVHZDlNS1JzLXY5RkJqRnFsS0ZEWkIzdmExQllicGtyY25Vdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 17
+      },
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "siam_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 150,
+    "too_old": 105,
+    "gate1_blocked": 10,
+    "gate2_blocked": 8,
+    "passed": 37,
+    "pass_rate": "23.1%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "RBC Capital Maintains Vulcan Materials(VMC.US) With Hold Rating, Cuts Target Price to $256 - Moomoo",
+      "Krupp Foundation head sees opportunity to spin off Thyssenkrupp steel unit - report - Investing.com",
+      "thyssenkrupp AG (TKA) Notified of Major Holdings Change - TradingView",
+      "GRR! Rebrands to Heidelberg Materials - World Cement",
+      "Heidelberg Materials’ Agecroft site expands capabilities - World Cement"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為UltraTech、海德堡材料、蒂森克虜伯相關動態：「ThyssenKrupp stock: JPMorgan lifts target for ThyssenKrup...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ThyssenKrupp stock: JPMorgan lifts target for ThyssenKrupp stock to EUR 17.00...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: tk accelis listing and Goldman Sachs voting notice - TradingView（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 6 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
