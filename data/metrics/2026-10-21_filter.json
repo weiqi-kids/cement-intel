@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 7,
+  "gate2_fail": 16,
+  "passed": 31,
+  "gate2_samples": [
+    "Lobbying Update: $410,000 of VULCAN MATERIALS COMPANY lobbying was just disclosed - Quiver Quantitat",
+    "Thyssenkrupp: A Steel Spin-Off Signal, a Norwegian Trim, and a Pune Workshop - AD HOC NEWS",
+    "thyssenkrupp AG (TKA) Receives Major Holdings Notice From Goldman Sachs - TradingView",
+    "Holcim’s new Zug HQ: Showcasing the future of sustainable construction - www.marketscreener.com",
+    "Cemex Concrete Powers LA Metro D Line Extension Section 1 - News and Statistics - IndexBox"
+  ]
+}

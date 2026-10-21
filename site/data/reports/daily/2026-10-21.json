@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:27:23.298109Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "European firm expands St. Louis-area presence, takes over entire 769K-square-foot warehouse - The Business Journals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2FaVm1SZ0M0dmM5azkyTmotUkpYTTd4aEQ1NXBwMGYyQmp2cFVXR0tpaURsWE4teFZzOVdRQ3pMOXJVakI3QW5Sd3dPVXNJc2R1dkpTTnVqT180ek5tWkpvNHZOdEwtUllrbHlqMzROUldxMEhUWmxpOUJhZk1WUVQ5WXBMTWtXeF9DbGFseGxjemxOZEIyX0piSFN3WEZnYWVwV2Nid0l4VDg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-10-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG (TKA) Discloses Morgan Stanley Voting Rights Notification - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkxGT0tIUnJ0Nk9zM3NZOC11WWJuTy1uQkFQc19VNE50bFAwZHFyUUNwc0NKY1BtQWl1SnhINFhScGI0Z2xwQUtsSWRRdHdKaEthWG92X0g1YVlmaDBYMFQ4N2JQOUthSGhPdVduV004U2RRdGw1eGtkQ0Q5eWhrYUpYSldDcmVtRlFhOUFTN3FzRm1nLWpGamVZcE9GRW1uYlVCdUFrN2FnZWM3QUNnZ3J2bVVwX3hFTm5nWVp4UzlmaEhSMzVpX0FtVGpFdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-10-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp : announces planned date for stock market listing of tk accelis - www.marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3pMYk1pTnVHN2FrZjJQSW44c0FCNVFINGdHU3R3dEI5MjFrdGlXUlFZSFRudkNhSENzdmo0Q3g0RWVtZmRxMDNoNGdYRWR0R0d2OUZoTWg1M2FuWkZFU2hpeC1lXzhpSGpuZ1hyaFZWMnR6SEpGTXRlNzByTmJxa3hZNm5sWjJDZEhMa1dRLTU4ZnNqUkIxWU9CM19CcWh5bTNIaWtBa1ZvQ0tPZ3hpQnRvWlZlMHV3ZExUM0NOdGk3blZUUnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-10-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp stock rises pre-market ahead of November 4 roadshow - AD HOC NEWS",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVI3YzhicjE4UFJHZ2FObmZ2Wl9GbDhDa29odnZPYmlkVzFCVGZaOVI2TGxveWVXbzEzOURDTE9SSmF2SWg2aTctN0dhcFFXOF9hZjNPSU1kUW5jRlR4SmxEQnpNcThFNVNmX1EtQUlYSzZHZUxETjBidl8zSlNvQ3RwMnM4Wmw2SWp2MWVyWkhVb3BCc3RVZkhVa1JGaThFRmJjU3hhY0REQktkXzBaX2tmdEl2Zl9lM0E3cHlISQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-10-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim expands in Colombia - World Cement",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51ZmhIbV81WUs2YU5wZVVqcXFFQ2wxRWRwempoNUxiMjJTdUhobzctNG5ndmR5Y28xTXBDby1NQkJIeXo5TTdhWXltcHpkeE9EMWFBUnlZamcta0lJQzdVcjV6UzF0WmpYR1F1WXhsZnMyVEo1b0YwbmRqRXR0dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 7
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "holcim",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "cement_pricing",
+        "count": 1
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 160,
+    "too_old": 95,
+    "gate1_blocked": 7,
+    "gate2_blocked": 16,
+    "passed": 31,
+    "pass_rate": "20.8%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Lobbying Update: $410,000 of VULCAN MATERIALS COMPANY lobbying was just disclosed - Quiver Quantitat",
+      "Thyssenkrupp: A Steel Spin-Off Signal, a Norwegian Trim, and a Pune Workshop - AD HOC NEWS",
+      "thyssenkrupp AG (TKA) Receives Major Holdings Notice From Goldman Sachs - TradingView",
+      "Holcim’s new Zug HQ: Showcasing the future of sustainable construction - www.marketscreener.com",
+      "Cemex Concrete Powers LA Metro D Line Extension Section 1 - News and Statistics - IndexBox"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為UltraTech、蒂森克虜伯、Holcim相關動態：「European firm expands St. Louis-area presence, takes over...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "European firm expands St. Louis-area presence, takes over entire 769K-square-...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "thyssenkrupp AG (TKA) Discloses Morgan Stanley Voting Rights Notification - T...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

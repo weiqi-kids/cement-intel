@@ -1,5 +1,344 @@
 [
   {
+    "id": "unknown-2026-10-21-001",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "European firm expands St. Louis-area presence, takes over entire 769K-square-foot warehouse - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2FaVm1SZ0M0dmM5azkyTmotUkpYTTd4aEQ1NXBwMGYyQmp2cFVXR0tpaURsWE4teFZzOVdRQ3pMOXJVakI3QW5Sd3dPVXNJc2R1dkpTTnVqT180ek5tWkpvNHZOdEwtUllrbHlqMz",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2FaVm1SZ0M0dmM5azkyTmotUkpYTTd4aEQ1NXBwMGYyQmp2cFVXR0tpaURsWE4teFZzOVdRQ3pMOXJVakI3QW5Sd3dPVXNJc2R1dkpTTnVqT180ek5tWkpvNHZOdEwtUllrbHlqMzROUldxMEhUWmxpOUJhZk1WUVQ5WXBMTWtXeF9DbGFseGxjemxOZEIyX0piSFN3WEZnYWVwV2Nid0l4VDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-21-002",
+    "date": "2026-10-21",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp AG (TKA) Discloses Morgan Stanley Voting Rights Notification - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkxGT0tIUnJ0Nk9zM3NZOC11WWJuTy1uQkFQc19VNE50bFAwZHFyUUNwc0NKY1BtQWl1SnhINFhScGI0Z2xwQUtsSWRRdHdKaEthWG92X0g1YVlmaDBYMFQ4N2JQOUthSGhPdVduV0",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkxGT0tIUnJ0Nk9zM3NZOC11WWJuTy1uQkFQc19VNE50bFAwZHFyUUNwc0NKY1BtQWl1SnhINFhScGI0Z2xwQUtsSWRRdHdKaEthWG92X0g1YVlmaDBYMFQ4N2JQOUthSGhPdVduV004U2RRdGw1eGtkQ0Q5eWhrYUpYSldDcmVtRlFhOUFTN3FzRm1nLWpGamVZcE9GRW1uYlVCdUFrN2FnZWM3QUNnZ3J2bVVwX3hFTm5nWVp4UzlmaEhSMzVpX0FtVGpFdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-21-003",
+    "date": "2026-10-21",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp : announces planned date for stock market listing of tk accelis - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3pMYk1pTnVHN2FrZjJQSW44c0FCNVFINGdHU3R3dEI5MjFrdGlXUlFZSFRudkNhSENzdmo0Q3g0RWVtZmRxMDNoNGdYRWR0R0d2OUZoTWg1M2FuWkZFU2hpeC1lXzhpSGpuZ1hyaF",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3pMYk1pTnVHN2FrZjJQSW44c0FCNVFINGdHU3R3dEI5MjFrdGlXUlFZSFRudkNhSENzdmo0Q3g0RWVtZmRxMDNoNGdYRWR0R0d2OUZoTWg1M2FuWkZFU2hpeC1lXzhpSGpuZ1hyaFZWMnR6SEpGTXRlNzByTmJxa3hZNm5sWjJDZEhMa1dRLTU4ZnNqUkIxWU9CM19CcWh5bTNIaWtBa1ZvQ0tPZ3hpQnRvWlZlMHV3ZExUM0NOdGk3blZUUnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-21-004",
+    "date": "2026-10-21",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "ThyssenKrupp stock rises pre-market ahead of November 4 roadshow - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVI3YzhicjE4UFJHZ2FObmZ2Wl9GbDhDa29odnZPYmlkVzFCVGZaOVI2TGxveWVXbzEzOURDTE9SSmF2SWg2aTctN0dhcFFXOF9hZjNPSU1kUW5jRlR4SmxEQnpNcThFNVNmX1EtQU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVI3YzhicjE4UFJHZ2FObmZ2Wl9GbDhDa29odnZPYmlkVzFCVGZaOVI2TGxveWVXbzEzOURDTE9SSmF2SWg2aTctN0dhcFFXOF9hZjNPSU1kUW5jRlR4SmxEQnpNcThFNVNmX1EtQUlYSzZHZUxETjBidl8zSlNvQ3RwMnM4Wmw2SWp2MWVyWkhVb3BCc3RVZkhVa1JGaThFRmJjU3hhY0REQktkXzBaX2tmdEl2Zl9lM0E3cHlISQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-10-21-005",
+    "date": "2026-10-21",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Holcim expands in Colombia - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE51ZmhIbV81WUs2YU5wZVVqcXFFQ2wxRWRwempoNUxiMjJTdUhobzctNG5ndmR5Y28xTXBDby1NQkJIeXo5TTdhWXltcHpkeE9EMWFBUnlZamcta0lJQzdVcjV6UzF0WmpYR1F1WXhsZn",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51ZmhIbV81WUs2YU5wZVVqcXFFQ2wxRWRwempoNUxiMjJTdUhobzctNG5ndmR5Y28xTXBDby1NQkJIeXo5TTdhWXltcHpkeE9EMWFBUnlZamcta0lJQzdVcjV6UzF0WmpYR1F1WXhsZnMyVEo1b0YwbmRqRXR0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-10-21-006",
+    "date": "2026-10-21",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim recognised as Global Top Employer for 2026 - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONkg1V0htSlVXOXpkVzdKQmplS2p6dzc5SUFsdi1CaWFLMHFKY01mZThkUDMzSVluSy00eEdOSGlGX0hGUW9zMkpncjdPaFpzdUVFS2lsS3NzMElBcG52d3Q1eWxYeE9sYjVabXJ4MT",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkg1V0htSlVXOXpkVzdKQmplS2p6dzc5SUFsdi1CaWFLMHFKY01mZThkUDMzSVluSy00eEdOSGlGX0hGUW9zMkpncjdPaFpzdUVFS2lsS3NzMElBcG52d3Q1eWxYeE9sYjVabXJ4MTFhYXhhQy1zUmJDN1JzaVMxanpHMU9MUF9IOW1tOFNqNVJSam9YMXFhTGpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-10-21-007",
+    "date": "2026-10-21",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Cemex supplies concrete for major Los Angeles Metro Expansion - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUFqcWJXYmFhc3UzVmJ0QTVvOW5aUF9EVmI5RzRYUHkwTTA5TnlHS2JSZUVvNU05NnBfMXF4NW9FNm9NOEM2ZFJxVWdSck9MR1pPS2FUa0wyR3pwdG9TZXJCNzJHeWsta0xVTE13TX",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUFqcWJXYmFhc3UzVmJ0QTVvOW5aUF9EVmI5RzRYUHkwTTA5TnlHS2JSZUVvNU05NnBfMXF4NW9FNm9NOEM2ZFJxVWdSck9MR1pPS2FUa0wyR3pwdG9TZXJCNzJHeWsta0xVTE13TXd3WFlfOV80RmtRUEVUNWh6dUVBR0Z3YkpPMkR1SS1tLV9Ld3M5d2JzTmZPeWYyOFR3UVdCNVZ1NVhQaGdWOHZOMVF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-10-21-008",
+    "date": "2026-10-21",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Cemex stock supplies concrete for LA Metro ahead of Xetra open - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEYxdGFwMDJ2YUNESGdtZTduaWJrT1d1U3ZDN1RaZ0tBZkxNT2hYXzNJRU83cUZBWkxvMVBBa1I3c09wYmU2cmQ0djNzY19jN3JHdlhsdVhMa1dPV3pXNUh0OC13ajdQWldRWDdOWV",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEYxdGFwMDJ2YUNESGdtZTduaWJrT1d1U3ZDN1RaZ0tBZkxNT2hYXzNJRU83cUZBWkxvMVBBa1I3c09wYmU2cmQ0djNzY19jN3JHdlhsdVhMa1dPV3pXNUh0OC13ajdQWldRWDdOWVliRTdsZUdJejdTTFYwb285Z0REU2NNQ0JUVlpEWm5OMkw5bG1xSDJpX3NiYkNrYWZ4RmJqVW9JdlFHS0w1aDNHV3QtNmt6UFYxcTBJYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-21-009",
+    "date": "2026-10-21",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Bank cuts target for Heidelberg Materials stock to EUR 206.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEFrY0EtTlVHWHNRT25TNFR1ZGFUNGs5MWNnamNQSFRWeTJyNmdORU9aU0lFa3pvV3V0T3RhcV91RHQ5SFdsU0hwdXpvZjZIU00xR2lMT292bS1TQktPRDB5MGRma1plRWRuVDlZMn",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEFrY0EtTlVHWHNRT25TNFR1ZGFUNGs5MWNnamNQSFRWeTJyNmdORU9aU0lFa3pvV3V0T3RhcV91RHQ5SFdsU0hwdXpvZjZIU00xR2lMT292bS1TQktPRDB5MGRma1plRWRuVDlZMnVFUHI4b0sxZ3hwZEpEc0pCYU05c3FyUmEyYUo0OVBiMWRhekNodEhqNmI1WkNIWEVoRWVsWjFNSGE2SmRuZnVXcjIwUmNVeEE5SHljUmdWc2dwRjRQaFNyaHZPZkpJZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-10-21-010",
+    "date": "2026-10-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "India's UltraTech Cement's domestic volumes rise 13.8% in Q2 despite monsoon disruptions - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZUNzZElUM0FJOEhtcXZ1eTRoTVFaNzhfbUN0Qm1KaGxIWEs4SVpaNXB1YkJUaFpZS0Z4c0lkNkNha0Zsb3N3Q0JwMVQ1ZFBPTUZlZEMtRUNaNGpRelYwZWNvLW8zRm5rOVhURThNaz",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZUNzZElUM0FJOEhtcXZ1eTRoTVFaNzhfbUN0Qm1KaGxIWEs4SVpaNXB1YkJUaFpZS0Z4c0lkNkNha0Zsb3N3Q0JwMVQ1ZFBPTUZlZEMtRUNaNGpRelYwZWNvLW8zRm5rOVhURThNazViOGFhX1AwX3hROWF4X1N2MDdLVExEOFF4QlNiUkxKdWZWcmV1Qm9BVGp4WHE5QkpieGUweG1WdXlkVTJOVHB0VEtJNlg1aENnUEJTc3lDZndMUzJ3UThpZEUyT1YtRTktcTZQTUQtcEZzVV9YVlJUUzVjdEk4TW5MOVJNNW1vS3k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-10-21-011",
+    "date": "2026-10-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "UltraTech Cement Q2 Review: Brokerages See Pricing Recovery Offsetting Cost Pressures; Check Target Price, Potential Upside - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUR6bzA3SDlnQl93ODFjbzIzSEswZEVpeXdRUDI2WUs5bUdoUGFtcjZmdE1PQk14NVBMZnphd1lTYnQxdjd3bGZmMGxVMFZJRjZ0VGQ3N2Jodmwydlg0M1RYNTlDN0dpZVFabUxHQn",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUR6bzA3SDlnQl93ODFjbzIzSEswZEVpeXdRUDI2WUs5bUdoUGFtcjZmdE1PQk14NVBMZnphd1lTYnQxdjd3bGZmMGxVMFZJRjZ0VGQ3N2Jodmwydlg0M1RYNTlDN0dpZVFabUxHQnJ2OEM1ZENQaU9SLXdoaUs1elVKdkJ6dU16cWk3dWxFRG5Gc3Z6TkJHSlJGaXctNmdkbnJfNjhlNlpfTWw4d3BaUWdoUkltMjNqVDZGdnl0ZzI4eW9TYndF0gHPAUFVX3lxTFBSX1FKcWtidnBoeTBpSDhzUU5rVUtSdWs3NU95WjlzR0FaNVp2LUVZRW42RkZUNUpla19QSWkzVEc2QmpmbDdobHhfelNxZTQ1UTFkUnZtWFFXQ01UZ081T1d1cEtvNGV5bmttUThnQWRQY1VZZFF5SWxvYWpnMWFteXIzSUlKNFFQeG5nc04wQzBMUWI3UXZfUEJ2NXJLRnNyVXd1Q2RPYkYxaWVPWGo2bFNVR1lWVTFxS0g2ZzNSM1dfOWxvQzZJY0s2UUMxbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-10-21-012",
+    "date": "2026-10-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Targets 240 MT Capacity and ₹1,400 EBITDA per Tonne - Sahi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXZhWWlYOGpHRXYzdGRCR0lxSUVkYzNoc1lwSzk3Vi1pMlg5RjA2RzJYbGVxeGhBUEtYbjdjcnlYRXBtVDBmUXh3LUhZVEVNWDB1eDUtTHZtTktua2dzdlM2cnJDU0JvU1hzRGlfSm",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXZhWWlYOGpHRXYzdGRCR0lxSUVkYzNoc1lwSzk3Vi1pMlg5RjA2RzJYbGVxeGhBUEtYbjdjcnlYRXBtVDBmUXh3LUhZVEVNWDB1eDUtTHZtTktua2dzdlM2cnJDU0JvU1hzRGlfSmFLLXNrams5bXFBb2J0bDFmc0c1aFBRN0ktdWRGZTU5aUxhT3dyd244bQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-10-21-013",
+    "date": "2026-10-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Buy UltraTech Cement; target of Rs 13,220: Motilal Oswal - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0gtWnFRRWM4c0RaUDI4WUU1Z0tHNVBDUEpqamNVbHN3aUZjTExxZnVhTnIweGpvSG9aVTc0RElnRy10T0ZsMUJXVzZHQ2FfTnRRTHJJNWJSOUNHQldvMVlkb2lTeUI2a19kdXVMOH",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0gtWnFRRWM4c0RaUDI4WUU1Z0tHNVBDUEpqamNVbHN3aUZjTExxZnVhTnIweGpvSG9aVTc0RElnRy10T0ZsMUJXVzZHQ2FfTnRRTHJJNWJSOUNHQldvMVlkb2lTeUI2a19kdXVMOHNGWFV3dVBjRTllU0g2MXBtd29zR1dZS25lR1pjbkNXODI3ejVBeWFwSDAxZjhwZ3hSRENfWkx5aUJKYU1ZME1TMNIBtgFBVV95cUxOM0F3WWJXRGtxQU45U0JBOWViZnlhclNkNU5OMzY2ZzB6X25UaDI0SEVCb1E0UHdDZjZ6cEN1T2o5VTdSN0FHaHEza1hHRnFRcjB6d0lrTFk1eDlYN1RFS1hYZW9TNml2NVA0ZDBUVDZyY1lleWg5N2h1SDdsLThWMEV0aXVYR2lnLTlZazlGQzlLYzJFeFpPMzdMNDRrWklRc2pLRUtoY0F2cVZMNWxOV3l2WnMwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-10-21-014",
+    "date": "2026-10-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement shares jump 3% as brokerages revise target prices after Q2 results. What Jefferies, Citi - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNaG1KVTBTMGhCX0xucWhtSkd4S25POGJiQkJEQTVyaVhwbVlGS1dCeVlBbVdVOVFMa3UyM0ZLMXRJS0FIYlBkS3ZiWWZoaEJYSEVlYW80eE9jeU9XZlc3Nk5VSTZCaXlRUmIwclhobD",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNaG1KVTBTMGhCX0xucWhtSkd4S25POGJiQkJEQTVyaVhwbVlGS1dCeVlBbVdVOVFMa3UyM0ZLMXRJS0FIYlBkS3ZiWWZoaEJYSEVlYW80eE9jeU9XZlc3Nk5VSTZCaXlRUmIwclhobDVuREtUX2RfWVk2SHVTb25rQmRIUHZNNmxfdjJwMzlnSFBuOUZpaXFpaGxJTHdHTFl0UFc4ZklkQXhncVZfcXZSX2NzTjlBa0ZQeG9lUGZUdW9YT2M3T2pFRkMxMlRxb1pUenNYUkhvNHpqV1JSa3QtemFRcUgyTUs2NFQwOTJLaEZDYThQT2tNYzF2dWtWZEtzMDFkSWZucks1d2dKYUMwM29QRXgyZ3pG0gGeAkFVX3lxTE9wZXNuVVQ2X2VrSTlQM1ZSekZDcllERFZnU0ZscGNzdDNBVFFvSm4zODFpTTVaOFJrWEVfZVNSeTdjV2F2WS15VXRvSThuUWNWcFFhQ3JFMVZxbWVtZVo0d3ZBWFpGQnpKSzVRbE9UNUdoQzJRNHhGMDhCSFB6RWNlUGdWaHFsZ054TVhBQ2NURVc5eDd4NVZsakd1Nmk2YUZRZ0dUcUFtZTdNeDM0RzFoNk4yNHFiVGtvVmdhZG8yN2JKNm1fT292WXZwUE42UEZhTHktYUk2LUY5WXUwLUVHTWg3YXlRN1BMVm9fNlEyZTNSSkdfajZGa1JKZ09WWm93Ui1QTlhkSC01eHRKZVA4TDh1QXhib2dScnROOGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-10-21-015",
+    "date": "2026-10-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "cement_pricing",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech up 3% post Q2; Jefferies says cement price recovery key catalyst - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaVhnN01XWU0tTGg2Ql9kQjE2NU1oaHZucjVqa0lWSkUwUm41SHVaQV84VzI3ZHRaNi1tbV8ydlJKM3Bib184UHoxS2g4TVVYWnRCZFJuNFpFb0dBYTh0SXYzQzdUUVo1dDVObGkwN0",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaVhnN01XWU0tTGg2Ql9kQjE2NU1oaHZucjVqa0lWSkUwUm41SHVaQV84VzI3ZHRaNi1tbV8ydlJKM3Bib184UHoxS2g4TVVYWnRCZFJuNFpFb0dBYTh0SXYzQzdUUVo1dDVObGkwN0pzNGhrV2tMU3BJVks3OEc3N3VvM3JDUzF3M3hYSUtuQ1BUSHNlekNCeFltR3hJNHNRZnFkZWF4NVpRQnNYVjZyeG0tWjQtbDlJWklVSTh4bGlGOXA4ZFNiRTJfOVNQR3JBMkpVUXpn0gHbAUFVX3lxTE9OUVZORmJWWTUzdEhGVkdBSTlWNVl0ZWpOZ1NXYVVPX3U1NS1xbzVhREVlOE1Edi13QkFTRjlrNVZlUEowenZfUFNOOWJvR0xZSVFhVU9oZnJycll1SHpvZFpha2d5X3ZPc1d6YkJWUWhBX1JzdWhLSm8wenZkbmNnVXBiSTJIMlhYcW43VDJIbnlrTkQtT0ttanlZV01kVWJ4Z1lyNHRzTnpINnRndzBsZm1yaUY1bHpuTHBQZ0VGeVhiUEtzRHFmZDlRbWxXVjl5ZmliSnNwc2otTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-10-21-016",
+    "date": "2026-10-21",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Video | Ultratech Cement Q4 Review: Key highlights, Brokerage Takeaways And More - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGFSRVlScm0zcURFR1lFVWJPU1dUNVBSa3RjUFFFU3VucENvSVR1MUFJVzNadFhKRDJJVDZwbUVld2ZvbDVZQ2swYXZ3VEgzbVZaUEtPWXNmU1R2VVItZ1E2eEdiN1hVM3JGemhidk",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGFSRVlScm0zcURFR1lFVWJPU1dUNVBSa3RjUFFFU3VucENvSVR1MUFJVzNadFhKRDJJVDZwbUVld2ZvbDVZQ2swYXZ3VEgzbVZaUEtPWXNmU1R2VVItZ1E2eEdiN1hVM3JGemhidkgtMmxQZWI3T2hTVDNYbTJxbEpaakY3cUZJWTZibThudEtiTnlRSV82VHcwbjB4aGFEVFV0UjBkSDNHNmM1X29RTThfZnZGamlLSkh0Y1Rn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-017",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Swiss government proposes carbon border adjustment mechanism for cement",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/Swiss-French_Dreilandereck_border_C_Shawnccf.jpg\" /></p><p><strong>Switzerland:</strong> The government has submitted a bill for a carbon border adjust",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21390-swiss-government-proposes-carbon-border-adjustment-mechanism-for-cement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-10-20-001",
     "date": "2026-10-20",
     "companies": [
@@ -395,6 +734,139 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21381-over-100-carbon-capture-and-storage-projects-reported-globally",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-20-021",
+    "date": "2026-10-20",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Heidelberg Materials’ Agecroft site expands capabilities - HUB-4.COM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOX04xd1VObE9TbGFMNWJhcnBnODRPMVlZalppaEk4TmdQd3pkaGtqWEFrS0F0M1FmaS1ycThkc1ZFaTFfMEVGRjhUUEU1WHIxd3pZVDdoSzJVdml5Si1IOS03UURRenRySlAzSGROUl",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX04xd1VObE9TbGFMNWJhcnBnODRPMVlZalppaEk4TmdQd3pkaGtqWEFrS0F0M1FmaS1ycThkc1ZFaTFfMEVGRjhUUEU1WHIxd3pZVDdoSzJVdml5Si1IOS03UURRenRySlAzSGROUllRd2tXaUk4NVBoV0dqUEpPQmJndzE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-10-20-022",
+    "date": "2026-10-20",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement stock has HKD 2.42 target from one analyst - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPX2xhbzg3SElGWTVhY3N0YVE4Z0xkbUZCQlY0RjZJdU0waC1lZWxxeWFSUUlYUFQtTHVhQUh6VnhwNTVxdENlTVNwNkFzWl8wNG54V0ZGSlF2N1h4ZTlqTHg0RmxYNHV3X1RJSWhKem",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX2xhbzg3SElGWTVhY3N0YVE4Z0xkbUZCQlY0RjZJdU0waC1lZWxxeWFSUUlYUFQtTHVhQUh6VnhwNTVxdENlTVNwNkFzWl8wNG54V0ZGSlF2N1h4ZTlqTHg0RmxYNHV3X1RJSWhKemltOVFPYmNFSVFxSWc3Zm5JYml4dmM4LWRnMTJTa05QampQY2Z5b19MMmdYTlVTUFRlZ0laaDBTNHhmbFE2M0NCb21tNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-023",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Conch Cement schedules October 28 results for Conch Cement stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2RBVEN6dkVvMl9yOHpnSWdMbGZXdW5rNnRlekNwMUItRFF5OFdwdjFjWW9fMy1PSGFZaHpoRW4xRTdaTEVCSXl1TEdka19lOEZncXQydk9KZVBPanFMeG5SQ0xLQXZGZEx4LVJCVV",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2RBVEN6dkVvMl9yOHpnSWdMbGZXdW5rNnRlekNwMUItRFF5OFdwdjFjWW9fMy1PSGFZaHpoRW4xRTdaTEVCSXl1TEdka19lOEZncXQydk9KZVBPanFMeG5SQ0xLQXZGZEx4LVJCVVZUS1BqYlo1VW9tVEFqb1VUTlB4aFlnZDEteFp3cFBKMXZyZ3RzY2NQcm8tV0VSbWJDYVRGc0k2TmNPaVB6SlgwNmlCaW9GNFRYY2xtN0ZVX24?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-10-20-024",
+    "date": "2026-10-20",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement sets November 10 results date for Taiheiyo Cement stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTlpTTZFTUJtLXB1R3ZFTnVKWlJncEFSLXpIcDZlUXF5UlFxbGxDUmtPVlkyUXVRd0diNUFXVmJIWDNENjkwaVdmTEc4MEpVeWM5Mlk4cldUcDF0bWtQLTRzT1NjaGZpYjdvblZ3RH",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOTlpTTZFTUJtLXB1R3ZFTnVKWlJncEFSLXpIcDZlUXF5UlFxbGxDUmtPVlkyUXVRd0diNUFXVmJIWDNENjkwaVdmTEc4MEpVeWM5Mlk4cldUcDF0bWtQLTRzT1NjaGZpYjdvblZ3RHRHNFVnZjNSYUpBS1NHa2xacEZXbndoUzlNUkJhRmoyQU9qSV9LUE90bE52b0xmbEprZ2NJRnJjVXBMLTlvbVMwN1QxOWNLNFRNV0NNZTFhUG1ZTDdfc08tcVN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-025",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Cimentos de Moçambique  starts clinker line at Dondo plant",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Cimentos-de-Mozambique-Dondo-plant-1-1500.jpg\" /></p><p><strong>Mozambique:</strong>&nbsp;Cimentos de Moçambique has started operating a new clink",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21386-cimentos-de-mozambique-starts-clinker-line-at-dondo-plant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-026",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Oklahoma City unveils 25-year, multibillion-dollar airport expansion",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_mcqTYgBTu_-w1lvs73rPTQ2dRHgnoQKcBM62VHx2L4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8zLUV4dGVyaW9yLWhvcnNlLXN0YXR1ZV83NjB4",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/oklahoma-city-unveils-multibillion-dollar-airport-expansion/833513/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-027",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Beyond data centers, infrastructure builds draw funding",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mcP1XKVzs8nm4c9dftIX7szMy4Y8uhmBjvQ0Eoz2QFs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ESklfRWRpdDNfMDYuMjMuMjAyNi5KUEc=.web",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/constructions-other-news-infrastructure-projects-funding-keep-coming/833176/",
         "type": "rss"
       }
     ]
@@ -1105,6 +1577,83 @@
     ]
   },
   {
+    "id": "vulcan-2026-10-19-037",
+    "date": "2026-10-19",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company (VMC) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE81N000S2pNNnRGbUp0LW0yVTJMaWVRT2RZbEVWaGFfZ2NBMHdaRW5aMnFaN3Q3SzFPdDEwN2IwMXVDbHZYcFRqaG1KNW1WanN6?oc=5\" target=\"_blank\">Vulcan Materials Co",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81N000S2pNNnRGbUp0LW0yVTJMaWVRT2RZbEVWaGFfZ2NBMHdaRW5aMnFaN3Q3SzFPdDEwN2IwMXVDbHZYcFRqaG1KNW1WanN6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-10-19-038",
+    "date": "2026-10-19",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cemex supplies concrete for LA Metro D Line Extension project By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnBYT0JyeGVzNExmNjQ1X2hiSlhxV2tvdU52R2cwS1Vqc3hINGZjMXdNZWRsT1N1MGpWOFBMR1lENUFxamY5dHFTS2tqZ0xXTnJVWG5QMkhuejZmVU9LQWtBTGloM2I0RkNuMUZybE",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnBYT0JyeGVzNExmNjQ1X2hiSlhxV2tvdU52R2cwS1Vqc3hINGZjMXdNZWRsT1N1MGpWOFBMR1lENUFxamY5dHFTS2tqZ0xXTnJVWG5QMkhuejZmVU9LQWtBTGloM2I0RkNuMUZybElXV1dobUVsN3lRSFQzc1kwNHVMSDgxYXU4djJKeGtRVUN0MllCQjhzSnNJMnZnT0VyYk5rTk9kdUk2OHpuSndkMzJMcUFSUF95dU1Sc3h1cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-039",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "TCC approves Europe listing plan: what it means for TCC stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHpQLV9wLVVqVzRxSlMzekhaZkllOXNLcnBIMWY5WHdUaW5aR295bGZoVkNtT2hLNTE1dHN1R1lRek1uRFI3cFZJZG53dElMMU9CbXBVRlVsVHpXVGxXRmFiOXZJZ3ZmS2hNTnhRNF",
+    "sources": [
+      {
+        "name": "taiwan_cement",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHpQLV9wLVVqVzRxSlMzekhaZkllOXNLcnBIMWY5WHdUaW5aR295bGZoVkNtT2hLNTE1dHN1R1lRek1uRFI3cFZJZG53dElMMU9CbXBVRlVsVHpXVGxXRmFiOXZJZ3ZmS2hNTnhRNFlYenEtbkh6SnA1Vlp0NFJ4SzVFaUJTdVp4aVB6aHlDdDkxVzAxSnE0YlQxTllSWll5NVNxT0FrLXRtODFDWW9POVZITVk3VXR1WC1V?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-040",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Halmar completes Yankee Stadium stop on $965M subway upgrade",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/q-MdgY_vY-ACtl0PMYs2Gq3beEqX76iFPyT5Va4iz_k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95YW5rZWVfc3RhZGl1bV9sci5qcGVn.webp\"/>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/halmar-completes-yankee-stadium-stop-subway-upgrades/833390/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-10-18-001",
     "date": "2026-10-18",
     "companies": [
@@ -1245,6 +1794,27 @@
     ]
   },
   {
+    "id": "siam_cement-2026-10-18-008",
+    "date": "2026-10-18",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "UOB sees 72 percent profit drop for Siam Cement stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2tRZDZIcDRvdzNWYjJTUVVoeDhEV3JCQW5OQUNGTGNOSnFnN2s1ZTdVSVl4RXpsZHU4OWRyQTZ5VlpkT0xUYzV0b3FEOVk3blN5NlIzT0dtYXpBRWlsWWZGYXdhLURLNVJfYUdicn",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2tRZDZIcDRvdzNWYjJTUVVoeDhEV3JCQW5OQUNGTGNOSnFnN2s1ZTdVSVl4RXpsZHU4OWRyQTZ5VlpkT0xUYzV0b3FEOVk3blN5NlIzT0dtYXpBRWlsWWZGYXdhLURLNVJfYUdicndEdEJ3Nlgzd3dFeW9xTVBQQ1gwVXdaWG9QdEhxdWo0LUNzYlFLTW91Y3ExUHdoMW5mVDhpOFhuVms5XzhLQnFUSEZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "heidelberg-2026-10-17-001",
     "date": "2026-10-17",
     "companies": [
@@ -1342,6 +1912,47 @@
       {
         "name": "taiheiyo",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkFXcGFGMHBGOEhRdk1Wczk4aFQ0Q09PQ1VWa3NZcllLUlY0d213N0xHYkVxckVadHY3UHJnQUVnNnBSMmUwY3ExYmpKNjN6RWtDMXBXbkd3MWt4SDlubURmTGs4eG9lMkx3OV82Y2wwSVZsSUlBbmZmSXZZYzhwVDlaTG9JQnh4VmY4eFhaZFlIdWZkLVhnNHRzZWNJRVZQOF9mY05oWXlwb0psM3U2QnBqd2hrQ3c2bG5iUjd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-10-17-006",
+    "date": "2026-10-17",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Six analysts set JPY 4,665.70 target for Taiheiyo Cement stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkFXcGFGMHBGOEhRdk1Wczk4aFQ0Q09PQ1VWa3NZcllLUlY0d213N0xHYkVxckVadHY3UHJnQUVnNnBSMmUwY3ExYmpKNjN6RWtDMXBXbkd3MWt4SDlubURmTGs4eG9lMkx3OV82Y2",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkFXcGFGMHBGOEhRdk1Wczk4aFQ0Q09PQ1VWa3NZcllLUlY0d213N0xHYkVxckVadHY3UHJnQUVnNnBSMmUwY3ExYmpKNjN6RWtDMXBXbkd3MWt4SDlubURmTGs4eG9lMkx3OV82Y2wwSVZsSUlBbmZmSXZZYzhwVDlaTG9JQnh4VmY4eFhaZFlIdWZkLVhnNHRzZWNJRVZQOF9mY05oWXlwb0psM3U2QnBqd2hrQ3c2bG5iUjd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-10-17-007",
+    "date": "2026-10-17",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement PCL (NVAQ.MU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTkpTQzFZVFN0U2cxZUVVaVBheFQydGF0UDk1REZxVFowMDNPMWpZaWhRdzNkZ1lLclV0MElpM2NpUEhPenVld19XVEdsUlIzbU1jZGo1Tnc4VHI4UFhHMGN4TE5ydw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTkpTQzFZVFN0U2cxZUVVaVBheFQydGF0UDk1REZxVFowMDNPMWpZaWhRdzNkZ1lLclV0MElpM2NpUEhPenVld19XVEdsUlIzbU1jZGo1Tnc4VHI4UFhHMGN4TE5ydw?oc=5",
         "type": "rss"
       }
     ]
