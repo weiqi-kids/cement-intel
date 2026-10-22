@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 16,
+  "gate2_fail": 17,
+  "passed": 30,
+  "gate2_samples": [
+    "Raymond James Adjusts Price Target on Vulcan Materials to $308 From $320 - Yahoo Finance",
+    "Raymond James Maintains Vulcan Materials(VMC.US) With Buy Rating, Cuts Target Price to $308 - Moomoo",
+    "Thyssenkrupp to spin off materials trading division on October 28 - Reuters",
+    "Thyssenkrupp’s largest shareholder nods to Steel spin-off - EUROMETAL",
+    "ThyssenKrupp AG (TKA) Reports Major Holdings Filing - TradingView"
+  ]
+}

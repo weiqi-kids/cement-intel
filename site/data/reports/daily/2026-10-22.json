@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:28:33.311975Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cemex-2026-10-22-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "CEMEX closes divestment of its Buñol white cement plant - World Cement",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTm4zX0U1NXpvbG9DUFUybEhYYVhpN2JvNEtJV3JvLVpiNzZqSlB2NE5EQTlTSjUtakRRUzZXTy1raXFKNjRXVDlKdVRJQ2h0N2pPWWlDRnpCZ3E1OTFlTFlrenpROWZ0MWJFV1VjckNNbWxRN3I4alBCaXRuYUR3MWd0LXc5Y0pyOTAyOTk2ZHYyaU90cXU2M1dZd2p6M0Mw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-22-013",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Cimpor’s Alhandra cement plant recognised as ‘oldest’ in the world",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21396-cimpor-s-alhandra-cement-plant-recognised-as-oldest-in-the-world"
+    },
+    {
+      "rank": 3,
+      "event_id": "cemex-2026-10-22-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CEMEX building products business reduces plastic packaging - World Cement",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMm5rU0wzR3YyczI0QWhPTXBOMHJsWmRrRzdTYjNIbUNyc1FfZjZxaVBRVXdtdmd1YjlJalBYWTNXalY2Y05uVEQxTmlfUWY0QllqQ3RyX2c1ejBFMjFxbGF5N2pRYUh5VHNBZHhKZEU4ZlpmbE9lZWtzelItNlBJVjU4My1wUDFpbDBVVjg4cXgwMk9LaU1iSlo5dkEwdEc2TlNBV3V3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-22-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Cemvision selected for EU grant for Latvian plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/182316/cemvision-selected-for-eu-grant-for-latvian-plant.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-22-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Fujairah Cement Industries seeks shareholder approval to sell production line",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/21398-fujairah-cement-industries-seeks-shareholder-approval-to-sell-production-line"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cemex",
+        "count": 5
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      },
+      {
+        "id": "cement_pricing",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 148,
+    "too_old": 108,
+    "gate1_blocked": 16,
+    "gate2_blocked": 17,
+    "passed": 30,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Raymond James Adjusts Price Target on Vulcan Materials to $308 From $320 - Yahoo Finance",
+      "Raymond James Maintains Vulcan Materials(VMC.US) With Buy Rating, Cuts Target Price to $308 - Moomoo",
+      "Thyssenkrupp to spin off materials trading division on October 28 - Reuters",
+      "Thyssenkrupp’s largest shareholder nods to Steel spin-off - EUROMETAL",
+      "ThyssenKrupp AG (TKA) Reports Major Holdings Filing - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為CEMEX、Holcim相關動態：「CEMEX closes divestment of its Buñol white cement plant -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CEMEX closes divestment of its Buñol white cement plant - World Cement（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Cimpor’s Alhandra cement plant recognised as ‘oldest’ in the world（產能）",
+        "level": "yellow"
+      },
+      {
+        "text": "水泥價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
