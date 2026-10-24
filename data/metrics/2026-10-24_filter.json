@@ -1,0 +1,15 @@
+{
+  "total_raw": 42,
+  "dup_title": 28,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 10,
+  "gate2_fail": 4,
+  "passed": 0,
+  "gate2_samples": [
+    "Shree Cement raises sales in first half of 2027 financial year",
+    "Nuvoco Vistas Corporation grows first-half sales in 2027 financial year",
+    "Ciments du Maroc raises first-half consolidated sales in 2026",
+    "LA Metro breaks ground on 12-mile bus rapid transit corridor"
+  ]
+}

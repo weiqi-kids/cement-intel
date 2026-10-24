@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T13:05:41.372079Z",
+  "updated_at": "2026-10-24T12:30:03.561487Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "亞泥中國",
       "ticker": "0743.HK",
       "currency": "HKD",
-      "ar": 330616000,
-      "ar_prev": 262970000,
-      "ar_qoq": "+26%",
+      "ar": 251443000,
+      "ar_prev": 330616000,
+      "ar_qoq": "-24%",
       "ar_period": "QoQ",
-      "inventory": 550638000,
-      "inv_prev": 537098000,
-      "inv_qoq": "+3%",
+      "inventory": 518755000,
+      "inv_prev": 550638000,
+      "inv_qoq": "-6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "cemex",
