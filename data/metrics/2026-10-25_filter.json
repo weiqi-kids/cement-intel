@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 10,
+  "gate2_fail": 25,
+  "passed": 23,
+  "gate2_samples": [
+    "Can Vulcan Materials (NYSE:VMC) Benefit as Treasury Yields Retreat? - Kalkine Media",
+    "Thyssenkrupp Expands Lease at Edwardsville Warehouse - Hoodline",
+    "Hiring event connects Thyssenkrupp employees with 30 local employers - Terre Haute Tribune-Star",
+    "Thyssenkrupp to spin off materials trading division on October 28 - Reuters",
+    "Thyssenkrupp to spin off materials trading division on October 28 - TradingView"
+  ]
+}
