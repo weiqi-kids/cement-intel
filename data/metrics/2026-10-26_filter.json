@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 11,
+  "gate2_fail": 23,
+  "passed": 22,
+  "gate2_samples": [
+    "Why Are Cleveland-Cliffs (NYSE:CLF) and Vulcan Materials (NYSE:VMC) Still Climbing in a Weak Sector?",
+    "Vulcan Materials Co. Research & Ratings | VMCO - Barron's",
+    "Vulcan Materials Co. Advanced Charts | VMCO - Barron's",
+    "Thyssenkrupp to spin off materials trading division on October 28 - Reuters",
+    "Thyssenkrupp Expands Lease at Edwardsville Warehouse - Hoodline"
+  ]
+}

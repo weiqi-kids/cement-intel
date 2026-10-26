@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:52:03.154978Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cemex-2026-10-26-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cemex Earnings Beat Expectations as Mexico Sees Volumes Grow - Bloomberg.com",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkRyQmJ2Y2dYUE1FLXU0QW8tU2hPMWZEc2lpSDJYeGIyTG1HXzU4OWMwUy1reUh4ZklXMXRWckQyZFFJTHR3VDJoXy1lcjhZVEVOWWQ0aFBtcWFhMlNIekNMdzRSQVJ2ekNzNVl4RTBYcHJtTTFfZnphUnJsYkRfYlVkNHY0OEM4cjZpejRtUmtSeTFHY1pETGQ3THlKSV85STlsQUt1S3I3cXJmcFFneA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-10-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp AG : Jefferies keeps its Buy rating - www.marketscreener.com",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQXzJjY2RMVVBua3psQ1VXOHU5WUctWmcxZmdoWUtqa25PRzk2ZHB2eXN4eW13WGVWcEM0WGhleFY5aG1FQi1YdEc0RUF3NlpQNGhWcGw5Xzlia1otUnZhMFhWZkF1VW9ZY3NPd0lJbE1NbjgzS01ESjlfNUdzWFNOc2NLNnhYaFVhblV5SHdjbG9fSGdqNklKWXAxN3JlenRU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "holcim-2026-10-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim lifts guidance again driven by strong demand - The Star",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXRpX0dWWTRLb2pfSmotRTJqRW9JS1huYWM1SkY4Umt6MU9qd29pdHFvZHhMTmozR3pmVkVBc3NoZUFQVUhFQ1l2b1o2UkJmSGE1bWgyOE1CbDBQRlJ0b0I2ZkNRNEJPUmRiajFpNlpPNTVGTzZJam9BeFRobmlNOTJ4MTdtNXhsbWtDdWJUQTF1SGs0Z25Yd2dxVmwyekc3ckdLYzBHYm5FeHhhUkNyY1dn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "cemex-2026-10-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex Q3 2026 Results: EBITDA Up 12%, Free Cash Flow Jumps 34% - News and Statistics - IndexBox",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjVHa1BIWDJvVVNBNkY4WGo3ME9CNWgxbzV4cXNScmVqamZWQS1rOXoyM1BfWFJCOWtITmc5YXFYN2ZweWViazZkLVJxN25oTHFBUHJWTDRVWDBPd0REbVp3LWJYdGRIS3V0LUwzN0N2RnI1OTVIaTBhX3lEZVlvRkowYVFyWHRNSUtsbXRn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "cemex-2026-10-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex’s Cost Cuts Lifted Third-Quarter Earnings - Finimize",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVhYbmlhZWc3ZkZzd3hTbExQcVU0Q3FaREJOUzRqMThhbllyTGZ3RmNzVWFJbnJFbHEtU1BnV291a2JfWjRKYWtmV2x2MzJsVzQ4SThrTzdhZlZUWS1pSThGLXZDd3NjTWo4anNFSFlGd1FBNDRTWmhGckc0VUR0NQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "cemex",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "ultratech",
+        "count": 2
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 148,
+    "too_old": 106,
+    "gate1_blocked": 11,
+    "gate2_blocked": 23,
+    "passed": 22,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Why Are Cleveland-Cliffs (NYSE:CLF) and Vulcan Materials (NYSE:VMC) Still Climbing in a Weak Sector?",
+      "Vulcan Materials Co. Research & Ratings | VMCO - Barron's",
+      "Vulcan Materials Co. Advanced Charts | VMCO - Barron's",
+      "Thyssenkrupp to spin off materials trading division on October 28 - Reuters",
+      "Thyssenkrupp Expands Lease at Edwardsville Warehouse - Hoodline"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為CEMEX、蒂森克虜伯、海德堡材料相關動態：「Cemex Earnings Beat Expectations as Mexico Sees Volumes G...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Cemex Earnings Beat Expectations as Mexico Sees Volumes Grow - Bloomberg.com（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Thyssenkrupp AG : Jefferies keeps its Buy rating - www.marketscreener.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

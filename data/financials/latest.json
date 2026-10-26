@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:58:14.014472Z",
+  "updated_at": "2026-10-26T14:51:58.684395Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "UltraTech",
       "ticker": "ULTRACEMCO.NS",
       "currency": "INR",
-      "ar": 60287500000,
-      "ar_prev": 58902500000,
-      "ar_qoq": "+2%",
+      "ar": 63154600000,
+      "ar_prev": 60287500000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 96942800000,
-      "inv_prev": 95629800000,
-      "inv_qoq": "+1%",
+      "inventory": 113998100000,
+      "inv_prev": 96942800000,
+      "inv_qoq": "+18%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "vulcan",
