@@ -1,0 +1,16 @@
+{
+  "total_raw": 301,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 116,
+  "gate1_fail": 12,
+  "gate2_fail": 11,
+  "passed": 23,
+  "gate2_samples": [
+    "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Why Are Cleveland-Cliffs (NYSE:CLF) and Vulcan Materials (NYSE:VMC) Still Climbing in a Weak Sector?",
+    "Vulcan Materials Co. Research & Ratings | VMCO - Barron's",
+    "Vulcan Materials Co. Advanced Charts | VMCO - Barron's",
+    "Thyssenkrupp to spin off materials trading division on October 28 - Reuters"
+  ]
+}
