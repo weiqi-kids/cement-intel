@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 9,
+  "gate2_fail": 11,
+  "passed": 33,
+  "gate2_samples": [
+    "$100 Invested In Vulcan Materials 15 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Thyssenkrupp's tk accelis valued above $2 billion in German market debut - Reuters",
+    "Thyssenkrupp falls over 9% after tk accelis spinoff - Breakingthenews.net",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - AOL.com",
+    "Spin-off of TK Accelis leaves Thyssenkrupp 'optically' weak - www.marketscreener.com"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:58:42.187290Z",
+  "updated_at": "2026-10-28T14:52:11.624260Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "CEMEX",
       "ticker": "CX",
       "currency": "USD",
-      "ar": 2065065000,
-      "ar_prev": 1949000000,
-      "ar_qoq": "+6%",
+      "ar": 2040120000,
+      "ar_prev": 2065065000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 1573707000,
-      "inv_prev": 1510000000,
-      "inv_qoq": "+4%",
+      "inventory": 1498934000,
+      "inv_prev": 1573707000,
+      "inv_qoq": "-5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "cnbm",
