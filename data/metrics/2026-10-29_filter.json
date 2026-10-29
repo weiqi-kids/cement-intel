@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 9,
+  "gate2_fail": 13,
+  "passed": 42,
+  "gate2_samples": [
+    "VULCAN REPORTS THIRD QUARTER 2026 RESULTS - TradingView",
+    "Form 8K Vulcan Materials For: 29 October By Investing.com - Investing.com Canada",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+    "Thyssenkrupp's tk accelis starts trading at EUR27.8 per share - www.marketscreener.com",
+    "Holcim acquires Cem’In’Eu grinding network - CemNet.com"
+  ]
+}

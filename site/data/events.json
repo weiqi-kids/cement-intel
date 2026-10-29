@@ -1,5 +1,594 @@
 [
   {
+    "id": "crh-2026-10-29-001",
+    "date": "2026-10-29",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "CRH Reports Third Quarter 2026 Results",
+    "summary": "<p>Resilient Q3 performance despite a challenging cost environment and subdued residential activity Expect FY26 Net Income of $3.1B-$3.3B and Adjusted EBITDA* of $7.8B-$8.0B Announcing new share buyba",
+    "sources": []
+  },
+  {
+    "id": "vulcan-2026-10-29-002",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Vulcan Materials (VMC) Surpasses Q3 Earnings Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFViZU9FUXMtU1h4U2lDdDdFdHB4V0ZjdUM3RDJqUm9FRXNXX19mdnZaUWhtM2pSWTZlTkJNOHhTTzdRdlBWWkM1N0ttaC00UGlYQjFVMXVjelNkN08zdG4wbnplYWJOSHNNMmpNLX",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFViZU9FUXMtU1h4U2lDdDdFdHB4V0ZjdUM3RDJqUm9FRXNXX19mdnZaUWhtM2pSWTZlTkJNOHhTTzdRdlBWWkM1N0ttaC00UGlYQjFVMXVjelNkN08zdG4wbnplYWJOSHNNMmpNLXdMQmhoTFhua2p2clhraW5DM0c5eV9TYWR2bUlPLXQ1M0pZaC1VcFo3d2hicm1qdTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-003",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (NYSE:VMC) misses Q3 2026 sales expectations - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjVQWlNpRXpiUG1lSWtSY0hOWlpzMlN3eWNBeVlMUkR0UDFSR1JzVFFaQ2xRY0I2UTVxNS1OZFBnYlRUcVdQWWRDRDlMdnpZRFNOaG1sSUZ6MUVFOGlrUTE3R2F0ODBaQkxTT3B4WE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjVQWlNpRXpiUG1lSWtSY0hOWlpzMlN3eWNBeVlMUkR0UDFSR1JzVFFaQ2xRY0I2UTVxNS1OZFBnYlRUcVdQWWRDRDlMdnpZRFNOaG1sSUZ6MUVFOGlrUTE3R2F0ODBaQkxTT3B4WEdDUUNmUWVYbkRTMFpHREQ4UEVFYnhiUFo5TzNId1E2cmVfUlN6azFvdjc1M2JCNE1rVWF3emZFTXZKMDg2OElMZ1RhaXFhV290ZnAtdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-004",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:VMC) 2026-10-29 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPUS0za0RmdG9SUU85Uy1FY1RYa1QxOTVjamtUeHdTWUdnOUtTbzRjU280U3haSE01ektLb2lnME1sTE1TeHBpUTBieG5QNkd6Tk9ralcyRTlpbzBvMGRxUlNLUnFITUEzV3NWMmVZYn",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUS0za0RmdG9SUU85Uy1FY1RYa1QxOTVjamtUeHdTWUdnOUtTbzRjU280U3haSE01ektLb2lnME1sTE1TeHBpUTBieG5QNkd6Tk9ralcyRTlpbzBvMGRxUlNLUnFITUEzV3NWMmVZYnRRUVZFanFOdTZDOFllQ190R2ZNdHU5NWR4bWg2U3NUaG1yQVVTMHo2QV9lazhOcXMyZHV2WFZwc2pDZGZS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-005",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials earnings missed by $0.04, revenue fell short of estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWm9nY01wOW1SM19oODRCcWVVb1c4bFhicDVpTGwwc0FZWDB3ZVcyUUpabDZGRHJMUEt5bFducGloRVpaZnA1WHNlWWtyNV83T1dnc205VEhNR0ZkcUJaWlVUNmtVZHptSFFaeGZaYl",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWm9nY01wOW1SM19oODRCcWVVb1c4bFhicDVpTGwwc0FZWDB3ZVcyUUpabDZGRHJMUEt5bFducGloRVpaZnA1WHNlWWtyNV83T1dnc205VEhNR0ZkcUJaWlVUNmtVZHptSFFaeGZaYlhBcnQ5QmREVGROOGRDdnU4Vk1qNUpCYktGZnVfX1F2bHFzRXluTVhfeHFQcWEtM0dKbENiWG9jQWZTYmZ6aVVyQUtoVGtKcVNOejNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-006",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Co Reports Q3 Earnings: EPS of $2.81 and Revenue Misses Estimates at $2.185 Billion - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlVxLTJIemdnWEZKckx6azRLaFZQM0JlUlRkbFNKSzVuN2pJNkxGaU5zcHlVQjhUV0YtdTI5Ym5NTHVzTXNyRDNZckV3Y1lFWlZRMEZpLXVzZlpOUGYyR21UZGZPcEtKNDR6cWtPbn",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRlVxLTJIemdnWEZKckx6azRLaFZQM0JlUlRkbFNKSzVuN2pJNkxGaU5zcHlVQjhUV0YtdTI5Ym5NTHVzTXNyRDNZckV3Y1lFWlZRMEZpLXVzZlpOUGYyR21UZGZPcEtKNDR6cWtPbnNQWkVlNllJTjdzWklwREI5RTFfcnFhRmphSXIwN1RBWWpNTXJBT2YyNHMyTTBjcDJpVVZRblAyTGlqRE03aXFja0dKRy1BdHVkTXdqX0pWNFppRVR2VnJndDdEOU91Z1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-007",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Q3 2026: Pricing Power Offsets Revenue Miss - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVk5aMVV0MTI5cUVmdnB0MWpUcmtFbktFOWE3Wks4aWQ4TjR0cVVPMGhMdTdLczhFYUVoTTFuNjdWd1VSOXdDbmlHMWV1QUFScHZEWXRIbU9xb3RBOWstT0ZmUXBIc09HWEs0Q3dldG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVk5aMVV0MTI5cUVmdnB0MWpUcmtFbktFOWE3Wks4aWQ4TjR0cVVPMGhMdTdLczhFYUVoTTFuNjdWd1VSOXdDbmlHMWV1QUFScHZEWXRIbU9xb3RBOWstT0ZmUXBIc09HWEs0Q3dldGVOVXpBUHBLV3dBOUdzY3lpeWs5cjdfYjRsUk8zbEUyYVNMLVhoZHRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-008",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Q3 Adjusted Earnings, Revenue Fall - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmVaeXJVSnhWNU5MYjBfY3IzNUI3MHVncko2ZVhJYjFENXB1b2lJUS1xYWRDRVBlcXFja2RQZ05GdnBMQ3pVWnVrWDJndU5fM2xQWC1sQXNqZDhtUHFRWDc2TW5jalJPcV8zaUltVG",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmVaeXJVSnhWNU5MYjBfY3IzNUI3MHVncko2ZVhJYjFENXB1b2lJUS1xYWRDRVBlcXFja2RQZ05GdnBMQ3pVWnVrWDJndU5fM2xQWC1sQXNqZDhtUHFRWDc2TW5jalJPcV8zaUltVGNpaXRxWDZXOEEyS1FQMUlPYUxPSi1rOFY4U3VQUlZBZE9WTTRfa3FwZ2x6Wk94RmxPTnhqZ3hB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-009",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Misses Q3 EPS by 4c - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTFUOEZoY25ScFlXdHdoY0hQTTQyV0VuUlJoRDRWdm55cnBYNnhjek54al92dFlRalAtLVpVR0pDN09fWDE4cW5lR3o4V0xCM1d3WEdWM01MUTZud2ljWTRrWE9YYmNDa1dBbnlDc1",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTFUOEZoY25ScFlXdHdoY0hQTTQyV0VuUlJoRDRWdm55cnBYNnhjek54al92dFlRalAtLVpVR0pDN09fWDE4cW5lR3o4V0xCM1d3WEdWM01MUTZud2ljWTRrWE9YYmNDa1dBbnlDc1F0OE1LaWlZTFRpdzVJNDlCUklMZmI4SWxzdFQwV3NaY19pRUFfSnVGdmVNd0ktUkVi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-010",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials' Q3 Non-GAAP EPS Hits $2.83, Beats Estimates by $0.02 - www.tokenpost.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KZ3FSVEpoZm1wdlJvRXZTV3FwSEpza0RYRUZKYnVfVHdTeTJRRHJmNmt3dGxRdTRoa3BJM3F3N0lrZ0ZabzZ5bXFhamtZNDZ4Y0RJTENHQWE?oc=5\" target=\"_blank\">Vulcan M",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KZ3FSVEpoZm1wdlJvRXZTV3FwSEpza0RYRUZKYnVfVHdTeTJRRHJmNmt3dGxRdTRoa3BJM3F3N0lrZ0ZabzZ5bXFhamtZNDZ4Y0RJTENHQWE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-011",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan: Q3 Earnings Snapshot - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPODVQMU9wVGlCWjY5TGRxb1VOTFdXeC0tNUttRkpwa3hOaVZrc3M1Ui1nSTVKM3FjckxSR0lZRFluelpJTkJabW9WdUV4NDZrT2tTaUpzYjBHZVF5aVVBRWxNaFdwN1RlZXJIeVdOb2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPODVQMU9wVGlCWjY5TGRxb1VOTFdXeC0tNUttRkpwa3hOaVZrc3M1Ui1nSTVKM3FjckxSR0lZRFluelpJTkJabW9WdUV4NDZrT2tTaUpzYjBHZVF5aVVBRWxNaFdwN1RlZXJIeVdOb29YVDlKLTJ4OXZsWjZFd0lLMWtDMnVGS2ZMQmVxSFlrM0EtWHIxUTR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-012",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company Q3 2026 Earnings Call Is Live - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZJeE9tbTREY1BNbWU1RGl5amJNVGVDbU52ZXh1c3plbGdFeVRpOF9FSmlXTHFRVmZWWTJzNE5hNVF2T0VtSUo0eDA1SWNTbGM3OW53dkRlbjVVOHZsQVdwT1JhemRCNVVjMGQxZE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZJeE9tbTREY1BNbWU1RGl5amJNVGVDbU52ZXh1c3plbGdFeVRpOF9FSmlXTHFRVmZWWTJzNE5hNVF2T0VtSUo0eDA1SWNTbGM3OW53dkRlbjVVOHZsQVdwT1JhemRCNVVjMGQxZExkSWk0aEl3SklhV2IwTXRrX0NxUVlJZ1pNYl9DOTB3aWIyaF9VSktWVEdTdFNFVG1fZl90OThxY1BuNDFIREJYeHJfSmg1Z1dDbWlyc25YWXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-013",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Flash (VMC) Vulcan Materials Company Reports Q3 Revenue $2.19B, vs. FactSet Est of $2.24B - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxORXBOdFUwMXh1UUZoVVQ4ZlVtcElTOHVzWXp0VWdEd2lwNmNmWVNlWU1QZ0NfbWJ3UlZPMlk5RGRkZm1pbG83M1V2ZmdXZ21SOFZvb0pJS2ZPS09FTGF5Z1NXemwyQjJfMEFUcThpXz",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORXBOdFUwMXh1UUZoVVQ4ZlVtcElTOHVzWXp0VWdEd2lwNmNmWVNlWU1QZ0NfbWJ3UlZPMlk5RGRkZm1pbG83M1V2ZmdXZ21SOFZvb0pJS2ZPS09FTGF5Z1NXemwyQjJfMEFUcThpXzZSaVBkdG1FM3BteFBDVHZNcno2aFdtMEEzVG15Ylg0MElubURHMjBvUDRqZWgzLXJrOXNKSjBMbWR3UnlFTHBRdE9UTXdaNi1zcXNDQVBlU2pjcVROZkJqNnVwdFJmbXVuNFdUblZaUmx0U3R5M1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-014",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials stock slips nearly 2% on Q3 earnings and revenue miss By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNNXMzX2V5U2lXS1ZMa0dya2JmSHFWd3JicDBQLXllZV91OVZkQkU5TzJpeGMzak1JVGZHZ25lVlZ1SktOdVZoNGFTMzJrQlZmQURCeFlLMW9zTXNXZ2FPT2NJTG96NnljWE0yTXNyYz",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNXMzX2V5U2lXS1ZMa0dya2JmSHFWd3JicDBQLXllZV91OVZkQkU5TzJpeGMzak1JVGZHZ25lVlZ1SktOdVZoNGFTMzJrQlZmQURCeFlLMW9zTXNXZ2FPT2NJTG96NnljWE0yTXNyYzBJUzA3SksxSENEZjFqLWd0SEdDQW94bTQzVnFNaHotcmFubFFQc3hwdW9QQjVZRW9Cem1qcWFfY1Z1Y1g2MTRtanBiR0dCVlR2TFlWX1lBN1VHc2dUZ3BxcDlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-015",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials Company Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ0NSazk3TEs3WUU5MEFJMUcwalhBeTFQd2dmdThnaWgwR0dHOVlDSDFvX29sRFVTY2NPOW1TdVh5RDJORmR5VFVqU3VobUl1a2M2a2xMSi13OXZuMm1tR3lQby1MVXJvYWo0YkVBdj",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ0NSazk3TEs3WUU5MEFJMUcwalhBeTFQd2dmdThnaWgwR0dHOVlDSDFvX29sRFVTY2NPOW1TdVh5RDJORmR5VFVqU3VobUl1a2M2a2xMSi13OXZuMm1tR3lQby1MVXJvYWo0YkVBdjk5V0QxQ3NCWVRGeWdCZWFwUGhSb2xNVHRGeWVaVlBXQkN1NGtXU2NreG8zRG9NOGlEMGZpOEJnemZFU05ia3lZdS1zSjdjTWpCeXJvMWlvOEpZeVNZRkVpWUVscDE2bXpMSllPaUdMRFNfb0dSWlJyclJyLWgtbWxD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-016",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials (VMC) Could Be 15% Below Fair Value Before Earnings - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbEhQazJiZUwycTJqZndVbE9XYTczUjdvUUxydlR1Um95RFNmUHFBZF9tOTR1QXdXeXpGZFZJS0hNdC1XcUJZNmFKUlVreGd2cnJyTTgxSXREUkY2Z01IRmF3U0lfREVfdEhNTUpRNU",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbEhQazJiZUwycTJqZndVbE9XYTczUjdvUUxydlR1Um95RFNmUHFBZF9tOTR1QXdXeXpGZFZJS0hNdC1XcUJZNmFKUlVreGd2cnJyTTgxSXREUkY2Z01IRmF3U0lfREVfdEhNTUpRNUNacDJvOGNxMUJsRzZ6OGlxZXAzZndadU54MlhVTGJhbXZlb3hxM3RTc0lBZC02MUZsNVkzcHVtbWhJM2x4YnVsOXMzZG81YWJnZ2wtMjFUcF80Ml80M2hvY0hHRGZ4NmhxZ28w0gHTAUFVX3lxTE1sSFBrMmJlTDJxMmpmd1VsT1dhNzNSN29RTHJ2VHVSb3lEU2ZQcUFkX205NHVBd1d5ekZkVklLSE10LVdxQlk2YUpSVWt4Z3ZycnJNODFJdERSRjZnTUhGYXdTSV9ERV90SE1NSlE1Q1pwMm84Y3ExQmxHNno4aXFlcDNmd1p1TngyWFVMYmFtdmVveHEzdFNzSUFkLTYxRmw1WTNwdW1taEkzbHhidWw5czNkbzVhYmdnbC0yMVRwXzQyXzQzaG9jSEdEZng2aHFnbzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-29-017",
+    "date": "2026-10-29",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Form 8K Vulcan Materials For: 29 October By Investing.com - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQU19LM2ZIaEZscFpvSkJlOXBySEZCOWNTR000a2haczAwRXNKOHRRUml1S29pRW1LWTFVUmRURWNlSVJvR0RtbldJemdWWGdJcHp1VlEwN1VHdkdEeDJMd0RLVkhDVzB6c3N3VGxoaj",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU19LM2ZIaEZscFpvSkJlOXBySEZCOWNTR000a2haczAwRXNKOHRRUml1S29pRW1LWTFVUmRURWNlSVJvR0RtbldJemdWWGdJcHp1VlEwN1VHdkdEeDJMd0RLVkhDVzB6c3N3VGxoajV2SVJaZ2paR2pLSmMtWXQwQ245V3NFR04yWjdKUFVNclZuTDdXSEFMYjRUcXAyVG1icFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-29-018",
+    "date": "2026-10-29",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ThyssenKrupp AG: Preliminary announcement of the publication of financial reports according to Articles 114, 115, 117 of the WpHG [the German Securities Act] - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOb3Bhckh3cTUxZ2hWRlBhTExRdU1PeWhVakxtbmFLeEVYTWVpWDh3VE5ZMV96aHhHYTE3OFRCaUlzSzFlSnE0TFFFNnpjM1hveUNhQklUUXpPdUY2dEZadXBSVHJqbGlha21DejFRZ2",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOb3Bhckh3cTUxZ2hWRlBhTExRdU1PeWhVakxtbmFLeEVYTWVpWDh3VE5ZMV96aHhHYTE3OFRCaUlzSzFlSnE0TFFFNnpjM1hveUNhQklUUXpPdUY2dEZadXBSVHJqbGlha21DejFRZ2Fvd0t4bE1hYlc1eWZuSEJUNllKMXdkMHNULVRwN0NtWjVsLUZOUEVjS3Bob0VyeGVOSjV2Vy1aUE1TeXY2TWlyU2lnU2M4RnkydjVWN1d4RGtfZ2VBekVLNUo3X2hWSktOWWYyVmNCeW5UYVNzNVlzdEhlZTV0LWRlN05oNmVIUEp6dnhBcmZTNTdjT2h6LTZXbFNwWWItZ1RpSXFaY0RwNjFoV2xQM3hsNUhiSUtfOG9FcGZ0b2F2dUpwN2E5Y1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-29-019",
+    "date": "2026-10-29",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp AG : Gets a Buy rating from DZ Bank - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFhoeXNCRlgxOHpqMXgtQmZnOWJ3N1J1aEFlWFdFOVRmRlRsOGM1cjlpXzMxaTZyZVBZOHhUYi00amdJNHFQWkVQOFAtSkNBanRlcW1RMmtxT05FU1d6SFp1ek5iWmsydEtaSGdNb1",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFhoeXNCRlgxOHpqMXgtQmZnOWJ3N1J1aEFlWFdFOVRmRlRsOGM1cjlpXzMxaTZyZVBZOHhUYi00amdJNHFQWkVQOFAtSkNBanRlcW1RMmtxT05FU1d6SFp1ek5iWmsydEtaSGdNb1IxTGhkcVhGdl93c18zZ243ZjV1bGREVjI3Snl6N3d1V2VHZWNfdzdnQ2M2THBGd3V2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-29-020",
+    "date": "2026-10-29",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp advances restructuring through tk accelis sock market debut - Yieh Corp.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOajg4TW5uUlp5RlE4Zkc3TDhjYkRteGFDaWhfQm1NMkJKYk5TVWpNbXdCeXd4ZS1HYkt1eHpQTXBYWmhySTF6bklpT05vZFhXbVBZMHB6Uk5EbzZxN0ZOLTVGMEpuUHh2bEgyOFpqOH",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajg4TW5uUlp5RlE4Zkc3TDhjYkRteGFDaWhfQm1NMkJKYk5TVWpNbXdCeXd4ZS1HYkt1eHpQTXBYWmhySTF6bklpT05vZFhXbVBZMHB6Uk5EbzZxN0ZOLTVGMEpuUHh2bEgyOFpqOHlfNzhRNWxKV2pWTkM3b2tFRC11VHF1MW01RWtqeXMyTlhBZEdwR2g5OUZ6eDNnUGliNlNFa0JvRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-29-021",
+    "date": "2026-10-29",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp AG : Receives a Buy rating from Deutsche Bank - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzFHa24yOXc5M3NkTUp2UGNKeU5pRU9xLTA0b3VFVkdtYlNrMFJIcEVWRW4yMUktUndnUm84emg4clVTazlyMkhXWnpKTmVPY1VoS3l2RHVtdDVObC0yQ2pHVVRtcDV0bHhuSVFITl",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzFHa24yOXc5M3NkTUp2UGNKeU5pRU9xLTA0b3VFVkdtYlNrMFJIcEVWRW4yMUktUndnUm84emg4clVTazlyMkhXWnpKTmVPY1VoS3l2RHVtdDVObC0yQ2pHVVRtcDV0bHhuSVFITloxcGtGUGdKSjRnUFFxV1NvQzFqaEJrcVc1Vll0SFJ5bHBTdEI3S0wyazd5elowcjlaMVNOU0FIRTBNOThvYXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-10-29-022",
+    "date": "2026-10-29",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SUEZ and Cemex in electric truck trial - Agg-Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBRc2VKS0xsZ3lYSzkzbXZLZUV1VGlnNFlDZDdmSE1jQ1M1VTRneEQ1WXhKT0hubHRjUkRYRkJaelFHX1h1d1NkUTFpZWtnX2VuZ3hkQUdOUGk1THM5ZjF4TkRZeWlLQlJYTlJfZU02Qm",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRc2VKS0xsZ3lYSzkzbXZLZUV1VGlnNFlDZDdmSE1jQ1M1VTRneEQ1WXhKT0hubHRjUkRYRkJaelFHX1h1d1NkUTFpZWtnX2VuZ3hkQUdOUGk1THM5ZjF4TkRZeWlLQlJYTlJfZU02QmE2c0VvdGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-29-023",
+    "date": "2026-10-29",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Heidelberg Materials Holders Got Wrong Before The Slide - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVjg3b3pWNzMzUE9QYlNSeWZpeHBXSWV3SXdPUjBVR0F2dmJ3cTlpTnhYeU5RTGJNNzhvQ3ZVY2VSSTdzVTQwc3JLYnduV1gwa1ZndFdlUldKdFZ1MUhPUnlPVVc1am5LR3RpdC10UW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVjg3b3pWNzMzUE9QYlNSeWZpeHBXSWV3SXdPUjBVR0F2dmJ3cTlpTnhYeU5RTGJNNzhvQ3ZVY2VSSTdzVTQwc3JLYnduV1gwa1ZndFdlUldKdFZ1MUhPUnlPVVc1am5LR3RpdC10UW9adG42aXhINGI0WjFVTmZmU0I5RS1wWGM5Wk9ETEtTV0tHZWh4Q0V0X0xDMElwaVQtUFlHbF9GNjB4NUJWVld1SVVTMExNNDZ0WWwwU3R6dWtoZW8ydlpDcTl2Q1dJdHlEM3dJdHJNVGRHLUXSAeABQVVfeXFMTlMwcWtUSDB6SHl4Z1RIYzBDUFhfOTJjcjUtZVVIZG9ZUzFqSHFBc1VXVXJXbWE5RXktR01xa1YwZWxKSVlvcFd1WVVYV291YXdvbXlBNVpyb2ZTaHRDaHlfNkVub3lfMWhYRFhzRHY0aXFiZGhSd3FMMHllQUlyS3pXWnJOdUtodlZJMDFYck9hVDE1bmlKT3B6d1pTWVFDdHdNaWQ1Q0ptVDh0RXhBMmdOWm1JdHNpLVlpa1VCSnFQTm9obmUwelQ4MXhId0lvdFFiVDBPVkVndVphSGNNNWk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-024",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Carbon storing asphalt on Cumbria’s A689: performance and carbon notes for engineers - Geomechanics.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS20xckNkalFPN0ZWNE1TWHpJX01GRlp0d2VVQ1JNaG5IekdOelJQd01URzFVUW96UXVKWk1uaFB3ZjhFTTRCNV9vUDI1TE5JUDZtQVVNTnU2YUhnRVFHVktlZ3FjTzZ3SENPT05RS2",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS20xckNkalFPN0ZWNE1TWHpJX01GRlp0d2VVQ1JNaG5IekdOelJQd01URzFVUW96UXVKWk1uaFB3ZjhFTTRCNV9vUDI1TE5JUDZtQVVNTnU2YUhnRVFHVktlZ3FjTzZ3SENPT05RS24zYl9pRmx6QmdRd0Vpc0d2d3VBZWZtb0NPQVdETkRQdjRKUzBoYTNqeUEwR2ZQdTctWDU3dkFkZ00zM1lWR2hGRlhJU3pqTlFPazF2dk5MQTU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-10-29-025",
+    "date": "2026-10-29",
+    "companies": [
+      "asia_cement",
+      "asia_cement_china"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement China (SEHK:743) Stock Sinks As Q3 Results Turn Sour - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2U4RnhQZVhMeklXNXFSU2JLQkJMWWVGdWV5cFJQc3c4SHhrcWdsMjB6OHB0Z09HMmUyemJrU1haalpKbzduRXp4V1k1WUw1TEVIZFBuMnBBVFo0a2t2aGM2Mk5jTHA0X0NzTThyZE",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2U4RnhQZVhMeklXNXFSU2JLQkJMWWVGdWV5cFJQc3c4SHhrcWdsMjB6OHB0Z09HMmUyemJrU1haalpKbzduRXp4V1k1WUw1TEVIZFBuMnBBVFo0a2t2aGM2Mk5jTHA0X0NzTThyZEJFUjN4Qml3R0dPMDM2NWhmaW94WlNJa1ZSNWwwTmh6YVVQb3FqVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-10-29-026",
+    "date": "2026-10-29",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement, PTT Global Forge $5.5 Billion Petrochemical Deal - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmdmNGpCODQ3NXJxQ3JIcVNKZ3h0ZUJIQ2FoY3pmektUbUZsUldrZzliQWl1WmFhVHdELTcyTGdHZmdrN245ZEVfMm5QeXdPSXV4M0oyYzE1UkFQWXJYbWdRYmJNc2tsNUVyczV4T0",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmdmNGpCODQ3NXJxQ3JIcVNKZ3h0ZUJIQ2FoY3pmektUbUZsUldrZzliQWl1WmFhVHdELTcyTGdHZmdrN245ZEVfMm5QeXdPSXV4M0oyYzE1UkFQWXJYbWdRYmJNc2tsNUVyczV4T01HU0NMRDhLaFpZWnFsMXRuQWtrazJFWVNFRFpXSXVOMUxvYnY5TWxGVnNtM0RWTVk4WUlpTllUU0g2bGxjVjU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-10-29-027",
+    "date": "2026-10-29",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Holcim acquires Cem'In'Eu Group",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/HOLCIM_2021_7D_146-1500.jpg\" /></p><p><strong>France: </strong>In its third quarter financial results, Holcim has announced the acquisition of Cem",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21429-holcim-acquires-cem-in-eu-group",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-028",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "JSW Cement commissions two capacity expansion projects",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/india-mumbai-construction-worker_c_gsk919.jpg\" /></p><p><strong>India:</strong> JSW Cement has approved two capacity expansion projects involving ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21427-jsw-cement-commissions-two-capacity-expansion-projects",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-029",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amrize releases financial results for the third quarter of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/amrize-1500.jpg\" /></p><p><strong>US: </strong>Amrize has released its financial results for the third quarter of 2026, which ended on 30 Septembe",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21426-amrize-releases-financial-results-for-the-third-quarter-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-030",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Kohat Cement Company reports earnings growth",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/pakistan-currency-close-up.jpg\" /></p><p><strong>Pakistan: </strong>Kohat Cement Company has reported an increase in its financial performance for",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21425-kohat-cement-company-reports-earnings-growth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -572,6 +1161,201 @@
     ]
   },
   {
+    "id": "vulcan-2026-10-28-030",
+    "date": "2026-10-28",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Investors brace for Vulcan Materials earnings amid estimate cuts By Investing.com - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc05GZlJDd1RmSVQ2cGZZTzllclgzTEljRi1LVWVCb3NzU29PSFEtbWdXMFozZmxldFB2MkFNQ25qYjVOclFDc1UyOEtlWnk5TkRQTWh5eHlHQTFGTHpfU0NCUV9xRDYxY0czcm1JaW",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc05GZlJDd1RmSVQ2cGZZTzllclgzTEljRi1LVWVCb3NzU29PSFEtbWdXMFozZmxldFB2MkFNQ25qYjVOclFDc1UyOEtlWnk5TkRQTWh5eHlHQTFGTHpfU0NCUV9xRDYxY0czcm1JaW1FUXZtSm9NMVB4MllhTEpaSzZyN3psT1p4cFBING5qNk9lM0ZMeDR1akxuMUtMUS13VkZ0WXR5ZUNyczhHTVEtUkQxamdrZEVm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-28-031",
+    "date": "2026-10-28",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp falls over 9% after tk accelis spinoff - Breakingthenews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGd5RlRCWUVzY1ZrTkNrTGxiUGNidXU1OUpfa080U012NXNzd0JuMU8tYXp6RG1GOHVkSEJBRUFtT01QWFE1LWdPUlR6Y1dKREQyLTVxVGJZMFd2enJqQXNzMEc2blVBVmxGb1VjQ2",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGd5RlRCWUVzY1ZrTkNrTGxiUGNidXU1OUpfa080U012NXNzd0JuMU8tYXp6RG1GOHVkSEJBRUFtT01QWFE1LWdPUlR6Y1dKREQyLTVxVGJZMFd2enJqQXNzMEc2blVBVmxGb1VjQ2kzNWhLZ0E3T0JsWDBLVlZ5M1JBaFNOTXFEQUo1aS1jTUdXejM4WWVYWjdDOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-032",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Three Things Europe Needs for Hydrogen Industrial Reality - Fuel Cells Works",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQW1YdWI5OHJvRXU4djFmQ0V6MW93aUV4b0Q5TTVSSmJJZmsyOUZxb2pOVGQxZUtwa1BuQ3NOek1ab3M0ODgxLS1SSU95U2VBWE1JXzJBR3RpT19zazVlYXM1VFlxMTJZa1FfcHpTZk",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQW1YdWI5OHJvRXU4djFmQ0V6MW93aUV4b0Q5TTVSSmJJZmsyOUZxb2pOVGQxZUtwa1BuQ3NOek1ab3M0ODgxLS1SSU95U2VBWE1JXzJBR3RpT19zazVlYXM1VFlxMTJZa1FfcHpTZk9BMkFUZWtodUx1cjhXQXlVdHFkSktQd1BSNHVyMDQ2bHJNek1lUm9VMGJOM2YwYjg1MVJwX205SGlHbzVxMTJYU1NhckdFazZnWGgzZjdVTFBHR0hObDFHS0tvSGJLRDZ0X1R4S0VLMVNaUmlTRm1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-10-28-033",
+    "date": "2026-10-28",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thyssenkrupp's tk accelis valued above $2 billion in German market debut - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXZRenZvYnhmdVVDQ2VfR3lxWUVZbDVDYnAyZHUyN1NvZXdaZVFOWi0zNmRIc2wyRDBCVzJSX2ctLXRwSDBtTzcyNlA4dXJnRlFKbEdIVVVwSHhMU2ZjRzlDZDR6OFdHcTVLV0ZJSE",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXZRenZvYnhmdVVDQ2VfR3lxWUVZbDVDYnAyZHUyN1NvZXdaZVFOWi0zNmRIc2wyRDBCVzJSX2ctLXRwSDBtTzcyNlA4dXJnRlFKbEdIVVVwSHhMU2ZjRzlDZDR6OFdHcTVLV0ZJSENSVndRcWk1MnZfM09VR2tudVk0Vmx6RkxkejZTbG01aFktanNSUFhOaEJxeXlldlBQb3ZWeVB6MFcwV0hMX3BiOHFaejNCaUI2cVFiRzFZay0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-28-034",
+    "date": "2026-10-28",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials AG (0MG2.IL) Analyst Insights, Price Targets & Recommendations - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE43LVdpQ2VpU1FIZThiT2o5VVBDdUFoazZsc0I1MGdhckxJd3otS0dhbkU1cEllbmdSQjdtZmJMWlVENDhXLWdhZkM1cGJSSUtFU0dFanQ1OTZ2UWF3S1BWUkpKYkZRT3BOM2pSRw?oc=",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43LVdpQ2VpU1FIZThiT2o5VVBDdUFoazZsc0I1MGdhckxJd3otS0dhbkU1cEllbmdSQjdtZmJMWlVENDhXLWdhZkM1cGJSSUtFU0dFanQ1OTZ2UWF3S1BWUkpKYkZRT3BOM2pSRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-10-28-035",
+    "date": "2026-10-28",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials UK trial lower-carbon road surfacing - https://www.facilitiesmanagement-now.com/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPRERMOXc1Q0RiUXNuVzJ6SVdmdkdGOTVBWURHNGdUek44aGlFMWFIWUpSck5NUFBJZkQ2ekdDQkdwZlpJbWpJOFV6Mzk5cGV5SU43NGZEZFRwNnVfeUNGZ1c4X1pnbm1Xa2t3blE4LW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRERMOXc1Q0RiUXNuVzJ6SVdmdkdGOTVBWURHNGdUek44aGlFMWFIWUpSck5NUFBJZkQ2ekdDQkdwZlpJbWpJOFV6Mzk5cGV5SU43NGZEZFRwNnVfeUNGZ1c4X1pnbm1Xa2t3blE4LWtKUmFkYzE5Z1JPWkM4b2ZwbG91dXhoME9pTl9wbU9USGdGQmFHeFFnemlqOEd1LTE1d2RnUmpIMlZxREIzdDh2Vm9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-10-28-036",
+    "date": "2026-10-28",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Material Technology Co. Ltd. Class H Estimates – HKEX:2560 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1mbHJFTVlQUklKd0U3Q3pZZGNaTFg2OC1ORmtuUE0xNm9xaUZMV0pVZllteTJJdktCV2ZVb29RNE5VYkVuajVFWHZqVHRwUDBoeE1ndUFCS3pENUxVUWMyWFVRYWE5WkduQzVhVVNDR3",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mbHJFTVlQUklKd0U3Q3pZZGNaTFg2OC1ORmtuUE0xNm9xaUZMV0pVZllteTJJdktCV2ZVb29RNE5VYkVuajVFWHZqVHRwUDBoeE1ndUFCS3pENUxVUWMyWFVRYWE5WkduQzVhVVNDR3FIdHozZ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-10-28-037",
+    "date": "2026-10-28",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement Public Company Limited Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM1ZtbS1KVlFZVk5uYXNUNk5qUWJrblVZcVNRcERRMnNDcWVrQmtqSFpGSDBIQV9FZ1dRa0xaR3VPR0ZpTThqUlZnVVZXa2hvNmZUdk12alFkaUNVUkVDaDMtV0pONGRLcmllSXV0eD",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM1ZtbS1KVlFZVk5uYXNUNk5qUWJrblVZcVNRcERRMnNDcWVrQmtqSFpGSDBIQV9FZ1dRa0xaR3VPR0ZpTThqUlZnVVZXa2hvNmZUdk12alFkaUNVUkVDaDMtV0pONGRLcmllSXV0eDBxUW81NVV6ZHlMN1VZQlNQV0RLWGxUWEllRWpzRjFPbWxMb3RwdHg4VlFCSmVSZk1VLTYtLVQ4V0h3NTY5S0E2SmJmX21VX3BfRzA3NUJZQlVNV0w3YUhJVV9NMDFDQmtLV1J6WndteWNaalRZZWhYYlNmSWYyRU1m?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-038",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jacobs-PCL JV wins $1B San Francisco wastewater upgrade",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I_2S0EcZtfw_2vveLVJcn2bfrVGiGX5ZfVCJN-uZ_Tg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CaW9zb2xpZHNfQ29uc3RydWN0aW9uX1VwZGF0",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/jacobs-pcl-jv-award-san-francisco-wastewater-upgrade/873095/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-039",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Government Discourages Bitumen for Road Construction, Promotes Cement Concrete Roads - Ratopati",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEpIWDdjSENIVkxSU3NyNE03RWxzR1hNdlg2cTYxUlZtQl9UMENFeXVnWkVkUUZ0QXBURWhaU2NuaHVnQ3pxUlBySXhOd2NaaEVsanF1SW1PR2ZHTXVCdXJyUGRUemtva05GdkRfUF",
+    "sources": [
+      {
+        "name": "google_cement_industry",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNEpIWDdjSENIVkxSU3NyNE03RWxzR1hNdlg2cTYxUlZtQl9UMENFeXVnWkVkUUZ0QXBURWhaU2NuaHVnQ3pxUlBySXhOd2NaaEVsanF1SW1PR2ZHTXVCdXJyUGRUemtva05GdkRfUFd2NlRfWFlCdmpmMzByQWFZcHZIOEpla2dadHJOWDIzWGNrYXFmYzZ1cTJ2OFR3VFNUdG9zYVVfMkt3cWtQeGE5eEU5TVVLRmJ5RWJCbVBfeTJlREZsYlZtMzFxdkZpLUJENFVPNGtIZkVtX1QzUFNWSkRKdVViakZGS1hWWEc0bjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-10-27-001",
     "date": "2026-10-27",
     "companies": [
@@ -860,6 +1644,26 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/je-dunn-minneapolis-airport-upgrade/872957/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-10-27-016",
+    "date": "2026-10-27",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Drives Greener Concrete Logistics in Mexico - Mexico Business News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPSXB4a1FpM2dOQTBVbkN4NlY3WVNyb1J6S1hZRnZyMHhWREdqOXVkQkctaWJ2M3Vmd2JvbTRqeTl2WjFmQ3ZidEphTXpmWFdpaV9UUG5GQk1WdEloUnllV2NkOVFwNGIyV1hhRmxNQU",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXB4a1FpM2dOQTBVbkN4NlY3WVNyb1J6S1hZRnZyMHhWREdqOXVkQkctaWJ2M3Vmd2JvbTRqeTl2WjFmQ3ZidEphTXpmWFdpaV9UUG5GQk1WdEloUnllV2NkOVFwNGIyV1hhRmxNQUN4dk1Gd2VVZ05ld1lFUHJTa2g2VjBobkJNbE9uT2M5d1lNOTNnU1VUMUdUa3c5UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2269,6 +3073,26 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemNudUdvZ2pla0dDN3Nza1VSM2dZU2VEUjJGU1VkYURhc25RQ3Z3Vkd5TzVqS1NScjNVNUpFc0Q5OHBHcU9zS3N4bVpBZDhHUGVNVENxRUpmR28zekZMUmxKbmdGTUhSQ0VNaFBHNkJiYjZWUmQxMUpqXzVNa2FlWk1ubDU4OW5HWGFUNV9obS1yTlRBYXp3b0Z2Z25WS2VUb2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "siam_cement-2026-10-23-047",
+    "date": "2026-10-23",
+    "companies": [
+      "siam_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Siam Cement Public Co. Ltd. Estimates – SET:SCC - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9DaVhwdWZmMDZtM1Q4TDVIbDZ2VU5yVktkNTVZLXpiSDJjVnVJQV9NXzUyREttbDlrWk0zYjFsTlBCY1QtZ2JCYW9ZWFRrejFBN1BiWHJQMnhFZ0RzTGlFQXc0RnBGelp3VExsUzVLS3",
+    "sources": [
+      {
+        "name": "siam_cement",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DaVhwdWZmMDZtM1Q4TDVIbDZ2VU5yVktkNTVZLXpiSDJjVnVJQV9NXzUyREttbDlrWk0zYjFsTlBCY1QtZ2JCYW9ZWFRrejFBN1BiWHJQMnhFZ0RzTGlFQXc0RnBGelp3VExsUzVLS3JLZEk?oc=5",
         "type": "rss"
       }
     ]

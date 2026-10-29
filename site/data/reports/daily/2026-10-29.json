@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:57:49.538767Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "asia_cement-2026-10-29-025",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Asia Cement China (SEHK:743) Stock Sinks As Q3 Results Turn Sour - Yahoo Finance",
+      "companies": [
+        "asia_cement",
+        "asia_cement_china"
+      ],
+      "related": {
+        "customers": [
+          "asia_cement_china"
+        ],
+        "suppliers": [
+          "asia_cement"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2U4RnhQZVhMeklXNXFSU2JLQkJMWWVGdWV5cFJQc3c4SHhrcWdsMjB6OHB0Z09HMmUyemJrU1haalpKbzduRXp4V1k1WUw1TEVIZFBuMnBBVFo0a2t2aGM2Mk5jTHA0X0NzTThyZEJFUjN4Qml3R0dPMDM2NWhmaW94WlNJa1ZSNWwwTmh6YVVQb3FqVHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-10-29-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Vulcan Materials (VMC) Surpasses Q3 Earnings Estimates - Yahoo Finance",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFViZU9FUXMtU1h4U2lDdDdFdHB4V0ZjdUM3RDJqUm9FRXNXX19mdnZaUWhtM2pSWTZlTkJNOHhTTzdRdlBWWkM1N0ttaC00UGlYQjFVMXVjelNkN08zdG4wbnplYWJOSHNNMmpNLXdMQmhoTFhua2p2clhraW5DM0c5eV9TYWR2bUlPLXQ1M0pZaC1VcFo3d2hicm1qdTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crh-2026-10-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CRH Reports Third Quarter 2026 Results",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity_consolidation",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "vulcan-2026-10-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (NYSE:VMC) misses Q3 2026 sales expectations - TradingView",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjVQWlNpRXpiUG1lSWtSY0hOWlpzMlN3eWNBeVlMUkR0UDFSR1JzVFFaQ2xRY0I2UTVxNS1OZFBnYlRUcVdQWWRDRDlMdnpZRFNOaG1sSUZ6MUVFOGlrUTE3R2F0ODBaQkxTT3B4WEdDUUNmUWVYbkRTMFpHREQ4UEVFYnhiUFo5TzNId1E2cmVfUlN6azFvdjc1M2JCNE1rVWF3emZFTXZKMDg2OElMZ1RhaXFhV290ZnAtdA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "vulcan-2026-10-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:VMC) 2026-10-29 - Seeking Alpha",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUS0za0RmdG9SUU85Uy1FY1RYa1QxOTVjamtUeHdTWUdnOUtTbzRjU280U3haSE01ektLb2lnME1sTE1TeHBpUTBieG5QNkd6Tk9ralcyRTlpbzBvMGRxUlNLUnFITUEzV3NWMmVZYnRRUVZFanFOdTZDOFllQ190R2ZNdHU5NWR4bWg2U3NUaG1yQVVTMHo2QV9lazhOcXMyZHV2WFZwc2pDZGZS?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity_consolidation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 16
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 4
+      },
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 26
+      },
+      {
+        "id": "capacity_consolidation",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 144,
+    "too_old": 102,
+    "gate1_blocked": 9,
+    "gate2_blocked": 13,
+    "passed": 42,
+    "pass_rate": "25.3%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "VULCAN REPORTS THIRD QUARTER 2026 RESULTS - TradingView",
+      "Form 8K Vulcan Materials For: 29 October By Investing.com - Investing.com Canada",
+      "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+      "Thyssenkrupp's tk accelis starts trading at EUR27.8 per share - www.marketscreener.com",
+      "Holcim acquires Cem’In’Eu grinding network - CemNet.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為Vulcan Materials、蒂森克虜伯、CRH plc相關動態：「Asia Cement China (SEHK:743) Stock Sinks As Q3 Results Tu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Asia Cement China (SEHK:743) Stock Sinks As Q3 Results Turn Sour - Yahoo Finance（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Vulcan Materials (VMC) Surpasses Q3 Earnings Estimates - Yahoo Finance（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
