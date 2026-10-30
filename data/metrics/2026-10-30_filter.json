@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 8,
+  "gate2_fail": 13,
+  "passed": 31,
+  "gate2_samples": [
+    "BNP Paribas Adjusts Vulcan Materials Price Target to $281 From $290 - www.marketscreener.com",
+    "Enterprise value to EBIT forward of Vulcan Materials Company – BX:VMC - TradingView",
+    "Vulcan Materials 3Q EBITDA $701.5M >VMC - Moomoo",
+    "RBC Lifts Price Target on Vulcan Materials to $257 From $256, Keeps Sector Perform Rating - www.mark",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters"
+  ]
+}
