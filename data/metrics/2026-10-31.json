@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-31",
+  "total_events": 2,
+  "by_company": {
+    "vulcan": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "raw_material_energy_cost": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

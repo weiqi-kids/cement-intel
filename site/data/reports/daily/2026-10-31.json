@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:18:49.759392Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-10-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Q3 Results Defy Energy Cost Pressure - Yahoo Finance",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWC1peHBzSTM4Y1JJbE1MeEllZHpFLVFMYnlqOGlyZ0xmRzJna3JzTEpCTXI0c083YkRUUUQwRUlPV2FEMEF2Z1Nfa3pGNmhGajQtWDBaZnQ3Y2dOcEdnQ0V3NmJGLW9nN0tjclVOSGl2dlhfZGtuSUMzUWZGS2VyZ1AtUVJXNUM2STU0MTFHSVgtU21DWVJKY3g5WE0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-10-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Q3 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalZMM2M2M2NhRHVQaXJCNXBNb2ZzdGJzdFZfdkc3UWlSSU5TN2RrQlpmend2MDh1ajNMN2RKYzhNUTV4WnF6NlpsMS1NVGZGckhyME9TbEZ2aFI0TU82eHJ4azMwMHpiT2pReTdPd0ZOQ1pwZ0RwLUxFeXdNeWxOUFh4cFluRzZkVVYwUDJqbzY1bW9jdEpJMExGVWVuaUk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 170,
+    "too_old": 107,
+    "gate1_blocked": 8,
+    "gate2_blocked": 8,
+    "passed": 14,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Vulcan Materials Price Target Raised to $257.00/Share From $256.00 by RBC Capital - Moomoo",
+      "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+      "ThyssenKrupp: EU setting unrealistic expectations on early efficiency arguments - Global Competition",
+      "thyssenkrupp AG (TKA) Sets Dec. 8 Date for FY25/26 Report - TradingView",
+      "Thyssenkrupp deutet für Stahl-Sparte Börsengang statt Verkauf an - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Vulcan Materials相關動態：「Vulcan Materials (VMC) Q3 Results Defy Energy Cost Pressu...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Vulcan Materials (VMC) Q3 Results Defy Energy Cost Pressure - Yahoo Finance（原料能源成本、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Vulcan Materials Q3 Earnings Call Highlights - Yahoo Finance（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

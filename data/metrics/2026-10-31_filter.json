@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 8,
+  "gate2_fail": 8,
+  "passed": 14,
+  "gate2_samples": [
+    "Vulcan Materials Price Target Raised to $257.00/Share From $256.00 by RBC Capital - Moomoo",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+    "ThyssenKrupp: EU setting unrealistic expectations on early efficiency arguments - Global Competition",
+    "thyssenkrupp AG (TKA) Sets Dec. 8 Date for FY25/26 Report - TradingView",
+    "Thyssenkrupp deutet für Stahl-Sparte Börsengang statt Verkauf an - TradingView"
+  ]
+}
