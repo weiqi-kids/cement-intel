@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 12,
+  "gate2_fail": 7,
+  "passed": 21,
+  "gate2_samples": [
+    "Vulcan Materials | 8-K: Current report - Moomoo",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+    "thyssenkrupp Steel secures revised funding terms for hydrogen-based project - Quantum Commodity Inte",
+    "Thyssenkrupp nucera : Three Things Europe Needs to Turn Hydrogen Ambition Into Industrial Reality - ",
+    "Heidelberg Materials AG (HEI.DE) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}
