@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 27,
+  "gate2_samples": [
+    "B. Riley Adjusts Price Target on Vulcan Materials to $315 From $300, Maintains Buy Rating - marketsc",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+    "Thyssenkrupp Steel secures revised tkH2Steel funding terms for flexible hydrogen transition - SteelO",
+    "Thyssenkrupp Steel preparing new green hydrogen tender after Germany backs down on subsidy condition",
+    "Holcim acquires Cem’In’Eu grinding network | CemNet - CemNet.com"
+  ]
+}
