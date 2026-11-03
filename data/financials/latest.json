@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T17:49:22.976227Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-11-03T15:49:44.616524Z",
+  "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "anhui_conch",
@@ -194,17 +194,17 @@
       "name": "太平洋水泥",
       "ticker": "5233.T",
       "currency": "JPY",
-      "ar": 147951000000,
-      "ar_prev": 151435000000,
-      "ar_qoq": "-2%",
+      "ar": 147969000000,
+      "ar_prev": 147951000000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 137237000000,
-      "inv_prev": 129235000000,
-      "inv_qoq": "+6%",
+      "inventory": 144334000000,
+      "inv_prev": 137237000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "taiwan_cement",

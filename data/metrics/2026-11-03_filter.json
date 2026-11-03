@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 12,
+  "gate2_fail": 17,
+  "passed": 17,
+  "gate2_samples": [
+    "Morgan Stanley Adjusts Vulcan Materials Price Target to $311 From $321 - marketscreener.com",
+    "Citigroup maintains Vulcan Materials at Buy, raises price target to $326 from $300 - TradingView",
+    "B. Riley Adjusts Price Target on Vulcan Materials to $315 From $300, Maintains Buy Rating - marketsc",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+    "Thyssenkrupp Prepares Steel Spinoff as tkH2Steel Funding Decision Becomes Legally Binding - Shanghai"
+  ]
+}
