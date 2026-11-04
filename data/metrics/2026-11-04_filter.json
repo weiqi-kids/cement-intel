@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 17,
+  "gate2_fail": 16,
+  "passed": 38,
+  "gate2_samples": [
+    "Vulcan Materials Co (VMC) Senior Vice President David Clement Se - GuruFocus",
+    "Morgan Stanley Adjusts Vulcan Materials Price Target to $311 From $321 - marketscreener.com",
+    "thyssenkrupp Steel prepares new hydrogen tender following revised financing terms - EUROMETAL",
+    "Thyssenkrupp's tk accelis valued at close to $2 billion in German market debut - Reuters",
+    "Thyssenkrupp Steel secures revised tkH2Steel funding terms for flexible hydrogen transition - SteelO"
+  ]
+}
