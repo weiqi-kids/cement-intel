@@ -1,5 +1,335 @@
 [
   {
+    "id": "thyssenkrupp-2026-11-06-001",
+    "date": "2026-11-06",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "thyssenkrupp Uhde Bags FEED Contract for CF Industries’ Urea Plant Upgrade in Canada - Chemical Industry Digest",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXZ0Mk5YRDNtc0tPYWM5VFFCTnFKNV9BVG1QcThiby1yVlNKT1piSXVYbVdBclVNcW1BRW5STm5sTFhaM1h3TndEdVZyWE9DUW9DQmd4RkxCak5MTUJ2Xy1iUzBYaE1qY1BCUDBlUm",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXZ0Mk5YRDNtc0tPYWM5VFFCTnFKNV9BVG1QcThiby1yVlNKT1piSXVYbVdBclVNcW1BRW5STm5sTFhaM1h3TndEdVZyWE9DUW9DQmd4RkxCak5MTUJ2Xy1iUzBYaE1qY1BCUDBlUmk5Z3ZNdWcxZU14RFVZN0VpSVZ4Um1CajFvMkhhUDVUUVpFclJLeTlIajZhSUtJTDgtZEt1dnFiYTJjRGxHWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-11-06-002",
+    "date": "2026-11-06",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Three stocks, three tests: BMW, Desert Gold and Heidelberg Materials | 2026-11-05 | Investing News - Stockhouse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPckJPMlBBcnVScEc1RnFrczhlM2lvSVIzNmVNWW9yOXMxVnduY2RqQ3VOZklUTHpLTG9FV21oYXVLTk40eVR2bHd5MWhVSTN6dmVNdG1CaDRMaEdCb2dyZkhWc2wwUk1oUTl4cmx4cU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckJPMlBBcnVScEc1RnFrczhlM2lvSVIzNmVNWW9yOXMxVnduY2RqQ3VOZklUTHpLTG9FV21oYXVLTk40eVR2bHd5MWhVSTN6dmVNdG1CaDRMaEdCb2dyZkhWc2wwUk1oUTl4cmx4cURUQTdZSUVtR1lzT1NTMDNZZk1hNkdxek5uVkUzTFQ3dDNSNnhaOC00dzFOX1NhWU4xc1MzbmZPM0lPdGJtWExOb3hGSHQ5SF9WMUhfNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-11-06-003",
+    "date": "2026-11-06",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "UltraTech Cement stock faces fuel pressure despite volume growth - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjB2dEhHakpDWjQzZDdHUlRuX2t0VTc5TWQ1OU5RS2hWUWFDbDNIc3RZSlhMbm5wOFBDeXFDZHRfcmpjMnVfYnowaHZ6RmN3N2J4blFlS3owOXNWY1VZdlI5N0QxcHdBQ182VDJXTF",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdjB2dEhHakpDWjQzZDdHUlRuX2t0VTc5TWQ1OU5RS2hWUWFDbDNIc3RZSlhMbm5wOFBDeXFDZHRfcmpjMnVfYnowaHZ6RmN3N2J4blFlS3owOXNWY1VZdlI5N0QxcHdBQ182VDJXTFdSUTdDWEEzTDJBcUxmRmUza0Y3c2xuYVc5WTh2azNQZ0lOd05ZTC1PeF9zaFV1WE1aYTc3S2RxOUtjZGZseHZtNjR3NC1sZXEzODBnNnNEbUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-004",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Ramco Cements releases second quarter results for the 2027 financial year",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/results-financial-report.jpg\" /></p><p><strong>India: </strong>Ramco Cements<strong> </strong>reported its financial results for the second quarte",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21459-ramco-cements-releases-second-quarter-results-for-the-2027-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-11-05-001",
+    "date": "2026-11-05",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Is Vulcan Materials Stock a Good Fit For Your Portfolio Risk? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmYwd1huQ0dvVVRWeXlYLVYzX1dWcDlFNnJfdEtGck5pVUhRR0huMmtwMHZUS2JwY2FTQ3hXX1Z1RXFCbXpWMk15bWZULUVvYUd6bGhocUVGY3NTM2dkQ3NQZG5veW9pRG1MY2g1ZE",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmYwd1huQ0dvVVRWeXlYLVYzX1dWcDlFNnJfdEtGck5pVUhRR0huMmtwMHZUS2JwY2FTQ3hXX1Z1RXFCbXpWMk15bWZULUVvYUd6bGhocUVGY3NTM2dkQ3NQZG5veW9pRG1MY2g1ZEdvZ2ljZmRtTDVHd01GZ2hPLXUtWWVXWi1mZVdqcTR2bEliTnU3clpYZkFFNzlkWWhDcUdjMEIzTjI4NDBENUp6aGsycmxid3JXNFhNNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-11-05-002",
+    "date": "2026-11-05",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vulcan Materials Director Sold Shares Worth Over $7.9M - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHlXQmVrdnp2c3FTSm5CSTR2ak9VTzBMYlg2MFZNd3ktUXNuankxU1VueWIxYmlJbm03UXY4M3kzcUJldHpvdmozVnMtay1zRFVJVkV2a2k0X0tiSDdrd0NKSGRWOFJCcDJLM1ZJQz",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHlXQmVrdnp2c3FTSm5CSTR2ak9VTzBMYlg2MFZNd3ktUXNuankxU1VueWIxYmlJbm03UXY4M3kzcUJldHpvdmozVnMtay1zRFVJVkV2a2k0X0tiSDdrd0NKSGRWOFJCcDJLM1ZJQzdNNWxzeXBNZkFCeVhXQVhRSFJLbE1tN3NlQl96eHFnU3pZcmUtdERKamZLNWhNZkFwYURZU2pDNi0xamU5UTRVY0dTcnJiZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-11-05-003",
+    "date": "2026-11-05",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 3 November - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3lhRzZrckE4bzBoR1ZaMVNfLUxQLXRNVzFmTnpsbW0xSjhJeUJGa0tIS2ZSNWJGT3k5dFNnaDdZVVNRWFQtaUFGYXJGUjJVN1ptQ0hEZmg4SDB6cDdOZlAzWGRETEthTEtnUk1Dc2",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3lhRzZrckE4bzBoR1ZaMVNfLUxQLXRNVzFmTnpsbW0xSjhJeUJGa0tIS2ZSNWJGT3k5dFNnaDdZVVNRWFQtaUFGYXJGUjJVN1ptQ0hEZmg4SDB6cDdOZlAzWGRETEthTEtnUk1Dc2p3TnE4eTBRY1VXNWEzRHk0V29EOU5SZjZHZjlHOTlhTFlETmh0UDB0ZXlEZUZqcnlrbmwtUC1DZUNISzJiWDdtQlhjSzVzWHJBLWE5SkN6MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-11-05-004",
+    "date": "2026-11-05",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Four share sales in one day came from Vulcan Materials (VMC) director J. Thomas Hill. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHhnSFhPeWhXa3JTWUZWUlk1RTRDZFhxd0hRQkU5NXJBbDMzTGxTSS1lUWRTVmxOOFBZQW5RU3dJNVNyMmlIZnlLaWNSQmp5SnZFWUJQTTJ4WnF3dm9DMWtlSzhIaUtvZ1FLclJGel",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHhnSFhPeWhXa3JTWUZWUlk1RTRDZFhxd0hRQkU5NXJBbDMzTGxTSS1lUWRTVmxOOFBZQW5RU3dJNVNyMmlIZnlLaWNSQmp5SnZFWUJQTTJ4WnF3dm9DMWtlSzhIaUtvZ1FLclJGelN1eXBiM1YzcmFBUVJ2YlZJTXdvMzhIQnNIVUpLM3NOOVdhSVRnQjZ3TmJwa1dOT2hrMVVFQ2NSUk5UdmQ0Ukx6Q2tR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-11-05-005",
+    "date": "2026-11-05",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials director J Thomas Hill sells $7.99M in stock - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTViTnhnek9XOERQQzJwYWxDa19IVzFySkNNNVhjSl9qY0lqSFJoWVlnM3c1ZGU3QURhSWplb0I3R0NNWG1BVm1TU0gtQWVLb19OblFCWTlHa2VONU9ZQ3UxeHZKMkVHc1hkUDdIaX",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTViTnhnek9XOERQQzJwYWxDa19IVzFySkNNNVhjSl9qY0lqSFJoWVlnM3c1ZGU3QURhSWplb0I3R0NNWG1BVm1TU0gtQWVLb19OblFCWTlHa2VONU9ZQ3UxeHZKMkVHc1hkUDdIaXBuRER1WWZrX3d5YmQ2WUFzdDJrWnBxN3N0U1phcV9CNFJiNEdXdWhoM0o1d0pCVGNmb2FSX2FnME0zU1FLUFRHTGFkeVo2d1BEYWQ5Rw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-006",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "European industry calls for changes to carbon reform to avoid more factory closures - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHJOVGxCaEpKcGVRbFVCRVZDQW5yaEV1cVRnQVVlcldXb1BFSUtJRVZVOGIxbVR5MjlXT2ZBTUc1a1hXMGFRdUFWYzg2Z29xR1pRQzZOR05JZ2U1UWJ2XzJzMVRUcHY0eEl3VHFrZ0",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMHJOVGxCaEpKcGVRbFVCRVZDQW5yaEV1cVRnQVVlcldXb1BFSUtJRVZVOGIxbVR5MjlXT2ZBTUc1a1hXMGFRdUFWYzg2Z29xR1pRQzZOR05JZ2U1UWJ2XzJzMVRUcHY0eEl3VHFrZ0FyNlY2YTI3eklfSm5OU2ZqMkYwc2pZekVVU1YxekVMeUgxd05rUU5RRTR5Mk84WDhCOEVfZi1aSTktaHZkZDFPWllpd3lrU3JrSEFuREJTZThMak9Nallkc0hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-11-05-007",
+    "date": "2026-11-05",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp AG (TKA) Reports Goldman Sachs Voting Rights Threshold Event - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVliMjY1ZDFjWGl5NXZLN2loXzZNY3FuV0pDWWE2cXFTbDJ5OUFsS1R3MnNPSk0xUm5NeHBMcm9kSFBWN3BjZ0RqdDE4dGQ1OUxQTUItTUt2cmtJd1FmZ1RjLU1oLXMxcDJpX2UtSk",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVliMjY1ZDFjWGl5NXZLN2loXzZNY3FuV0pDWWE2cXFTbDJ5OUFsS1R3MnNPSk0xUm5NeHBMcm9kSFBWN3BjZ0RqdDE4dGQ1OUxQTUItTUt2cmtJd1FmZ1RjLU1oLXMxcDJpX2UtSkJ4RWlZbGRvTktTaWpDanRVbmJvZTd5RUNjS1VfQTM4Y0VTV2RyNEFCeUtrT25FaERKVC1HUXl3OVpQb21XVFkzbUlGemJpRHBEU0tZX0N6N0JyOG1IM25vNnJmaVlMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-05-008",
+    "date": "2026-11-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity_consolidation",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim completes acquisition of Burdett Group to advance circular construction in Australia - World Cement",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONVN2UEFfMGstZ01fN0xUZE1yY0hFQnZlcHJqWllIT0pPcDVaRDdoR09LNGU5N0NSOFA1LUlwLTloR1I2YmNHUHp5MXN0T2x3TlIzeml3RWxYcWdsa29CN1dwZkYxN28tTlRNa2pWNW",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONVN2UEFfMGstZ01fN0xUZE1yY0hFQnZlcHJqWllIT0pPcDVaRDdoR09LNGU5N0NSOFA1LUlwLTloR1I2YmNHUHp5MXN0T2x3TlIzeml3RWxYcWdsa29CN1dwZkYxN28tTlRNa2pWNWxsdk9ZODJpbTJFVGh6Rkt5VWttclBaeUNLd0YzZ200aE0yM04zMVBqSldjUFpsb0FOelVGRVNEUzBIQ3VMMnZoanNRUW1wbVlsWE9RMFZra2VCTEJSdXcxNkcwdXROS0wxQllRZHc5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-05-009",
+    "date": "2026-11-05",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity_consolidation"
+    ],
+    "impact": "positive",
+    "title": "Holcim completes acquisition of Burdett Group",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/handshake.jpg\" /></p><p><strong>Australia: </strong>Holcim has completed the acquisition of Burdett Group to expand its aggregates and circular co",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21457-holcim-completes-acquisition-of-burdett-group",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-010",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Titan America announces third quarter results for 2026 financial year",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/results-financial-report.jpg\" /></p><p><strong>US: </strong>Titan America announced its third quarter results for 2026 on 4 November 2026. The com",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21456-titan-america-announces-third-quarter-results-for-2026-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "eagle_materials-2026-11-05-011",
+    "date": "2026-11-05",
+    "companies": [
+      "eagle_materials"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Eagle Materials reports second quarter results for 2027 financial year",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/usa-flag-construction-helmet.jpg\" /></p><p><strong>US: </strong>Eagle Materials announced its second quarter results for the 2027 fiscal year whic",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21455-eagle-materials-reports-second-quarter-results-for-2027-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-012",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "positive",
+    "title": "Skanska reports record order intake 2 quarters in a row",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EBBQVE2QuJm-vj-DfuzYR89JIfGDVnW5cfm5FqF8-jY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMDVfMTUyMDM2",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/skanska-record-order-intake-earnings-q3-2026/873921/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-013",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Midterms cloud outlook for data center construction, transportation bill",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rhEbRS1v4l4hG8dtOV1Uqt4h5mQmEdc1BiHp9gMaxtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyNjMwMDUyLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/midterms-data-center-construction-transportation-bill/873844/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-11-04-001",
     "date": "2026-11-04",
     "companies": [
@@ -594,6 +924,163 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21445-mangalam-cement-reports-profit-decline-in-second-quarter-of-2027-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-031",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Carib Cement profit falls 1/3rd in third quarter, warns staff about El Niño - Jamaica Gleaner",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHRYTTFfakhnbHd1QnZCWFFIRnhGaldjRHlGU19YUmdkUEpzWFVNVkhITmxuN1FGT3F0VUJmUmlqZ0czQjdXMTBhZjdFYzVVSkN4Z0dyRVgyVERjdngtaC1XaXlFcTJyNkJLRzRCa1",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRHRYTTFfakhnbHd1QnZCWFFIRnhGaldjRHlGU19YUmdkUEpzWFVNVkhITmxuN1FGT3F0VUJmUmlqZ0czQjdXMTBhZjdFYzVVSkN4Z0dyRVgyVERjdngtaC1XaXlFcTJyNkJLRzRCa1d4cTJJVnFaVEhmcHF5UFBLYmpnd01VcU9qVXBBZzhUbGszR2FzYjZNUjRQZUxBanpTS2NCdUFDM2JoRl9nWFlVVFNINWhhRUdiY3ZhM1FjbmU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-11-04-032",
+    "date": "2026-11-04",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials continues to grow, shares gain sharply - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkJQdXdqVU1fdWxXS05MVUhOX2RQbldUWnBOcHFFTXpwQUpvUVB3eE8tQVItTzBrY25FMXJvak1Sd0F4RXphczROV1EwbWptMWpKamZhaXpSR01QMUsyeDQ3NUROMnhfQXFZanY2RX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkJQdXdqVU1fdWxXS05MVUhOX2RQbldUWnBOcHFFTXpwQUpvUVB3eE8tQVItTzBrY25FMXJvak1Sd0F4RXphczROV1EwbWptMWpKamZhaXpSR01QMUsyeDQ3NUROMnhfQXFZanY2RXU2a3FTVnkyZ0pQdEczM0pSaWlqaXBuRHJ2T2FuWThrNEJzSEU3VnFFaTdfNGROaVJOc3FPenE1TW8tWTd2MkhfdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-11-04-033",
+    "date": "2026-11-04",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials shares up 8% as Q3 profit beats, cost-savings target raised - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVlwNTYzR3BEWG9RTHZtN1VoMThpazJaeVE1Sk0tdHdTWl9kR09WdFpwaWZzYUNQQkNDeWJkczlKR2twaTZZQzFNR0NJNS1BTEtvekZoWUVhZzhqb01OMVJ5N2poclA3NlNpaHFVSm",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaVlwNTYzR3BEWG9RTHZtN1VoMThpazJaeVE1Sk0tdHdTWl9kR09WdFpwaWZzYUNQQkNDeWJkczlKR2twaTZZQzFNR0NJNS1BTEtvekZoWUVhZzhqb01OMVJ5N2poclA3NlNpaHFVSm9WVUdpNTY4R1J1dDMwOWlGN1N2Y0p6WXg4SW5ybU0xYVN4SmVKRzQwVmhqRGNQZkJVUDhKWVdnN0V6bTRhb0RmUkNOTm50WGNrUXp4bEhGUV9uTlFJVXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-11-04-034",
+    "date": "2026-11-04",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberg Materials boosts profit and sets new savings target - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVkLWNGMGN5WDBDRVZQcE4td3dTaE1WWmN6bW9NaGFEbUtaMDQtREhKLTBLdDZaR1RqbzlIYUd3bHNnRE1qSjNCTjh4WjlxSndvZm52RWhJSXNrTWdLbHU3amdWTHNpUnNfWTBFbT",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDVkLWNGMGN5WDBDRVZQcE4td3dTaE1WWmN6bW9NaGFEbUtaMDQtREhKLTBLdDZaR1RqbzlIYUd3bHNnRE1qSjNCTjh4WjlxSndvZm52RWhJSXNrTWdLbHU3amdWTHNpUnNfWTBFbTltVkdPeERQTVByWXpDaktkaWxyaF9lR3kxbHI0ZHdpdFo2d1lLeVlrQVdpUEttQnF0cGpUT0lacHBldFZNbm5mWjNjbFVEUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-11-04-035",
+    "date": "2026-11-04",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Earnings call transcript: Heidelberg Materials Q3 2026 stock jumps on growth - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxORldyczdYMWFSZEVEQ3BfLThpcFVtUTFYbVhxU0lYblRtLVhKZ1dkMlRjbHhWYllKWGc3ME85REhHRmplVUFjZTNfZkpyWkJ0cVg2VkR4M2ZMRlpCRnlzUGdSNVF6ZV95RUN6V1AwNW",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORldyczdYMWFSZEVEQ3BfLThpcFVtUTFYbVhxU0lYblRtLVhKZ1dkMlRjbHhWYllKWGc3ME85REhHRmplVUFjZTNfZkpyWkJ0cVg2VkR4M2ZMRlpCRnlzUGdSNVF6ZV95RUN6V1AwNWNhb3lUODN5Z3hsOHNuaW52QlFFWms1RGFfNWVzUWM4OU1PZWUtTmZkb1l5dXRIQVNzZlY2blhQX1BtR1otdy1kbVBSTEdaZEpwM2VKZ0FLcjlDY2xhRXJtZDAyaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-11-04-036",
+    "date": "2026-11-04",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Heidelberg Materials Q3 2026 slides: double-digit growth returns - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXVPbjhERHZNWVBMUkk1YkJsY1Y5ZzZaWExCSmNwNkxoTjZ2Rjd6Q3R0XzRHNG12cF9yTnN5UGRFWGo4S3BGeFBQaTUxMk13SUktR3lDSVAxd1dONkVRRVRnSThsQzhTblF0N00tUm",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUXVPbjhERHZNWVBMUkk1YkJsY1Y5ZzZaWExCSmNwNkxoTjZ2Rjd6Q3R0XzRHNG12cF9yTnN5UGRFWGo4S3BGeFBQaTUxMk13SUktR3lDSVAxd1dONkVRRVRnSThsQzhTblF0N00tUmc4TkYxaDJFQUdUNHJOMTM5bHRjajFfZWdraHFxMDhRWGFHTmI5LXFqY3FMU2hEV2RBcTBkS3RBVXlvMU5LS3pSbHJoTWVaMl9MQWEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-11-04-037",
+    "date": "2026-11-04",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corporation (TIE.F) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EeTdWZHh3TEpSRmV3OGtick01Q0dXYmswTjVCYWZGc3pQVzhkNUVWV0JEYnM2SnFIQjdQVnFqcVh4VWJGWElIR2o5ZU5lNVhzc1BhSXVaTjJxYnR0MjkwekZONA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EeTdWZHh3TEpSRmV3OGtick01Q0dXYmswTjVCYWZGc3pQVzhkNUVWV0JEYnM2SnFIQjdQVnFqcVh4VWJGWElIR2o5ZU5lNVhzc1BhSXVaTjJxYnR0MjkwekZONA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-11-04-038",
+    "date": "2026-11-04",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corporation (5233.T) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0YmtKc09uN3ZOUWhKbk9JcG1QRHdVMzUyVnpnWW12REcwMjZyR2wzWHF5cFVYZmFjejRJZGpkUkF4Z2ZkdE9zb2tZcl9QUEtQdHR3aEY1U3NaQ3dZbFA1Yzl0Y3I?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0YmtKc09uN3ZOUWhKbk9JcG1QRHdVMzUyVnpnWW12REcwMjZyR2wzWHF5cFVYZmFjejRJZGpkUkF4Z2ZkdE9zb2tZcl9QUEtQdHR3aEY1U3NaQ3dZbFA1Yzl0Y3I?oc=5",
         "type": "rss"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:58:59.023626Z",
+  "updated_at": "2026-11-06T15:40:39.976421Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "Eagle Materials",
       "ticker": "EXP",
       "currency": "USD",
-      "ar": 293818000,
-      "ar_prev": 228573000,
-      "ar_qoq": "+29%",
+      "ar": 264046000,
+      "ar_prev": 293818000,
+      "ar_qoq": "-10%",
       "ar_period": "QoQ",
-      "inventory": 379573000,
-      "inv_prev": 408391000,
-      "inv_qoq": "-7%",
+      "inventory": 361691000,
+      "inv_prev": 379573000,
+      "inv_qoq": "-5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "heidelberg",
@@ -160,17 +160,17 @@
       "name": "Martin Marietta",
       "ticker": "MLM",
       "currency": "USD",
-      "ar": 1020000000,
-      "ar_prev": 780000000,
-      "ar_qoq": "+31%",
+      "ar": 1302000000,
+      "ar_prev": 1020000000,
+      "ar_qoq": "+28%",
       "ar_period": "QoQ",
-      "inventory": 1169000000,
-      "inv_prev": 1213000000,
-      "inv_qoq": "-4%",
+      "inventory": 1243000000,
+      "inv_prev": 1169000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "siam_cement",

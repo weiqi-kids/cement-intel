@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 12,
+  "gate2_fail": 19,
+  "passed": 25,
+  "gate2_samples": [
+    "Vulcan Materials Insider Sold Shares Worth $7,991,224, According to a Recent SEC Filing - www.market",
+    "Fund Update: 344,374 VULCAN MATERIALS (VMC) shares added to Veritas Asset Management LLP portfolio -",
+    "ThyssenKrupp (TKAMY) Is Attractively Priced Despite Fast-paced Momentum - Yahoo Finance",
+    "Thyssenkrupp Prepares Steel Spinoff as tkH2Steel Funding Decision Becomes Legally Binding - Shanghai",
+    "Growth momentum accelerates in the third quarter for Heidelberg Materials - World Cement"
+  ]
+}
