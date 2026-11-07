@@ -1,5 +1,45 @@
 [
   {
+    "id": "thyssenkrupp-2026-11-07-001",
+    "date": "2026-11-07",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Thyssenkrupp delays Duisburg green steel DRI start to 2029 - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPYk5JbkJsZFRHdG9qNnpPeTNwTlUtWHNEVWwzRmdmcHVFOVNZa01fQ18xODlmQjJlb2hDUmppeHJpeGw5SmJMQXZVZUZHTGV5aXFwZWVvYXoyODg3b290eDVHMzhtcGZITWQ0cEFwa1",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYk5JbkJsZFRHdG9qNnpPeTNwTlUtWHNEVWwzRmdmcHVFOVNZa01fQ18xODlmQjJlb2hDUmppeHJpeGw5SmJMQXZVZUZHTGV5aXFwZWVvYXoyODg3b290eDVHMzhtcGZITWQ0cEFwa1JSZzY2VUNTVjVFNDBYb3RrSXdsWDlGdi05WjVFZHd4LWV1UHVWSTdUbUl1Q092MGlncGFVNGJvdjZoVnlxNkpIZGROWG10UFhlRHlSbF9BdUN4VjVQVUQwdWJJVDl6dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-11-07-002",
+    "date": "2026-11-07",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Cemex stock: Vicat advances talks for Southeast France assets - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUVpMEpDcmdnQ0NqRGZqLTV0bks2UldkdjBTaDl1RFlJUk1wREM1ZGRyQnZLQXg2TWpMSWFQRGNraWFYcTE4c3RaU2dxZUNJREtJZm1odEtYMms1ZmVya0w2Ylo4MkNsSzdKb3ZmQV",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUVpMEpDcmdnQ0NqRGZqLTV0bks2UldkdjBTaDl1RFlJUk1wREM1ZGRyQnZLQXg2TWpMSWFQRGNraWFYcTE4c3RaU2dxZUNJREtJZm1odEtYMms1ZmVya0w2Ylo4MkNsSzdKb3ZmQVlTVTdIZVd4VGNQYmVuUEE3TzJDR2UySVYwX2xDdEFzeXdMMTI2aXJtV2VNUTRfZGxqSEV5VzJ5QTkzSnJXa1pGV2FFN3Y4QXotRDZiMjF3YlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-11-06-001",
     "date": "2026-11-06",
     "companies": [
@@ -73,6 +113,60 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21459-ramco-cements-releases-second-quarter-results-for-the-2027-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-11-06-005",
+    "date": "2026-11-06",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Company Limited (AQE.F) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hODlZT0JieDJXSXdjVFBBSjlWMG5IQmFoV2FGZVJpSmZ3b1dITGozSjVfaWFQVXNRQW4yUi1ob3lacEdscFR4b19FQlNJV0NjRUtneGVmSHBXam55SmF1SE00Yw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hODlZT0JieDJXSXdjVFBBSjlWMG5IQmFoV2FGZVJpSmZ3b1dITGozSjVfaWFQVXNRQW4yUi1ob3lacEdscFR4b19FQlNJV0NjRUtneGVmSHBXam55SmF1SE00Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-006",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "positive",
+    "title": "WSP hits record backlog, remains bullish on infrastructure, power work",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DPPYk0HAT8FggdmW8B5xVCo7JSPAPTG56TrpVoQbYX4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY3OTg4MjY3LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/wsp-Q3-2026-earnings-backlog-infrastructure-power/874029/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-007",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Construction’s latest economic reports reveal less confidence despite more work",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/afxQkhTrV7fLWSk5B1mR0oDexgsr9TB13jUz2dZyvTo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyMTY3NzQ1LmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/construction-latest-economic-reports-reveal-less-confidence-more-work/873815/",
         "type": "rss"
       }
     ]
@@ -325,6 +419,25 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/midterms-data-center-construction-transportation-bill/873844/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-014",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Skanska reports $6.9B in Q3 awards, notching record intake 2 quarters in a row",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EBBQVE2QuJm-vj-DfuzYR89JIfGDVnW5cfm5FqF8-jY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTEtMDVfMTUyMDM2",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/skanska-record-order-intake-earnings-q3-2026/873921/",
         "type": "rss"
       }
     ]
@@ -2084,6 +2197,26 @@
       {
         "name": "asia_cement_china",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oc0wwY1pyZHhPU1EzXzhCdDVBdVZ4S3hjYTJvd3BoMV9KR2dSbV9tZTdOcGhxTUwySXNqbGhWdEpLZTFJOVFjSU5zX18yRXNuNTVQZlU3QVZSa2FxSTQwb0dGZ1p1cl93dTNSNklaTHZpUFBLRzZuUUlYMjNrZWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-10-31-008",
+    "date": "2026-10-31",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "What Just Happened To Vulcan Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDhWQ00yWDM0bVFrc0RqREplbG1BazZRT3ViVDQya3A4NHpRWnBMRWxjaXNaWWNlaU84Z1FvTVN5YVlyU3hPNVNuSXRJMTludEdmQS1YdXdPdjN1WTVKVXgzYXNRVGlFenBJNXBpN1",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDhWQ00yWDM0bVFrc0RqREplbG1BazZRT3ViVDQya3A4NHpRWnBMRWxjaXNaWWNlaU84Z1FvTVN5YVlyU3hPNVNuSXRJMTludEdmQS1YdXdPdjN1WTVKVXgzYXNRVGlFenBJNXBpN1Z5ZUNCZzZFU28xbjJVazkxalBlTEttclZfNjVCNVZFd3l5YzNNX1E?oc=5",
         "type": "rss"
       }
     ]
