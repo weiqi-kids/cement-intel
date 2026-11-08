@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 8,
+  "gate2_fail": 20,
+  "passed": 14,
+  "gate2_samples": [
+    "A Look at Vulcan Materials Co (VMC) After 4.6% Gain -- GF Value $284.78 vs Price $297.69 - GuruFocus",
+    "thyssenkrupp Steel prepares new hydrogen tender following revised financing terms - EUROMETAL",
+    "ThyssenKrupp (TKAMY) Is Attractively Priced Despite Fast-paced Momentum - Yahoo Finance",
+    "Thyssenkrupp Steel secures revised tkH2Steel funding terms for flexible hydrogen transition - SteelO",
+    "EU revises requirements for thyssenkrupp’s slower transition - EUROMETAL"
+  ]
+}

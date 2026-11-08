@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:47:34.079940Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-11-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Does Soft Third Quarter Earnings Change The Bull Case For Vulcan Materials (VMC)? - Simply Wall St",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV01aM0VVMHRjUEJINzB4Ri10VTMtOVowNGhyYzB3NEt6MmFLV1hYWm4wdG14WExpNDI2bVBUVzgwb2ZSeWZQM2RFLUdWZEpVU0pXUXhTNDR1R3luTVF2WnM2NGxzejRFN0R5Qlc4RkRUeG1CeHA1NkY3MVN4b0tySlFGTFVYaEZzbTUyMjFsdUdwWlFHSk1FN1J5V1huZ082dGlBdHZvRnFNVkdUR3ZaQjFDQXJJeDQ3MWJHQzd2NXZ3Zzd4aDNSalZoUVd2UdIB0wFBVV95cUxQdVYwdU1VTnZQb041ckRDWlZGQ19BYXlIZWNUSE5jaVp6ajJCZlh6VTR4LTlSc0lmUmRRdXNBOWN6ZmtWUlc0aGpaa2dWSlhGMFk5b3N1YktkS0tVRzBYeTV5b3FPQzZLQ3IxQ0J2aEZzaExiSVZRR0hicVlNV2NLVUFQNTN5VGt6TkVlTkU1ajk2TVdmdGVMWDlKTFhrbmw4MDJBR01QRDZiM1dpY1A2bUtpWS1iQmVHbndad1hsR19ob3JvRk02M1hXTkpQSkc3ck1Z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "taiheiyo-2026-11-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Taiheiyo Cement Corp (TIE.DU) Seasonal returns chart - Yahoo Finance UK",
+      "companies": [
+        "taiheiyo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOenptYWUyUmpuUWhuWDR5djV0UzNQd2Y3Y1JrSkF3SUNEOFNtcVBreEp4b1RqbGNBTGpTZXRINzZjVXVtRXZDOG1lMWo2eFV6OC1jSkhTbEMzLURwUjdlc3RZajY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "taiheiyo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 128,
+    "too_old": 135,
+    "gate1_blocked": 8,
+    "gate2_blocked": 20,
+    "passed": 14,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "A Look at Vulcan Materials Co (VMC) After 4.6% Gain -- GF Value $284.78 vs Price $297.69 - GuruFocus",
+      "thyssenkrupp Steel prepares new hydrogen tender following revised financing terms - EUROMETAL",
+      "ThyssenKrupp (TKAMY) Is Attractively Priced Despite Fast-paced Momentum - Yahoo Finance",
+      "Thyssenkrupp Steel secures revised tkH2Steel funding terms for flexible hydrogen transition - SteelO",
+      "EU revises requirements for thyssenkrupp’s slower transition - EUROMETAL"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Vulcan Materials、太平洋水泥相關動態：「Does Soft Third Quarter Earnings Change The Bull Case For...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Does Soft Third Quarter Earnings Change The Bull Case For Vulcan Materials (V...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Taiheiyo Cement Corp (TIE.DU) Seasonal returns chart - Yahoo Finance UK",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
