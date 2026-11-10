@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T16:06:57.727493Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "taiwan_cement-2026-11-10-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan Cement's October Revenue Hits NT$16.357 Billion, a Record High for the Month, Up 17.83% Year-on-Year; Asia Cement Posts NT$5.431 Billion, Down 6.9% - finance.biggo.com",
+      "companies": [
+        "taiwan_cement",
+        "asia_cement"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5Yld2MlI3dXhZZGJHSEZDNzdOY2hHNTd3UndfbWJVdTE3MnM0R1BDcDAySFBXT0ZEMGlKdHcxUVZOempHZjh0UDJiY2lkblUzLVI4cEhydzdTLVlIQmpBdC1NS21oQVhuSGQ1YkxGLXdCUTlScHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-11-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp nucera on Europe's Hydrogen Goals: Power Prices, Resilience, Execution - News and Statistics - IndexBox",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0dfY0phRlhjMHhqWElTVnJZcGVEV3U0VW9LaTZUWEEzdVBZRmQ2SS1ZSXVVc1d3cldyVFF3TkVEQjNoOTJLNUJ3OWdQZzRHYnhNN0V5cFF4ZzRfdVRrVGVoaXlpVVRXSi05TGdqRVFSa1ZiX21JQTY4QkdaRTdPWk1KUExjcDU3WVpWeUN5NDJlTFRyb2wtemU1LUdEdzM1Y3NVRE9MRTUzTnZMWTRSaHFfRHBzNHlJTHRQZkt1NkQwUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-11-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OPTIMITIVE & thyssenkrupp Polysius brings autonomous AI optimisation to the North American Cement Industry - World Cement",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa3dmcTFnUmZXeWcwc0p5a2FGYVQxSmRmWDBMcjRISGdzdzlweE5lLXh6TGZDVk10SDlUNlJoelFQY09WZG5KX1FrVG1TbjFrWUVnNzZ2cHZiOXM2dk5UeUgxOU9xSEgzbDFQNzlwSnJ6OGs0QldmZzhOQUJ0bXRIS0xPcDlQbkthQ2NSOGtuSUprNk1HM1lsSEI1UUlpZzBBbkR5VkJFUF9SemtxTGZJb0pyc1c3d1FYMmQwVEJGUHhBbGZ5QTliOUFEeWhOTk0wdmg2Y25MZkZTZTlJSk54Z3V2SGJsRnRVWmtv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-11-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp nucera - Three Things Europe Needs to Turn Hydrogen Ambition Into Industrial Reality - Hydrogen Central",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHVra3AtcnlGVzZVaVpfVnBONTFQRUpBVkM3SGgzeXFNUnR6a3JXek5QNDRfSzdRRDk1aGZtcVUwZkVDTmhkdmxvVEVybWhvaG85YnREOS13NEdrOHhpQlB3UFRodXhwWFQ4ZlpwX3BfSGtBXzcxbjFhMWFHc09GcnM3ZE41T2t1WFBfOE10YlhyU0JtVmw1NHBzMGRBUkFoSmFUTTBRUXY3aTFpTGt4TGl4aHV4LTJUSDF3b2hNNk0wY28?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "holcim-2026-11-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Suurstoffi: Setting new Swiss building standards with Holcim inside - Holcim",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fN2NUX2Q4VUJDTTRSMm9fVXZWMFJuSHI3eV82alB5bDdrcGdaVXJ6WXBuS1VueVZLMV9zUFhieVBzbUtaZEYwTl9kMFRocmVLRzJj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 4
+      },
+      {
+        "id": "holcim",
+        "count": 3
+      },
+      {
+        "id": "asia_cement",
+        "count": 2
+      },
+      {
+        "id": "taiwan_cement",
+        "count": 1
+      },
+      {
+        "id": "taiheiyo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 296,
+    "dup_title": 116,
+    "too_old": 125,
+    "gate1_blocked": 7,
+    "gate2_blocked": 20,
+    "passed": 28,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "11.1%",
+    "gate2_samples": [
+      "Vulcan Materials Company (VMC) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "A Look at Vulcan Materials Co (VMC) After 4.6% Gain -- GF Value $284.78 vs Price $297.69 - GuruFocus",
+      "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+      "EU revises requirements for thyssenkrupp’s slower transition - EUROMETAL",
+      "thyssenkrupp Steel prepares new hydrogen tender following revised financing terms - EUROMETAL"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為蒂森克虜伯、Holcim、亞泥相關動態：「Taiwan Cement's October Revenue Hits NT$16.357 Billion, a...」。主要關注主題為財報、庫存、碳排放，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Taiwan Cement's October Revenue Hits NT$16.357 Billion, a Record High for the...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "thyssenkrupp nucera on Europe's Hydrogen Goals: Power Prices, Resilience, Exe...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 296,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 7,
+  "gate2_fail": 20,
+  "passed": 28,
+  "gate2_samples": [
+    "Vulcan Materials Company (VMC) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "A Look at Vulcan Materials Co (VMC) After 4.6% Gain -- GF Value $284.78 vs Price $297.69 - GuruFocus",
+    "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+    "EU revises requirements for thyssenkrupp’s slower transition - EUROMETAL",
+    "thyssenkrupp Steel prepares new hydrogen tender following revised financing terms - EUROMETAL"
+  ]
+}
