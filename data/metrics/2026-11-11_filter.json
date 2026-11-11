@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 9,
+  "gate2_fail": 15,
+  "passed": 20,
+  "gate2_samples": [
+    "A Look at Vulcan Materials Co (VMC) After 4.6% Gain -- GF Value $284.78 vs Price $297.69 - GuruFocus",
+    "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+    "Growth momentum accelerates in the third quarter for Heidelberg Materials - World Cement",
+    "Heidelberg Materials reports gains in third quarter - Pit & Quarry",
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News"
+  ]
+}

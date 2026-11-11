@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:52:31.108909Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cemex-2026-11-11-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cemex stock: Q3 profit rises as cash flow reaches record - ad-hoc-news.de",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzV2dHlaQ3p5R0N2Q3ZHNG5ualhpVDl3MFFEVWh6NnRSSU5Ud3pvMU1rbG81a2hCbjZTTWl4TmIwbVJQWVpvVUVWUklNb2dBcHcwQWJycXNONVVwTG96Z09LbTdDbURic19TWl83b0ZPQjRvZGRmb3FMY04tVXFHNnFHMDJaanV3NVh3QlJQS090TDcxUnJQdjR2SWx1OUIyczRjOEZCSG01alR1WWpHS18wYWZXdkp0Q2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-11-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials reports decrease in Q3 revenue - Construction & Demolition Recycling",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmVQR0dQQUZMMkpsSl9xN3BpS1FHcC1Cb3NIem41SEx5VzNxTXFVRERoX1gyZW1KeU5uenZnSXFQd3VQRG9zX0JJaXVUbjc1ajN3RTZnZWFtbjNyUGtzbFJGYlhCekRYMnNJTEFhWnJuOEoweEdoY3dVdUxwak9VUWt4VEdxMWFDT2VNVlNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-11-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG (TKA) Reports BlackRock Voting Rights Threshold Crossing - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXR1VDBUcEFzWjdNQ1hQbDB5TU44bldVdWQ4TVFWQnlGRENtUWtUYWZjY3RyZHJQZEFlcnUwNHJPNzVobnBvNU5EQ2Vxakp2RE9DZndoR2FPMmJGUlc4M01CYkh6WUl2UGZKYUNzSzlDemN2dU53QlNxUXktNmpxcURyWkFvTlNGSmk0bnN5ajJLRWtnallydzRxeXFhdHFaVkhXVDJOa0tZZmNCUjJLajBqeVZIeEd4MEZsVHRhUXhrNGlKT1dNTnhLSTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "holcim-2026-11-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holcim stock gains carbon-storage angle through 44.01 investment - ad-hoc-news.de",
+      "companies": [
+        "holcim"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDV5UERNTndVaXRabThKQVF2ekxCakJxQ3QzTmhJRjZ3YkFBc3gtN2xaMDVSTi03RzVmNWpULS1aTlVrUnlRT0c0NDNyOXltVlFleUZTR2ZvbGRsMnIzc3p3RFM5ZmtEYjJybWZieHA2N3JfTnBnZUtYTXBwWV9jVVpvX0U4c2xCbTZqR1pkbzR6X0ZQWWI4TFo3ckRwR28tU2Y5cGk3SWJCYktZZWR2VktRTUhQR0laOG5TUkc4Ty1udkg1dFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-11-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials Helps Deliver Lower Carbon Road Improvement Scheme In Cumbria - Construction UK Magazine",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0JFRG4waTdfeF8xY3lpbnhEQkkxVXhyQXNrUE92cTVkOEFGd0N4V2dwb1Q1cjZ5b2V6blptRWhjZ2xpRE1TNV96WXExTDBCeTVtN0wwd2JZcmdaaTA3a0dKNlJqTXE4Uk90YWFsOXVVTEJwWUJSeUFqNDJTRUcwVkJfTGtKcXJieFdsR0YzOVh5SXZZSFpqN1FpU3ZzOGtPbF93ZTlYRFJfVC1DR1BWcTFMaDRmQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "crh",
+        "count": 1
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "holcim",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 131,
+    "too_old": 132,
+    "gate1_blocked": 9,
+    "gate2_blocked": 15,
+    "passed": 20,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "A Look at Vulcan Materials Co (VMC) After 4.6% Gain -- GF Value $284.78 vs Price $297.69 - GuruFocus",
+      "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+      "Growth momentum accelerates in the third quarter for Heidelberg Materials - World Cement",
+      "Heidelberg Materials reports gains in third quarter - Pit & Quarry",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為CRH plc、Vulcan Materials、蒂森克虜伯相關動態：「Cemex stock: Q3 profit rises as cash flow reaches record ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Cemex stock: Q3 profit rises as cash flow reaches record - ad-hoc-news.de（財報、庫存）",
+        "level": "red"
+      },
+      {
+        "text": "Vulcan Materials reports decrease in Q3 revenue - Construction & Demolition R...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

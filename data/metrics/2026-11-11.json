@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-11",
+  "total_events": 11,
+  "by_company": {
+    "crh": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "vulcan": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "thyssenkrupp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cemex": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "heidelberg": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "asia_cement": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "taiheiyo": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "infrastructure_spending": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "carbon_emissions": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

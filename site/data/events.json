@@ -1,5 +1,218 @@
 [
   {
+    "id": "crh-2026-11-11-001",
+    "date": "2026-11-11",
+    "companies": [
+      "crh"
+    ],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "neutral",
+    "title": "Florida is growing. Its water infrastructure needs to grow with it.",
+    "summary": "<p>The post <a href=\"https://www.crh.com/news-and-insights/florida-is-growing-its-water-infrastructure-needs-to-grow-with-it/\">Florida is growing. Its water infrastructure needs to grow with it.</a> a",
+    "sources": []
+  },
+  {
+    "id": "vulcan-2026-11-11-002",
+    "date": "2026-11-11",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials reports decrease in Q3 revenue - Construction & Demolition Recycling",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmVQR0dQQUZMMkpsSl9xN3BpS1FHcC1Cb3NIem41SEx5VzNxTXFVRERoX1gyZW1KeU5uenZnSXFQd3VQRG9zX0JJaXVUbjc1ajN3RTZnZWFtbjNyUGtzbFJGYlhCekRYMnNJTEFhWn",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmVQR0dQQUZMMkpsSl9xN3BpS1FHcC1Cb3NIem41SEx5VzNxTXFVRERoX1gyZW1KeU5uenZnSXFQd3VQRG9zX0JJaXVUbjc1ajN3RTZnZWFtbjNyUGtzbFJGYlhCekRYMnNJTEFhWnJuOEoweEdoY3dVdUxwak9VUWt4VEdxMWFDT2VNVlNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-11-11-003",
+    "date": "2026-11-11",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp AG (TKA) Reports BlackRock Voting Rights Threshold Crossing - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORXR1VDBUcEFzWjdNQ1hQbDB5TU44bldVdWQ4TVFWQnlGRENtUWtUYWZjY3RyZHJQZEFlcnUwNHJPNzVobnBvNU5EQ2Vxakp2RE9DZndoR2FPMmJGUlc4M01CYkh6WUl2UGZKYUNzSz",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXR1VDBUcEFzWjdNQ1hQbDB5TU44bldVdWQ4TVFWQnlGRENtUWtUYWZjY3RyZHJQZEFlcnUwNHJPNzVobnBvNU5EQ2Vxakp2RE9DZndoR2FPMmJGUlc4M01CYkh6WUl2UGZKYUNzSzlDemN2dU53QlNxUXktNmpxcURyWkFvTlNGSmk0bnN5ajJLRWtnallydzRxeXFhdHFaVkhXVDJOa0tZZmNCUjJLajBqeVZIeEd4MEZsVHRhUXhrNGlKT1dNTnhLSTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-11-004",
+    "date": "2026-11-11",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Holcim stock gains carbon-storage angle through 44.01 investment - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDV5UERNTndVaXRabThKQVF2ekxCakJxQ3QzTmhJRjZ3YkFBc3gtN2xaMDVSTi03RzVmNWpULS1aTlVrUnlRT0c0NDNyOXltVlFleUZTR2ZvbGRsMnIzc3p3RFM5ZmtEYjJybWZieH",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDV5UERNTndVaXRabThKQVF2ekxCakJxQ3QzTmhJRjZ3YkFBc3gtN2xaMDVSTi03RzVmNWpULS1aTlVrUnlRT0c0NDNyOXltVlFleUZTR2ZvbGRsMnIzc3p3RFM5ZmtEYjJybWZieHA2N3JfTnBnZUtYTXBwWV9jVVpvX0U4c2xCbTZqR1pkbzR6X0ZQWWI4TFo3ckRwR28tU2Y5cGk3SWJCYktZZWR2VktRTUhQR0laOG5TUkc4Ty1udkg1dFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cemex-2026-11-11-005",
+    "date": "2026-11-11",
+    "companies": [
+      "cemex"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Cemex stock: Q3 profit rises as cash flow reaches record - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzV2dHlaQ3p5R0N2Q3ZHNG5ualhpVDl3MFFEVWh6NnRSSU5Ud3pvMU1rbG81a2hCbjZTTWl4TmIwbVJQWVpvVUVWUklNb2dBcHcwQWJycXNONVVwTG96Z09LbTdDbURic19TWl83b0",
+    "sources": [
+      {
+        "name": "cemex",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzV2dHlaQ3p5R0N2Q3ZHNG5ualhpVDl3MFFEVWh6NnRSSU5Ud3pvMU1rbG81a2hCbjZTTWl4TmIwbVJQWVpvVUVWUklNb2dBcHcwQWJycXNONVVwTG96Z09LbTdDbURic19TWl83b0ZPQjRvZGRmb3FMY04tVXFHNnFHMDJaanV3NVh3QlJQS090TDcxUnJQdjR2SWx1OUIyczRjOEZCSG01alR1WWpHS18wYWZXdkp0Q2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "heidelberg-2026-11-11-006",
+    "date": "2026-11-11",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Heidelberg Materials Helps Deliver Lower Carbon Road Improvement Scheme In Cumbria - Construction UK Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0JFRG4waTdfeF8xY3lpbnhEQkkxVXhyQXNrUE92cTVkOEFGd0N4V2dwb1Q1cjZ5b2V6blptRWhjZ2xpRE1TNV96WXExTDBCeTVtN0wwd2JZcmdaaTA3a0dKNlJqTXE4Uk90YWFsOX",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0JFRG4waTdfeF8xY3lpbnhEQkkxVXhyQXNrUE92cTVkOEFGd0N4V2dwb1Q1cjZ5b2V6blptRWhjZ2xpRE1TNV96WXExTDBCeTVtN0wwd2JZcmdaaTA3a0dKNlJqTXE4Uk90YWFsOXVVTEJwWUJSeUFqNDJTRUcwVkJfTGtKcXJieFdsR0YzOVh5SXZZSFpqN1FpU3ZzOGtPbF93ZTlYRFJfVC1DR1BWcTFMaDRmQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-11-11-007",
+    "date": "2026-11-11",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Asia Cement posts NT$2.86 EPS for first three quarters; Far Ding Leasing swapped for Far Eastern International Leasing shares, with NT$1.7 million disposal gain recognized - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBzcUxUM2JjVUdvenNvYXROQXZOaDlobDJvdnZRY2ZrbzlsSW4tSXNjR3B0VnpZLTZaMVpzdk5YRXE1UERzRmZaNHdxQkJLclJjN1Jka2c1NEpNTTFuZEZRSHJHQ2RrRWwzVFFma1Vlak",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzcUxUM2JjVUdvenNvYXROQXZOaDlobDJvdnZRY2ZrbzlsSW4tSXNjR3B0VnpZLTZaMVpzdk5YRXE1UERzRmZaNHdxQkJLclJjN1Jka2c1NEpNTTFuZEZRSHJHQ2RrRWwzVFFma1VlakxYLUFrQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-11-11-008",
+    "date": "2026-11-11",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Taiheiyo cuts forecast as cement volumes weaken - CemNet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUE3d3F3Wl9MN2lNODJaY3JfenktcG1TbTRweEU3ckVfSkFsalpLcGxQd2FyaXMtbVVBY3VCZ09rOUdpNG9lbmdPUjZLdkNzV09xWV9jdkd5N3VrdXVjUWoyUG54S2w1YlR1RXBXQV",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUE3d3F3Wl9MN2lNODJaY3JfenktcG1TbTRweEU3ckVfSkFsalpLcGxQd2FyaXMtbVVBY3VCZ09rOUdpNG9lbmdPUjZLdkNzV09xWV9jdkd5N3VrdXVjUWoyUG54S2w1YlR1RXBXQVlCVkFEYVlEdWVpMk1vNEZKNVlPc0E3TVdmX3YySzRaZ0xxTG4xNGxjZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-009",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kuwait Portland Cement returns to profit in third quarter of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/results-financial-report.jpg\" /></p><p><strong>Kuwait: </strong>Kuwait Portland Cement has announced its financial results for the third quarter o",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21476-kuwait-portland-cement-returns-to-profit-in-third-quarter-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-010",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Sumitomo Osaka Cement raises 2027 financial year profit forecast following second quarter growth",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/japan-currency.jpg\" /></p><p><strong>Japan:</strong> Sumitomo Osaka Cement has announced its financial results for the second quarter of the 2027 ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21474-sumitomo-osaka-cement-raises-2027-financial-year-profit-forecast-following-second-quarter-growth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-011",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Misr Beni Suef Cement’s net profit increases in first nine months of 2026",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/egypt-cairo-cityscape-pyramids-background.jpg\" /></p><p><strong>Egypt: </strong>Misr Beni Suef Cement reported a 2% year-on-year increase in conso",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21473-misr-beni-suef-cement-s-net-profit-increases-in-first-nine-months-of-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-11-10-001",
     "date": "2026-11-10",
     "companies": [
@@ -198,6 +411,120 @@
       {
         "name": "taiheiyo",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOU2xCaENlcktEUklkeEVLZlM1T3JyTzNNeXdidV84LVBlSFNnb1JzeUc2NnZuWUtmWEl2Z01ITzYwcmM0c3lyLXVrZGVUZ1d1cHN0NnR6TkNnclZHZTFLam55S0E4Skl3OXAzejNIREtEOElSRVhQMUtDbGFPSkhvUkllclJOcU91bVRtbDBnSWZ2UmxwNUlqcDNQUnBmMnFWRXNYOXBqSmhiUkpsQkZXeWRjTjdUbjdLREVvaElwTFJvLVkxNS1hR0M0bHRPWnRMZUtnbG00ZHd3cmNOZTR0dDNJbmVSUEwwZEktNkRlOENISVlJVHNpSVkzaGFXd2dtWDFuZTdna2JSLVdf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-011",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "‘Made in Europe’ and low-carbon rules up for debate as EU eyes industrial law deal - EUobserver",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGFoVkJfcXlRV0huWE10RXlIZVZLUUZfN2xfaUd2OTRzcC10YjRmNXd6UThaNlR3QTVHdXd0VjBDUnFhcnFMenE3M1pFaERMUDZuOGYxSmRUYlBMVmE5WkxSVHlvU191bTlCcXlwVG",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGFoVkJfcXlRV0huWE10RXlIZVZLUUZfN2xfaUd2OTRzcC10YjRmNXd6UThaNlR3QTVHdXd0VjBDUnFhcnFMenE3M1pFaERMUDZuOGYxSmRUYlBMVmE5WkxSVHlvU191bTlCcXlwVG1kOS02el9CVU5sdzI1NWdnN2lndFM0NnY0YW5VTFUwOHg5QUQ1NzlYZVdYTmlmcnBEN3paa1oybTAwY3pXMWNhSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-10-012",
+    "date": "2026-11-10",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim targets remaining Pacasmayo voting shares - https://megaproject.com/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVkybjlpanRRMVBDbEN1Wm8tZlZ6V0M2V25pNjZTdzZWWUZxbWRWaFNLQkE0Q2x6bzVVTnRSNG5WUU5LcmZNYVAzY1A2aW41bUJQU2swaTl2Y29WNUY1TkdGamIxOHd3N0ZOaV9UMF",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRVkybjlpanRRMVBDbEN1Wm8tZlZ6V0M2V25pNjZTdzZWWUZxbWRWaFNLQkE0Q2x6bzVVTnRSNG5WUU5LcmZNYVAzY1A2aW41bUJQU2swaTl2Y29WNUY1TkdGamIxOHd3N0ZOaV9UMFB2Y1NBV0x2WVN6U0dheUdCTzRZLWFibFR5S1p6cA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-11-10-013",
+    "date": "2026-11-10",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "OPTIMITIVE and Grey Build partner on AI optimisation in cement industry",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/contract-handshake-1500.jpg\" /></p><p><strong>Spain:</strong> OPTIMITIVE has entered a collaboration agreement with Grey Build, an operating unit ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21472-optimitive-and-grey-build-partner-on-ai-optimisation-in-cement-industry",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-11-10-014",
+    "date": "2026-11-10",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Taiheiyo Cement forecasts drop in profit for 2027 financial year",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/japan-decline-1500.jpg\" /></p><p><strong>Japan:</strong> Taiheiyo Cement has announced its financial results for the first half of the 2027 financ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21471-taiheiyo-cement-forecasts-drop-in-profit-for-2027-financial-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-015",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Northern Region Cement reports 48% year-on-year increase in nine-month profit",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/saudi-arabia-currency.jpg\" /></p><p><strong>Saudi Arabia:</strong> For the nine-month period ending on 30 September 2026, Northern Region Cement a",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21470-northern-region-cement-reports-48-year-on-year-increase-in-nine-month-profit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-016",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "West China Cement shares fall 40% year-on-year",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/china-stock-market-flag-1500.jpg\" /></p><p><strong>China:</strong> West China Cement reported a 40% year-on-year decrease in its share price from ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21469-west-china-cement-shares-fall-40-year-on-year",
         "type": "rss"
       }
     ]
@@ -1278,6 +1605,47 @@
     ]
   },
   {
+    "id": "heidelberg-2026-11-05-018",
+    "date": "2026-11-05",
+    "companies": [
+      "heidelberg"
+    ],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Heidelberg Materials Q3 growth: low‑carbon cement supply signals for designers - Geomechanics.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRXEwTzVnRzIydU5zTmV4bjVCUTNvejdRRjdUNGN2bEpkQ05wX2luQlJPZlBYazd5dDZ1aDQzX1EtYWRGakJVQkZXR2M3WFczNGh5VmNOQmdXWEpQVjE4S2lrSHlLbWM4clh3UXlzbU",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRXEwTzVnRzIydU5zTmV4bjVCUTNvejdRRjdUNGN2bEpkQ05wX2luQlJPZlBYazd5dDZ1aDQzX1EtYWRGakJVQkZXR2M3WFczNGh5VmNOQmdXWEpQVjE4S2lrSHlLbWM4clh3UXlzbUtxOHktSjlLbm9jdXhvQVFHYjU0SnZZOE92bHpETk1VeGc1NE9EYlRXRW1lVlRJWmI1Nm92SXRtTF91Wkt4WUtPbjBaOVdUeE9Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-11-05-019",
+    "date": "2026-11-05",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Co Ltd (AQE.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wYnhSUU80eG1kc3FSS0xKSmFReG9BYk1JOFVESmpDNlE4Wlp2Qmc1M0FKUG1iSVlCYkx0dVJBalJOQVBRVUFKSkRwN0E3Q1FjVm5kcURRZ1gyeHhvUjlxWFpUYU0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wYnhSUU80eG1kc3FSS0xKSmFReG9BYk1JOFVESmpDNlE4Wlp2Qmc1M0FKUG1iSVlCYkx0dVJBalJOQVBRVUFKSkRwN0E3Q1FjVm5kcURRZ1gyeHhvUjlxWFpUYU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-11-04-001",
     "date": "2026-11-04",
     "companies": [
@@ -2029,6 +2397,26 @@
       {
         "name": "taiheiyo",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0YmtKc09uN3ZOUWhKbk9JcG1QRHdVMzUyVnpnWW12REcwMjZyR2wzWHF5cFVYZmFjejRJZGpkUkF4Z2ZkdE9zb2tZcl9QUEtQdHR3aEY1U3NaQ3dZbFA1Yzl0Y3I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-11-04-039",
+    "date": "2026-11-04",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Anhui Conch Cement Company Limited (600585.SS) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SN1JXOW53Y3lJR3EtRmhOd3FrLUR4MW1ucTJwYVd2VElOTXE2S0xBRXhmRVlyaURGQVRpeVE2OFpTcXh4TG9rbnZFQ21XdUJkT1c1OXRfTzVYSHhrZjZ3QWloamlTakY5?oc=5\" tar",
+    "sources": [
+      {
+        "name": "anhui_conch",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SN1JXOW53Y3lJR3EtRmhOd3FrLUR4MW1ucTJwYVd2VElOTXE2S0xBRXhmRVlyaURGQVRpeVE2OFpTcXh4TG9rbnZFQ21XdUJkT1c1OXRfTzVYSHhrZjZ3QWloamlTakY5?oc=5",
         "type": "rss"
       }
     ]
