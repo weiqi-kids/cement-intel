@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:52:26.725863Z",
+  "updated_at": "2026-11-12T16:35:23.728426Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -177,34 +177,34 @@
       "name": "Siam Cement",
       "ticker": "SCC.BK",
       "currency": "THB",
-      "ar": 51202000000,
-      "ar_prev": 50510000000,
-      "ar_qoq": "+1%",
+      "ar": 51270000000,
+      "ar_prev": 51202000000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 74216220000,
-      "inv_prev": 72303805000,
-      "inv_qoq": "+3%",
+      "inventory": 73262491000,
+      "inv_prev": 74216220000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "taiheiyo",
       "name": "太平洋水泥",
       "ticker": "5233.T",
       "currency": "JPY",
-      "ar": 147969000000,
-      "ar_prev": 147951000000,
-      "ar_qoq": "+0%",
+      "ar": 153725000000,
+      "ar_prev": 147969000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 144334000000,
-      "inv_prev": 137237000000,
-      "inv_qoq": "+5%",
+      "inventory": 149995000000,
+      "inv_prev": 144334000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "taiwan_cement",

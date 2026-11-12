@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 11,
+  "gate2_fail": 13,
+  "passed": 23,
+  "gate2_samples": [
+    "Thyssenkrupp nucera starts one of India’s largest caustic soda units for Kutch Chemical - Indiatimes",
+    "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+    "New Holcim UK director appointed to lead on people - https://megaproject.com/",
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+    "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

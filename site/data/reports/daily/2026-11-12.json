@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:35:27.855829Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-12-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Najran Cement reports profit fall in third quarter of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21479-najran-cement-reports-profit-fall-in-third-quarter-of-2026"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-11-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials (VMC) Could Be 9% Undervalued After Its Latest Earnings Report - Simply Wall St",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObXZSbWd3dzhFX0labF9fdGxHZ0xZaTZRWVJRdm5zRGRkM0RLQmk5eGtEb1dJTTRCWWVySV9qV0YtTUZBOW5HUXhoXzBYVTVQdjQ2VXMwU1ROZmV6NWpLcEhCbTB3eENwRWluVWhuQnAzVXlzR0oyODh4TV9kNzNCcGVqallYYmlVMVZScWZWdWJvcGhYYWNMVURCUjFhZkhldnB5ZGZzSW52eDNZMWZaTkFfQnVoMjFpdzlyVGhUTm8xbkFYQmN1YUNwcG42QdIB0wFBVV95cUxPb3hxUlI2WlZRMUJadlR0Yks4OVpUdDZYeHhoSURKM3UzSTRRcU1rWV9Wek05NHhDcjVIeXVIUVlLcWgzNkMyRHNFSV9GbjRsVXZsQm9BNU4yZ0I4dGU5VnZ0MUN1Q1RibGVGUkJPdllvYUplN1JoMzRhckYtenBYaVhfS2luS2FicUJUTjJ4YmVSeE9ja3dxUmNNMDFkUmhSWndvOHVLWGY0Rksxbng2RHhCbDlic3BJcS1TWDEyQ0Fpdm41eDVoUUpvMEtQcnR1MC1v?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-11-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ThyssenKrupp AG (TKA) Receives Morgan Stanley Voting Rights Notice - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QNWxGR1BvdkxJTmFTQ2huaWhiRHU1NGIwNTJOcnFBdzJTOXVHbDgzM2s3UmJHaXhOQVp4QWhqR20tV0R4NFJLQUJqeDk4dHNTSXoweFF6UV8xaEhaY1kwQnBBa3cyRmVwdUZCNDdR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-11-12-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG (TKA) Reports Morgan Stanley Voting Rights Notification - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3loeno3bXBOX09JQVNKVU1yb0E2LTRHQU5rcTdUaS1jSGQxU3QtaGNfUVhaR0lKbXpjbnR5azJScG9JRHRxRzFnbGJTZ3FmSUlfQ0pmd2NYUkhObkx2d05sY2l0Q2E5VWFJRkxEeWJrdjRuZFpVSUhVNXo4VmdnejUtWWZ4WDVPREVDbkJ3SldMeDVRR3U2dEF2OVI2cDZVMDEwSnpaNmt2cWhjVlZKTndIaEFTRzZvN0pZOXB1NVR3c1BXRUJPc2gwUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-11-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Key facts: BLK Raises Aluminum Stake; thyssenkrupp Threshold Crossed - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSW9ycHprMkkxNWtITUtld0dXZVM1aXhVZ3k2T3JySGQ1WjB4Z045bnR3RlRraURMbE0zVkZhSlNpTng1bnJqLVoxaUtVNWdYdUFIMFVUZ2g4VGZva2VyZjVueWFScWlXa1h3dDVsUDJCQWxHZFh5QjFxQVJYbXhRMWVVVWV2cS1ybnQzSTZ0Vkk4OUZaOU82VVRHN2hNMDNuYy1qQXA2Q1o1UzVUcTRxdkJ6NndlT3luYU82Ml9GQU1NMFZtME44?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 4
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "anhui_conch",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 4
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 126,
+    "too_old": 131,
+    "gate1_blocked": 11,
+    "gate2_blocked": 13,
+    "passed": 23,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Thyssenkrupp nucera starts one of India’s largest caustic soda units for Kutch Chemical - Indiatimes",
+      "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+      "New Holcim UK director appointed to lead on people - https://megaproject.com/",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+      "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為蒂森克虜伯、Vulcan Materials、海螺水泥相關動態：「Najran Cement reports profit fall in third quarter of 2026」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Najran Cement reports profit fall in third quarter of 2026（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Vulcan Materials (VMC) Could Be 9% Undervalued After Its Latest Earnings Repo...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
