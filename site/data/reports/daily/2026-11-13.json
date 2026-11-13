@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:56:49.755144Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-13-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cementos Argos earnings hit by energy costs and stronger peso",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.cemnet.com/News/story/182447/cementos-argos-earnings-hit-by-energy-costs-and-stronger-peso.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-13-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Cementos Argos reports third-quarter results for 2027 financial year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "raw_material_energy_cost",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.globalcement.com/news/21485-cementos-argos-reports-third-quarter-results-for-2027-financial-year"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-11-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials xStock: Funding, Investors, Team and Key Events - CryptoRank",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOUEZJMHBkUDg5N2ZwUmJqT0hlempUV3dycV91V2IyV2lrZ0NBQWhYQmpIU19VQ1pERUF2aTJ4bVlXRndST0NIbG1iNmU0TjhaVlZIemJiMlVhamtyTW11NQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-11-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's Grasim Industries posts profit surge on dividend income from UltraTech - Reuters",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMVFJQk91Ni1KYVdJcDF0TUFUUkJjMlMwSExxd1pwR2hGTEVUZUllRVVWcjUyd2QxNEpkb0pZTGlrMGRNOVNiV0VvQ0hFc3BKb2h5OUs2LVlSZVY1bDJjMDduT3JRQTR3RFVsb0E4bUtsZjJQdjJxemdXOXdOS0NlaUlmZXhmLWluRVE1NjZTbDVvcHI1T0VIMVk2ME1teHM3QXRvMU1HaHZBa3pUeVBPOGRQSFRBU0Jj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-11-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement: Can better realisations, easing input costs unlock stock upside? - TradingView",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPek84MklmOXczeEFkYlUyaDV5VnplQXBfSTNDai1yVWlsM251UVFPWDBMeHYzck9ZNnVXSWM4TzBCckh2V2lkTlZxNVdQWHhkOTdvbWE5SUUtVlRoa0dXVjJwRjh1M2J5YUt5RzVTczczOFh3SmJROFkxZ19udTd3dHA3RmdLVVBUTEdyQ05fZ3IxWXdUcktlcEc0WUZLUUE2NjhrRVJ0YXdxT2NNakcxWTBBbi0wOFNPV2ZEZ20tTWtQX3hsdnkyM0hjUnVCdG9NalBFWWh6RHE5LXk1R2VjMkVMWHRzS1o5aEFYdWxrenBQM0dQQ1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.3,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 3
+      },
+      {
+        "id": "vulcan",
+        "count": 1
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 144,
+    "too_old": 148,
+    "gate1_blocked": 15,
+    "gate2_blocked": 7,
+    "passed": 20,
+    "pass_rate": "10.5%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+      "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Anhui Conch Cement Co Ltd (AQE.MU) Seasonal returns chart - Yahoo Finance UK",
+      "Anhui Conch Cement Co Ltd (AQE.DU) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為UltraTech、Vulcan Materials、CEMEX相關動態：「Cementos Argos earnings hit by energy costs and stronger ...」。主要關注主題為財報、原料能源成本、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cementos Argos earnings hit by energy costs and stronger peso（原料能源成本、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Cementos Argos reports third-quarter results for 2027 financial year（原料能源成本、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
