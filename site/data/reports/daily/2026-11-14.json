@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:46:35.307658Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-11-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Navantia vs ThyssenKrupp Marine Systems: The European Submarine Export Competition - Envanter Medya",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbklvNDY4VXlLQzYwNGdnUkNPX0VYYW9IYUNHQkRFX0hBUzVHQzRPY1Q4ZHNpUmFMNGw2V3RtV1hHaHNhZU5xbThPQjRoeWhuRTZsX1hpS3NVbnZHazhYU1ZaRUdMNi1tX2hkVTIxeE5YZjlnc0h3WER4SEZaa1g4RGFBSXVRc1Z5WjBFeExrWlpIdWxkZEhUVDQzV0NLbV9lc2tZZnR1ajVQRWE5WE50VQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TKA - Green Steel Projects And Marine Backlog Will Reshape Long Term Earnings Profile - Simply Wall St",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa1hhdUNRZkFtVGhlSTY2YjNXQlQ5Q0lzOVBobVotM0RmNzVzTGtLTmwzaDdpNXRwQW9NVGhoeGd6d3hvWmNPRi1sQkpXUjI3ZXA0RlZOakE3U09SSXVlYVNSTkdMQ2tpUTItR3ZVZ2FVYlltMi1pTGF3M2ZldmJGUm82Sk9vYVM5c1Y5X0szVTR3aGhQdElsN2ZwRUlxUHIwd3piU1l1Sks5em51MUhEVTdZWDR6WllsNGxaZ2hXZHIzYUwyRWxOYnVINjFlZEJmRDhiRjVqcXkwMUt5WGFZVW95NmR3YmxVWjRWWS1MZ25UbWlfTXRlVnNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thyssenkrupp-2026-11-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG (TKAd) Company Information - Simply Wall St",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVlYdGNzMEhOc25saE5VN0M2RE1ZOUxBVnBEcTlOLVJ1ZFZkdGx6WG5jTV94QTJ6bF9nVXlCTkdIS2FJRXloX0tOak93QU9LbVRhYWZvQlVlc3Z5Q2FMZ3RzVnlQNW5Rd2pHSkpMLWFNZ1o1T2xvZFlmakpRSHdJeXVMVmFlWGVfVjg3SmNodjU2eWt1UFpQbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-11-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp (OTCPK:TKAM.Y) - Stock Analysis - Simply Wall St",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBueXAyUlN5QWxSUHZBRm9YSEJtQUswdmxlT3hiLUZrTGZHb2N0V0lmUktfVWd4WW9qU1hmTmdlUE1tVnhCZ09yOVJCZnlWd042NlYzY21xcm45UGp0RDdoS3JsMGl0VWxTR2Z4dGZnbGd2am9Ua3VWSw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 136,
+    "too_old": 146,
+    "gate1_blocked": 12,
+    "gate2_blocked": 8,
+    "passed": 9,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+      "Thyssenkrupp nucera starts one of India’s largest caustic soda units for Kutch Chemical - Indiatimes",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+      "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Anhui Conch Cement Co Ltd (AQE.MU) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為蒂森克虜伯相關動態：「Navantia vs ThyssenKrupp Marine Systems: The European Sub...」。主要關注主題為財報、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Navantia vs ThyssenKrupp Marine Systems: The European Submarine Export Compet...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "TKA - Green Steel Projects And Marine Backlog Will Reshape Long Term Earnings...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 12,
+  "gate2_fail": 8,
+  "passed": 9,
+  "gate2_samples": [
+    "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+    "Thyssenkrupp nucera starts one of India’s largest caustic soda units for Kutch Chemical - Indiatimes",
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+    "Asia Cement (China) Holdings Corp (4OJ.SG) Seasonal returns chart - Yahoo Finance UK",
+    "Anhui Conch Cement Co Ltd (AQE.MU) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
