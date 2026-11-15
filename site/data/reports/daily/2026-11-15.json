@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:21:45.677198Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thyssenkrupp-2026-11-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp (BIT:1TKA) - Stock Analysis - Simply Wall St",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82VVNCeEUxeE4wZExCSFlmQ2M2em4zNHNwbUpVVldYSS02dWJ5WHZZczNSQkZtTkxPaHhjcG1SbkI3TGlDQnZ6YVRzMS1zY1c1dWJtYlJiMW1WS0s0S1NQM3UyRWJSeUdMaGpoeXROUV9qVlczVW1BbEE1SUdsOVU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-11-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp AG Insider Trading & Ownership Structure - Simply Wall St",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXFIWUotcVQ2bnU2Zmhfd0Q0MW15WGxrcU9hNER1VWZ4bW5Bdm0tNmhkY29SZ0stUzNicndUaml3MVBPWklSZDZJckVZRTJ4SVMzSG55MmdIWUZTTEdkYlBiTVZCc2MyWEdZbTFpdWF1YnExdVdYb2ZHTW83eFRLZDd6V2htUjdCa2pKTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cement and Concrete Sector Reports Net Zero Progress at COP31, Seeks Policy Backing - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1ZDazl2R0FCei1PZEZaV1Z6cFdxVFI3YzdEZ0w5OWhtTTJwdXQwQmJfUV9NVnNvQVZkaHA0SWlyMVd3UnU0dzJmWlo1NnNpM01GTHlYUVZRNlEzNlRwNmRiM1hMZE94Q2JfMUVzY2gwTVBGSTJfVE9aYjhJTG1IejF2ZzZfNzIxcDJlYjdTdkxCOFNXVXdtWl9DYlBtMjNBRmllSUZZakVJVjlHXy1SNl93?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-11-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "thyssenkrupp (DB:TKA1) - Stock Analysis - Simply Wall St",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMWg4UER0Mng0VmV1bHhwWVZGalVWbWFLSFAyek0yMUNBLVNsTG5mTTRNUzZIcmtDVHJBTk1LNHVLSnJTS3NZYjQzMXpkRHR1Yk5FaEl4ZXdmeDFvTUhtUjE2MGo2WmRudGQwY3k5RS15bHFKZ0k0RFRmUGdqNE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 131,
+    "too_old": 150,
+    "gate1_blocked": 13,
+    "gate2_blocked": 11,
+    "passed": 6,
+    "pass_rate": "3.3%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Thyssenkrupp steel – tkH2Steel funding terms become binding – flexible hydrogen ramp-up - Hydrogen C",
+      "Missed Thyssenkrupp's Rally? Here's What Early Buyers Saw - Simply Wall St",
+      "“Trading idea”: Holcim – A Rebound Set in Concrete - payoff",
+      "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為蒂森克虜伯相關動態：「thyssenkrupp (BIT:1TKA) - Stock Analysis - Simply Wall St」。主要關注主題為財報、庫存、碳排放，市場情緒中性。",
+    "signals": [
+      {
+        "text": "thyssenkrupp (BIT:1TKA) - Stock Analysis - Simply Wall St（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "thyssenkrupp AG Insider Trading & Ownership Structure - Simply Wall St（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

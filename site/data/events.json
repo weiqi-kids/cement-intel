@@ -1,5 +1,85 @@
 [
   {
+    "id": "thyssenkrupp-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp (BIT:1TKA) - Stock Analysis - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE82VVNCeEUxeE4wZExCSFlmQ2M2em4zNHNwbUpVVldYSS02dWJ5WHZZczNSQkZtTkxPaHhjcG1SbkI3TGlDQnZ6YVRzMS1zY1c1dWJtYlJiMW1WS0s0S1NQM3UyRWJSeUdMaGpoeXROUV",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82VVNCeEUxeE4wZExCSFlmQ2M2em4zNHNwbUpVVldYSS02dWJ5WHZZczNSQkZtTkxPaHhjcG1SbkI3TGlDQnZ6YVRzMS1zY1c1dWJtYlJiMW1WS0s0S1NQM3UyRWJSeUdMaGpoeXROUV9qVlczVW1BbEE1SUdsOVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp (DB:TKA1) - Stock Analysis - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMWg4UER0Mng0VmV1bHhwWVZGalVWbWFLSFAyek0yMUNBLVNsTG5mTTRNUzZIcmtDVHJBTk1LNHVLSnJTS3NZYjQzMXpkRHR1Yk5FaEl4ZXdmeDFvTUhtUjE2MGo2WmRudGQwY3k5RS",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wMWg4UER0Mng0VmV1bHhwWVZGalVWbWFLSFAyek0yMUNBLVNsTG5mTTRNUzZIcmtDVHJBTk1LNHVLSnJTS3NZYjQzMXpkRHR1Yk5FaEl4ZXdmeDFvTUhtUjE2MGo2WmRudGQwY3k5RS15bHFKZ0k0RFRmUGdqNE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thyssenkrupp-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "thyssenkrupp AG Insider Trading & Ownership Structure - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXFIWUotcVQ2bnU2Zmhfd0Q0MW15WGxrcU9hNER1VWZ4bW5Bdm0tNmhkY29SZ0stUzNicndUaml3MVBPWklSZDZJckVZRTJ4SVMzSG55MmdIWUZTTEdkYlBiTVZCc2MyWEdZbTFpdW",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXFIWUotcVQ2bnU2Zmhfd0Q0MW15WGxrcU9hNER1VWZ4bW5Bdm0tNmhkY29SZ0stUzNicndUaml3MVBPWklSZDZJckVZRTJ4SVMzSG55MmdIWUZTTEdkYlBiTVZCc2MyWEdZbTFpdWF1YnExdVdYb2ZHTW83eFRLZDd6V2htUjdCa2pKTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-004",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cement and Concrete Sector Reports Net Zero Progress at COP31, Seeks Policy Backing - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1ZDazl2R0FCei1PZEZaV1Z6cFdxVFI3YzdEZ0w5OWhtTTJwdXQwQmJfUV9NVnNvQVZkaHA0SWlyMVd3UnU0dzJmWlo1NnNpM01GTHlYUVZRNlEzNlRwNmRiM1hMZE94Q2JfMUVzY2",
+    "sources": [
+      {
+        "name": "google_cement_industry",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1ZDazl2R0FCei1PZEZaV1Z6cFdxVFI3YzdEZ0w5OWhtTTJwdXQwQmJfUV9NVnNvQVZkaHA0SWlyMVd3UnU0dzJmWlo1NnNpM01GTHlYUVZRNlEzNlRwNmRiM1hMZE94Q2JfMUVzY2gwTVBGSTJfVE9aYjhJTG1IejF2ZzZfNzIxcDJlYjdTdkxCOFNXVXdtWl9DYlBtMjNBRmllSUZZakVJVjlHXy1SNl93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -73,6 +153,48 @@
       {
         "name": "thyssenkrupp",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVlYdGNzMEhOc25saE5VN0M2RE1ZOUxBVnBEcTlOLVJ1ZFZkdGx6WG5jTV94QTJ6bF9nVXlCTkdIS2FJRXloX0tOak93QU9LbVRhYWZvQlVlc3Z5Q2FMZ3RzVnlQNW5Rd2pHSkpMLWFNZ1o1T2xvZFlmakpRSHdJeXVMVmFlWGVfVjg3SmNodjU2eWt1UFpQbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-14-005",
+    "date": "2026-11-14",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Holcim Egypt restarts fifth cement production line after EGP 1.3bn investment - Daily News Egypt",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3JLQXpMcUYxQ25BSXowQUhjNlZoSVR3MEJNa0tqYzZmQ19NeXZjX1hzNWVDb1JZVGJ6bk56ZzhEWXh4cGF5azNncmF0bUJJRlNoMndCLU1mOURGRFI0YjJwTEJNNlAyczVBS1pmNG",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3JLQXpMcUYxQ25BSXowQUhjNlZoSVR3MEJNa0tqYzZmQ19NeXZjX1hzNWVDb1JZVGJ6bk56ZzhEWXh4cGF5azNncmF0bUJJRlNoMndCLU1mOURGRFI0YjJwTEJNNlAyczVBS1pmNGZrVElPSkZGVmtMZUo3SVlGVXBNdktjUmJtaFdfYm5TRHd0X1NENFI3RHE5b2dHTy12bWMyRDRPeDhmX1ZYSm1Id2RwSkFTem8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-11-14-006",
+    "date": "2026-11-14",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement: Volume Expansion To Continue - BusinessLine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1VGLUtfVGlrUDFGUVJHR3VsNm5pbFUyOGF0emhYOE9MMU5TcjV2bEkxMW41YlltbVlwUEpKVzI3MVZRVVRKLUhVNEZvRWFsQlotLWI4SU5WTHpFTWQ0RzM0Qk5GMjlveEQ5YjRuRk",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1VGLUtfVGlrUDFGUVJHR3VsNm5pbFUyOGF0emhYOE9MMU5TcjV2bEkxMW41YlltbVlwUEpKVzI3MVZRVVRKLUhVNEZvRWFsQlotLWI4SU5WTHpFTWQ0RzM0Qk5GMjlveEQ5YjRuRklyOUEzYlVVNk5EQzhMT3lGRXJTaTZaeWl1OWtULXR2U2VfSmFlQkQ2dWFmd2w2QUV6TDBybEg0UVhuQW5OY19iNmN2R3kwZXpQemU4WFZlRVphVEtQRHY2bTFZS0R3WlRYX3VTcGQ2RWt4Y0NGVVHSAeQBQVVfeXFMT1RxSk5QU2FmaVdmdV9JNEk1dlpHOWN3SktwYTNKUW9xbEZaNXpybGxFX0pUVVZuT1ItYmJkWjdQX3UzbWxBWlkyZ1NXcDhEdU81cWZIYTF4eURxUUszX1oyVTFtTWRjblZMZVp4OUx1MnNkTWMyOXhva2NVaFlOVlh4NnNJRURUZ1RGZm5rRXZwOS1DdW9rRjFud0M4bkVIQV9jUUVFZjl3UjdJMENfM3prV1FLUXE1Q1FHbnctT1laYWdaS2tVWTQwdXNaTFY2TUpxMDFqQVFvOVgzcUdia1FlSHZv?oc=5",
         "type": "rss"
       }
     ]
