@@ -1,5 +1,239 @@
 [
   {
+    "id": "thyssenkrupp-2026-11-16-001",
+    "date": "2026-11-16",
+    "companies": [
+      "thyssenkrupp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Thyssenkrupp AG : Deutsche Bank keeps its Buy rating - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQaU1fRDJoUUF0cUpua1c5VDBWbDNsVHNlVW9ZZkEyWnloc2RydGtpYVNtWkxvR04tdGlyYVF6WHphUXFZRUVLaDFMNzVsVkp6U1Y4b3M4bUZUdTRrWUJaTWZyNEZ5QjNEdGU5ZmhnLT",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaU1fRDJoUUF0cUpua1c5VDBWbDNsVHNlVW9ZZkEyWnloc2RydGtpYVNtWkxvR04tdGlyYVF6WHphUXFZRUVLaDFMNzVsVkp6U1Y4b3M4bUZUdTRrWUJaTWZyNEZ5QjNEdGU5ZmhnLTJkZ01uT1NxYWxoY2ZXOWd3MElzcFFmclBTSmxhbzNGdWpZWjBUQjRlT0kwT1lYZEljblBJQXBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-16-002",
+    "date": "2026-11-16",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Swiss giant Holcim revives Egyptian cement line after seven years with nearly $25 million, 560 jobs and 1.5 million tonnes of new capacity - Business Insider Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORmo3clRWb1R1N1Z5S194N2RiYTFHaDFCc3BwS0QxaXplcWJ2MnkzUlFRZEI2NlV3REY0cVJINzFCMmJYWHNNTFp3djhOYjgtc3h6a2NEVjByWHBFa3lfQ0piZksyMnFzZWRGSk5qS0",
+    "sources": [
+      {
+        "name": "holcim",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORmo3clRWb1R1N1Z5S194N2RiYTFHaDFCc3BwS0QxaXplcWJ2MnkzUlFRZEI2NlV3REY0cVJINzFCMmJYWHNNTFp3djhOYjgtc3h6a2NEVjByWHBFa3lfQ0piZksyMnFzZWRGSk5qS0t4aDU2dXY3RzNlem1TMlNoVGlmU0w4NUNwRE5yTWR4ZTJ3R21DdEZJVHl0akFQMlNEc2tfX3ltUzI4UkVMLUVqV21NZkUtdmRpcjhtMjZEMm5ITHFMNkFGdl9iSWtzY28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-003",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Weekly Recap: Growth misses target and carbon pricing tests evoZero demand - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0pORXNPRlhWYjYweWpjdVZxZC1YUWtGdWFKSlhrTlJ5TEoyM0ZUTVNzZlppZnp5Rk5kdmVRYVRVaHM2bW0tZEtqbHJ6YWhXVkhYa0Z0bGEyMG16aFBNRXdDMXdmMVpGM3F1Q0lUcV",
+    "sources": [
+      {
+        "name": "heidelberg",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0pORXNPRlhWYjYweWpjdVZxZC1YUWtGdWFKSlhrTlJ5TEoyM0ZUTVNzZlppZnp5Rk5kdmVRYVRVaHM2bW0tZEtqbHJ6YWhXVkhYa0Z0bGEyMG16aFBNRXdDMXdmMVpGM3F1Q0lUcVgxY25CMG9xZ3hDYS1ydGhJOFFuN1BlT09TUTk4OUpneDBkT01uRzhRU2kyUGY2ajNBM2FzYzQ3WjlQMmV4ZmVBM3NOYl9LM3V4WVczQkE0ckNfUF9VeFZ0R04yeTdjZFhF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-11-16-004",
+    "date": "2026-11-16",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "ASIA CEMENT: Higher investment income lifted 9M net income despite weaker cement operations - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNXzRwR0RtVVBweE1BbDFUVWlQQ2c0QzJrS1R3cXNfU0JLR1pRU0tGVGtHaHcycU85Zmo5dklxS0VNNnl0RVhjZFFaMDNtNnBlWDFvbXJkeUlsTlNsT0tnOFBBYmw0cFNPbjBhbl9DRl",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNXzRwR0RtVVBweE1BbDFUVWlQQ2c0QzJrS1R3cXNfU0JLR1pRU0tGVGtHaHcycU85Zmo5dklxS0VNNnl0RVhjZFFaMDNtNnBlWDFvbXJkeUlsTlNsT0tnOFBBYmw0cFNPbjBhbl9DRldMRlR5dFZuUnVhZEtibElmOWRMNkVhRlNicG9qV1U1ZnBZbEY2ODBhc1VtaHVxZXVLNnY5bWNCQTJXNmo4bVVGOUFPWGZpQTVlcHFWZVZQWTVSUzNOc2Rtajk1ZWxMM3RvdFhpcTNsYTFMaW9Gbk1Hb19WdFFqSFVZS21sb0pzRHlrYVo3Wl9DQ2k4Uy1jRGpSQ1hV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-005",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Weekly Recap: Q2 growth, lower EBITDA per tonne and reduced pet-coke share - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOaWZCakZkMC1YaVpQRV81OVdqa2FKRHBGSjI3aEFLMHZEN0cyUEV2VGh0UHNnQ3lEWDkwZG5DbWw0bUhHc056NGVWUTNqSmtwVnlfcE1EcjhkZ3p4QzFQanRvLXVJTUk5VWNkTHR0Ym",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaWZCakZkMC1YaVpQRV81OVdqa2FKRHBGSjI3aEFLMHZEN0cyUEV2VGh0UHNnQ3lEWDkwZG5DbWw0bUhHc056NGVWUTNqSmtwVnlfcE1EcjhkZ3p4QzFQanRvLXVJTUk5VWNkTHR0YmQ0UHAtM3FuU1dGOHlfUlk4b3VNendJQUJ2QlJqNGwxOTF4aEhyVDUyZ25qLTRKV0JmeEhybmlDM0I4a1V6aVRyaXpJTkNJT3lzNDdOVnU1MC0tT1ZBZGs2NzUwOVFSbjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-11-16-006",
+    "date": "2026-11-16",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Buy UltraTech Cement Ltd For Target Rs.14,250 by Motilal Oswal Financial Services Ltd - Investment Guru India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2MzaEc5MUlKMXpiSnB5c0V4TDg1Zi05bXhaYmlUQ255Y1VkMTd6SVFFUDVvZHJEU3lqRTNsdUUzc1hYcVVLbkUzZm8yLTAyc0xnRWFEdkY2cnVXdktwRjRLTkMtTldQQmg3UWx0X3",
+    "sources": [
+      {
+        "name": "ultratech",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2MzaEc5MUlKMXpiSnB5c0V4TDg1Zi05bXhaYmlUQ255Y1VkMTd6SVFFUDVvZHJEU3lqRTNsdUUzc1hYcVVLbkUzZm8yLTAyc0xnRWFEdkY2cnVXdktwRjRLTkMtTldQQmg3UWx0X3V0NjhMY2RvRC05SWRERmRFdzR1VWp2MkUwVmxyNHN0S05FaHdpTndSWDV6LTlUdHdtQ3BtZk96MVBaN21ZSEplSUxDekd5LWZocnVCT1hITjdlRnNuM29KcXVwZlUzYWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-11-16-007",
+    "date": "2026-11-16",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "[Asia Cement FY2026 Q3 Earnings Call] Non-operating Investment Gains Lift Asia Cement's First-Half Net Profit to NT$9.513 Billion, Up 18% YoY, EPS NT$2.68 - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE42VWl0MHVKQVRvX1czZE53WXIxdTBqenRaN1JGeXk3MG5wVWp0TWM2VzhsMldLcTFpbTVhRUNSbm9jNEFHVGMySDhXVnlYNk1TXzZfRVZEbllZRmpQWnM2QU13?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "asia_cement_china",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42VWl0MHVKQVRvX1czZE53WXIxdTBqenRaN1JGeXk3MG5wVWp0TWM2VzhsMldLcTFpbTVhRUNSbm9jNEFHVGMySDhXVnlYNk1TXzZfRVZEbllZRmpQWnM2QU13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-16-008",
+    "date": "2026-11-16",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Holcim Egypt restarts fifth cement production line",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/HOLCIM_2021_7D_146-1500.jpg\" /></p><p><strong>Egypt:</strong> Holcim Egypt has recommissioned its fifth cement production line at its Ain Sokhna c",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21494-holcim-egypt-restarts-fifth-cement-production-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ultratech-2026-11-16-009",
+    "date": "2026-11-16",
+    "companies": [
+      "ultratech"
+    ],
+    "topics": [
+      "raw_material_energy_cost",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement hires Loesche for two clinker and slag grinding plants",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/india-flag-blue-sky.jpg\" /></p><p><strong>India:</strong> Loesche announced on 13 November 2026 that it had won contracts to supply clinker and sl",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21493-ultratech-cement-hires-loesche-for-two-clinker-and-slag-grinding-plants",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-11-16-010",
+    "date": "2026-11-16",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "South Korean cement demand to stay below 40Mt/yr in 2027",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/Cement-bag-truck-1500.jpg\" /></p><p><strong>South Korea:</strong> Domestic cement demand in South Korea will remain below 40Mt/yr in 2027, with th",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21492-south-korean-cement-demand-to-stay-below-40mt-yr-in-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-011",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending",
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Southern Railway opens clinker loading facility in Tamil Nadu",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/india-freight-train.jpg\" /></p><p><strong>India:</strong> Southern Railway has launched a mechanised clinker-loading facility at the Kallakudi Pal",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21490-southern-railway-opens-clinker-loading-facility-in-tamil-nadu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-012",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "‘Scorching-hot’ construction input prices are more difficult to pass along",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/fZ-0hjNi8yg2Wge20leG9rnoChq2h4maK6HCOIi-SvA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2NDU1NDEzLmpwZw==",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/scorching-hot-construction-input-prices-october/874729/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-11-15-001",
     "date": "2026-11-15",
     "companies": [
@@ -75,6 +309,25 @@
       {
         "name": "google_cement_industry",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1ZDazl2R0FCei1PZEZaV1Z6cFdxVFI3YzdEZ0w5OWhtTTJwdXQwQmJfUV9NVnNvQVZkaHA0SWlyMVd3UnU0dzJmWlo1NnNpM01GTHlYUVZRNlEzNlRwNmRiM1hMZE94Q2JfMUVzY2gwTVBGSTJfVE9aYjhJTG1IejF2ZzZfNzIxcDJlYjdTdkxCOFNXVXdtWl9DYlBtMjNBRmllSUZZakVJVjlHXy1SNl93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-005",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Irish EU presidency proposes slower cuts to industry's free carbon permits - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnZZaUMtbTFKVzZVX1Y1NHZsYWVqRlh0a0NiYmFQdEdUOURsUklIZ2tXVXVlS3hfd3dtTkVfZ1pZMVpsZGN1SVpubzQ4V0NKRFJYZTVIeUQ1SU95R2p5YkY0bGROY09Bc0E0RXlfZU",
+    "sources": [
+      {
+        "name": "thyssenkrupp",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnZZaUMtbTFKVzZVX1Y1NHZsYWVqRlh0a0NiYmFQdEdUOURsUklIZ2tXVXVlS3hfd3dtTkVfZ1pZMVpsZGN1SVpubzQ4V0NKRFJYZTVIeUQ1SU95R2p5YkY0bGROY09Bc0E0RXlfZUpWckNPQ1phWU9maFdYWVg4RDI4cndRY0x3TjBiWjlVSzJCUUVpT05DeFprazAxTUxVbTNrVV9qS2hNYmtvZHFnZ1YxaW1na01JeVN3eHNJS004UDg?oc=5",
         "type": "rss"
       }
     ]
@@ -520,6 +773,47 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/ferrovial-wins-538m-texas-water-project/874640/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asia_cement-2026-11-13-018",
+    "date": "2026-11-13",
+    "companies": [
+      "asia_cement"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Asia Cement (China) Holdings Corporation (0743.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRHpUS0wxR1hHdnJIMERNaTAzcThrZEJGMDRDSmJDSURqdHY4YVhLbVVaalVDWGNiT0NTd1A1eE9oX2dwbGlsOFFVV3V3cEFpaDdfX0JB?oc=5\" target=\"_blank\">Asia Cement",
+    "sources": [
+      {
+        "name": "asia_cement",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iRHpUS0wxR1hHdnJIMERNaTAzcThrZEJGMDRDSmJDSURqdHY4YVhLbVVaalVDWGNiT0NTd1A1eE9oX2dwbGlsOFFVV3V3cEFpaDdfX0JB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-11-13-019",
+    "date": "2026-11-13",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corporation (THYCY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE15d3Zza25DR1JwWEpQQ2t2Y2ZNb0E3WTVOcWlNUmlVaU4wcW0zblp4RDZPSTB6MXZRSmZZMVQwR192RGFwNVVQdzlnVHQxRjVraTRZ?oc=5\" target=\"_blank\">Taiheiyo Cement",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15d3Zza25DR1JwWEpQQ2t2Y2ZNb0E3WTVOcWlNUmlVaU4wcW0zblp4RDZPSTB6MXZRSmZZMVQwR192RGFwNVVQdzlnVHQxRjVraTRZ?oc=5",
         "type": "rss"
       }
     ]
@@ -1583,6 +1877,26 @@
       {
         "name": "heidelberg",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVXppMWZCamVGLXhoZU5BV09DSTA5X0dZLTV0VEtsTlhWSWd4UlZqWmJNUkFFc2VLcWZvcGlVYUFKX1FRU2gtN2FSMnJXeXF2Z0ZrWThkdW9XZGdyWEZrbFlwYkxsdzBGMlQ4bWlCVGtUTGZtX0hpX1poSjJLZS1pZGEzUF9mdGM2ZVo4SXFPUVFUbVRBRjVfbWVjTlVNQ3lYUWx3M295eXJwY3VBMWZrRDhR0gG3AUFVX3lxTE0temI2WWtMVGgwN3VTUUd3OXEzSXNaNUdSNmZ2VFRVdkJlbkhJVVpaZWJ4SF93MnZtdnI1M01UMmxQd3ZwVTI5M0pZSUFSSklySVFab0FXamh6RFFxNTJibzVmc1VNcEJhSVF4UzlwZWpUczFINXFiN2s3YmU1bzg2YmdnOGpadXh1bkNmNFhUb2NRMGpIUDRBOGxqbjdyOGVQcWc2em41TndSeVVteFFoVVJreC1zOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiheiyo-2026-11-10-020",
+    "date": "2026-11-10",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiheiyo Cement Corporation Reports Earnings Results for the Half Year Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmxNMlNqMVNKVVROOUllRTVybm11Qmk3TnZoamhHOFJYaTJCZE4wUENoc2l4Q3MtUW1CVmdzUzFmME9jM1RSdkxKdkltR1BDOFhpOW9PN1RZODJtX0I1T3ZxQWFHRWpEWDdmZ1d2OH",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmxNMlNqMVNKVVROOUllRTVybm11Qmk3TnZoamhHOFJYaTJCZE4wUENoc2l4Q3MtUW1CVmdzUzFmME9jM1RSdkxKdkltR1BDOFhpOW9PN1RZODJtX0I1T3ZxQWFHRWpEWDdmZ1d2OHlsR3lqY0lOTmtvYUh6QjRfLUREQ09hczYyVlB1LUVfdjNQX1RQczFrNmN2THRxZldpNmxxNlEwaU9JbTIwYUpFYm51MGdYWU4xVEdoV3laUEFySkdmRnR4UFprc2tNWWhYdllZckdaUzcyRGFjNHB3Vg?oc=5",
         "type": "rss"
       }
     ]

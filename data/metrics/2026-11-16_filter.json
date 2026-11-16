@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 10,
+  "gate2_fail": 7,
+  "passed": 16,
+  "gate2_samples": [
+    "thyssenkrupp Steel delays Duisburg green-steel start to 2029 - Shanghai Metals Market",
+    "Holcim restarts fifth line at Ain Sokhna - CemNet.com",
+    "Jefferies cuts Heidelberg Materials target to €282 - 'Buy' - www.marketscreener.com",
+    "Taiwan Cement Corporation uses 3D printing to rebuild Turkey - Taiwan News",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi"
+  ]
+}
