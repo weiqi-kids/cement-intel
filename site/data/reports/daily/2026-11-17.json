@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:24:00.013517Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "vulcan-2026-11-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 13 November - Investing.com Canada",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXB0ckVZMTZoLXdLTGlVWkFoOGZiZ0lKNldzak1hY0dNOWU5bzQ2WERBYVMtNDlNX1pGaV9xdldNaGF2OXl6WThDdkxJRTNwV1o2WHhMeTF4MDZPdUdNTEdlV0RucTFEVTdLOXlNT2RBRDhiNU1fRFZfS1dldzJGWVdrc0tnUG4taVNnYVNjRWFVSUVBYWFzTFVVNy1PazNVYk1GelFBeUR5MVlKaFdJR3o0WlZ1aHZ1SjdSOFVRTzQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "heidelberg-2026-11-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Berenberg Notes Heidelberg Materials' Sequential European Recovery, Near-term US Headwinds - marketscreener.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUXVoWm45Q3VoYmNvWlBCX0NvUDZyUTB6RVR5ZlhwcnlWckFPRnV6UE1JdkpXaEJoZ2JWWFBRVTNHOFZralh2ZExmS3BraWNGRDNDR1lJR21ubUpxaHAtaGhYMHFWaUFoVmlybXl3NUp0Wm1RNG43TVdGQ21ZYS1jakZKSlBjNXY4Vmw4ZTgzM3JScC1McGF6MkdPemNiTmNXazlwb3d2LVJyUjdBbm5ZVmlNTDZNMjQ1VXNlNFhuNEQxTzNWWVA1OVhpT1dURXZlVG9ENGVfQ3I?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "heidelberg-2026-11-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials AG : Gets a Buy rating from Berenberg - www.marketscreener.com",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQl9jV3RTQUtwbGJ4NkZjaGRXRGlzVElKVTF3UWk3TUdoWW1KaFlzV2ZPVkotbk9pNFJXQkhveE5KMklMR0Foa3Q2Z0hCd2JYTnFKZy0zX2NFcXhtMlc0emN4LVMyaU96M19OZVZkT09rTDN1a1F6UE1OZ0pGVU0wNjZwUnlNWXdYS1c0TFM1Njkxc3hsb1VqMzdKV2xFcXN4NVp3R2dmVVB6NDh2ckE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-11-17-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech moves Supreme Court against BAI's role in CCI cement cartel probe - Business Standard",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON3BmMFpvYkVHdHYyOXRHNVNaSWJvd0pxVDZ5enNkMTBUUGJ3TnpnZng4c3Fhem91UWRHSXZYRVoxRUJRZVFGUm5tM3Q4allheUVJM2RmRjBzR2F0dHZ1eW9iWThOZzAtQWRSQmRPTm9DNUl3ZjVScWFtQnZDVzNOemdzazNzMEYwR09saEFKRUhIWW42VnBQUFBPa3NzcVFieHVBQkRPQ28zU3RIdS1VOVhvejR4Y2hLV1Z1NlctNENFSGtJbURENFF0ZjNWdW9OVUdBdDVLOV9Cdkxv0gHiAUFVX3lxTE5sUGNtNE1HUURhcG05SG9oNVhBZ2hQOG5zTEgyTHZwajhyTElwQ21DOFpLRFo3UTQ4YkVLZHZyVjN2Y0p1a0xXVkVpU2VrdHlDVVo2S0NxX3FRenJicUZON2ljNFVRUUdsNzAzVjNHTi1iNVhGQWItVGEzZWU1QlhWZzM5RHVmcjZSdFhFd2xCUmJpRkNsRDhBX2N4SW9UQ1BWamhvVlJ1SmN6aEk1bUNYOE1iX2hpWFdNdEdSZnVFOF9HTWtXYldyMWpwYlNPVkItcHpXbV9Ya0JPel9GWDZGUFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-11-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UltraTech Cement appoints Hrishikesh Warekar as Lead - Marketing - Exchange4Media",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2FNSW9rbUQ3OW9NckNEbm9URGlkLTc4VzRkSjliazc0QlNfZ01wRFctX0NVZGUzSWNFYnJwY0VCTGFnVXhwWmdEcFF0S3hVbXBVNjlBUGlvVnRYd1piNmhnZ3hXV2xkOGhNSHU2MmNPbmthUlJoSDNmX082dDE1TU9uanRNVTFJM3NlZ1VzZjYxUVpraHk5eThDSzJ1RUFuWlhORFBGdzc1RGZ1OXgxcXFGS0tlam5wZ3hwdmZNOUlnRGY5?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 5
+      },
+      {
+        "id": "heidelberg",
+        "count": 4
+      },
+      {
+        "id": "vulcan",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 4
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 128,
+    "too_old": 132,
+    "gate1_blocked": 7,
+    "gate2_blocked": 11,
+    "passed": 20,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "thyssenkrupp Steel delays Duisburg green-steel start to 2029 - Shanghai Metals Market",
+      "Holcim restarts fifth line at Ain Sokhna | CemNet - CemNet.com",
+      "Cemex supply concrete for Silesian high-rise - Agg-Net",
+      "Heidelberg Materials Sees Europe Improve As US Pricing Cools - Finimize",
+      "Jefferies cuts Heidelberg Materials target to €282 - 'Buy' - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為UltraTech、海德堡材料、Vulcan Materials相關動態：「Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 1...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Form 4 Vulcan Materials: J. Thomas Hill (Director) For: 13 November - Investi...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Berenberg Notes Heidelberg Materials' Sequential European Recovery, Near-term...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:57:42.450829Z",
+  "updated_at": "2026-11-17T17:23:56.063787Z",
   "quarter": "2025-12-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "亞泥",
       "ticker": "1102.TW",
       "currency": "TWD",
-      "ar": 11361641000,
-      "ar_prev": 9826962000,
-      "ar_qoq": "+16%",
+      "ar": 11865108000,
+      "ar_prev": 11361641000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 7350797000,
-      "inv_prev": 7196154000,
-      "inv_qoq": "+2%",
+      "inventory": 7402575000,
+      "inv_prev": 7350797000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "asia_cement_china",
@@ -211,17 +211,17 @@
       "name": "台泥",
       "ticker": "1101.TW",
       "currency": "TWD",
-      "ar": 26741731000,
-      "ar_prev": 23952360000,
-      "ar_qoq": "+12%",
+      "ar": 32084810000,
+      "ar_prev": 26741731000,
+      "ar_qoq": "+20%",
       "ar_period": "QoQ",
-      "inventory": 21684626000,
-      "inv_prev": 20812552000,
-      "inv_qoq": "+4%",
+      "inventory": 20972478000,
+      "inv_prev": 21684626000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "thyssenkrupp",

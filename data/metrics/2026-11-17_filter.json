@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 7,
+  "gate2_fail": 11,
+  "passed": 20,
+  "gate2_samples": [
+    "thyssenkrupp Steel delays Duisburg green-steel start to 2029 - Shanghai Metals Market",
+    "Holcim restarts fifth line at Ain Sokhna | CemNet - CemNet.com",
+    "Cemex supply concrete for Silesian high-rise - Agg-Net",
+    "Heidelberg Materials Sees Europe Improve As US Pricing Cools - Finimize",
+    "Jefferies cuts Heidelberg Materials target to €282 - 'Buy' - www.marketscreener.com"
+  ]
+}
