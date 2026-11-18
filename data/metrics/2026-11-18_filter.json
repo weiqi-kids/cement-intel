@@ -1,0 +1,15 @@
+{
+  "total_raw": 298,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 8,
+  "gate2_fail": 4,
+  "passed": 13,
+  "gate2_samples": [
+    "Missed Thyssenkrupp's Rally? Here's What Early Buyers Saw - Simply Wall St",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi",
+    "What Siam Cement Holders Bought Into - Yahoo Finance Singapore",
+    "Silvi Materials to develop cement import terminal in North Carolina"
+  ]
+}

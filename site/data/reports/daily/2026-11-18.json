@@ -1,0 +1,279 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:59:05.582031Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-18-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "PPC raises interim profit by 40% in first half",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.globalcement.com/news/21500-ppc-raises-interim-profit-by-40-in-first-half"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-11-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NTPC Says 3 Workers Employed By Simplex Infrastructures And Thyssenkrupp Were Killed And 2 Others Injured In Accident At NTPC's Project In Tandwa - TradingView",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "infrastructure_spending",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQVmJFcmFOcVZjQlROVERKdFF0T0VIWWhMdWNhUXF4WDlGdzRxMXRfMWRFZDdjTnFURUJDcWN0dFEtT3lnT1ZMYTBneW56N1V5aEltZmlCaWVuT243dlhNUHphRkJHX3gzT0VEVi15Tm9zMDNOM3hfbC1JTUxrVFVVckJyV1FvRmdMSVB6dDRCblFYbFJVY1FtUkdHZ0ZQS2RrbFlRX1VpLU9uVnV1TDQ0WDlpU2tGMkVWNXg0aUx1cmR4aVVmb3A5UlhOcXNnZzYza1JFNDZXVklrWmJJMmM0ZnM2cXRuTm1ZZXJkU1ZnX2JKanBiTHloVVQ4LXN2UDhvdF9ZVG5jVDNvNFRTSlJUYTItc1NfU3BZN0U5MGVnaG5uY1ZsR2FBNFMtUnlURFg1c1B5S2RmY1hvUUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can Europe scale flagship carbon capture projects into viable solution for cleaning up industry? - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEM0SnVsRlVBM1NPV0ljYk1RMVdBcjJHYWNKMGZaZEJTaDJ3U3pmdnRQVkFIVjUtSm5kenBUQUJkNkdwSVVEaWJWN3docUJ1Q2VVa3NQRm1Gd0xsVjdpdmE1T0lDX3htTTVkb0ctMnpfaFhZb2dlWHJHWFk5c2dsSm9VdHNiamwxWTZmN1A2UEZTSWc0SGJxZWdsS2hIN0ZyVzdTYmdISHRFMk52dEoxU0djcFR2anRhQnRiNnJQZzlNRmdRdng1U2NyS3JvTVY1NVkxN3Q5Y1V6UFVFLXBxaE1zSWN3aDQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ultratech-2026-11-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fitch Affirms UltraTech Cement's BBB- Ratings, Maintains Stable Outlook - marketscreener.com",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHdkNVNoZWJJcjU0U3J4QUduWUJBbzEtUkVQTXFCd2NKZldiWFpONDRzU3ZzT2oxbVdrcDJQUC1HZDJWWk5WbGVVSEZJNGJkWkgtaVQxazZ5WlpWYm5VYUxsS3NBV3kzNVZJTXloRU16cF9najRFNFN6UnAwa2gtUjV4UmNNWHB3TGV6YTgyS1dPTFp2S1hoUzlfYXpnVElzcXY5d0Q4dEVIVDVLMTJ0ckc1SjZUUHNqX1J4QUp0OA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ultratech-2026-11-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hrishikesh Warekar joins UltraTech Cement as lead, marketing and growth - Indian Television Dot Com",
+      "companies": [
+        "ultratech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTNzLTRrYjc3a3UtUFRKU1o4SkVheVZsbHFfSlVXRlZwS05DMWJHMGcxcEl5Z1Z3V19TN3AxMi1BYXJnWjBJbjdDUWVCRWVVQkVDZmk1U1U4bHFrQmx4M1FMNEQ3OVhOc29QVE5XTlFaYy0xY3diV01yYkEtaFdjajcyMHY4bkZETktmVFRsWlE0YnJ5alpra1h5bmRCOVkxQmE1RXhJYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "cement_pricing": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ultratech",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 128,
+    "too_old": 145,
+    "gate1_blocked": 8,
+    "gate2_blocked": 4,
+    "passed": 13,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Missed Thyssenkrupp's Rally? Here's What Early Buyers Saw - Simply Wall St",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance - Yahoo Fi",
+      "What Siam Cement Holders Bought Into - Yahoo Finance Singapore",
+      "Silvi Materials to develop cement import terminal in North Carolina"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為UltraTech、蒂森克虜伯、海德堡材料相關動態：「PPC raises interim profit by 40% in first half」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "PPC raises interim profit by 40% in first half（財報）",
+        "level": "red"
+      },
+      {
+        "text": "NTPC Says 3 Workers Employed By Simplex Infrastructures And Thyssenkrupp Were...（基建支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
