@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-19",
+  "total_events": 10,
+  "by_company": {
+    "holcim": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "anhui_conch": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "raw_material_energy_cost": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.31
+    },
+    "capacity": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "carbon_emissions": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

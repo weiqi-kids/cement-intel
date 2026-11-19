@@ -1,5 +1,194 @@
 [
   {
+    "id": "unknown-2026-11-19-001",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "South Korean cement demand forecast to remain below 40Mt until 2029",
+    "summary": " South Korean cement demand is forecast to remain below 40Mt annually through 2028, according to Korea Cement Association projections reported by local media...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182485/south-korean-cement-demand-forecast-to-remain-below-40mt-until-2029.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-002",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Breedon lowers earnings outlook as energy costs rise",
+    "summary": "  Breedon Group  expects full-year underlying EBITDA at the lower end of market expectations as higher energy costs prove increasingly difficult to recover t...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182483/breedon-lowers-earnings-outlook-as-energy-costs-rise.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-003",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Power Cement posts record FY26 profit, export growth",
+    "summary": "  Power Cement Ltd  reported a record FY26 net profit of PKR3.8bn (US$13.7m), up 364 per cent YoY, driven by higher local cement sales, stronger clinker expo...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182487/power-cement-posts-record-fy26-profit-export-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-004",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "PPC advances plans for 1.5Mta Zimbabwe cement plant",
+    "summary": "  PPC  is advancing plans for a new integrated cement plant in Zimbabwe, with CEO Matias Cardarelli outlining a proposed capacity of 1.5Mta during the compan...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182482/ppc-advances-plans-for-1-5mta-zimbabwe-cement-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "holcim-2026-11-19-005",
+    "date": "2026-11-19",
+    "companies": [
+      "holcim"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "positive",
+    "title": "Holcim México invests MXN53m in low-emission concrete truck fleet",
+    "summary": "Holcim México has invested MXN53m (US$2.9m) in upgrading its ready-mix concrete delivery fleet in Monterrey, Mexico, as part of efforts to improve operationa...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182452/holcim-m-xico-invests-mxn53m-in-low-emission-concrete-truck-fleet.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-006",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Arabian Cement approves €22m vertical mill investment",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/egypt-cairo-cityscape-pyramids-background.jpg\" /></p><p><strong>Egypt:</strong> Arabian Cement Company’s board has approved a €22m investment in a",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21514-arabian-cement-approves-22m-vertical-mill-investment",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-007",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "carbon_emissions",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "African Development Bank approves €20m for low-carbon cement complex in Côte d’Ivoire",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/approved-licence-construction-1500.jpg\" /></p><p><strong>Côte d’Ivoire:</strong> The African Development Bank Group has approved €20m in financing",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21513-african-development-bank-approves-20m-for-low-carbon-cement-complex-in-cote-d-ivoire",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-008",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Monarch Cement reports lower third-quarter earnings despite stronger cement margins",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/business-contract-signing.jpg\" /></p><p><strong>US:</strong> Monarch Cement reported third quarter 2026 earnings per share of US$6, down by 6.7% y",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21512-monarch-cement-reports-lower-third-quarter-earnings-despite-stronger-cement-margins",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "anhui_conch-2026-11-19-009",
+    "date": "2026-11-19",
+    "companies": [
+      "anhui_conch"
+    ],
+    "topics": [
+      "carbon_emissions"
+    ],
+    "impact": "neutral",
+    "title": "Update on AI use in Chinese cement sector",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/china-flag-1500.jpg\" /></p><p><strong>China:</strong> Cement producers in China are accelerating the digitalisation and decarbonisation of their o",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21511-update-on-ai-use-in-chinese-cement-sector",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-010",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Breedon lowers 2026 earnings expectations",
+    "summary": "<p><img src=\"https://www.globalcement.com/images/news/results-financial-report.jpg\" /></p><p><strong>UK:</strong> Breedon Group has reported 7% revenue growth in the first 10 months of 2026, up by 5% ",
+    "sources": [
+      {
+        "name": "global_cement",
+        "url": "https://www.globalcement.com/news/21510-breedon-lowers-2026-earnings-expectations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thyssenkrupp-2026-11-18-001",
     "date": "2026-11-18",
     "companies": [
@@ -174,6 +363,78 @@
       {
         "name": "global_cement",
         "url": "https://www.globalcement.com/news/21500-ppc-raises-interim-profit-by-40-in-first-half",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-010",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Ibstock sells Redhurst clay business for GBP50.1m",
+    "summary": "  UK building products manufacturer Ibstock has sold Redhurst CC, which owns its Redhurst quarry in South Staffordshire, to an unnamed major global building ...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182477/ibstock-sells-redhurst-clay-business-for-gbp50-1m.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-011",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Amrize invests US$16m in Memphis terminal expansion",
+    "summary": "  Amrize  is investing US$16m to expand and modernise its Memphis cement terminal in Tennessee, USA, with completion targeted for summer 2027. \n The project...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182475/amrize-invests-us-16m-in-memphis-terminal-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-012",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "raw_material_energy_cost"
+    ],
+    "impact": "neutral",
+    "title": "Fujairah Cement shareholders approve AED225m clinker-line sale",
+    "summary": "  Fujairah Cement Industries ’ shareholders have approved the sale of Clinker Production Unit No. 1 to AUM Commodities FZCO, advancing a proposed AED225m (US...",
+    "sources": [
+      {
+        "name": "cemnet",
+        "url": "https://www.cemnet.com/News/story/182476/fujairah-cement-shareholders-approve-aed225m-clinker-line-sale.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-013",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "infrastructure_spending"
+    ],
+    "impact": "negative",
+    "title": "Skanska, Traylor Bros. JV wraps $1.6B New Jersey Transit project",
+    "summary": "<p>The 2.4-mile rail bridge over the Hackensack River replaces a 116-year-old span that caused frequent delays for Amtrak passengers.</p>",
+    "sources": [
+      {
+        "name": "construction_dive",
+        "url": "https://www.constructiondive.com/news/skanska-traylor-bros-new-jersey-rail-bridge/875098/",
         "type": "rss"
       }
     ]

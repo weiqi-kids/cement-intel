@@ -1,0 +1,10 @@
+{
+  "total_raw": 72,
+  "dup_title": 44,
+  "no_date": 0,
+  "too_old": 4,
+  "gate1_fail": 10,
+  "gate2_fail": 0,
+  "passed": 14,
+  "gate2_samples": []
+}
