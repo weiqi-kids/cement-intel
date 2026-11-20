@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 11,
+  "gate2_fail": 9,
+  "passed": 25,
+  "gate2_samples": [
+    "Thyssenkrupp Nucera breaks ground on new electrolyser cell assembly site in Portugal - Hydrogen Insi",
+    "Chitrupa Kapoor joins thyssenkrupp Automotive as head-people & culture – India - HR Katha",
+    "Heidelberg Materials secure BS EN 12620 for recycled sand - Agg-Net",
+    "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}

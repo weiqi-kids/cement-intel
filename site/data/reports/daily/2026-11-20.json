@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:43:09.354862Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "crh-2026-11-20-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Eqiom to cut 50 jobs at Rochefort-sur-Nenon cement plant",
+      "companies": [
+        "crh"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/21515-eqiom-to-cut-50-jobs-at-rochefort-sur-nenon-cement-plant"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-11-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Granite adds former Vulcan Materials executive to board - Investing.com",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzVsRGhYTFh0TnRXclFOcnpzR1dTZE9KbjN1X1VadDdVYW9iWFFuU29pZlV2OWFNRzF4ZnhLOFZXc1lQQzZKU04wd0w3emxORVhMOU1WV0lUTk85S2lRRUhaYVY3TWlfRVBqRDRxckxMeGFqdlNzbm5YSGdpaldJaTI0MHphU3JieVM2Q3FObHVTeXdSZDZlWWpOdzB4VUVlTm1HMlE5RllQQXZ2ZkdpZEVB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-11-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Granite adds former Vulcan Materials executive to its board - StreetInsider",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLU1YUEtscmwtQXdIbllFUnFmd0lKenNnWlVmUUp6aXEza3FyOFNoRXZ0ZWMtSS14MjlUQnRiTWVIQzllYmRXRUdycjN0S1pjVnFWQXZ5WUFyRVg0UHdHV1ItV013eHJPQlpnNWM5TEtBbGNrRU1oWGd5WEZYUThZcGJwSFFxci1RMGFVQ2hOYi03eWFLUExQSXpPa0FSQVpTWThPa3lGUzRjSXpqdl9wTlFJUTQySG10?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-11-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thyssenkrupp Automotive Appoints Chitrupa Kapoor As India HR Head - BW People",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbU9OcVFaS3ZXcjhicTA3OEVQNzNEdnpETkpFQ3QyQ29PLTh2R1E1SnZtcEViMmEyX29pZEMxSS1GQVNUTjdobmU5VjhJLTdiNklBS1ZGVTlqS0kyS2RuZlVrX0NVeDlqdm9nRERyOEN5a2tuM1czOUVUSG5PRTJ4c1ZRdkpmOUUxeGN3aWdGc0NCX29rYlBvTmFNZTk4bFczM1loZXN6RQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-11-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials’ Agecroft site supplies quality-assured recycled sand for use in concrete - World Cement",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGF0ZXpaRlFnYWY5UHQ4T000OHNXMTV5dm1DUHhEUGVyNTdySlNpRWxXWExIdFBSYVc3M3ExdTNLZHRiREQtQ3dFTXZPZUNDVnY0VlRwOEhjWDVoY0dqdmpEY2FNTUljSV9KQ3gxWGVmVl81Rl9IY0lJb2xnRTc4cmJYX1c2cC1Ea09wbzNyU3lTMlZrVS14RlFKSFFJZDJJZVlqYmNoMXlYaFJNaW96eEdackhCRVNSYXV5QVBfZDRQNGUtV09tT3pnZS03RHlybmU3MnBqdnRuUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 2
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 1
+      },
+      {
+        "id": "heidelberg",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 3
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 2
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 125,
+    "too_old": 139,
+    "gate1_blocked": 11,
+    "gate2_blocked": 9,
+    "passed": 25,
+    "pass_rate": "13.6%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Thyssenkrupp Nucera breaks ground on new electrolyser cell assembly site in Portugal - Hydrogen Insi",
+      "Chitrupa Kapoor joins thyssenkrupp Automotive as head-people & culture – India - HR Katha",
+      "Heidelberg Materials secure BS EN 12620 for recycled sand - Agg-Net",
+      "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為Vulcan Materials、蒂森克虜伯、海德堡材料相關動態：「Eqiom to cut 50 jobs at Rochefort-sur-Nenon cement plant」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eqiom to cut 50 jobs at Rochefort-sur-Nenon cement plant（碳排放、產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Granite adds former Vulcan Materials executive to board - Investing.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
