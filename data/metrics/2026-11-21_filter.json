@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 10,
+  "gate2_fail": 11,
+  "passed": 22,
+  "gate2_samples": [
+    "Why Is Vulcan Materials (NYSE:VMC) Trading on Heavy Volume? Here Is What We Know - kalkine.ca",
+    "Vulcan Materials Co (VMC.HA) options chain - Yahoo Finance UK",
+    "Thyssenkrupp Nucera verfehlt Gewinnziel - Zusatzaufwand bei grünem Wasserstoff - TradingView",
+    "Thyssenkrupp Nucera breaks ground on new electrolyser cell assembly site in Portugal - Hydrogen Insi",
+    "Heidelberg Materials Sees Europe Improve As US Pricing Cools - Finimize"
+  ]
+}

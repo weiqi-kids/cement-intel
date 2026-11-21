@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:55:58.391973Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 126,
+    "too_old": 151,
+    "gate1_blocked": 10,
+    "gate2_blocked": 11,
+    "passed": 22,
+    "pass_rate": "11.3%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Why Is Vulcan Materials (NYSE:VMC) Trading on Heavy Volume? Here Is What We Know - kalkine.ca",
+      "Vulcan Materials Co (VMC.HA) options chain - Yahoo Finance UK",
+      "Thyssenkrupp Nucera verfehlt Gewinnziel - Zusatzaufwand bei grünem Wasserstoff - TradingView",
+      "Thyssenkrupp Nucera breaks ground on new electrolyser cell assembly site in Portugal - Hydrogen Insi",
+      "Heidelberg Materials Sees Europe Improve As US Pricing Cools - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-11-21 無水泥產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
