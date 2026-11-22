@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 10,
+  "gate2_fail": 5,
+  "passed": 2,
+  "gate2_samples": [
+    "Thyssenkrupp Nucera breaks ground on new electrolyser cell assembly site in Portugal - Hydrogen Insi",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK",
+    "Taiheiyo Cement Corp (TIE.SG) Seasonal returns chart - Yahoo Finance UK",
+    "What Siam Cement Holders Bought Into - Yahoo Finance",
+    "AECOM Hunt, Clayco and Bowa start $917M O’Hare project"
+  ]
+}

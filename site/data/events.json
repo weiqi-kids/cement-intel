@@ -1,5 +1,25 @@
 [
   {
+    "id": "taiheiyo-2026-11-21-001",
+    "date": "2026-11-21",
+    "companies": [
+      "taiheiyo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TAIHEIYO CEMENT CORPORATION (5233.F) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE14QmR4VWVVWUNBWEphczRBbVBKQ19qNXBaMDBkX1ZNWEh0eFlmT21GNk4xN1ZJVmoySGtaTU9yTDhtYV9VLUo2MGxaSFJVTU5KYjQ1YkJrZ2cxeUd0VzF6MmNvVWQ?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "taiheiyo",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14QmR4VWVVWUNBWEphczRBbVBKQ19qNXBaMDBkX1ZNWEh0eFlmT21GNk4xN1ZJVmoySGtaTU9yTDhtYV9VLUo2MGxaSFJVTU5KYjQ1YkJrZ2cxeUd0VzF6MmNvVWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "vulcan-2026-11-20-001",
     "date": "2026-11-20",
     "companies": [
@@ -532,6 +552,24 @@
       {
         "name": "construction_dive",
         "url": "https://www.constructiondive.com/news/tesla-manufacturing-plant-october-construction-starts-rebound/875377/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vulcan-2026-11-20-029",
+    "date": "2026-11-20",
+    "companies": [
+      "vulcan"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Granite adds former Vulcan Materials executive to board By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0hWT1A0S05xaDRKZ191eng0d2ZZSlBiN0p3TEJQOTJBcUhCcjY1U1M2UHpITExJR0JVTTBLNXhFRWdlUUQxOEpLYXdUSUtobGRrMDVlVzgxVWVkV2xianJmZ3ltalo0ZEZkUzZNRF",
+    "sources": [
+      {
+        "name": "vulcan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0hWT1A0S05xaDRKZ191eng0d2ZZSlBiN0p3TEJQOTJBcUhCcjY1U1M2UHpITExJR0JVTTBLNXhFRWdlUUQxOEpLYXdUSUtobGRrMDVlVzgxVWVkV2xianJmZ3ltalo0ZEZkUzZNRFd5U0pabDQ5ck51VFNIV0JHeS1wWW84dEdaNXYwUGZQR3ZWbVkxaTlZMEFOR0loVEFUS010a3JxTzVNdjRZaXJCc1NxbWFTMms?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:56:54.616393Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 144,
+    "too_old": 149,
+    "gate1_blocked": 10,
+    "gate2_blocked": 5,
+    "passed": 2,
+    "pass_rate": "1.2%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Thyssenkrupp Nucera breaks ground on new electrolyser cell assembly site in Portugal - Hydrogen Insi",
+      "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK",
+      "Taiheiyo Cement Corp (TIE.SG) Seasonal returns chart - Yahoo Finance UK",
+      "What Siam Cement Holders Bought Into - Yahoo Finance",
+      "AECOM Hunt, Clayco and Bowa start $917M O’Hare project"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-11-22 無水泥產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
