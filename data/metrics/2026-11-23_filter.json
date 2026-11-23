@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 15,
+  "gate2_fail": 11,
+  "passed": 21,
+  "gate2_samples": [
+    "Thyssenkrupp Nucera verfehlt Gewinnziel - Zusatzaufwand bei grünem Wasserstoff - TradingView",
+    "Cemex supply concrete for Silesian high-rise - Agg-Net",
+    "Heidelberg Materials Sees Europe Improve As US Pricing Cools - Finimize",
+    "Heidelberg Materials’ Agecroft site supplies quality-assured recycled sand for use in concrete - BDC",
+    "Heidelberg Materials secure BS EN 12620 for recycled sand - Agg-Net"
+  ]
+}
