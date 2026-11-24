@@ -1,0 +1,16 @@
+{
+  "total_raw": 282,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 16,
+  "gate2_fail": 6,
+  "passed": 24,
+  "gate2_samples": [
+    "thyssenkrupp’s Hydrogen Tender Boosts EU Green Steel Supply - Procurement Magazine",
+    "Liquid Energy Design and thyssenkrupp team up on e-methanol projects - ChemEngOnline",
+    "Thyssenkrupp Nucera Opens European Electrolyser Hub - Fuel Cells Works",
+    "Taiwan Cement Corporation Uses 3D Printing to Rebuild Turkey - SME & Entrepreneurship Magazine",
+    "Asia Cement (China) Holdings Corporation (0743.HK) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
