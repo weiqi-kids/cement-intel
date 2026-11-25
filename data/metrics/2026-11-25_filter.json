@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 15,
+  "gate2_fail": 13,
+  "passed": 33,
+  "gate2_samples": [
+    "Vulcan Materials Co (VMC.SG) Seasonal returns chart - Yahoo Finance UK",
+    "Vulcan Materials Company (0LRK.IL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Vulcan Materials Co (VMC.HA) cash flow - Yahoo Finance UK",
+    "Vulcan Materials Co. R (VMC.DE) Seasonal returns chart - Yahoo Finance UK",
+    "Vulcan Materials Co. R (VMC.DE) options chain - Yahoo Finance UK"
+  ]
+}

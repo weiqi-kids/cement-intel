@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-25",
+  "date_range": {
+    "start": "2026-11-19",
+    "end": "2026-11-25"
+  },
+  "generated_at": "2026-11-25T18:26:38.076246Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-11-19-003",
+      "date": "2026-11-19",
+      "title": "Power Cement posts record FY26 profit, export growth",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "guidance": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.12
+    },
+    "raw_material_energy_cost": {
+      "this_week": 9,
+      "last_week": 11,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.08
+    },
+    "earnings": {
+      "this_week": 40,
+      "last_week": 44,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity": {
+      "this_week": 19,
+      "last_week": 7,
+      "week_over_week_change": "+171%",
+      "sentiment_this_week": 0.1
+    },
+    "carbon_emissions": {
+      "this_week": 14,
+      "last_week": 15,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.04
+    },
+    "infrastructure_spending": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": -0.08
+    },
+    "capacity_consolidation": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "holcim": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "anhui_conch": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "vulcan": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "thyssenkrupp": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "heidelberg": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "asia_cement": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "ultratech": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "crh": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "taiwan_cement": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "taiheiyo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 109,
+        "change_pct": 14.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-19",
+      "event_count": 19,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 29,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 31,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-24",
+      "event_count": 26,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-25",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-19 ~ 2026-11-25）共 125 則事件，重點為「Power Cement posts record FY26 profit, export g...」。財報、產能、碳排放為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Holcim",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Vulcan Materials",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "蒂森克虜伯",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

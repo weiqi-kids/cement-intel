@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:26:37.979358Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-25-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "PPC moves forward with plans for new 1.5Mt/yr integrated cement plant in Zimbabwe",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.globalcement.com/news/21534-ppc-moves-forwards-with-plans-for-new-1-5mt-yr-integrated-cement-plant-in-zimbabwe"
+    },
+    {
+      "rank": 2,
+      "event_id": "vulcan-2026-11-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Company Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHlhSlBnTkZxbFI1eWhJaEdMY3VUcGxYdGRaSS1QUTJZVzFoaVFtalF6RUhkdC0zbTJTRm9aRVlOd3NicGV0YUlFelp4MVJ0TTJsZGdlajVzSGNlcWtyckljSlBxOGdxUkplYU5RazBkNWhFRW5LN1ljcG9Wb2xxVkhGMUtGQ2Y3SFBXMk14MHNJbE5PMURORXN3endKQ3lwLXRvYmNza0dlM2x1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "vulcan-2026-11-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vulcan Materials Co (VMC.HA) analyst ratings, estimates and forecasts - Yahoo Finance UK",
+      "companies": [
+        "vulcan"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UWHV3dDBQNm1iQk1HcVFmQ0p4NVRlNnpySVFzRWxwS3dZV0l4ZW1hRENfOGF6cnJFdGh2VmNDTVRyeW1XR2lwc0pHQ3FIWkJJcnkySTZGUDNIOEhERGFXcg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "thyssenkrupp-2026-11-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "thyssenkrupp Steel launches new hydrogen supply tender for Duisburg plant - EUROMETAL",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUlybFIwbHpUWG5LU1pMdkJTRXEwR0h4R0g0dnpoU1V0SVF0eEFPb19yZEZHQXBzbVdId2xGVlpIbkVnSThhQnc0N0NjekVzMHhxeHJSazRrVGI3R1ZtWnNhWjcxQ3dmamxEOTA1XzJwX0w0MmxUY0Y4RG9JcTRsQWduMDdzSHlCQ0xqaUhQbVRfdDdGMVVhU2xLWmo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "thyssenkrupp-2026-11-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Thyssenkrupp Steel Launches Hydrogen Tender for Duisburg DRI Plant] - Shanghai Metals Market",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXd2Wnl5VjZOU1lUSk5nT0ZMU2pSQ1I0cnFBMnV3RS1EUjRGU1BLM081RldNYTNjdlRGWlA2OE9NV3VodEJBeWxKV3N0QVRaYkQzT1pUMHhaQkZ2SExWZlFHSlBSZWN0c19KbW5XUGJ6eFBTYVJNY0RJWDA2Q2o0azNxV3llYXc4QkFFWlBaT0ZNU3BORlN6b0NGMnBwMVlxRWVET3Y4VE9TZ0JhUmIzb09VWFB4ejhKTDMwQkxma0ZGZnI4Sm9FQlkwMlVkMEgwR0lIcDE0bGQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "vulcan",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 3
+      },
+      {
+        "id": "heidelberg",
+        "count": 2
+      },
+      {
+        "id": "taiwan_cement",
+        "count": 1
+      },
+      {
+        "id": "ultratech",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 126,
+    "too_old": 120,
+    "gate1_blocked": 15,
+    "gate2_blocked": 13,
+    "passed": 33,
+    "pass_rate": "18.2%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Vulcan Materials Co (VMC.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Vulcan Materials Company (0LRK.IL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Vulcan Materials Co (VMC.HA) cash flow - Yahoo Finance UK",
+      "Vulcan Materials Co. R (VMC.DE) Seasonal returns chart - Yahoo Finance UK",
+      "Vulcan Materials Co. R (VMC.DE) options chain - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Vulcan Materials、蒂森克虜伯、海德堡材料相關動態：「PPC moves forward with plans for new 1.5Mt/yr integrated ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "PPC moves forward with plans for new 1.5Mt/yr integrated cement plant in Zimb...（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Vulcan Materials Company Stock: Is Wall Street Bullish or Bearish? - Barchart...（財報、庫存）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
