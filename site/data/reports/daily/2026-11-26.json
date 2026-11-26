@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:09:04.870674Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-26-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "【Universal Cement FY2026 Q3 Earnings Call】Gross Margin Surges to Record 27%, Tekscan Revenue Jumps 19-Fold; Taiwan's Universal Cement Holds EPS at NT$1.78 Despite Headwinds - finance.biggo.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Tb05sZ2loNW5qWkNPbHV6MFc5NkJzcVNjejNwalBnRlhDMzlwQThrWV9oU0FFWEllRUIteWE1UnI1Z2JXblBQNEhQTE5BdEZvMWtXbjRzU2F5SXppaWM4UmNn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thyssenkrupp-2026-11-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Liquid Energy Design, thyssenkrupp Partner for 200,000 TPA E-Methanol Push in Sweden - ChemAnalyst",
+      "companies": [
+        "thyssenkrupp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkhiZDNYbmZMMzdtblgyYzFqdi1rZ1FfMEcyZl9jQ3Y2NHBGaTdBV3pnT2hKSVVZa1JzYUFMRllsRUNXZGRBeU4zazNqcWtTRG1vNWJhbHBxaHVlb1Y2V0FjSmxnbWNvRFAwblBRamNESHVaYm9yeDhKbnhEVS1seDRNLWdnbi04T29EaUFYWXRzdDh0cDFYSWFIb0NhZmJpaXNKbExORkdnTDFWQk1YczM5N0pmUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "cemex-2026-11-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cemex supplies concrete for Silesia's tallest residential building - CemNet.com",
+      "companies": [
+        "cemex"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXEyUXZMZDJYZ1Q1SmItSjU4V3ZPMURKLTBaYnpRWExZX3ZadDZDdHZoSG85MVRMeFpjYVN4SjBpam1LNTRCYlBsQnhRdUM3bjk0U0h2dFh6c0Y0blE0RURHS2h4THJ2WHlldDZUWHU5SExaVTFEeXZ2NXBENkNuSU13S2lqX1pwQkhScDBiLWt0RS1HampJUnBtdDl5SE94YkMzNUlzME1CWWdGRmNRbGVn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "heidelberg-2026-11-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg Materials supplies in-situ carbon negative concrete containing ACLA for the first time in the UK - https://www.facilitiesmanagement-now.com/",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "carbon_emissions",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPRk9Wc1pHcmVoYnlfaHFseTN1Q2ZuZ1BVd2FfeUpwVG5HS2Q0WUZaSDUtSjY4T0ZCREdBc0RXN0NMRlp6OFNRNUlZYy10TlhVU3YwQ0lieDJQTEwtTXdpRl94WUJaRmxwSUpjNjNDNkFRNWNoRUZhdkdQVjZtdUE4REZCUFJoLXdRcUhxbC1paUdtX0V2QmUxWHZsekZnejdFNVdUZm9OUDdBNzdtUUFobENRZHkzOENGVUFsbmlxTDc0RzZkeVBjVlFWN01paXRwVEJGZFNWUzVFX1ZnSlY2aHBRX1VIQUgwM3NvRDM3VUd2cnhiZmhqTW9YVXUzZ2tnUnlRLUxhdEZZc1J5NXNBcnF1Mnl4TXo5Z0J3dTVFdy1UUFpJbXRJMFVpdW9HUnNKSXFObTRsWkY5a2ZEdHNfWHdIMHcyR0l0UXYxN2NxbHJ1aFY4T29hNjl6TkY5Ykx2MWtLV2pjNXRibllBcDY1WnEzYnAtWlRSUC0xaXhn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "heidelberg-2026-11-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heidelberg turns to Olympic Cement to expand in south - The Daily Star",
+      "companies": [
+        "heidelberg"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWd4TEVncEdjekhtMzFPNVQzNVVFaXdqc3FWcGs2NlZCRWtkYzlzOS1RZkxCR0VqMWY0MjNudDUyeXk3aWhLZFVOR280aEhIV0lIa1JsMWNtQ1hUQ2lNZ3VaU3psSXRDNF9BZ3hMcTJvbkNqVWIwa3c2MnJZWE13YzNncEFYYWh6Mno5aWxVZUN0eGN2dWw2U09UUzQzOGlsSEJyMUFtcVpkTFdvSy1F?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "carbon_emissions": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "raw_material_energy_cost": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "infrastructure_spending": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "taiwan_cement",
+        "count": 4
+      },
+      {
+        "id": "heidelberg",
+        "count": 3
+      },
+      {
+        "id": "thyssenkrupp",
+        "count": 2
+      },
+      {
+        "id": "cemex",
+        "count": 1
+      },
+      {
+        "id": "asia_cement",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "carbon_emissions",
+        "count": 5
+      },
+      {
+        "id": "raw_material_energy_cost",
+        "count": 4
+      },
+      {
+        "id": "infrastructure_spending",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 139,
+    "too_old": 112,
+    "gate1_blocked": 11,
+    "gate2_blocked": 18,
+    "passed": 28,
+    "pass_rate": "16.6%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Vulcan Materials Co (VMC.HA) recent insider transactions - Yahoo Finance UK",
+      "Vulcan Materials Co (VMC.HA) insider ownership and holdings - Yahoo Finance UK",
+      "Vulcan Materials Co (VMC.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Vulcan Materials Company (0LRK.IL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Vulcan Materials Co (VMC.HA) cash flow - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為台泥、海德堡材料、蒂森克虜伯相關動態：「【Universal Cement FY2026 Q3 Earnings Call】Gross Margin Su...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "【Universal Cement FY2026 Q3 Earnings Call】Gross Margin Surges to Record 27%, ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Liquid Energy Design, thyssenkrupp Partner for 200,000 TPA E-Methanol Push in...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "原料能源成本話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
