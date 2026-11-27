@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 13,
+  "gate2_fail": 14,
+  "passed": 25,
+  "gate2_samples": [
+    "US-based Vulcan Materials challenges Mexico ruling over arbitration claim - marketscreener.com",
+    "Vulcan Materials Co (VMC.HA) recent insider transactions - Yahoo Finance UK",
+    "Vulcan Materials Co (VMC.HA) insider ownership and holdings - Yahoo Finance UK",
+    "Vulcan Materials Co (VMC.SG) Seasonal returns chart - Yahoo Finance UK",
+    "Vulcan Materials Company (0LRK.IL) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+  ]
+}
